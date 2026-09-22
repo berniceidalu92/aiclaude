@@ -27,7 +27,26 @@
 </g>
 <circle cx="400" cy="400" r="388" fill="none" stroke="url(#gold)" stroke-width="10"/>
 <circle cx="400" cy="400" r="370" fill="none" stroke="#d4921a" stroke-width="2" opacity="0.7"/>
-<g filter="url(#shadow)"><ellipse cx="342" cy="182" rx="17" ry="22" transform="rotate(-25 342 182)" fill="url(#gold)"/><ellipse cx="378" cy="150" rx="17" ry="23" transform="rotate(-8 378 150)" fill="url(#gold)"/><ellipse cx="422" cy="150" rx="17" ry="23" transform="rotate(8 422 150)" fill="url(#gold)"/><ellipse cx="458" cy="182" rx="17" ry="22" transform="rotate(25 458 182)" fill="url(#gold)"/><path d="M400,196 C432,196 458,226 458,250 C458,272 438,276 422,270 C410,266 390,266 378,270 C362,276 342,272 342,250 C342,226 368,196 400,196 Z" fill="url(#gold)"/></g>
+<g filter="url(#shadow)"><g transform="translate(400,200) scale(1.08)">
+ <path d="M0.0,-94.0 Q6.8,-78.1 11.0,-69.1 Q22.0,-88.5 29.0,-89.4 Q30.6,-72.2 31.8,-62.4 Q48.3,-77.4 55.3,-76.0 Q51.4,-59.2 49.5,-49.5 Q69.8,-58.7 76.0,-55.3 Q67.2,-40.4 62.4,-31.8 Q84.5,-34.2 89.4,-29.0 Q76.4,-17.7 69.1,-11.0 Q91.0,-6.4 94.0,0.0 Q79.2,6.9 70.1,11.1 Q93.1,23.1 94.1,30.6 Q75.0,31.8 64.8,33.0 Q85.1,53.1 83.7,60.8 Q62.8,54.5 52.5,52.5 Q66.7,79.4 62.9,86.5 Q43.5,72.3 34.2,67.1 Q39.8,98.2 33.7,103.9 Q19.2,82.8 11.9,75.0 Q7.5,106.4 0.0,110.0 Q-7.3,84.7 -11.9,75.0 Q-25.5,102.8 -33.7,103.9 Q-32.9,77.7 -34.2,67.1 Q-54.9,88.0 -62.9,86.5 Q-54.5,62.8 -52.5,52.5 Q-76.8,64.5 -83.7,60.8 Q-69.8,42.0 -64.8,33.0 Q-89.0,36.0 -94.1,30.6 Q-77.4,17.9 -70.1,11.1 Q-91.0,6.4 -94.0,0.0 Q-78.1,-6.8 -69.1,-11.0 Q-88.5,-22.0 -89.4,-29.0 Q-72.2,-30.6 -62.4,-31.8 Q-77.4,-48.3 -76.0,-55.3 Q-59.2,-51.4 -49.5,-49.5 Q-58.7,-69.8 -55.3,-76.0 Q-40.4,-67.2 -31.8,-62.4 Q-34.2,-84.5 -29.0,-89.4 Q-17.7,-76.4 -11.0,-69.1 Q-6.4,-91.0 0.0,-94.0 Z" fill="url(#gold)" stroke="#1a0d04" stroke-width="3" stroke-linejoin="round"/>
+ <circle r="66" fill="#1a0d04"/>
+ <circle cx="-40" cy="-50" r="15" fill="url(#gold)" stroke="#1a0d04" stroke-width="3"/>
+ <circle cx="40" cy="-50" r="15" fill="url(#gold)" stroke="#1a0d04" stroke-width="3"/>
+ <ellipse cx="-40" cy="-49" rx="7" ry="8" fill="#1a0d04"/><ellipse cx="40" cy="-49" rx="7" ry="8" fill="#1a0d04"/>
+ <path d="M0,-58 C28,-58 50,-44 54,-18 C58,6 48,24 36,40 C28,54 16,66 0,68 C-16,66 -28,54 -36,40 C-48,24 -58,6 -54,-18 C-50,-44 -28,-58 0,-58 Z" fill="url(#gold)" stroke="#1a0d04" stroke-width="3"/>
+ <g fill="#1a0d04">
+  <path d="M-36,-11 Q-23,-23 -9,-10 Q-23,-3 -36,-11 Z"/><path d="M36,-11 Q23,-23 9,-10 Q23,-3 36,-11 Z"/>
+  <path d="M-17,18 L17,18 Q15,32 0,37 Q-15,32 -17,18 Z"/>
+ </g>
+ <circle cx="-22" cy="-12" r="2.6" fill="#ffd35a"/><circle cx="22" cy="-12" r="2.6" fill="#ffd35a"/>
+ <g fill="none" stroke="#1a0d04" stroke-width="4" stroke-linecap="round">
+  <path d="M-42,-23 Q-26,-34 -8,-24"/><path d="M42,-23 Q26,-34 8,-24"/>
+  <path d="M-8,-20 L-11,16"/><path d="M8,-20 L11,16"/>
+  <path d="M0,37 V46 M0,46 Q-11,57 -24,50 M0,46 Q11,57 24,50"/>
+  <path d="M-10,61 Q0,65 10,61"/>
+ </g>
+ <g fill="#1a0d04"><circle cx="-18" cy="42" r="1.8"/><circle cx="-26" cy="38" r="1.8"/><circle cx="18" cy="42" r="1.8"/><circle cx="26" cy="38" r="1.8"/></g>
+</g></g>
 <g font-family="Oswald, 'Bebas Neue', Impact, 'Arial Narrow', sans-serif" style="font-family:Oswald,'Liberation Sans',Arial,sans-serif" text-anchor="middle" filter="url(#shadow)">
  <text transform="translate(400,592) scale(0.78,1)" font-size="64" font-weight="700" letter-spacing="16" fill="#ffffff">NATURE'S</text>
  <text transform="translate(400,690) scale(0.72,1)" font-size="118" font-weight="700" letter-spacing="6" fill="url(#gold)" stroke="#5a3606" stroke-width="1.5">COLISEUM</text>
