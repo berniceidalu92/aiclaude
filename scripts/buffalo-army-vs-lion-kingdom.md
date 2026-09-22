@@ -1,7 +1,5 @@
 # Buffalo Army vs. the Lion Kingdom — Script
 
-[ACT 1 — DRY PLAINS, DAWN]
-
 On the scorched floodplains of East Africa, dawn arrives without mercy. For eight long months, not a single drop of rain has fallen. The grass has withered to brittle straw, the waterholes have cracked into dust, and the great black herd of Cape buffalo is running out of time. Nearly six hundred strong, they are a moving wall of horn and muscle. Yet even an army this vast cannot fight the sky.
 
 At the edge of the herd, something small stirs in the dry grass. A newborn calf, barely an hour old, struggles to rise on trembling legs. Its mother stands over it, licking away the dust, nudging it gently upward. It falls. It rises again. It falls once more. Every attempt burns strength the tiny creature simply does not have to spare.
@@ -9,8 +7,6 @@ At the edge of the herd, something small stirs in the dry grass. A newborn calf,
 This calf has arrived at the worst possible moment. The herd cannot wait. Hunger is already pulling the leaders forward, toward the distant green line of a river that still flows somewhere beyond the horizon. To stay behind means certain death. To follow means a brutal march across open, exposed ground.
 
 On its fourth attempt, the calf finally stands. Wobbling, blinking against the harsh light, it presses close to its mother's side. She lowers her heavy head and lets out a deep, rumbling call. The journey begins.
-
-[SFX]
 
 For hours, the black army marches through a shimmering haze of heat. The calf stumbles constantly, falling further behind with every mile. Its mother slows her pace to match, drifting steadily toward the ragged back edge of the herd. It is a quiet, dangerous sacrifice. In the wild, the rear of the column is exactly where the weak are found.
 
@@ -20,8 +16,6 @@ High above, a lone vulture circles. Then a second joins it. Then a third. Scaven
 
 Far across the plain, hidden in the long golden grass, something else is watching the herd as well. Something that has been starving for just as long.
 
-[ACT 2 — LION GROUND]
-
 The land ahead belongs to a pride of lions. Eleven hunters strong, this is one of the most feared families on the entire floodplain. The drought has been brutal to them too. Their ribs show through their tawny coats. Their cubs cry through the night. And now, marching straight into the heart of their territory, comes the answer to their hunger.
 
 The lionesses move first. Low to the ground, silent as smoke, they spread out in a wide, deliberate arc. They have no interest in the powerful bulls at the front. Their golden eyes slide past the giants and settle on the very back of the column. On the slow ones. On the young.
@@ -29,8 +23,6 @@ The lionesses move first. Low to the ground, silent as smoke, they spread out in
 A sudden gust of wind shifts direction. Deep in the herd, an old bull lifts his head and freezes. He catches the scent. In an instant, the alarm spreads through six hundred bodies like wildfire.
 
 The herd erupts into motion.
-
-[SFX]
 
 Dust explodes into the air as hundreds of heavy hooves pound the dry earth. The lionesses burst from the grass, sprinting straight into the chaos. This is exactly what they wanted. A calm herd is a fortress. A panicking herd is a crowd.
 
@@ -50,8 +42,6 @@ She turns and runs.
 
 Behind her, the golden hunters drag their tiny prize toward the shade of a lone acacia tree. But the calf is not dead. Pinned beneath a lioness, it lets out a thin, desperate cry. The pride has what it came for. Or so it believes.
 
-[ACT 3 — RIVER CROSSING]
-
 The terrified herd reaches the river in a thundering black wave. There is no pause at the water's edge, no careful testing of the current. The lions are behind them. The only way out is forward. The leaders plunge straight into the brown, churning water, and hundreds more follow in a single desperate surge.
 
 For a moment, it seems the river might save them.
@@ -59,8 +49,6 @@ For a moment, it seems the river might save them.
 But this water has its own rulers. Beneath the surface, lying motionless in the mud, wait the ancient ambushers of Africa's rivers. Nile crocodiles. Dozens of them. They have waited for months for exactly this. The drought that starved the herd has fed the river's predators. Every animal on the plain must eventually come here to drink, and every crossing is a gamble.
 
 The first strike comes without warning.
-
-[SFX]
 
 The water bursts apart as a massive crocodile launches itself upward, jaws wide, seizing a young female by the snout. She bellows and thrashes, kicking wildly against the current. Other buffalo crash around her, desperate to reach the far bank. The river becomes a boiling mess of horns, hooves and panic.
 
@@ -78,8 +66,6 @@ The mother stands alone at the water's edge. Her calf's cry still echoes somewhe
 
 She is not the only one who has noticed the commotion at the river.
 
-[ACT 4 — HIPPO POOL]
-
 Just downstream, in a deep, slow-moving pool, the river's true owners are waking up. A pod of hippos. Thirty of them, crammed into the last deep water left for miles. The drought has squeezed them into an ever-shrinking space, and it has made them furious. Every ripple is an insult. Every intruder is an enemy.
 
 The fleeing herd has already brushed the edge of their territory. A few stragglers, disoriented and panicking, have stumbled straight into the shallows of the hippo pool.
@@ -87,8 +73,6 @@ The fleeing herd has already brushed the edge of their territory. A few straggle
 It is a catastrophic mistake.
 
 The water heaves. A massive bull hippo rises from the depths like a surfacing submarine, mouth gaping to reveal enormous, curved tusks. He lets out a deafening, bone-shaking roar. Then he charges.
-
-[SFX]
 
 Few animals on Earth are as dangerous as an angry hippo. Weighing more than three tons, these grey tanks can outrun a human on land and overturn a boat in the water. The buffalo in the shallows scatter in terror as the enraged giant ploughs through them, sending a young bull flying sideways into the mud.
 
@@ -106,8 +90,6 @@ Upstream, the lions have reached the water's edge. Two lionesses have dragged th
 
 And above them, the sky has turned the color of a bruise.
 
-[ACT 5 — FLASH FLOOD]
-
 Far to the north, beyond the horizon, the drought has finally broken. For months, the plains have begged for rain. Now it arrives all at once, in a violent storm that pours over the highlands. Every drop of it is racing downhill, toward this river.
 
 Here on the plains, nothing has changed yet. The air is still. The sun still burns. Not one animal on the riverbank has any idea what is coming.
@@ -117,8 +99,6 @@ Just hours ago, a newborn calf took its first steps. Since then, it has been hun
 The first sign is a sound. A low, distant rumble, like thunder rolling along the ground.
 
 The lionesses lift their heads.
-
-[SFX]
 
 Around the bend, a wall of brown water appears. It carries uprooted trees, broken branches and tons of churning mud. The flash flood slams into the riverbed with unstoppable force, swallowing the banks in seconds.
 
@@ -140,8 +120,6 @@ Without hesitation, she runs along the riverbank, chasing the tiny figure as it 
 
 From the far shore, the herd watches in silence. For now, they do not move.
 
-[ACT 6 — MUDBANKS AT DUSK]
-
 Miles downstream, the flood finally begins to lose its fury. Where the river widens, the water spreads across a vast plain of thick black mud. As the sun sinks toward the horizon, the torrent slows to a crawl, dumping everything it has carried onto the soft banks.
 
 Uprooted trees. Tangled branches. And one tiny, exhausted buffalo calf.
@@ -151,8 +129,6 @@ It washes up at the edge of the mudbank, coughing and shivering. It tries to sta
 And it is not alone.
 
 A few hundred meters away, the surviving lioness drags herself from the water. She is soaked, battered and limping badly on one front leg. The flood has stolen her hunt and nearly stolen her life. But her hunger is stronger than her pain. She raises her head, tastes the air, and locks onto the calf.
-
-[SFX]
 
 Slowly, painfully, she begins to limp across the mud toward her prize.
 
@@ -178,8 +154,6 @@ Then, across the darkening plain, a sound cuts through the chaos.
 
 A deep, rumbling bellow.
 
-[ACT 7 — THE COUNTER-CHARGE]
-
 The mother has found her calf.
 
 She bursts from the grass at full speed, mud flying from her hooves, horns lowered like twin battering rams. She does not slow down. She does not hesitate. She smashes straight into the nearest hyena, launching it through the air.
@@ -189,8 +163,6 @@ The clan scatters in surprise. But hyenas are not easily frightened. Within mome
 Now she is fighting on two fronts. Alone and outnumbered, just as she was at the start of this endless day.
 
 She plants herself over her calf and refuses to move.
-
-[SFX]
 
 But across the river, something is happening.
 
