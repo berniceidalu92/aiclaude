@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 800" width="800" height="800">
+<defs>
+ <linearGradient id="sky" x1="0" y1="0" x2="0" y2="1">
+  <stop offset="0" stop-color="#0d0906"/><stop offset="0.32" stop-color="#3a160a"/>
+  <stop offset="0.52" stop-color="#b8480f"/><stop offset="0.63" stop-color="#f7a11f"/>
+  <stop offset="0.64" stop-color="#0a0705"/><stop offset="1" stop-color="#050403"/>
+ </linearGradient>
+ <radialGradient id="sun" cx="0.5" cy="0.5" r="0.5">
+  <stop offset="0" stop-color="#fff1b8"/><stop offset="0.35" stop-color="#ffc23d" stop-opacity="0.95"/>
+  <stop offset="1" stop-color="#f28a12" stop-opacity="0"/>
+ </radialGradient>
+ <linearGradient id="gold" x1="0" y1="0" x2="0" y2="1">
+  <stop offset="0" stop-color="#ffe7a0"/><stop offset="0.45" stop-color="#f2b930"/>
+  <stop offset="0.55" stop-color="#d4921a"/><stop offset="1" stop-color="#8f5a0c"/>
+ </linearGradient>
+ <mask id="arena"><path d="M170,500 V334 H470 L490,346 L505,338 L520,356 L540,352 L556,372 L580,368 L600,392 L630,400 V500 Z" fill="white"/><path d="M179.2,494 V451.7 A11.7,11.7 0 0 1 202.6,451.7 V494 Z" fill="black"/><path d="M221.0,494 V451.7 A11.7,11.7 0 0 1 244.4,451.7 V494 Z" fill="black"/><path d="M262.8,494 V451.7 A11.7,11.7 0 0 1 286.3,451.7 V494 Z" fill="black"/><path d="M304.7,494 V451.7 A11.7,11.7 0 0 1 328.1,451.7 V494 Z" fill="black"/><path d="M346.5,494 V451.7 A11.7,11.7 0 0 1 369.9,451.7 V494 Z" fill="black"/><path d="M388.3,494 V451.7 A11.7,11.7 0 0 1 411.7,451.7 V494 Z" fill="black"/><path d="M430.1,494 V451.7 A11.7,11.7 0 0 1 453.5,451.7 V494 Z" fill="black"/><path d="M471.9,494 V451.7 A11.7,11.7 0 0 1 495.3,451.7 V494 Z" fill="black"/><path d="M513.7,494 V451.7 A11.7,11.7 0 0 1 537.2,451.7 V494 Z" fill="black"/><path d="M555.6,494 V451.7 A11.7,11.7 0 0 1 579.0,451.7 V494 Z" fill="black"/><path d="M597.4,494 V451.7 A11.7,11.7 0 0 1 620.8,451.7 V494 Z" fill="black"/><path d="M179.2,424 V393.7 A11.7,11.7 0 0 1 202.6,393.7 V424 Z" fill="black"/><path d="M221.0,424 V393.7 A11.7,11.7 0 0 1 244.4,393.7 V424 Z" fill="black"/><path d="M262.8,424 V393.7 A11.7,11.7 0 0 1 286.3,393.7 V424 Z" fill="black"/><path d="M304.7,424 V393.7 A11.7,11.7 0 0 1 328.1,393.7 V424 Z" fill="black"/><path d="M346.5,424 V393.7 A11.7,11.7 0 0 1 369.9,393.7 V424 Z" fill="black"/><path d="M388.3,424 V393.7 A11.7,11.7 0 0 1 411.7,393.7 V424 Z" fill="black"/><path d="M430.1,424 V393.7 A11.7,11.7 0 0 1 453.5,393.7 V424 Z" fill="black"/><path d="M471.9,424 V393.7 A11.7,11.7 0 0 1 495.3,393.7 V424 Z" fill="black"/><path d="M513.7,424 V393.7 A11.7,11.7 0 0 1 537.2,393.7 V424 Z" fill="black"/><path d="M555.6,424 V393.7 A11.7,11.7 0 0 1 579.0,393.7 V424 Z" fill="black"/><path d="M597.4,424 V393.7 A11.7,11.7 0 0 1 620.8,393.7 V424 Z" fill="black"/><rect x="188" y="344" width="10" height="16" rx="2" fill="black"/><rect x="222" y="344" width="10" height="16" rx="2" fill="black"/><rect x="256" y="344" width="10" height="16" rx="2" fill="black"/><rect x="290" y="344" width="10" height="16" rx="2" fill="black"/><rect x="324" y="344" width="10" height="16" rx="2" fill="black"/><rect x="358" y="344" width="10" height="16" rx="2" fill="black"/><rect x="392" y="344" width="10" height="16" rx="2" fill="black"/><rect x="426" y="344" width="10" height="16" rx="2" fill="black"/><rect x="460" y="344" width="10" height="16" rx="2" fill="black"/></mask>
+ <clipPath id="disc"><circle cx="400" cy="400" r="384"/></clipPath>
+ <filter id="shadow"><feDropShadow dx="0" dy="3" stdDeviation="3" flood-color="#000" flood-opacity="0.8"/></filter>
+</defs>
+<circle cx="400" cy="400" r="400" fill="#050403"/>
+<g clip-path="url(#disc)">
+ <rect width="800" height="800" fill="url(#sky)"/>
+ <circle cx="400" cy="470" r="190" fill="url(#sun)"/>
+ <rect x="170" y="330" width="460" height="175" fill="#0a0604" mask="url(#arena)"/>
+ <rect x="0" y="500" width="800" height="6" fill="#0a0604"/>
+ <path d="M0,506 Q400,488 800,506 V800 H0 Z" fill="#070504"/>
+</g>
+<circle cx="400" cy="400" r="388" fill="none" stroke="url(#gold)" stroke-width="10"/>
+<circle cx="400" cy="400" r="370" fill="none" stroke="#d4921a" stroke-width="2" opacity="0.7"/>
+<g filter="url(#shadow)"><ellipse cx="342" cy="182" rx="17" ry="22" transform="rotate(-25 342 182)" fill="url(#gold)"/><ellipse cx="378" cy="150" rx="17" ry="23" transform="rotate(-8 378 150)" fill="url(#gold)"/><ellipse cx="422" cy="150" rx="17" ry="23" transform="rotate(8 422 150)" fill="url(#gold)"/><ellipse cx="458" cy="182" rx="17" ry="22" transform="rotate(25 458 182)" fill="url(#gold)"/><path d="M400,196 C432,196 458,226 458,250 C458,272 438,276 422,270 C410,266 390,266 378,270 C362,276 342,272 342,250 C342,226 368,196 400,196 Z" fill="url(#gold)"/></g>
+<g font-family="Oswald, 'Bebas Neue', Impact, 'Arial Narrow', sans-serif" style="font-family:Oswald,'Liberation Sans',Arial,sans-serif" text-anchor="middle" filter="url(#shadow)">
+ <text transform="translate(400,592) scale(0.78,1)" font-size="64" font-weight="700" letter-spacing="16" fill="#ffffff">NATURE'S</text>
+ <text transform="translate(400,690) scale(0.72,1)" font-size="118" font-weight="700" letter-spacing="6" fill="url(#gold)" stroke="#5a3606" stroke-width="1.5">COLISEUM</text>
+</g>
+<g stroke="url(#gold)" stroke-width="3"><line x1="210" y1="610" x2="330" y2="610"/><line x1="470" y1="610" x2="590" y2="610"/></g>
+</svg>
