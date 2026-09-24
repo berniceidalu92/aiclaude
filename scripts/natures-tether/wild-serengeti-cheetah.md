@@ -2,17 +2,17 @@
 
 She is the fastest animal that has ever run on land.
 
-From a standing start, she can reach highway speed in three seconds.
+From a standing start, she can reach highway speed in three seconds. Nothing on these plains can outrun her.
 
 And yet she goes to sleep hungry more often than any hunter on the Serengeti.
 
 Because for her, catching is the easy part. Keeping is not.
 
-On the open grass, a mother cheetah stands over a gazelle she has just brought down, her sides heaving, too exhausted to eat. And across the plain, a hyena is already walking toward her. Not running. Walking. It knows it does not need to hurry.
+Out on the open grass, a mother cheetah stands over a gazelle she has just brought down, her sides heaving, too exhausted to eat. And across the plain, a hyena is already walking toward her. Not running. Walking. It knows it does not need to hurry.
 
-Three hidden cubs are waiting for this meal. And she is about to lose it.
+Three hidden cubs are waiting for this meal. She is about to lose it.
 
-And before this story is over, the fastest cat alive will face the one moment when running away is not an option. A lioness walking toward the grass where her cubs lie hidden. And a mother whose only way to save them is to run straight at the danger.
+And before this story is over, the fastest cat on Earth will face the one moment when running away is not an option. A lioness walking toward the grass where her cubs lie hidden. And a mother whose only way to save them is to run straight at the danger.
 
 So how does the fastest hunter on Earth survive, when she cannot hold on to what she catches?
 
