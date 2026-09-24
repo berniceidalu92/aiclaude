@@ -162,7 +162,7 @@ And then, from beneath a tangle of thorn bush, a small silver head pushes out. F
 
 All three are safe.
 
-For years, Asha's speed has been the reason she loses. Tonight, it was the reason she won. Not by taking something, but by leading danger away.
+For weeks, Asha's speed has been the reason she loses. Tonight, it was the reason she won. Not by taking something, but by leading danger away.
 
 Perhaps the creator never meant her speed to be a weapon at all. Perhaps it was always meant to be a shield. A gift for escaping, not for holding on. A way to give something up and still come home.
 
