@@ -18,8 +18,6 @@ This is the story of a mother built for speed, in a world that rewards strength.
 
 Wild Serengeti. The fastest cat that loses every meal.
 
-Chapter 1: The Plains of Endless Grass
-
 The Serengeti. Nearly fifteen thousand square miles of open grassland in Tanzania, rolling to the horizon in every direction.
 
 It is one of the richest hunting grounds on the planet. Gazelles graze in their thousands. Wildebeest and zebra move through in rivers of hooves.
@@ -35,8 +33,6 @@ For a lion or a hyena, the open plains are a kingdom.
 For a cheetah, they are a gauntlet.
 
 Out here, there is nowhere to hide a meal, and nowhere to hide a family.
-
-Chapter 2: Asha's Burden
 
 This is Asha.
 
@@ -57,8 +53,6 @@ Maybe that is the strangest design of all. The creator made her the fastest runn
 So can a mother who cannot keep her meals keep three cubs alive on the most dangerous plains in Africa?
 
 Stay with Asha, and see how she answers that question.
-
-Chapter 3: The Perfect Chase
 
 Morning on the plains. Asha climbs onto a termite mound and scans the grass.
 
@@ -90,8 +84,6 @@ She has won the race.
 
 Now she has to survive what comes after it.
 
-Chapter 4: The Thieves of the Plains
-
 Asha is still catching her breath when she hears it. A low whoop, carried on the wind.
 
 The hyena does not charge. It simply walks up, head swinging, eyes locked on the gazelle.
@@ -119,8 +111,6 @@ In the grass, her cubs cry when she comes back with nothing.
 Day by day, the hunger deepens.
 
 And the plains are about to test her in the one way that matters most.
-
-Chapter 5: The Lions at the Den
 
 Late in the afternoon, Asha returns from another failed hunt. Her cubs rise from the grass to greet her.
 
@@ -166,8 +156,6 @@ For weeks, Asha's speed has been the reason she loses. Tonight, it was the reaso
 
 Perhaps the creator never meant her speed to be a weapon at all. Perhaps it was always meant to be a shield. A gift for escaping, not for holding on. A way to give something up and still come home.
 
-Chapter 6: Hunting in the Heat
-
 In the weeks that follow, Asha changes how she lives.
 
 She moves her cubs to a new hiding place every few days, so no predator can learn where they sleep.
@@ -187,8 +175,6 @@ One afternoon, Asha brings back a young gazelle that is still alive and lets it 
 One day, they too will be the fastest animals on land.
 
 And they are learning, from her, the harder lesson. When to run after something. And when to walk away from it.
-
-Chapter 7: Why the Fastest Must Survive
 
 So how does the fastest hunter on Earth survive, when she cannot hold on to what she catches?
 
