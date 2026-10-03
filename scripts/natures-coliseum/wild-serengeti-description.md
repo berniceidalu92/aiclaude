@@ -25,8 +25,8 @@ Follow Asha through perfect chases and bitter losses, to the moment a lioness wa
 
 🌍 Cheetahs have vanished from most of the land they once ran across. Their greatest threat is not the lion or the hyena. It is the loss of the wide, open spaces they need to run. Protecting open land means protecting the fastest runner on Earth.
 
-If Asha's journey stayed with you, subscribe to Nature's Tether for cinematic wildlife stories every week. Tell us in the comments: what surprised you most about the cheetah?
+If Asha's journey stayed with you, subscribe to Nature's Coliseum for cinematic wildlife stories every week. Tell us in the comments: what surprised you most about the cheetah?
 
 Note: This film is a narrative wildlife story. Some scenes are dramatized and created with AI to illustrate real cheetah behavior.
 
-#NaturesTether #WildSerengeti #Cheetah #WildlifeDocumentary #NatureDocumentary #Serengeti #WildAnimals #AnimalStories #BigCats #WildlifeSurvival
+#NaturesColiseum #WildSerengeti #Cheetah #WildlifeDocumentary #NatureDocumentary #Serengeti #WildAnimals #AnimalStories #BigCats #WildlifeSurvival
