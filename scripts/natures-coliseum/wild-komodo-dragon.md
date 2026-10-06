@@ -164,6 +164,22 @@ High above, Kecil is hunting too.
 
 She creeps along a branch toward a gecko pressed against the bark. She freezes. She waits, exactly as the giants below her do. Then she snaps it up in a single bite.
 
+But the trees are not as safe as they seem.
+
+A shadow sweeps across the branch.
+
+Overhead, a snake eagle is circling, scanning the canopy for exactly this. A small lizard, out in the open.
+
+Kecil sees the shadow and flattens herself against the bark. She does not move. She barely breathes.
+
+The eagle drops lower. It lands on a branch just above her, head tilting, searching the leaves.
+
+For a long, terrible moment, the hunter and the hidden dragon are almost close enough to touch.
+
+Then a gust of wind shakes the canopy. The leaves close over her. And the eagle lifts off, empty-taloned, and drifts away over the valley.
+
+On this island, danger comes from below. And from above.
+
 Patience is the first lesson every dragon learns. Even the smallest ones.
 
 Twice, the lead bull turns and charges him. Twice, Naga slips away into the grass and returns as soon as the bull has gone.
@@ -310,11 +326,35 @@ Then he turns back to the buffalo and begins to feed.
 
 Kecil darts in, tears away a small scrap, and scrambles back up into the mangrove roots, where she eats in safety, high above the giant below.
 
+But the feast is not over. And neither is the danger.
+
+The smell of the carcass is now drifting across the whole island.
+
+One by one, more dragons emerge from the mangroves. The three that waited all night at the waterhole. Then two more. Then another.
+
+They gather around the buffalo in a tightening ring, hissing, tongues flicking, each one waiting for its chance.
+
+On this island, the feeding has rules. The biggest dragon eats first. The others wait their turn, and any that push in too soon risk a bite from the giant.
+
+One young male tests those rules. He lunges for the carcass from the far side. Naga swings his head and drives him back with a hiss that echoes across the mud.
+
+No one tries again.
+
+High above, Kecil watches the ring of dragons below her grow larger and larger. Every one of them could swallow her whole.
+
+One of them stops beneath her root. It lifts its head. Its tongue flicks upward, toward the mud still drying on her skin.
+
+Kecil does not move. She does not come down.
+
+After a long moment, the dragon loses interest and turns back to the feast.
+
+She waits, exactly as she has learned to wait.
+
 Naga eats for hours.
 
 A Komodo dragon can swallow up to eighty percent of its own body weight in a single meal. Its jaws can open wide enough to swallow huge chunks whole. After a feast like this, it may not need to eat again for weeks.
 
-When he finally stops, he climbs onto a sunny bank above the mangroves and lies still, letting the morning warmth spread through his body.
+When he finally stops, the waiting dragons rush in to take their share. Naga climbs onto a sunny bank above the mangroves and lies still, letting the morning warmth spread through his body.
 
 The wound on his side will heal. The scars will join the others.
 

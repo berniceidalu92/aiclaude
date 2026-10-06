@@ -499,6 +499,54 @@ Environment Motion: Bark flakes fall
 Duration: 10 seconds
 
 **Beat 63**
+[Script Segment Text]: "But the trees are not as safe as they seem. A shadow sweeps across the branch. Overhead, a snake eagle is circling,"
+Video Prompt: A small young Komodo dragon about a year old, slender and speckled with bright yellow and green bands lies on a high branch on Rinca island, Indonesia, among steep sunburnt hills, dry golden grass and scattered lontar palms as the dark shadow of a large bird sweeps across the bark beside it. Over 10 seconds, the shadow passes over the branch; leaves flicker in the light. Camera movement: Slow push-in. Lighting: low golden morning sunlight, warm backlit rim light on scales and grass, soft tropical haze. Mood: false safety. Visual style: photorealistic cinematic wildlife documentary, premium nature-film look, 16:9 widescreen, warm honey-gold grade, long telephoto compression, very shallow depth of field with creamy bokeh, ultra-fine micro-detail, realistic animal anatomy and locomotion, natural physics, smooth cinematic motion, no text, no logos, no music, no human presence, no gore.
+Camera Movement: Slow push-in
+Subject Motion: The shadow passes over the branch
+Environment Motion: Leaves flicker in the light
+Duration: 10 seconds
+
+**Beat 64**
+[Script Segment Text]: "scanning the canopy for exactly this. A small lizard, out in the open. Kecil sees the shadow and flattens herself against the bark."
+Video Prompt: A short-toed snake eagle with pale barred underparts, broad wings and piercing yellow eyes circling high above a tree canopy on Rinca island, Indonesia, among steep sunburnt hills, dry golden grass and scattered lontar palms, wings spread against a pale sky. Over 10 seconds, the eagle circles and scans; light glints on its feathers. Camera movement: Slow tilt following the eagle. Lighting: low golden morning sunlight, warm backlit rim light on scales and grass, soft tropical haze. Mood: threat from above. Visual style: photorealistic cinematic wildlife documentary, premium nature-film look, 16:9 widescreen, warm honey-gold grade, long telephoto compression, very shallow depth of field with creamy bokeh, ultra-fine micro-detail, realistic animal anatomy and locomotion, natural physics, smooth cinematic motion, no text, no logos, no music, no human presence, no gore.
+Camera Movement: Slow tilt following the eagle
+Subject Motion: The eagle circles and scans
+Environment Motion: Light glints on its feathers
+Duration: 10 seconds
+
+**Beat 65**
+[Script Segment Text]: "She does not move. She barely breathes. The eagle drops lower. It lands on a branch just above her, head tilting,"
+Video Prompt: Extreme close-up of a small young Komodo dragon about a year old, slender and speckled with bright yellow and green bands pressed flat against the bark, eye wide, barely breathing. Over 10 seconds, the young dragon stays frozen; dappled light trembles. Camera movement: Imperceptible push-in. Lighting: low golden morning sunlight, warm backlit rim light on scales and grass, soft tropical haze. Mood: frozen fear. Visual style: photorealistic cinematic wildlife documentary, premium nature-film look, 16:9 widescreen, warm honey-gold grade, long telephoto compression, very shallow depth of field with creamy bokeh, ultra-fine micro-detail, realistic animal anatomy and locomotion, natural physics, smooth cinematic motion, no text, no logos, no music, no human presence, no gore.
+Camera Movement: Imperceptible push-in
+Subject Motion: The young dragon stays frozen
+Environment Motion: Dappled light trembles
+Duration: 10 seconds
+
+**Beat 66**
+[Script Segment Text]: "searching the leaves. For a long, terrible moment, the hunter and the hidden dragon are almost close enough to touch."
+Video Prompt: A short-toed snake eagle with pale barred underparts, broad wings and piercing yellow eyes perched on a branch just above a small young Komodo dragon about a year old, slender and speckled with bright yellow and green bands hidden among leaves on Rinca island, Indonesia, among steep sunburnt hills, dry golden grass and scattered lontar palms, head tilted, searching. Over 10 seconds, the eagle tilts its head and searches; leaves shift. Camera movement: Slow rack focus from the eagle to the young dragon. Lighting: low golden morning sunlight, warm backlit rim light on scales and grass, soft tropical haze. Mood: inches away. Visual style: photorealistic cinematic wildlife documentary, premium nature-film look, 16:9 widescreen, warm honey-gold grade, long telephoto compression, very shallow depth of field with creamy bokeh, ultra-fine micro-detail, realistic animal anatomy and locomotion, natural physics, smooth cinematic motion, no text, no logos, no music, no human presence, no gore.
+Camera Movement: Slow rack focus from the eagle to the young dragon
+Subject Motion: The eagle tilts its head and searches
+Environment Motion: Leaves shift
+Duration: 10 seconds
+
+**Beat 67**
+[Script Segment Text]: "Then a gust of wind shakes the canopy. The leaves close over her. And the eagle lifts off,"
+Video Prompt: A gust of wind shakes a tree canopy on Rinca island, Indonesia, among steep sunburnt hills, dry golden grass and scattered lontar palms, leaves closing over a small young Komodo dragon about a year old, slender and speckled with bright yellow and green bands as a short-toed snake eagle with pale barred underparts, broad wings and piercing yellow eyes spreads its wings to leave. Over 10 seconds, leaves sway and the eagle lifts off; wind ripples the canopy. Camera movement: Slow push-in. Lighting: low golden morning sunlight, warm backlit rim light on scales and grass, soft tropical haze. Mood: saved by the wind. Visual style: photorealistic cinematic wildlife documentary, premium nature-film look, 16:9 widescreen, warm honey-gold grade, long telephoto compression, very shallow depth of field with creamy bokeh, ultra-fine micro-detail, realistic animal anatomy and locomotion, natural physics, smooth cinematic motion, no text, no logos, no music, no human presence, no gore.
+Camera Movement: Slow push-in
+Subject Motion: Leaves sway and the eagle lifts off
+Environment Motion: Wind ripples the canopy
+Duration: 10 seconds
+
+**Beat 68**
+[Script Segment Text]: "empty-taloned, and drifts away over the valley. On this island, danger comes from below. And from above."
+Video Prompt: A short-toed snake eagle with pale barred underparts, broad wings and piercing yellow eyes glides away over a sunlit valley on Rinca island, Indonesia, among steep sunburnt hills, dry golden grass and scattered lontar palms, while far below a Komodo dragon walks along the valley floor. Over 10 seconds, the eagle drifts away as the dragon walks below; haze glows over the valley. Camera movement: Slow tilt down from the eagle to the dragon. Lighting: low golden morning sunlight, warm backlit rim light on scales and grass, soft tropical haze. Mood: danger above and below. Visual style: photorealistic cinematic wildlife documentary, premium nature-film look, 16:9 widescreen, warm honey-gold grade, long telephoto compression, very shallow depth of field with creamy bokeh, ultra-fine micro-detail, realistic animal anatomy and locomotion, natural physics, smooth cinematic motion, no text, no logos, no music, no human presence, no gore.
+Camera Movement: Slow tilt down from the eagle to the dragon
+Subject Motion: The eagle drifts away as the dragon walks below
+Environment Motion: Haze glows over the valley
+Duration: 10 seconds
+
+**Beat 69**
 [Script Segment Text]: "Patience is the first lesson every dragon learns. Even the smallest ones. Twice, the lead bull turns and charges him."
 Video Prompt: A bull water buffalo charges at a massive adult male Komodo dragon with grey-brown armoured scaly skin covered in old scars, a heavy muscular body, curved hooked claws and a long yellow forked tongue through tall grass on Rinca island, Indonesia, among steep sunburnt hills, dry golden grass and scattered lontar palms. Over 10 seconds, the bull charges; dust explodes. Camera movement: Fast tracking pan. Lighting: low golden morning sunlight, warm backlit rim light on scales and grass, soft tropical haze. Mood: defiance. Visual style: photorealistic cinematic wildlife documentary, premium nature-film look, 16:9 widescreen, warm honey-gold grade, long telephoto compression, very shallow depth of field with creamy bokeh, ultra-fine micro-detail, realistic animal anatomy and locomotion, natural physics, smooth cinematic motion, no text, no logos, no music, no human presence, no gore.
 Camera Movement: Fast tracking pan
@@ -506,7 +554,7 @@ Subject Motion: The bull charges
 Environment Motion: Dust explodes
 Duration: 10 seconds
 
-**Beat 64**
+**Beat 70**
 [Script Segment Text]: "Twice, Naga slips away into the grass and returns as soon as the bull has gone. He does not need to hurry."
 Video Prompt: A massive adult male Komodo dragon with grey-brown armoured scaly skin covered in old scars, a heavy muscular body, curved hooked claws and a long yellow forked tongue slips into tall grass as a bull walks away, then reappears at the edge on Rinca island, Indonesia, among steep sunburnt hills, dry golden grass and scattered lontar palms. Over 10 seconds, the dragon slides away and returns; grass sways. Camera movement: Slow push-in. Lighting: low golden morning sunlight, warm backlit rim light on scales and grass, soft tropical haze. Mood: persistent. Visual style: photorealistic cinematic wildlife documentary, premium nature-film look, 16:9 widescreen, warm honey-gold grade, long telephoto compression, very shallow depth of field with creamy bokeh, ultra-fine micro-detail, realistic animal anatomy and locomotion, natural physics, smooth cinematic motion, no text, no logos, no music, no human presence, no gore.
 Camera Movement: Slow push-in
@@ -514,7 +562,7 @@ Subject Motion: The dragon slides away and returns
 Environment Motion: Grass sways
 Duration: 10 seconds
 
-**Beat 65**
+**Beat 71**
 [Script Segment Text]: "Time is on his side. But time is also carrying the scent of blood across the island. On the hills above the valley,"
 Video Prompt: Wind sweeping across golden grass on the hills above a valley on Rinca island, Indonesia, among steep sunburnt hills, dry golden grass and scattered lontar palms. Over 10 seconds, grass ripples in waves; haze glows. Camera movement: Slow lateral drift. Lighting: warm late-afternoon golden-hour sunlight, glowing rim light, sunlit dust in the air. Mood: scent spreads. Visual style: photorealistic cinematic wildlife documentary, premium nature-film look, 16:9 widescreen, warm honey-gold grade, long telephoto compression, very shallow depth of field with creamy bokeh, ultra-fine micro-detail, realistic animal anatomy and locomotion, natural physics, smooth cinematic motion, no text, no logos, no music, no human presence, no gore.
 Camera Movement: Slow lateral drift
@@ -522,7 +570,7 @@ Subject Motion: Grass ripples in waves
 Environment Motion: Haze glows
 Duration: 10 seconds
 
-**Beat 66**
+**Beat 72**
 [Script Segment Text]: "another dragon lifts its head. He is even larger than Naga. A massive, battle-scarred male, heavier, longer, older."
 Video Prompt: An even larger battle-scarred male Komodo dragon with a crooked jaw, a notched tail and dark weathered scales lifts its massive head on a hillside on Rinca island, Indonesia, among steep sunburnt hills, dry golden grass and scattered lontar palms, tongue extended. Over 10 seconds, the giant lifts its head; grass sways. Camera movement: Slow push-in. Lighting: warm late-afternoon golden-hour sunlight, glowing rim light, sunlit dust in the air. Mood: rival. Visual style: photorealistic cinematic wildlife documentary, premium nature-film look, 16:9 widescreen, warm honey-gold grade, long telephoto compression, very shallow depth of field with creamy bokeh, ultra-fine micro-detail, realistic animal anatomy and locomotion, natural physics, smooth cinematic motion, no text, no logos, no music, no human presence, no gore.
 Camera Movement: Slow push-in
@@ -530,7 +578,7 @@ Subject Motion: The giant lifts its head
 Environment Motion: Grass sways
 Duration: 10 seconds
 
-**Beat 67**
+**Beat 73**
 [Script Segment Text]: "His jaw is crooked from an old fight. His tail is notched where something once tried to bite it off."
 Video Prompt: Close on the crooked jaw and scarred face of an even larger battle-scarred male Komodo dragon with a crooked jaw, a notched tail and dark weathered scales. Over 10 seconds, the giant's tongue flicks; light glints on old scars. Camera movement: Slow tracking along its face. Lighting: warm late-afternoon golden-hour sunlight, glowing rim light, sunlit dust in the air. Mood: battle-scarred. Visual style: photorealistic cinematic wildlife documentary, premium nature-film look, 16:9 widescreen, warm honey-gold grade, long telephoto compression, very shallow depth of field with creamy bokeh, ultra-fine micro-detail, realistic animal anatomy and locomotion, natural physics, smooth cinematic motion, no text, no logos, no music, no human presence, no gore.
 Camera Movement: Slow tracking along its face
@@ -538,7 +586,7 @@ Subject Motion: The giant's tongue flicks
 Environment Motion: Light glints on old scars
 Duration: 10 seconds
 
-**Beat 68**
+**Beat 74**
 [Script Segment Text]: "We will call him Raja. He flicks his tongue. He tastes the blood on the wind. And he starts down the hill."
 Video Prompt: An even larger battle-scarred male Komodo dragon with a crooked jaw, a notched tail and dark weathered scales walks down a steep golden hillside on Rinca island, Indonesia, among steep sunburnt hills, dry golden grass and scattered lontar palms toward a distant valley. Over 10 seconds, the giant walks downhill; dust trails behind. Camera movement: Slow telephoto tracking. Lighting: warm late-afternoon golden-hour sunlight, glowing rim light, sunlit dust in the air. Mood: descending. Visual style: photorealistic cinematic wildlife documentary, premium nature-film look, 16:9 widescreen, warm honey-gold grade, long telephoto compression, very shallow depth of field with creamy bokeh, ultra-fine micro-detail, realistic animal anatomy and locomotion, natural physics, smooth cinematic motion, no text, no logos, no music, no human presence, no gore.
 Camera Movement: Slow telephoto tracking
@@ -546,7 +594,7 @@ Subject Motion: The giant walks downhill
 Environment Motion: Dust trails behind
 Duration: 10 seconds
 
-**Beat 69**
+**Beat 75**
 [Script Segment Text]: "By the second evening, the buffalo can barely walk. She stumbles to the edge of the herd and stops."
 Video Prompt: A young female water buffalo with dark grey hide and swept-back curved horns and a bleeding wound on her hind leg stumbles at the edge of her herd on Rinca island, Indonesia, among steep sunburnt hills, dry golden grass and scattered lontar palms at dusk. Over 10 seconds, she stumbles and stops; dust drifts in amber light. Camera movement: Slow push-in. Lighting: deep amber dusk light over the hills, long shadows, glowing hazy horizon. Mood: weakness. Visual style: photorealistic cinematic wildlife documentary, premium nature-film look, 16:9 widescreen, warm honey-gold grade, long telephoto compression, very shallow depth of field with creamy bokeh, ultra-fine micro-detail, realistic animal anatomy and locomotion, natural physics, smooth cinematic motion, no text, no logos, no music, no human presence, no gore.
 Camera Movement: Slow push-in
@@ -554,7 +602,7 @@ Subject Motion: She stumbles and stops
 Environment Motion: Dust drifts in amber light
 Duration: 10 seconds
 
-**Beat 70**
+**Beat 76**
 [Script Segment Text]: "Her legs tremble. Her breath comes in heavy gasps. The herd moves on without her. Naga steps out of the grass."
 Video Prompt: A herd of water buffalo walks away as a massive adult male Komodo dragon with grey-brown armoured scaly skin covered in old scars, a heavy muscular body, curved hooked claws and a long yellow forked tongue steps out of the grass toward a young female water buffalo with dark grey hide and swept-back curved horns and a bleeding wound on her hind leg on Rinca island, Indonesia, among steep sunburnt hills, dry golden grass and scattered lontar palms. Over 10 seconds, the herd leaves and the dragon emerges; long shadows stretch. Camera movement: Slow rack focus to the dragon. Lighting: deep amber dusk light over the hills, long shadows, glowing hazy horizon. Mood: abandoned. Visual style: photorealistic cinematic wildlife documentary, premium nature-film look, 16:9 widescreen, warm honey-gold grade, long telephoto compression, very shallow depth of field with creamy bokeh, ultra-fine micro-detail, realistic animal anatomy and locomotion, natural physics, smooth cinematic motion, no text, no logos, no music, no human presence, no gore.
 Camera Movement: Slow rack focus to the dragon
@@ -562,7 +610,7 @@ Subject Motion: The herd leaves and the dragon emerges
 Environment Motion: Long shadows stretch
 Duration: 10 seconds
 
-**Beat 71**
+**Beat 77**
 [Script Segment Text]: "For the first time in two days, he walks toward her in the open. Slowly. Patiently. His tongue flicking, tasting how weak she has become."
 Video Prompt: A massive adult male Komodo dragon with grey-brown armoured scaly skin covered in old scars, a heavy muscular body, curved hooked claws and a long yellow forked tongue walks slowly through the open toward a young female water buffalo with dark grey hide and swept-back curved horns and a bleeding wound on her hind leg on Rinca island, Indonesia, among steep sunburnt hills, dry golden grass and scattered lontar palms, tongue flicking. Over 10 seconds, the dragon approaches; dust lifts. Camera movement: Slow push-in behind the dragon. Lighting: deep amber dusk light over the hills, long shadows, glowing hazy horizon. Mood: closing in. Visual style: photorealistic cinematic wildlife documentary, premium nature-film look, 16:9 widescreen, warm honey-gold grade, long telephoto compression, very shallow depth of field with creamy bokeh, ultra-fine micro-detail, realistic animal anatomy and locomotion, natural physics, smooth cinematic motion, no text, no logos, no music, no human presence, no gore.
 Camera Movement: Slow push-in behind the dragon
@@ -570,7 +618,7 @@ Subject Motion: The dragon approaches
 Environment Motion: Dust lifts
 Duration: 10 seconds
 
-**Beat 72**
+**Beat 78**
 [Script Segment Text]: "The buffalo sees him. She lowers her horns. She stamps the ground. Then her legs fold, and she drops to her knees."
 Video Prompt: A young female water buffalo with dark grey hide and swept-back curved horns and a bleeding wound on her hind leg drops to her knees facing an approaching Komodo dragon on Rinca island, Indonesia, among steep sunburnt hills, dry golden grass and scattered lontar palms. Over 10 seconds, she sinks to her knees; dust rises. Camera movement: Slow push-in. Lighting: deep amber dusk light over the hills, long shadows, glowing hazy horizon. Mood: collapse. Visual style: photorealistic cinematic wildlife documentary, premium nature-film look, 16:9 widescreen, warm honey-gold grade, long telephoto compression, very shallow depth of field with creamy bokeh, ultra-fine micro-detail, realistic animal anatomy and locomotion, natural physics, smooth cinematic motion, no text, no logos, no music, no human presence, no gore.
 Camera Movement: Slow push-in
@@ -578,7 +626,7 @@ Subject Motion: She sinks to her knees
 Environment Motion: Dust rises
 Duration: 10 seconds
 
-**Beat 73**
+**Beat 79**
 [Script Segment Text]: "It looks like the end. It is not. Because as Naga closes the last few meters, the buffalo heaves herself back up."
 Video Prompt: A young female water buffalo with dark grey hide and swept-back curved horns and a bleeding wound on her hind leg heaves herself back onto her feet as a massive adult male Komodo dragon with grey-brown armoured scaly skin covered in old scars, a heavy muscular body, curved hooked claws and a long yellow forked tongue draws close on Rinca island, Indonesia, among steep sunburnt hills, dry golden grass and scattered lontar palms. Over 10 seconds, she rises suddenly; dust bursts. Camera movement: Slow motion. Lighting: deep amber dusk light over the hills, long shadows, glowing hazy horizon. Mood: reversal. Visual style: photorealistic cinematic wildlife documentary, premium nature-film look, 16:9 widescreen, warm honey-gold grade, long telephoto compression, very shallow depth of field with creamy bokeh, ultra-fine micro-detail, realistic animal anatomy and locomotion, natural physics, smooth cinematic motion, no text, no logos, no music, no human presence, no gore.
 Camera Movement: Slow motion
@@ -586,7 +634,7 @@ Subject Motion: She rises suddenly
 Environment Motion: Dust bursts
 Duration: 10 seconds
 
-**Beat 74**
+**Beat 80**
 [Script Segment Text]: "With the last of her strength, she swings her horns, and catches the dragon full in the side."
 Video Prompt: A young female water buffalo with dark grey hide and swept-back curved horns and a bleeding wound on her hind leg swings her horns and strikes a massive adult male Komodo dragon with grey-brown armoured scaly skin covered in old scars, a heavy muscular body, curved hooked claws and a long yellow forked tongue in the side on Rinca island, Indonesia, among steep sunburnt hills, dry golden grass and scattered lontar palms. Over 10 seconds, the horns hit and the dragon is lifted; dust explodes. Camera movement: Slow motion at impact. Lighting: deep amber dusk light over the hills, long shadows, glowing hazy horizon. Mood: shock. Visual style: photorealistic cinematic wildlife documentary, premium nature-film look, 16:9 widescreen, warm honey-gold grade, long telephoto compression, very shallow depth of field with creamy bokeh, ultra-fine micro-detail, realistic animal anatomy and locomotion, natural physics, smooth cinematic motion, no text, no logos, no music, no human presence, no gore.
 Camera Movement: Slow motion at impact
@@ -594,7 +642,7 @@ Subject Motion: The horns hit and the dragon is lifted
 Environment Motion: Dust explodes
 Duration: 10 seconds
 
-**Beat 75**
+**Beat 81**
 [Script Segment Text]: "Naga is flung sideways into the dust. He rolls, scrambles, and backs away, hissing. A long gash runs along his ribs."
 Video Prompt: A massive adult male Komodo dragon with grey-brown armoured scaly skin covered in old scars, a heavy muscular body, curved hooked claws and a long yellow forked tongue rolls through the dust with a long gash along its ribs on Rinca island, Indonesia, among steep sunburnt hills, dry golden grass and scattered lontar palms, hissing. Over 10 seconds, the dragon rolls and scrambles back; dust sprays. Camera movement: Slow motion. Lighting: deep amber dusk light over the hills, long shadows, glowing hazy horizon. Mood: wounded hunter. Visual style: photorealistic cinematic wildlife documentary, premium nature-film look, 16:9 widescreen, warm honey-gold grade, long telephoto compression, very shallow depth of field with creamy bokeh, ultra-fine micro-detail, realistic animal anatomy and locomotion, natural physics, smooth cinematic motion, no text, no logos, no music, no human presence, no gore.
 Camera Movement: Slow motion
@@ -602,7 +650,7 @@ Subject Motion: The dragon rolls and scrambles back
 Environment Motion: Dust sprays
 Duration: 10 seconds
 
-**Beat 76**
+**Beat 82**
 [Script Segment Text]: "The buffalo turns and staggers away, not toward her herd, but down the slope toward the sea. And on the ridge above,"
 Video Prompt: A young female water buffalo with dark grey hide and swept-back curved horns and a bleeding wound on her hind leg staggers down a slope toward the sea and mangroves on Rinca island, Indonesia, among steep sunburnt hills, dry golden grass and scattered lontar palms at dusk. Over 10 seconds, she staggers away; the sea glows amber. Camera movement: Slow pull-back. Lighting: deep amber dusk light over the hills, long shadows, glowing hazy horizon. Mood: escape. Visual style: photorealistic cinematic wildlife documentary, premium nature-film look, 16:9 widescreen, warm honey-gold grade, long telephoto compression, very shallow depth of field with creamy bokeh, ultra-fine micro-detail, realistic animal anatomy and locomotion, natural physics, smooth cinematic motion, no text, no logos, no music, no human presence, no gore.
 Camera Movement: Slow pull-back
@@ -610,7 +658,7 @@ Subject Motion: She staggers away
 Environment Motion: The sea glows amber
 Duration: 10 seconds
 
-**Beat 77**
+**Beat 83**
 [Script Segment Text]: "Raja has arrived. Two giant dragons. One wounded buffalo. And a long, cold night ahead. Naga is wounded. Raja is bigger,"
 Video Prompt: An even larger battle-scarred male Komodo dragon with a crooked jaw, a notched tail and dark weathered scales stands on a ridge above a slope on Rinca island, Indonesia, among steep sunburnt hills, dry golden grass and scattered lontar palms at dusk, silhouetted against a glowing sky. Over 10 seconds, the giant surveys the slope; the sky glows. Camera movement: Slow push-in. Lighting: deep amber dusk light over the hills, long shadows, glowing hazy horizon. Mood: the rival arrives. Visual style: photorealistic cinematic wildlife documentary, premium nature-film look, 16:9 widescreen, warm honey-gold grade, long telephoto compression, very shallow depth of field with creamy bokeh, ultra-fine micro-detail, realistic animal anatomy and locomotion, natural physics, smooth cinematic motion, no text, no logos, no music, no human presence, no gore.
 Camera Movement: Slow push-in
@@ -618,7 +666,7 @@ Subject Motion: The giant surveys the slope
 Environment Motion: The sky glows
 Duration: 10 seconds
 
-**Beat 78**
+**Beat 84**
 [Script Segment Text]: "fresher, and heading for the same prize. Whatever happens now, only one of them will eat. Night falls over Rinca."
 Video Prompt: Moonlight over the hills and a dark mangrove edge on Rinca island, Indonesia, among steep sunburnt hills, dry golden grass and scattered lontar palms. Over 10 seconds, clouds pass the moon; moonlight glints on the water. Camera movement: Slow drift. Lighting: soft silver moonlight with a faint blue glow, gentle warm grade, deep shadows. Mood: high stakes. Visual style: photorealistic cinematic wildlife documentary, premium nature-film look, 16:9 widescreen, warm honey-gold grade, long telephoto compression, very shallow depth of field with creamy bokeh, ultra-fine micro-detail, realistic animal anatomy and locomotion, natural physics, smooth cinematic motion, no text, no logos, no music, no human presence, no gore.
 Camera Movement: Slow drift
@@ -626,7 +674,7 @@ Subject Motion: Clouds pass the moon
 Environment Motion: Moonlight glints on the water
 Duration: 10 seconds
 
-**Beat 79**
+**Beat 85**
 [Script Segment Text]: "The buffalo has reached the edge of a mangrove swamp, where the land breaks up into mud and twisting roots"
 Video Prompt: A young female water buffalo with dark grey hide and swept-back curved horns and a bleeding wound on her hind leg wades into the mud among twisting mangrove roots in a mangrove swamp on Rinca island, Indonesia, with twisting roots, mud and channels of seawater in moonlight. Over 10 seconds, she wades in; ripples spread. Camera movement: Slow push-in. Lighting: soft silver moonlight with a faint blue glow, gentle warm grade, deep shadows. Mood: hiding. Visual style: photorealistic cinematic wildlife documentary, premium nature-film look, 16:9 widescreen, warm honey-gold grade, long telephoto compression, very shallow depth of field with creamy bokeh, ultra-fine micro-detail, realistic animal anatomy and locomotion, natural physics, smooth cinematic motion, no text, no logos, no music, no human presence, no gore.
 Camera Movement: Slow push-in
@@ -634,7 +682,7 @@ Subject Motion: She wades in
 Environment Motion: Ripples spread
 Duration: 10 seconds
 
-**Beat 80**
+**Beat 86**
 [Script Segment Text]: "and channels of seawater. She wades in and stands there in the dark, as if the water could hide her."
 Video Prompt: A young female water buffalo with dark grey hide and swept-back curved horns and a bleeding wound on her hind leg standing still in dark water among mangrove roots in a mangrove swamp on Rinca island, Indonesia, with twisting roots, mud and channels of seawater, moonlight on her back. Over 10 seconds, she stands still; moonlight shimmers. Camera movement: Static telephoto shot. Lighting: soft silver moonlight with a faint blue glow, gentle warm grade, deep shadows. Mood: desperate. Visual style: photorealistic cinematic wildlife documentary, premium nature-film look, 16:9 widescreen, warm honey-gold grade, long telephoto compression, very shallow depth of field with creamy bokeh, ultra-fine micro-detail, realistic animal anatomy and locomotion, natural physics, smooth cinematic motion, no text, no logos, no music, no human presence, no gore.
 Camera Movement: Static telephoto shot
@@ -642,7 +690,7 @@ Subject Motion: She stands still
 Environment Motion: Moonlight shimmers
 Duration: 10 seconds
 
-**Beat 81**
+**Beat 87**
 [Script Segment Text]: "Naga follows her scent down the slope. When he reaches the channel, he does not hesitate. Komodo dragons are strong swimmers."
 Video Prompt: A massive adult male Komodo dragon with grey-brown armoured scaly skin covered in old scars, a heavy muscular body, curved hooked claws and a long yellow forked tongue reaches the edge of a dark mangrove channel in a mangrove swamp on Rinca island, Indonesia, with twisting roots, mud and channels of seawater, tongue flicking. Over 10 seconds, the dragon tastes the air and steps forward; moonlight on the water. Camera movement: Slow push-in. Lighting: soft silver moonlight with a faint blue glow, gentle warm grade, deep shadows. Mood: determined. Visual style: photorealistic cinematic wildlife documentary, premium nature-film look, 16:9 widescreen, warm honey-gold grade, long telephoto compression, very shallow depth of field with creamy bokeh, ultra-fine micro-detail, realistic animal anatomy and locomotion, natural physics, smooth cinematic motion, no text, no logos, no music, no human presence, no gore.
 Camera Movement: Slow push-in
@@ -650,7 +698,7 @@ Subject Motion: The dragon tastes the air and steps forward
 Environment Motion: Moonlight on the water
 Duration: 10 seconds
 
-**Beat 82**
+**Beat 88**
 [Script Segment Text]: "They have been seen crossing the open sea between islands. He slides into the black water and swims, his tail sweeping side to side,"
 Video Prompt: A massive adult male Komodo dragon with grey-brown armoured scaly skin covered in old scars, a heavy muscular body, curved hooked claws and a long yellow forked tongue swims through a dark mangrove channel in a mangrove swamp on Rinca island, Indonesia, with twisting roots, mud and channels of seawater, tail sweeping side to side, head low. Over 10 seconds, the dragon swims; ripples trail behind. Camera movement: Slow tracking at water level. Lighting: soft silver moonlight with a faint blue glow, gentle warm grade, deep shadows. Mood: swimmer. Visual style: photorealistic cinematic wildlife documentary, premium nature-film look, 16:9 widescreen, warm honey-gold grade, long telephoto compression, very shallow depth of field with creamy bokeh, ultra-fine micro-detail, realistic animal anatomy and locomotion, natural physics, smooth cinematic motion, no text, no logos, no music, no human presence, no gore.
 Camera Movement: Slow tracking at water level
@@ -658,7 +706,7 @@ Subject Motion: The dragon swims
 Environment Motion: Ripples trail behind
 Duration: 10 seconds
 
-**Beat 83**
+**Beat 89**
 [Script Segment Text]: "his head low on the surface. The current pulls at him. The wound on his side stings in the salt."
 Video Prompt: Close on the gashed ribs of a massive adult male Komodo dragon with grey-brown armoured scaly skin covered in old scars, a heavy muscular body, curved hooked claws and a long yellow forked tongue as seawater washes over the wound while it swims. Over 10 seconds, water washes over the wound; moonlight glints. Camera movement: Slow tracking at water level. Lighting: soft silver moonlight with a faint blue glow, gentle warm grade, deep shadows. Mood: pain. Visual style: photorealistic cinematic wildlife documentary, premium nature-film look, 16:9 widescreen, warm honey-gold grade, long telephoto compression, very shallow depth of field with creamy bokeh, ultra-fine micro-detail, realistic animal anatomy and locomotion, natural physics, smooth cinematic motion, no text, no logos, no music, no human presence, no gore.
 Camera Movement: Slow tracking at water level
@@ -666,7 +714,7 @@ Subject Motion: Water washes over the wound
 Environment Motion: Moonlight glints
 Duration: 10 seconds
 
-**Beat 84**
+**Beat 90**
 [Script Segment Text]: "Somewhere in the darkness, something splashes, and he stops, head raised, tongue flicking, until the water is still again. Then he keeps swimming."
 Video Prompt: A massive adult male Komodo dragon with grey-brown armoured scaly skin covered in old scars, a heavy muscular body, curved hooked claws and a long yellow forked tongue stops in a dark mangrove channel in a mangrove swamp on Rinca island, Indonesia, with twisting roots, mud and channels of seawater, head raised, tongue flicking, ripples spreading from an unseen splash. Over 10 seconds, the dragon freezes and listens; ripples spread. Camera movement: Static telephoto shot. Lighting: soft silver moonlight with a faint blue glow, gentle warm grade, deep shadows. Mood: uncertain. Visual style: photorealistic cinematic wildlife documentary, premium nature-film look, 16:9 widescreen, warm honey-gold grade, long telephoto compression, very shallow depth of field with creamy bokeh, ultra-fine micro-detail, realistic animal anatomy and locomotion, natural physics, smooth cinematic motion, no text, no logos, no music, no human presence, no gore.
 Camera Movement: Static telephoto shot
@@ -674,7 +722,7 @@ Subject Motion: The dragon freezes and listens
 Environment Motion: Ripples spread
 Duration: 10 seconds
 
-**Beat 85**
+**Beat 91**
 [Script Segment Text]: "Behind him, a much larger shape slips into the same channel. Raja is following too. And in the mangroves above,"
 Video Prompt: An even larger battle-scarred male Komodo dragon with a crooked jaw, a notched tail and dark weathered scales slides into a dark mangrove channel in a mangrove swamp on Rinca island, Indonesia, with twisting roots, mud and channels of seawater behind a smaller swimming dragon. Over 10 seconds, the giant slips into the water; ripples spread. Camera movement: Slow rack focus to the giant. Lighting: soft silver moonlight with a faint blue glow, gentle warm grade, deep shadows. Mood: pursued. Visual style: photorealistic cinematic wildlife documentary, premium nature-film look, 16:9 widescreen, warm honey-gold grade, long telephoto compression, very shallow depth of field with creamy bokeh, ultra-fine micro-detail, realistic animal anatomy and locomotion, natural physics, smooth cinematic motion, no text, no logos, no music, no human presence, no gore.
 Camera Movement: Slow rack focus to the giant
@@ -682,7 +730,7 @@ Subject Motion: The giant slips into the water
 Environment Motion: Ripples spread
 Duration: 10 seconds
 
-**Beat 86**
+**Beat 92**
 [Script Segment Text]: "another small shape is moving through the branches. Kecil has followed the scent all the way from the waterhole,"
 Video Prompt: A small young Komodo dragon about a year old, slender and speckled with bright yellow and green bands creeps along mangrove branches in the moonlight in a mangrove swamp on Rinca island, Indonesia, with twisting roots, mud and channels of seawater. Over 10 seconds, the young dragon creeps forward; leaves rustle. Camera movement: Slow tracking shot. Lighting: soft silver moonlight with a faint blue glow, gentle warm grade, deep shadows. Mood: determined little one. Visual style: photorealistic cinematic wildlife documentary, premium nature-film look, 16:9 widescreen, warm honey-gold grade, long telephoto compression, very shallow depth of field with creamy bokeh, ultra-fine micro-detail, realistic animal anatomy and locomotion, natural physics, smooth cinematic motion, no text, no logos, no music, no human presence, no gore.
 Camera Movement: Slow tracking shot
@@ -690,7 +738,7 @@ Subject Motion: The young dragon creeps forward
 Environment Motion: Leaves rustle
 Duration: 10 seconds
 
-**Beat 87**
+**Beat 93**
 [Script Segment Text]: "creeping from tree to tree in the dark. Every dragon in the valley is now converging on one place. Dawn."
 Video Prompt: Dawn mist rising over the mangrove swamp in a mangrove swamp on Rinca island, Indonesia, with twisting roots, mud and channels of seawater, dark shapes moving in the water. Over 10 seconds, shapes move in the misty water; mist drifts. Camera movement: Slow push-in. Lighting: pale misty dawn light warming to gold, mist over the water. Mood: convergence. Visual style: photorealistic cinematic wildlife documentary, premium nature-film look, 16:9 widescreen, warm honey-gold grade, long telephoto compression, very shallow depth of field with creamy bokeh, ultra-fine micro-detail, realistic animal anatomy and locomotion, natural physics, smooth cinematic motion, no text, no logos, no music, no human presence, no gore.
 Camera Movement: Slow push-in
@@ -698,7 +746,7 @@ Subject Motion: Shapes move in the misty water
 Environment Motion: Mist drifts
 Duration: 10 seconds
 
-**Beat 88**
+**Beat 94**
 [Script Segment Text]: "The buffalo is lying on her side in the shallow mud between the mangrove roots. This time, she does not get up."
 Video Prompt: A young female water buffalo with dark grey hide and swept-back curved horns lies motionless on her side in shallow mud between mangrove roots in a mangrove swamp on Rinca island, Indonesia, with twisting roots, mud and channels of seawater. Over 10 seconds, nothing moves; mist drifts over the mud. Camera movement: Slow push-in. Lighting: pale misty dawn light warming to gold, mist over the water. Mood: fallen. Visual style: photorealistic cinematic wildlife documentary, premium nature-film look, 16:9 widescreen, warm honey-gold grade, long telephoto compression, very shallow depth of field with creamy bokeh, ultra-fine micro-detail, realistic animal anatomy and locomotion, natural physics, smooth cinematic motion, no text, no logos, no music, no human presence, no gore.
 Camera Movement: Slow push-in
@@ -706,7 +754,7 @@ Subject Motion: Nothing moves
 Environment Motion: Mist drifts over the mud
 Duration: 10 seconds
 
-**Beat 89**
+**Beat 95**
 [Script Segment Text]: "Three days after a single bite, the most powerful animal on the island has fallen to a hunter a seventh of her size."
 Video Prompt: A water buffalo lies fallen in mangrove mud in a mangrove swamp on Rinca island, Indonesia, with twisting roots, mud and channels of seawater while a Komodo dragon approaches from the water, small beside her. Over 10 seconds, the dragon approaches; mist glows. Camera movement: Slow pull-back. Lighting: pale misty dawn light warming to gold, mist over the water. Mood: victory of patience. Visual style: photorealistic cinematic wildlife documentary, premium nature-film look, 16:9 widescreen, warm honey-gold grade, long telephoto compression, very shallow depth of field with creamy bokeh, ultra-fine micro-detail, realistic animal anatomy and locomotion, natural physics, smooth cinematic motion, no text, no logos, no music, no human presence, no gore.
 Camera Movement: Slow pull-back
@@ -714,7 +762,7 @@ Subject Motion: The dragon approaches
 Environment Motion: Mist glows
 Duration: 10 seconds
 
-**Beat 90**
+**Beat 96**
 [Script Segment Text]: "Naga drags himself out of the water and climbs onto the mud beside her. He has followed her for three days."
 Video Prompt: A massive adult male Komodo dragon with grey-brown armoured scaly skin covered in old scars, a heavy muscular body, curved hooked claws and a long yellow forked tongue, wounded, drags itself out of the water onto mud beside a fallen water buffalo in a mangrove swamp on Rinca island, Indonesia, with twisting roots, mud and channels of seawater. Over 10 seconds, the dragon climbs onto the mud; water streams off its body. Camera movement: Slow push-in. Lighting: pale misty dawn light warming to gold, mist over the water. Mood: earned. Visual style: photorealistic cinematic wildlife documentary, premium nature-film look, 16:9 widescreen, warm honey-gold grade, long telephoto compression, very shallow depth of field with creamy bokeh, ultra-fine micro-detail, realistic animal anatomy and locomotion, natural physics, smooth cinematic motion, no text, no logos, no music, no human presence, no gore.
 Camera Movement: Slow push-in
@@ -722,7 +770,7 @@ Subject Motion: The dragon climbs onto the mud
 Environment Motion: Water streams off its body
 Duration: 10 seconds
 
-**Beat 91**
+**Beat 97**
 [Script Segment Text]: "He has been kicked, charged, and gored. The prize is finally his. And then a shadow falls across the mud. Raja has arrived."
 Video Prompt: A huge shadow falls across the mud beside a massive adult male Komodo dragon with grey-brown armoured scaly skin covered in old scars, a heavy muscular body, curved hooked claws and a long yellow forked tongue at a buffalo carcass in a mangrove swamp on Rinca island, Indonesia, with twisting roots, mud and channels of seawater. Over 10 seconds, the shadow stretches across the mud; mist drifts. Camera movement: Slow tilt up from the shadow. Lighting: pale misty dawn light warming to gold, mist over the water. Mood: threat. Visual style: photorealistic cinematic wildlife documentary, premium nature-film look, 16:9 widescreen, warm honey-gold grade, long telephoto compression, very shallow depth of field with creamy bokeh, ultra-fine micro-detail, realistic animal anatomy and locomotion, natural physics, smooth cinematic motion, no text, no logos, no music, no human presence, no gore.
 Camera Movement: Slow tilt up from the shadow
@@ -730,7 +778,7 @@ Subject Motion: The shadow stretches across the mud
 Environment Motion: Mist drifts
 Duration: 10 seconds
 
-**Beat 92**
+**Beat 98**
 [Script Segment Text]: "He climbs from the channel, water streaming from his enormous body, and walks straight toward the carcass. Naga turns to face him."
 Video Prompt: An even larger battle-scarred male Komodo dragon with a crooked jaw, a notched tail and dark weathered scales climbs from a mangrove channel, water streaming off its body, walking toward a massive adult male Komodo dragon with grey-brown armoured scaly skin covered in old scars, a heavy muscular body, curved hooked claws and a long yellow forked tongue in a mangrove swamp on Rinca island, Indonesia, with twisting roots, mud and channels of seawater. Over 10 seconds, the giant walks forward; water streams off its scales. Camera movement: Slow pull-back as it approaches. Lighting: pale misty dawn light warming to gold, mist over the water. Mood: confrontation. Visual style: photorealistic cinematic wildlife documentary, premium nature-film look, 16:9 widescreen, warm honey-gold grade, long telephoto compression, very shallow depth of field with creamy bokeh, ultra-fine micro-detail, realistic animal anatomy and locomotion, natural physics, smooth cinematic motion, no text, no logos, no music, no human presence, no gore.
 Camera Movement: Slow pull-back as it approaches
@@ -738,7 +786,7 @@ Subject Motion: The giant walks forward
 Environment Motion: Water streams off its scales
 Duration: 10 seconds
 
-**Beat 93**
+**Beat 99**
 [Script Segment Text]: "What happens next is one of the most extraordinary sights in the animal kingdom. The two dragons circle each other, hissing, tongues flicking."
 Video Prompt: Two giant Komodo dragons circle each other hissing, tongues flicking, beside a buffalo carcass in a mangrove swamp on Rinca island, Indonesia, with twisting roots, mud and channels of seawater. Over 10 seconds, the dragons circle; mud squelches under their claws. Camera movement: Slow orbit. Lighting: pale misty dawn light warming to gold, mist over the water. Mood: standoff. Visual style: photorealistic cinematic wildlife documentary, premium nature-film look, 16:9 widescreen, warm honey-gold grade, long telephoto compression, very shallow depth of field with creamy bokeh, ultra-fine micro-detail, realistic animal anatomy and locomotion, natural physics, smooth cinematic motion, no text, no logos, no music, no human presence, no gore.
 Camera Movement: Slow orbit
@@ -746,7 +794,7 @@ Subject Motion: The dragons circle
 Environment Motion: Mud squelches under their claws
 Duration: 10 seconds
 
-**Beat 94**
+**Beat 100**
 [Script Segment Text]: "Then, together, they rise up onto their hind legs. Standing almost as tall as a man, using their tails for balance,"
 Video Prompt: Two giant male Komodo dragons rise onto their hind legs facing each other in a mangrove swamp on Rinca island, Indonesia, with twisting roots, mud and channels of seawater, tails braced. Over 10 seconds, the dragons rear up; mud sprays. Camera movement: Slow motion as they rise. Lighting: pale misty dawn light warming to gold, mist over the water. Mood: epic. Visual style: photorealistic cinematic wildlife documentary, premium nature-film look, 16:9 widescreen, warm honey-gold grade, long telephoto compression, very shallow depth of field with creamy bokeh, ultra-fine micro-detail, realistic animal anatomy and locomotion, natural physics, smooth cinematic motion, no text, no logos, no music, no human presence, no gore.
 Camera Movement: Slow motion as they rise
@@ -754,7 +802,7 @@ Subject Motion: The dragons rear up
 Environment Motion: Mud sprays
 Duration: 10 seconds
 
-**Beat 95**
+**Beat 101**
 [Script Segment Text]: "they lock their front legs around each other and grapple, chest to chest, each one trying to throw the other to the ground."
 Video Prompt: Two giant Komodo dragons standing on their hind legs lock their front legs around each other and grapple chest to chest in a mangrove swamp on Rinca island, Indonesia, with twisting roots, mud and channels of seawater. Over 10 seconds, they push and grapple; mud flies. Camera movement: Slow motion. Lighting: pale misty dawn light warming to gold, mist over the water. Mood: grapple. Visual style: photorealistic cinematic wildlife documentary, premium nature-film look, 16:9 widescreen, warm honey-gold grade, long telephoto compression, very shallow depth of field with creamy bokeh, ultra-fine micro-detail, realistic animal anatomy and locomotion, natural physics, smooth cinematic motion, no text, no logos, no music, no human presence, no gore.
 Camera Movement: Slow motion
@@ -762,7 +810,7 @@ Subject Motion: They push and grapple
 Environment Motion: Mud flies
 Duration: 10 seconds
 
-**Beat 96**
+**Beat 102**
 [Script Segment Text]: "They push. They twist. Claws rake across armoured hide. Their huge bodies sway in the morning light like two wrestlers in an ancient ritual."
 Video Prompt: Two Komodo dragons wrestle upright, claws raking across armoured hide, swaying in golden morning light in a mangrove swamp on Rinca island, Indonesia, with twisting roots, mud and channels of seawater. Over 10 seconds, they twist and sway; light glints on their scales. Camera movement: Telephoto tracking. Lighting: low golden morning sunlight, warm backlit rim light on scales and grass, soft tropical haze. Mood: ancient ritual. Visual style: photorealistic cinematic wildlife documentary, premium nature-film look, 16:9 widescreen, warm honey-gold grade, long telephoto compression, very shallow depth of field with creamy bokeh, ultra-fine micro-detail, realistic animal anatomy and locomotion, natural physics, smooth cinematic motion, no text, no logos, no music, no human presence, no gore.
 Camera Movement: Telephoto tracking
@@ -770,7 +818,7 @@ Subject Motion: They twist and sway
 Environment Motion: Light glints on their scales
 Duration: 10 seconds
 
-**Beat 97**
+**Beat 103**
 [Script Segment Text]: "Raja is heavier. He forces Naga backward, step by step, toward the water. Naga's wounded side is bleeding again. His legs are shaking."
 Video Prompt: An even larger battle-scarred male Komodo dragon with a crooked jaw, a notched tail and dark weathered scales forces a massive adult male Komodo dragon with grey-brown armoured scaly skin covered in old scars, a heavy muscular body, curved hooked claws and a long yellow forked tongue backward toward the water while wrestling upright in a mangrove swamp on Rinca island, Indonesia, with twisting roots, mud and channels of seawater. Over 10 seconds, the giant pushes forward; mud sprays from their feet. Camera movement: Slow tracking shot. Lighting: low golden morning sunlight, warm backlit rim light on scales and grass, soft tropical haze. Mood: losing. Visual style: photorealistic cinematic wildlife documentary, premium nature-film look, 16:9 widescreen, warm honey-gold grade, long telephoto compression, very shallow depth of field with creamy bokeh, ultra-fine micro-detail, realistic animal anatomy and locomotion, natural physics, smooth cinematic motion, no text, no logos, no music, no human presence, no gore.
 Camera Movement: Slow tracking shot
@@ -778,7 +826,7 @@ Subject Motion: The giant pushes forward
 Environment Motion: Mud sprays from their feet
 Duration: 10 seconds
 
-**Beat 98**
+**Beat 104**
 [Script Segment Text]: "For a moment, it looks as if three days of patience are about to be stolen in a single fight."
 Video Prompt: Close on the straining face of a massive adult male Komodo dragon with grey-brown armoured scaly skin covered in old scars, a heavy muscular body, curved hooked claws and a long yellow forked tongue as it wrestles, the wound on its side bleeding. Over 10 seconds, the dragon strains; mud drips. Camera movement: Slow push-in. Lighting: low golden morning sunlight, warm backlit rim light on scales and grass, soft tropical haze. Mood: desperation. Visual style: photorealistic cinematic wildlife documentary, premium nature-film look, 16:9 widescreen, warm honey-gold grade, long telephoto compression, very shallow depth of field with creamy bokeh, ultra-fine micro-detail, realistic animal anatomy and locomotion, natural physics, smooth cinematic motion, no text, no logos, no music, no human presence, no gore.
 Camera Movement: Slow push-in
@@ -786,7 +834,7 @@ Subject Motion: The dragon strains
 Environment Motion: Mud drips
 Duration: 10 seconds
 
-**Beat 99**
+**Beat 105**
 [Script Segment Text]: "But Naga has one advantage. He knows this mud. He has been standing in it all night. As Raja pushes forward,"
 Video Prompt: Close on the clawed feet of two wrestling Komodo dragons sliding in slick mud between mangrove roots. Over 10 seconds, the feet shift and slide; mud squelches. Camera movement: Slow tracking at ground level. Lighting: low golden morning sunlight, warm backlit rim light on scales and grass, soft tropical haze. Mood: advantage. Visual style: photorealistic cinematic wildlife documentary, premium nature-film look, 16:9 widescreen, warm honey-gold grade, long telephoto compression, very shallow depth of field with creamy bokeh, ultra-fine micro-detail, realistic animal anatomy and locomotion, natural physics, smooth cinematic motion, no text, no logos, no music, no human presence, no gore.
 Camera Movement: Slow tracking at ground level
@@ -794,7 +842,7 @@ Subject Motion: The feet shift and slide
 Environment Motion: Mud squelches
 Duration: 10 seconds
 
-**Beat 100**
+**Beat 106**
 [Script Segment Text]: "his back foot slides on the slick roots. He lurches. And Naga throws all his weight into that one instant."
 Video Prompt: An even larger battle-scarred male Komodo dragon with a crooked jaw, a notched tail and dark weathered scales slips on slick mangrove roots as a massive adult male Komodo dragon with grey-brown armoured scaly skin covered in old scars, a heavy muscular body, curved hooked claws and a long yellow forked tongue throws its weight forward in a mangrove swamp on Rinca island, Indonesia, with twisting roots, mud and channels of seawater. Over 10 seconds, the giant lurches; mud sprays. Camera movement: Slow motion at the slip. Lighting: low golden morning sunlight, warm backlit rim light on scales and grass, soft tropical haze. Mood: turning point. Visual style: photorealistic cinematic wildlife documentary, premium nature-film look, 16:9 widescreen, warm honey-gold grade, long telephoto compression, very shallow depth of field with creamy bokeh, ultra-fine micro-detail, realistic animal anatomy and locomotion, natural physics, smooth cinematic motion, no text, no logos, no music, no human presence, no gore.
 Camera Movement: Slow motion at the slip
@@ -802,7 +850,7 @@ Subject Motion: The giant lurches
 Environment Motion: Mud sprays
 Duration: 10 seconds
 
-**Beat 101**
+**Beat 107**
 [Script Segment Text]: "The giant topples sideways and crashes into the mud. He gets up slowly. He hisses. He looks at the carcass,"
 Video Prompt: An even larger battle-scarred male Komodo dragon with a crooked jaw, a notched tail and dark weathered scales topples sideways and crashes into the mud in a mangrove swamp on Rinca island, Indonesia, with twisting roots, mud and channels of seawater, a wave of mud splashing up. Over 10 seconds, the giant falls; mud explodes outward. Camera movement: Slow motion at impact. Lighting: low golden morning sunlight, warm backlit rim light on scales and grass, soft tropical haze. Mood: triumph. Visual style: photorealistic cinematic wildlife documentary, premium nature-film look, 16:9 widescreen, warm honey-gold grade, long telephoto compression, very shallow depth of field with creamy bokeh, ultra-fine micro-detail, realistic animal anatomy and locomotion, natural physics, smooth cinematic motion, no text, no logos, no music, no human presence, no gore.
 Camera Movement: Slow motion at impact
@@ -810,7 +858,7 @@ Subject Motion: The giant falls
 Environment Motion: Mud explodes outward
 Duration: 10 seconds
 
-**Beat 102**
+**Beat 108**
 [Script Segment Text]: "and then at Naga, still standing. And Raja turns and slides back into the channel. The fight is over. Naga has won."
 Video Prompt: An even larger battle-scarred male Komodo dragon with a crooked jaw, a notched tail and dark weathered scales turns away and slides back into a mangrove channel while a massive adult male Komodo dragon with grey-brown armoured scaly skin covered in old scars, a heavy muscular body, curved hooked claws and a long yellow forked tongue stands over the buffalo carcass in a mangrove swamp on Rinca island, Indonesia, with twisting roots, mud and channels of seawater. Over 10 seconds, the giant swims away; ripples spread. Camera movement: Slow pull-back. Lighting: low golden morning sunlight, warm backlit rim light on scales and grass, soft tropical haze. Mood: retreat. Visual style: photorealistic cinematic wildlife documentary, premium nature-film look, 16:9 widescreen, warm honey-gold grade, long telephoto compression, very shallow depth of field with creamy bokeh, ultra-fine micro-detail, realistic animal anatomy and locomotion, natural physics, smooth cinematic motion, no text, no logos, no music, no human presence, no gore.
 Camera Movement: Slow pull-back
@@ -818,7 +866,7 @@ Subject Motion: The giant swims away
 Environment Motion: Ripples spread
 Duration: 10 seconds
 
-**Beat 103**
+**Beat 109**
 [Script Segment Text]: "But in the middle of the struggle, no one noticed a small shape creeping along a mangrove root toward the feast. Kecil."
 Video Prompt: A small young Komodo dragon about a year old, slender and speckled with bright yellow and green bands creeps along a mangrove root toward a buffalo carcass in a mangrove swamp on Rinca island, Indonesia, with twisting roots, mud and channels of seawater, a giant dragon blurred beyond. Over 10 seconds, the young dragon creeps forward; mud glistens. Camera movement: Slow tracking shot. Lighting: low golden morning sunlight, warm backlit rim light on scales and grass, soft tropical haze. Mood: sneaking in. Visual style: photorealistic cinematic wildlife documentary, premium nature-film look, 16:9 widescreen, warm honey-gold grade, long telephoto compression, very shallow depth of field with creamy bokeh, ultra-fine micro-detail, realistic animal anatomy and locomotion, natural physics, smooth cinematic motion, no text, no logos, no music, no human presence, no gore.
 Camera Movement: Slow tracking shot
@@ -826,7 +874,7 @@ Subject Motion: The young dragon creeps forward
 Environment Motion: Mud glistens
 Duration: 10 seconds
 
-**Beat 104**
+**Beat 110**
 [Script Segment Text]: "She is hungry, and the smell of the buffalo is overwhelming. She edges closer to the far side of the carcass,"
 Video Prompt: A small young Komodo dragon about a year old, slender and speckled with bright yellow and green bands edges toward the far side of a buffalo carcass in a mangrove swamp on Rinca island, Indonesia, with twisting roots, mud and channels of seawater. Over 10 seconds, the young dragon inches closer; mud drips. Camera movement: Slow push-in. Lighting: low golden morning sunlight, warm backlit rim light on scales and grass, soft tropical haze. Mood: temptation. Visual style: photorealistic cinematic wildlife documentary, premium nature-film look, 16:9 widescreen, warm honey-gold grade, long telephoto compression, very shallow depth of field with creamy bokeh, ultra-fine micro-detail, realistic animal anatomy and locomotion, natural physics, smooth cinematic motion, no text, no logos, no music, no human presence, no gore.
 Camera Movement: Slow push-in
@@ -834,7 +882,7 @@ Subject Motion: The young dragon inches closer
 Environment Motion: Mud drips
 Duration: 10 seconds
 
-**Beat 105**
+**Beat 111**
 [Script Segment Text]: "as far from Naga as she can get. Naga lifts his head. His tongue flicks toward her."
 Video Prompt: Close on a massive adult male Komodo dragon with grey-brown armoured scaly skin covered in old scars, a heavy muscular body, curved hooked claws and a long yellow forked tongue lifting its head and flicking its tongue toward a young dragon off-frame. Over 10 seconds, the tongue flicks; light glints on its face. Camera movement: Imperceptible push-in. Lighting: low golden morning sunlight, warm backlit rim light on scales and grass, soft tropical haze. Mood: danger. Visual style: photorealistic cinematic wildlife documentary, premium nature-film look, 16:9 widescreen, warm honey-gold grade, long telephoto compression, very shallow depth of field with creamy bokeh, ultra-fine micro-detail, realistic animal anatomy and locomotion, natural physics, smooth cinematic motion, no text, no logos, no music, no human presence, no gore.
 Camera Movement: Imperceptible push-in
@@ -842,7 +890,7 @@ Subject Motion: The tongue flicks
 Environment Motion: Light glints on its face
 Duration: 10 seconds
 
-**Beat 106**
+**Beat 112**
 [Script Segment Text]: "Kecil does the only thing she can. She rolls in the mud and filth at the edge of the swamp,"
 Video Prompt: A small young Komodo dragon about a year old, slender and speckled with bright yellow and green bands rolls in mud and filth at the edge of a mangrove swamp in a mangrove swamp on Rinca island, Indonesia, with twisting roots, mud and channels of seawater. Over 10 seconds, the young dragon rolls; mud splashes. Camera movement: Slow push-in. Lighting: low golden morning sunlight, warm backlit rim light on scales and grass, soft tropical haze. Mood: clever. Visual style: photorealistic cinematic wildlife documentary, premium nature-film look, 16:9 widescreen, warm honey-gold grade, long telephoto compression, very shallow depth of field with creamy bokeh, ultra-fine micro-detail, realistic animal anatomy and locomotion, natural physics, smooth cinematic motion, no text, no logos, no music, no human presence, no gore.
 Camera Movement: Slow push-in
@@ -850,7 +898,7 @@ Subject Motion: The young dragon rolls
 Environment Motion: Mud splashes
 Duration: 10 seconds
 
-**Beat 107**
+**Beat 113**
 [Script Segment Text]: "coating her whole body with it. Young dragons do this for a reason. The smell makes them unappealing, even to a hungry adult."
 Video Prompt: Close on a small young Komodo dragon about a year old, slender and speckled with bright yellow and green bands completely coated in dark mud, only its eyes bright. Over 10 seconds, the young dragon blinks; mud drips. Camera movement: Imperceptible push-in. Lighting: low golden morning sunlight, warm backlit rim light on scales and grass, soft tropical haze. Mood: disguised. Visual style: photorealistic cinematic wildlife documentary, premium nature-film look, 16:9 widescreen, warm honey-gold grade, long telephoto compression, very shallow depth of field with creamy bokeh, ultra-fine micro-detail, realistic animal anatomy and locomotion, natural physics, smooth cinematic motion, no text, no logos, no music, no human presence, no gore.
 Camera Movement: Imperceptible push-in
@@ -858,7 +906,7 @@ Subject Motion: The young dragon blinks
 Environment Motion: Mud drips
 Duration: 10 seconds
 
-**Beat 108**
+**Beat 114**
 [Script Segment Text]: "Naga watches her for a long moment. Then he turns back to the buffalo and begins to feed. Kecil darts in,"
 Video Prompt: A massive adult male Komodo dragon with grey-brown armoured scaly skin covered in old scars, a heavy muscular body, curved hooked claws and a long yellow forked tongue turns away from a mud-covered young dragon and begins feeding on a buffalo carcass in a mangrove swamp on Rinca island, Indonesia, with twisting roots, mud and channels of seawater. Over 10 seconds, the big dragon turns away; mud glistens. Camera movement: Slow rack focus from the young dragon to Naga. Lighting: low golden morning sunlight, warm backlit rim light on scales and grass, soft tropical haze. Mood: tolerance. Visual style: photorealistic cinematic wildlife documentary, premium nature-film look, 16:9 widescreen, warm honey-gold grade, long telephoto compression, very shallow depth of field with creamy bokeh, ultra-fine micro-detail, realistic animal anatomy and locomotion, natural physics, smooth cinematic motion, no text, no logos, no music, no human presence, no gore.
 Camera Movement: Slow rack focus from the young dragon to Naga
@@ -866,7 +914,7 @@ Subject Motion: The big dragon turns away
 Environment Motion: Mud glistens
 Duration: 10 seconds
 
-**Beat 109**
+**Beat 115**
 [Script Segment Text]: "tears away a small scrap, and scrambles back up into the mangrove roots, where she eats in safety, high above the giant below."
 Video Prompt: A small young Komodo dragon about a year old, slender and speckled with bright yellow and green bands darts in, grabs a scrap and scrambles up into the mangrove roots in a mangrove swamp on Rinca island, Indonesia, with twisting roots, mud and channels of seawater. Over 10 seconds, the young dragon dashes up the roots; mud flicks from its claws. Camera movement: Telephoto tracking shot. Lighting: low golden morning sunlight, warm backlit rim light on scales and grass, soft tropical haze. Mood: survival. Visual style: photorealistic cinematic wildlife documentary, premium nature-film look, 16:9 widescreen, warm honey-gold grade, long telephoto compression, very shallow depth of field with creamy bokeh, ultra-fine micro-detail, realistic animal anatomy and locomotion, natural physics, smooth cinematic motion, no text, no logos, no music, no human presence, no gore.
 Camera Movement: Telephoto tracking shot
@@ -874,7 +922,87 @@ Subject Motion: The young dragon dashes up the roots
 Environment Motion: Mud flicks from its claws
 Duration: 10 seconds
 
-**Beat 110**
+**Beat 116**
+[Script Segment Text]: "But the feast is not over. And neither is the danger. The smell of the carcass is now drifting across the whole island."
+Video Prompt: Wind carrying over the mangroves and hills on Rinca island, Indonesia, among steep sunburnt hills, dry golden grass and scattered lontar palms, a buffalo carcass small in the mud below. Over 10 seconds, wind ripples the mangrove canopy; haze glows. Camera movement: Slow pull-back. Lighting: low golden morning sunlight, warm backlit rim light on scales and grass, soft tropical haze. Mood: escalation. Visual style: photorealistic cinematic wildlife documentary, premium nature-film look, 16:9 widescreen, warm honey-gold grade, long telephoto compression, very shallow depth of field with creamy bokeh, ultra-fine micro-detail, realistic animal anatomy and locomotion, natural physics, smooth cinematic motion, no text, no logos, no music, no human presence, no gore.
+Camera Movement: Slow pull-back
+Subject Motion: Wind ripples the mangrove canopy
+Environment Motion: Haze glows
+Duration: 10 seconds
+
+**Beat 117**
+[Script Segment Text]: "One by one, more dragons emerge from the mangroves. The three that waited all night at the waterhole. Then two more."
+Video Prompt: Several Komodo dragons of different sizes emerge one by one from mangrove roots and water in a mangrove swamp on Rinca island, Indonesia, with twisting roots, mud and channels of seawater, tongues flicking. Over 10 seconds, the dragons crawl out of the water; water streams off their scales. Camera movement: Slow lateral tracking. Lighting: low golden morning sunlight, warm backlit rim light on scales and grass, soft tropical haze. Mood: gathering army. Visual style: photorealistic cinematic wildlife documentary, premium nature-film look, 16:9 widescreen, warm honey-gold grade, long telephoto compression, very shallow depth of field with creamy bokeh, ultra-fine micro-detail, realistic animal anatomy and locomotion, natural physics, smooth cinematic motion, no text, no logos, no music, no human presence, no gore.
+Camera Movement: Slow lateral tracking
+Subject Motion: The dragons crawl out of the water
+Environment Motion: Water streams off their scales
+Duration: 10 seconds
+
+**Beat 118**
+[Script Segment Text]: "Then another. They gather around the buffalo in a tightening ring, hissing, tongues flicking, each one waiting for its chance."
+Video Prompt: A tightening ring of six Komodo dragons surrounds a massive adult male Komodo dragon with grey-brown armoured scaly skin covered in old scars, a heavy muscular body, curved hooked claws and a long yellow forked tongue feeding on a buffalo carcass in a mangrove swamp on Rinca island, Indonesia, with twisting roots, mud and channels of seawater. Over 10 seconds, the dragons circle and hiss; mud glistens. Camera movement: Slow circling shot. Lighting: low golden morning sunlight, warm backlit rim light on scales and grass, soft tropical haze. Mood: encircled. Visual style: photorealistic cinematic wildlife documentary, premium nature-film look, 16:9 widescreen, warm honey-gold grade, long telephoto compression, very shallow depth of field with creamy bokeh, ultra-fine micro-detail, realistic animal anatomy and locomotion, natural physics, smooth cinematic motion, no text, no logos, no music, no human presence, no gore.
+Camera Movement: Slow circling shot
+Subject Motion: The dragons circle and hiss
+Environment Motion: Mud glistens
+Duration: 10 seconds
+
+**Beat 119**
+[Script Segment Text]: "On this island, the feeding has rules. The biggest dragon eats first. The others wait their turn,"
+Video Prompt: Smaller Komodo dragons lie waiting at a distance while a massive adult male Komodo dragon with grey-brown armoured scaly skin covered in old scars, a heavy muscular body, curved hooked claws and a long yellow forked tongue feeds on a buffalo carcass in a mangrove swamp on Rinca island, Indonesia, with twisting roots, mud and channels of seawater. Over 10 seconds, the smaller dragons watch; flies drift in the light. Camera movement: Slow rack focus from the waiting dragons to Naga. Lighting: low golden morning sunlight, warm backlit rim light on scales and grass, soft tropical haze. Mood: hierarchy. Visual style: photorealistic cinematic wildlife documentary, premium nature-film look, 16:9 widescreen, warm honey-gold grade, long telephoto compression, very shallow depth of field with creamy bokeh, ultra-fine micro-detail, realistic animal anatomy and locomotion, natural physics, smooth cinematic motion, no text, no logos, no music, no human presence, no gore.
+Camera Movement: Slow rack focus from the waiting dragons to Naga
+Subject Motion: The smaller dragons watch
+Environment Motion: Flies drift in the light
+Duration: 10 seconds
+
+**Beat 120**
+[Script Segment Text]: "and any that push in too soon risk a bite from the giant. One young male tests those rules."
+Video Prompt: Close on a young male Komodo dragon creeping toward the far side of a buffalo carcass, tongue flicking. Over 10 seconds, the young male inches forward; mud squelches. Camera movement: Slow tracking at ground level. Lighting: low golden morning sunlight, warm backlit rim light on scales and grass, soft tropical haze. Mood: challenge. Visual style: photorealistic cinematic wildlife documentary, premium nature-film look, 16:9 widescreen, warm honey-gold grade, long telephoto compression, very shallow depth of field with creamy bokeh, ultra-fine micro-detail, realistic animal anatomy and locomotion, natural physics, smooth cinematic motion, no text, no logos, no music, no human presence, no gore.
+Camera Movement: Slow tracking at ground level
+Subject Motion: The young male inches forward
+Environment Motion: Mud squelches
+Duration: 10 seconds
+
+**Beat 121**
+[Script Segment Text]: "He lunges for the carcass from the far side. Naga swings his head and drives him back with a hiss that echoes across the mud."
+Video Prompt: A massive adult male Komodo dragon with grey-brown armoured scaly skin covered in old scars, a heavy muscular body, curved hooked claws and a long yellow forked tongue swings its head and hisses at a young male dragon lunging for a buffalo carcass in a mangrove swamp on Rinca island, Indonesia, with twisting roots, mud and channels of seawater, driving it back. Over 10 seconds, the big dragon lunges and the young male recoils; mud sprays. Camera movement: Slow motion at the clash. Lighting: low golden morning sunlight, warm backlit rim light on scales and grass, soft tropical haze. Mood: dominance. Visual style: photorealistic cinematic wildlife documentary, premium nature-film look, 16:9 widescreen, warm honey-gold grade, long telephoto compression, very shallow depth of field with creamy bokeh, ultra-fine micro-detail, realistic animal anatomy and locomotion, natural physics, smooth cinematic motion, no text, no logos, no music, no human presence, no gore.
+Camera Movement: Slow motion at the clash
+Subject Motion: The big dragon lunges and the young male recoils
+Environment Motion: Mud sprays
+Duration: 10 seconds
+
+**Beat 122**
+[Script Segment Text]: "No one tries again. High above, Kecil watches the ring of dragons below her grow larger and larger."
+Video Prompt: A small young Komodo dragon about a year old, slender and speckled with bright yellow and green bands, mud-covered, clings to a high mangrove root looking down at a ring of large dragons feeding below. Over 10 seconds, the young dragon watches; leaves flicker. Camera movement: Slow tilt down from Kecil to the dragons. Lighting: low golden morning sunlight, warm backlit rim light on scales and grass, soft tropical haze. Mood: watching from above. Visual style: photorealistic cinematic wildlife documentary, premium nature-film look, 16:9 widescreen, warm honey-gold grade, long telephoto compression, very shallow depth of field with creamy bokeh, ultra-fine micro-detail, realistic animal anatomy and locomotion, natural physics, smooth cinematic motion, no text, no logos, no music, no human presence, no gore.
+Camera Movement: Slow tilt down from Kecil to the dragons
+Subject Motion: The young dragon watches
+Environment Motion: Leaves flicker
+Duration: 10 seconds
+
+**Beat 123**
+[Script Segment Text]: "Every one of them could swallow her whole. One of them stops beneath her root. It lifts its head."
+Video Prompt: A large Komodo dragon stops beneath a mangrove root and lifts its head toward a small young Komodo dragon about a year old, slender and speckled with bright yellow and green bands clinging above. Over 10 seconds, the dragon raises its head; mud drips from the root. Camera movement: Slow tilt up from the dragon to Kecil. Lighting: low golden morning sunlight, warm backlit rim light on scales and grass, soft tropical haze. Mood: peril. Visual style: photorealistic cinematic wildlife documentary, premium nature-film look, 16:9 widescreen, warm honey-gold grade, long telephoto compression, very shallow depth of field with creamy bokeh, ultra-fine micro-detail, realistic animal anatomy and locomotion, natural physics, smooth cinematic motion, no text, no logos, no music, no human presence, no gore.
+Camera Movement: Slow tilt up from the dragon to Kecil
+Subject Motion: The dragon raises its head
+Environment Motion: Mud drips from the root
+Duration: 10 seconds
+
+**Beat 124**
+[Script Segment Text]: "Its tongue flicks upward, toward the mud still drying on her skin. Kecil does not move. She does not come down."
+Video Prompt: Close on the forked tongue of a large Komodo dragon flicking upward, a mud-covered young dragon blurred above. Over 10 seconds, the tongue flicks upward; light glints on the tongue. Camera movement: Imperceptible push-in. Lighting: low golden morning sunlight, warm backlit rim light on scales and grass, soft tropical haze. Mood: hold still. Visual style: photorealistic cinematic wildlife documentary, premium nature-film look, 16:9 widescreen, warm honey-gold grade, long telephoto compression, very shallow depth of field with creamy bokeh, ultra-fine micro-detail, realistic animal anatomy and locomotion, natural physics, smooth cinematic motion, no text, no logos, no music, no human presence, no gore.
+Camera Movement: Imperceptible push-in
+Subject Motion: The tongue flicks upward
+Environment Motion: Light glints on the tongue
+Duration: 10 seconds
+
+**Beat 125**
+[Script Segment Text]: "After a long moment, the dragon loses interest and turns back to the feast. She waits, exactly as she has learned to wait."
+Video Prompt: A large Komodo dragon turns away from a mangrove root and returns to a feast while a small young Komodo dragon about a year old, slender and speckled with bright yellow and green bands stays motionless above. Over 10 seconds, the dragon turns away; mud glistens in the light. Camera movement: Slow pull-back. Lighting: low golden morning sunlight, warm backlit rim light on scales and grass, soft tropical haze. Mood: patience learned. Visual style: photorealistic cinematic wildlife documentary, premium nature-film look, 16:9 widescreen, warm honey-gold grade, long telephoto compression, very shallow depth of field with creamy bokeh, ultra-fine micro-detail, realistic animal anatomy and locomotion, natural physics, smooth cinematic motion, no text, no logos, no music, no human presence, no gore.
+Camera Movement: Slow pull-back
+Subject Motion: The dragon turns away
+Environment Motion: Mud glistens in the light
+Duration: 10 seconds
+
+**Beat 126**
 [Script Segment Text]: "Naga eats for hours. A Komodo dragon can swallow up to eighty percent of its own body weight in a single meal."
 Video Prompt: A massive adult male Komodo dragon with grey-brown armoured scaly skin covered in old scars, a heavy muscular body, curved hooked claws and a long yellow forked tongue feeds on a buffalo carcass in a mangrove swamp on Rinca island, Indonesia, with twisting roots, mud and channels of seawater, golden light on its scales. Over 10 seconds, the dragon feeds; flies drift in the light. Camera movement: Slow orbit. Lighting: low golden morning sunlight, warm backlit rim light on scales and grass, soft tropical haze. Mood: feast. Visual style: photorealistic cinematic wildlife documentary, premium nature-film look, 16:9 widescreen, warm honey-gold grade, long telephoto compression, very shallow depth of field with creamy bokeh, ultra-fine micro-detail, realistic animal anatomy and locomotion, natural physics, smooth cinematic motion, no text, no logos, no music, no human presence, no gore.
 Camera Movement: Slow orbit
@@ -882,7 +1010,7 @@ Subject Motion: The dragon feeds
 Environment Motion: Flies drift in the light
 Duration: 10 seconds
 
-**Beat 111**
+**Beat 127**
 [Script Segment Text]: "Its jaws can open wide enough to swallow huge chunks whole. After a feast like this, it may not need to eat again for weeks."
 Video Prompt: Close on the wide-open jaws of a massive adult male Komodo dragon with grey-brown armoured scaly skin covered in old scars, a heavy muscular body, curved hooked claws and a long yellow forked tongue stretched wide while feeding. Over 10 seconds, the jaws open wide; light glints on teeth. Camera movement: Slow push-in. Lighting: low golden morning sunlight, warm backlit rim light on scales and grass, soft tropical haze. Mood: capacity. Visual style: photorealistic cinematic wildlife documentary, premium nature-film look, 16:9 widescreen, warm honey-gold grade, long telephoto compression, very shallow depth of field with creamy bokeh, ultra-fine micro-detail, realistic animal anatomy and locomotion, natural physics, smooth cinematic motion, no text, no logos, no music, no human presence, no gore.
 Camera Movement: Slow push-in
@@ -890,15 +1018,15 @@ Subject Motion: The jaws open wide
 Environment Motion: Light glints on teeth
 Duration: 10 seconds
 
-**Beat 112**
-[Script Segment Text]: "When he finally stops, he climbs onto a sunny bank above the mangroves and lies still,"
+**Beat 128**
+[Script Segment Text]: "When he finally stops, the waiting dragons rush in to take their share. Naga climbs onto a sunny bank above the mangroves and lies still,"
 Video Prompt: A massive adult male Komodo dragon with grey-brown armoured scaly skin covered in old scars, a heavy muscular body, curved hooked claws and a long yellow forked tongue climbs onto a sunny bank above the mangroves in a mangrove swamp on Rinca island, Indonesia, with twisting roots, mud and channels of seawater, belly full. Over 10 seconds, the dragon climbs and settles; warm light spreads. Camera movement: Slow tracking shot. Lighting: low golden morning sunlight, warm backlit rim light on scales and grass, soft tropical haze. Mood: rest. Visual style: photorealistic cinematic wildlife documentary, premium nature-film look, 16:9 widescreen, warm honey-gold grade, long telephoto compression, very shallow depth of field with creamy bokeh, ultra-fine micro-detail, realistic animal anatomy and locomotion, natural physics, smooth cinematic motion, no text, no logos, no music, no human presence, no gore.
 Camera Movement: Slow tracking shot
 Subject Motion: The dragon climbs and settles
 Environment Motion: Warm light spreads
 Duration: 10 seconds
 
-**Beat 113**
+**Beat 129**
 [Script Segment Text]: "letting the morning warmth spread through his body. The wound on his side will heal. The scars will join the others."
 Video Prompt: Close on the scarred side of a massive adult male Komodo dragon with grey-brown armoured scaly skin covered in old scars, a heavy muscular body, curved hooked claws and a long yellow forked tongue with a fresh healing gash, basking in warm sun. Over 10 seconds, the flank rises with slow breaths; sunlight glows. Camera movement: Slow tracking along the scars. Lighting: low golden morning sunlight, warm backlit rim light on scales and grass, soft tropical haze. Mood: healing. Visual style: photorealistic cinematic wildlife documentary, premium nature-film look, 16:9 widescreen, warm honey-gold grade, long telephoto compression, very shallow depth of field with creamy bokeh, ultra-fine micro-detail, realistic animal anatomy and locomotion, natural physics, smooth cinematic motion, no text, no logos, no music, no human presence, no gore.
 Camera Movement: Slow tracking along the scars
@@ -906,7 +1034,7 @@ Subject Motion: The flank rises with slow breaths
 Environment Motion: Sunlight glows
 Duration: 10 seconds
 
-**Beat 114**
+**Beat 130**
 [Script Segment Text]: "So how does a hunter that cannot overpower its prey bring down an animal seven times its size? Not by strength."
 Video Prompt: A massive adult male Komodo dragon with grey-brown armoured scaly skin covered in old scars, a heavy muscular body, curved hooked claws and a long yellow forked tongue basking on a rock above the valley on Rinca island, Indonesia, among steep sunburnt hills, dry golden grass and scattered lontar palms, eyes half-closed. Over 10 seconds, the dragon rests; heat haze ripples. Camera movement: Slow push-in. Lighting: warm late-afternoon golden-hour sunlight, glowing rim light, sunlit dust in the air. Mood: the answer. Visual style: photorealistic cinematic wildlife documentary, premium nature-film look, 16:9 widescreen, warm honey-gold grade, long telephoto compression, very shallow depth of field with creamy bokeh, ultra-fine micro-detail, realistic animal anatomy and locomotion, natural physics, smooth cinematic motion, no text, no logos, no music, no human presence, no gore.
 Camera Movement: Slow push-in
@@ -914,7 +1042,7 @@ Subject Motion: The dragon rests
 Environment Motion: Heat haze ripples
 Duration: 10 seconds
 
-**Beat 115**
+**Beat 131**
 [Script Segment Text]: "The buffalo was always stronger. Not by speed. He could never outrun her. He wins with patience. One bite,"
 Video Prompt: A herd of water buffalo grazing on Rinca island, Indonesia, among steep sunburnt hills, dry golden grass and scattered lontar palms while a single Komodo dragon lies watching in the grass. Over 10 seconds, the buffalo graze; grass sways. Camera movement: Slow pull-back. Lighting: warm late-afternoon golden-hour sunlight, glowing rim light, sunlit dust in the air. Mood: strength vs patience. Visual style: photorealistic cinematic wildlife documentary, premium nature-film look, 16:9 widescreen, warm honey-gold grade, long telephoto compression, very shallow depth of field with creamy bokeh, ultra-fine micro-detail, realistic animal anatomy and locomotion, natural physics, smooth cinematic motion, no text, no logos, no music, no human presence, no gore.
 Camera Movement: Slow pull-back
@@ -922,7 +1050,7 @@ Subject Motion: The buffalo graze
 Environment Motion: Grass sways
 Duration: 10 seconds
 
-**Beat 116**
+**Beat 132**
 [Script Segment Text]: "and then the long walk behind his prey, for hours, for days, for as long as it takes. The buffalo had horns,"
 Video Prompt: A massive adult male Komodo dragon with grey-brown armoured scaly skin covered in old scars, a heavy muscular body, curved hooked claws and a long yellow forked tongue walking a long winding trail through the hills on Rinca island, Indonesia, among steep sunburnt hills, dry golden grass and scattered lontar palms. Over 10 seconds, the dragon walks; dust trails behind. Camera movement: Slow telephoto tracking. Lighting: warm late-afternoon golden-hour sunlight, glowing rim light, sunlit dust in the air. Mood: endurance. Visual style: photorealistic cinematic wildlife documentary, premium nature-film look, 16:9 widescreen, warm honey-gold grade, long telephoto compression, very shallow depth of field with creamy bokeh, ultra-fine micro-detail, realistic animal anatomy and locomotion, natural physics, smooth cinematic motion, no text, no logos, no music, no human presence, no gore.
 Camera Movement: Slow telephoto tracking
@@ -930,7 +1058,7 @@ Subject Motion: The dragon walks
 Environment Motion: Dust trails behind
 Duration: 10 seconds
 
-**Beat 117**
+**Beat 133**
 [Script Segment Text]: "a herd, and seven times his weight. Naga had time. And on this island, time is the most dangerous weapon of all."
 Video Prompt: Extreme close-up of the patient eye of a massive adult male Komodo dragon with grey-brown armoured scaly skin covered in old scars, a heavy muscular body, curved hooked claws and a long yellow forked tongue, golden bokeh behind. Over 10 seconds, the eye blinks slowly; light shifts across the scales. Camera movement: Imperceptible push-in. Lighting: warm late-afternoon golden-hour sunlight, glowing rim light, sunlit dust in the air. Mood: time. Visual style: photorealistic cinematic wildlife documentary, premium nature-film look, 16:9 widescreen, warm honey-gold grade, long telephoto compression, very shallow depth of field with creamy bokeh, ultra-fine micro-detail, realistic animal anatomy and locomotion, natural physics, smooth cinematic motion, no text, no logos, no music, no human presence, no gore.
 Camera Movement: Imperceptible push-in
@@ -938,7 +1066,7 @@ Subject Motion: The eye blinks slowly
 Environment Motion: Light shifts across the scales
 Duration: 10 seconds
 
-**Beat 118**
+**Beat 134**
 [Script Segment Text]: "But time is running out for the dragons themselves. Only a few thousand Komodo dragons remain in the wild."
 Video Prompt: A single Komodo dragon walking along an empty beach at sunset on Rinca island, Indonesia, waves rolling in. Over 10 seconds, the dragon walks along the beach; waves wash the sand. Camera movement: Slow tracking shot. Lighting: deep amber dusk light over the hills, long shadows, glowing hazy horizon. Mood: rare. Visual style: photorealistic cinematic wildlife documentary, premium nature-film look, 16:9 widescreen, warm honey-gold grade, long telephoto compression, very shallow depth of field with creamy bokeh, ultra-fine micro-detail, realistic animal anatomy and locomotion, natural physics, smooth cinematic motion, no text, no logos, no music, no human presence, no gore.
 Camera Movement: Slow tracking shot
@@ -946,7 +1074,7 @@ Subject Motion: The dragon walks along the beach
 Environment Motion: Waves wash the sand
 Duration: 10 seconds
 
-**Beat 119**
+**Beat 135**
 [Script Segment Text]: "They live on a handful of islands, and nowhere else on Earth. As the climate warms and the seas rise,"
 Video Prompt: The small islands of Komodo National Park silhouetted against an amber dusk sky, sea glittering. Over 10 seconds, the sea glitters; the sky fades. Camera movement: Slow drift. Lighting: deep amber dusk light over the hills, long shadows, glowing hazy horizon. Mood: isolated. Visual style: photorealistic cinematic wildlife documentary, premium nature-film look, 16:9 widescreen, warm honey-gold grade, long telephoto compression, very shallow depth of field with creamy bokeh, ultra-fine micro-detail, realistic animal anatomy and locomotion, natural physics, smooth cinematic motion, no text, no logos, no music, no human presence, no gore.
 Camera Movement: Slow drift
@@ -954,7 +1082,7 @@ Subject Motion: The sea glitters
 Environment Motion: The sky fades
 Duration: 10 seconds
 
-**Beat 120**
+**Beat 136**
 [Script Segment Text]: "scientists warn that the low coastal lands these dragons depend on could shrink. Their islands are already small."
 Video Prompt: Seawater washing over low coastal mangroves and beach on Rinca island at dusk. Over 10 seconds, waves wash over the low land; the tide rises. Camera movement: Slow push-in. Lighting: deep amber dusk light over the hills, long shadows, glowing hazy horizon. Mood: threat. Visual style: photorealistic cinematic wildlife documentary, premium nature-film look, 16:9 widescreen, warm honey-gold grade, long telephoto compression, very shallow depth of field with creamy bokeh, ultra-fine micro-detail, realistic animal anatomy and locomotion, natural physics, smooth cinematic motion, no text, no logos, no music, no human presence, no gore.
 Camera Movement: Slow push-in
@@ -962,7 +1090,7 @@ Subject Motion: Waves wash over the low land
 Environment Motion: The tide rises
 Duration: 10 seconds
 
-**Beat 121**
+**Beat 137**
 [Script Segment Text]: "There is nowhere else for them to go. Komodo National Park now protects much of their home, and their numbers there have held steady."
 Video Prompt: The untouched wild hills and valleys of Komodo National Park, Indonesia, in warm golden light. Over 10 seconds, grass ripples; haze glows. Camera movement: Slow pull-back. Lighting: warm late-afternoon golden-hour sunlight, glowing rim light, sunlit dust in the air. Mood: protection. Visual style: photorealistic cinematic wildlife documentary, premium nature-film look, 16:9 widescreen, warm honey-gold grade, long telephoto compression, very shallow depth of field with creamy bokeh, ultra-fine micro-detail, realistic animal anatomy and locomotion, natural physics, smooth cinematic motion, no text, no logos, no music, no human presence, no gore.
 Camera Movement: Slow pull-back
@@ -970,7 +1098,7 @@ Subject Motion: Grass ripples
 Environment Motion: Haze glows
 Duration: 10 seconds
 
-**Beat 122**
+**Beat 138**
 [Script Segment Text]: "But their future depends on those islands staying wild. Perhaps the creator left these dragons on just a few islands to remind us how rare"
 Video Prompt: The silhouette of a Komodo dragon on a hilltop against a glowing sunset over the islands. Over 10 seconds, the dragon stands still; the sky glows. Camera movement: Slow pull-back. Lighting: deep amber dusk light over the hills, long shadows, glowing hazy horizon. Mood: reflection. Visual style: photorealistic cinematic wildlife documentary, premium nature-film look, 16:9 widescreen, warm honey-gold grade, long telephoto compression, very shallow depth of field with creamy bokeh, ultra-fine micro-detail, realistic animal anatomy and locomotion, natural physics, smooth cinematic motion, no text, no logos, no music, no human presence, no gore.
 Camera Movement: Slow pull-back
@@ -978,7 +1106,7 @@ Subject Motion: The dragon stands still
 Environment Motion: The sky glows
 Duration: 10 seconds
 
-**Beat 123**
+**Beat 139**
 [Script Segment Text]: "and fragile the ancient world really is. One age of giants still walking in the sun. Somewhere on Rinca tonight,"
 Video Prompt: A starry sky over the dark islands of Komodo National Park, Indonesia, the sea reflecting moonlight. Over 10 seconds, stars twinkle; moonlight shimmers on the sea. Camera movement: Slow tilt up. Lighting: soft silver moonlight with a faint blue glow, gentle warm grade, deep shadows. Mood: wonder. Visual style: photorealistic cinematic wildlife documentary, premium nature-film look, 16:9 widescreen, warm honey-gold grade, long telephoto compression, very shallow depth of field with creamy bokeh, ultra-fine micro-detail, realistic animal anatomy and locomotion, natural physics, smooth cinematic motion, no text, no logos, no music, no human presence, no gore.
 Camera Movement: Slow tilt up
@@ -986,7 +1114,7 @@ Subject Motion: Stars twinkle
 Environment Motion: Moonlight shimmers on the sea
 Duration: 10 seconds
 
-**Beat 124**
+**Beat 140**
 [Script Segment Text]: "Naga lies in the warm earth, full and still. High above him, in the mangroves, a young dragon sleeps safely in the branches,"
 Video Prompt: A massive adult male Komodo dragon with grey-brown armoured scaly skin covered in old scars, a heavy muscular body, curved hooked claws and a long yellow forked tongue lying asleep on warm earth while a small young Komodo dragon about a year old, slender and speckled with bright yellow and green bands sleeps on a branch above, in moonlight. Over 10 seconds, both lie still; moonlight glows. Camera movement: Slow tilt from Naga up to the young dragon. Lighting: soft silver moonlight with a faint blue glow, gentle warm grade, deep shadows. Mood: peace. Visual style: photorealistic cinematic wildlife documentary, premium nature-film look, 16:9 widescreen, warm honey-gold grade, long telephoto compression, very shallow depth of field with creamy bokeh, ultra-fine micro-detail, realistic animal anatomy and locomotion, natural physics, smooth cinematic motion, no text, no logos, no music, no human presence, no gore.
 Camera Movement: Slow tilt from Naga up to the young dragon
@@ -994,7 +1122,7 @@ Subject Motion: Both lie still
 Environment Motion: Moonlight glows
 Duration: 10 seconds
 
-**Beat 125**
+**Beat 141**
 [Script Segment Text]: "one day closer to growing up. All they ask is an island to call their own. If Naga's story stayed with you,"
 Video Prompt: The wild islands of Komodo National Park at dawn, golden light on hills and turquoise water. Over 10 seconds, waves roll in; morning haze glows. Camera movement: Slow push-in. Lighting: low golden morning sunlight, warm backlit rim light on scales and grass, soft tropical haze. Mood: home. Visual style: photorealistic cinematic wildlife documentary, premium nature-film look, 16:9 widescreen, warm honey-gold grade, long telephoto compression, very shallow depth of field with creamy bokeh, ultra-fine micro-detail, realistic animal anatomy and locomotion, natural physics, smooth cinematic motion, no text, no logos, no music, no human presence, no gore.
 Camera Movement: Slow push-in
@@ -1002,7 +1130,7 @@ Subject Motion: Waves roll in
 Environment Motion: Morning haze glows
 Duration: 10 seconds
 
-**Beat 126**
+**Beat 142**
 [Script Segment Text]: "join us again for the next battle in the wild. Subscribe to Nature's Coliseum, and we'll meet you again where the giants still walk."
 Video Prompt: A massive adult male Komodo dragon with grey-brown armoured scaly skin covered in old scars, a heavy muscular body, curved hooked claws and a long yellow forked tongue walks up a golden ridge on Rinca island, Indonesia, among steep sunburnt hills, dry golden grass and scattered lontar palms and disappears over the top against a glowing sky. Over 10 seconds, the dragon walks over the ridge; haze glows on the horizon. Camera movement: Slow pull-back. Lighting: warm late-afternoon golden-hour sunlight, glowing rim light, sunlit dust in the air. Mood: farewell. Visual style: photorealistic cinematic wildlife documentary, premium nature-film look, 16:9 widescreen, warm honey-gold grade, long telephoto compression, very shallow depth of field with creamy bokeh, ultra-fine micro-detail, realistic animal anatomy and locomotion, natural physics, smooth cinematic motion, no text, no logos, no music, no human presence, no gore.
 Camera Movement: Slow pull-back
