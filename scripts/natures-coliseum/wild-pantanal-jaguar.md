@@ -1,5 +1,17 @@
 # WILD PANTANAL | The Cat That Hunts Crocodiles
 
+Ten million caiman on this river. And one cat that dives off the bank and goes for the skull. Every single time.
+
+A family of eight, screaming, lunging, diving. Giant otters do not share their river. Not even with a jaguar.
+
+A cub who bites the wrong place and learns the hard way. On this river, armour bites back.
+
+Alone in the dark. Paws in the water. And the heaviest snake on Earth sliding toward him, slow as a shadow.
+
+A male twice her size. A cub with nowhere to run. And a mother who comes out of the river roaring.
+
+One leap that changes everything. One fire that changes everything again. This is how it all began.
+
 The river has rules. Nobody writes them down.
 
 Everything here fears the caiman. Fish. Birds. Deer that come down to drink.

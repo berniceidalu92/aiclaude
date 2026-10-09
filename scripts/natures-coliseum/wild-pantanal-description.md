@@ -12,22 +12,23 @@ So how does a cat survive by hunting the one animal everything else is afraid of
 • The cub's first caiman leap, and a wildfire that changes everything
 
 ⏱️ Chapters
-0:00 The River Has Rules
-1:40 The Largest Wetland on Earth
-2:20 Meet Jaci
-4:10 The Capybara That Got Away
-5:50 The Leap
-8:00 The Otters
-10:00 The Male
-11:50 The First Lesson
-14:20 Missing
-15:40 The Anaconda
-17:20 The Search
-18:20 Cornered
-19:30 Mother vs Male
-21:20 His Turn
-23:10 Fire on the River
-24:30 How the Fearless Survive
+0:00 Every Fight on the River
+1:00 The River Has Rules
+2:40 The Largest Wetland on Earth
+3:20 Meet Jaci
+5:10 The Capybara That Got Away
+6:50 The Leap
+9:00 The Otters
+11:00 The Male
+12:50 The First Lesson
+15:20 Missing
+16:40 The Anaconda
+18:20 The Search
+19:20 Cornered
+20:30 Mother vs Male
+22:20 His Turn
+24:10 Fire on the River
+25:30 How the Fearless Survive
 
 🌍 Fires and drought are threatening the Pantanal, and every animal in it depends on the water. Jaguar tourism now helps protect these cats, proving they are worth more alive.
 
