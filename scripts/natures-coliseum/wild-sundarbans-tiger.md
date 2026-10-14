@@ -1,16 +1,16 @@
 # WILD SUNDARBANS | The Tigers That Swim With Sharks
 
-A crocodile the length of a boat, hanging under the tide. And a tiger who swims straight across its channel anyway.
+Jaws slam shut on her shoulder. The crocodile rolls, and a tigress vanishes under the brown water while her cubs scream.
 
-A king cobra rising out of the roots, hood spread wide, taller than the cub frozen in front of it.
+A king cobra rears up, hood spread, eye to eye with a cub. One bite could kill an elephant. He cannot move.
 
-A rival with a torn ear and a stolen island, and a mother who refuses to give up a single meter of mud.
+Two tigresses rear up, claws raking faces, jaws locked at each other's throats. Then one forces the other under the water.
 
-A storm that drowns the entire forest in one night, and tears a family apart in the dark.
+A wall of water smashes through the forest in the dark. Three tigers swimming for their lives. When it passes, only two.
 
-A cub alone in the water. Something beneath him with a fin, circling closer. And no mother in sight.
+A cub alone on a raft. A fin slicing closer. The raft tips, his legs drop in, and the shark glides beneath him.
 
-One forest. Three killers. Twice a day, the ground disappears. This is how it all began.
+A wounded mother sinking. Her son pushing her to shore. And behind them, the crocodile is back. This is how it began.
 
 Twice a day, this forest disappears.
 
