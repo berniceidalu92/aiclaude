@@ -3,51 +3,51 @@
 10 seconds per beat · fight teaser = beats 1–6 · cold-open hook = beats 7–17 · image-to-video · every prompt standalone
 
 **Beat 1 (TEASER)**
-[Script Segment Text]: "Two male grizzlies rear up at the top of a waterfall, jaws locked on each other's necks. One goes over the edge."
-Video Prompt: Fast dramatic shot: a massive old male Alaskan brown bear with a dark brown coat, a huge muscular shoulder hump, a broad heavy head and a pale scar across his muzzle and a huge young male Alaskan brown bear with a lighter blond-brown coat, a thick neck and a powerful shoulder hump reared up on their hind legs on the rock lip at the top of a low waterfall on a salmon river in Katmai, Alaska, jaws locked on each other's necks, one tipping backwards over the edge. Over 10 seconds, the bears grapple and one topples over the edge; white water and spray explode. Camera movement: Slow motion at the moment of the fall. Lighting: long low golden Alaskan summer sunlight, glowing rim light on wet fur, sparkling spray and water droplets. Mood: explosive teaser. Visual style: photorealistic cinematic wildlife documentary, premium nature-film look, 16:9 widescreen, warm honey-gold grade over chocolate-brown fur, spruce greens and white water, long telephoto compression, very shallow depth of field with creamy bokeh, ultra-fine micro-detail, realistic animal anatomy and locomotion, natural physics, smooth cinematic motion, no text, no logos, no music, no human presence or man-made structures, no gore.
-Camera Movement: Slow motion at the moment of the fall
-Subject Motion: The bears grapple and one topples over the edge
-Environment Motion: White water and spray explode
+[Script Segment Text]: "A male rears up against a spruce trunk, claws ripping the bark, and a tiny cub clings just above his open jaws."
+Video Prompt: Fast dramatic shot: a big male brown bear reared up against a spruce trunk, claws ripping the bark, a five-month-old male brown bear cub with fluffy dark brown fur, a pale cream collar around his neck, round ears and bright curious eyes clinging to the trunk just above his open jaws on a grassy riverbank at the edge of spruce forest in Katmai, Alaska. Over 10 seconds, the male claws upward as the cub clings; bark and needles fall. Camera movement: Slow tilt up from the claws to the cub. Lighting: long low golden Alaskan summer sunlight, glowing rim light on wet fur, sparkling spray and water droplets. Mood: peril teaser. Visual style: photorealistic cinematic wildlife documentary, premium nature-film look, 16:9 widescreen, warm honey-gold grade over chocolate-brown fur, spruce greens and white water, long telephoto compression, very shallow depth of field with creamy bokeh, ultra-fine micro-detail, realistic animal anatomy and locomotion, natural physics, smooth cinematic motion, no text, no logos, no music, no human presence or man-made structures, no gore.
+Camera Movement: Slow tilt up from the claws to the cub
+Subject Motion: The male claws upward as the cub clings
+Environment Motion: Bark and needles fall
 Duration: 10 seconds
 
 **Beat 2 (TEASER)**
-[Script Segment Text]: "A mother bear charges straight into a male twice her size, roaring, the only thing between him and her two tiny cubs."
-Video Prompt: Fast dramatic shot: an adult female Alaskan brown bear, lean after winter, with a chocolate-brown coat, golden-tipped fur on her shoulders, a broad dished face, small rounded ears and dark eyes charging straight into a huge young male Alaskan brown bear with a lighter blond-brown coat, a thick neck and a powerful shoulder hump, roaring, mouth open, two small brown bear cubs, one dark brown and one cinnamon-brown, each with a pale cream collar around the neck cowering behind her in shallow fast riffles over round stones on a salmon river in Katmai, Alaska. Over 10 seconds, the mother slams into the male; spray bursts from the shallows. Camera movement: Slow motion at impact. Lighting: long low golden Alaskan summer sunlight, glowing rim light on wet fur, sparkling spray and water droplets. Mood: fury teaser. Visual style: photorealistic cinematic wildlife documentary, premium nature-film look, 16:9 widescreen, warm honey-gold grade over chocolate-brown fur, spruce greens and white water, long telephoto compression, very shallow depth of field with creamy bokeh, ultra-fine micro-detail, realistic animal anatomy and locomotion, natural physics, smooth cinematic motion, no text, no logos, no music, no human presence or man-made structures, no gore.
-Camera Movement: Slow motion at impact
-Subject Motion: The mother slams into the male
-Environment Motion: Spray bursts from the shallows
-Duration: 10 seconds
-
-**Beat 3 (TEASER)**
-[Script Segment Text]: "A cub swept off its feet by the current, tumbling toward the rapids, as something huge wades in after it."
+[Script Segment Text]: "A cub swept off her feet by the current, tumbling toward the rapids, as a giant male wades in after her."
 Video Prompt: Fast dramatic shot: a five-month-old female brown bear cub, smaller and lighter, with soft cinnamon-brown fur, a pale cream collar around her neck and timid eyes swept off her feet and tumbling through fast water, head barely above the surface, a huge male bear wading in behind her in shallow fast riffles over round stones on a salmon river in Katmai, Alaska. Over 10 seconds, the cub tumbles in the current as the male wades closer; water churns and sprays. Camera movement: Waterline tracking shot. Lighting: long low golden Alaskan summer sunlight, glowing rim light on wet fur, sparkling spray and water droplets. Mood: panic teaser. Visual style: photorealistic cinematic wildlife documentary, premium nature-film look, 16:9 widescreen, warm honey-gold grade over chocolate-brown fur, spruce greens and white water, long telephoto compression, very shallow depth of field with creamy bokeh, ultra-fine micro-detail, realistic animal anatomy and locomotion, natural physics, smooth cinematic motion, no text, no logos, no music, no human presence or man-made structures, no gore.
 Camera Movement: Waterline tracking shot
 Subject Motion: The cub tumbles in the current as the male wades closer
 Environment Motion: Water churns and sprays
 Duration: 10 seconds
 
-**Beat 4 (TEASER)**
-[Script Segment Text]: "A wolf and a grizzly, face to face in the shallows, teeth bared over the same salmon. Neither one willing to back down."
+**Beat 3 (TEASER)**
+[Script Segment Text]: "A wolf and a grizzly mother, face to face in the shallows, teeth bared over the same salmon. Neither one backs down."
 Video Prompt: Fast dramatic shot: a lean grey wolf with a pale chest, long legs and amber eyes with a crimson salmon in its jaws, teeth bared, face to face with an adult female Alaskan brown bear, lean after winter, with a chocolate-brown coat, golden-tipped fur on her shoulders, a broad dished face, small rounded ears and dark eyes snarling in the shallows in shallow fast riffles over round stones on a salmon river in Katmai, Alaska. Over 10 seconds, they snarl at each other; mist drifts over the water. Camera movement: Slow push-in between them. Lighting: cool blue-grey dawn light with soft mist lying on the water and a faint warm glow on the horizon. Mood: standoff teaser. Visual style: photorealistic cinematic wildlife documentary, premium nature-film look, 16:9 widescreen, warm honey-gold grade over chocolate-brown fur, spruce greens and white water, long telephoto compression, very shallow depth of field with creamy bokeh, ultra-fine micro-detail, realistic animal anatomy and locomotion, natural physics, smooth cinematic motion, no text, no logos, no music, no human presence or man-made structures, no gore.
 Camera Movement: Slow push-in between them
 Subject Motion: They snarl at each other
 Environment Motion: Mist drifts over the water
 Duration: 10 seconds
 
+**Beat 4 (TEASER)**
+[Script Segment Text]: "Knocked down once. Knocked down twice. A mother bear rises out of the river again, roaring into the face of a giant."
+Video Prompt: Fast dramatic shot: an adult female Alaskan brown bear, lean after winter, with a chocolate-brown coat, golden-tipped fur on her shoulders, a broad dished face, small rounded ears and dark eyes rising out of the river after being knocked down, roaring into the face of a huge young male Alaskan brown bear with a lighter blond-brown coat, a thick neck and a powerful shoulder hump towering over her in shallow fast riffles over round stones on a salmon river in Katmai, Alaska. Over 10 seconds, she rises and roars; water streams off her fur. Camera movement: Slow motion as she rises. Lighting: long low golden Alaskan summer sunlight, glowing rim light on wet fur, sparkling spray and water droplets. Mood: fury teaser. Visual style: photorealistic cinematic wildlife documentary, premium nature-film look, 16:9 widescreen, warm honey-gold grade over chocolate-brown fur, spruce greens and white water, long telephoto compression, very shallow depth of field with creamy bokeh, ultra-fine micro-detail, realistic animal anatomy and locomotion, natural physics, smooth cinematic motion, no text, no logos, no music, no human presence or man-made structures, no gore.
+Camera Movement: Slow motion as she rises
+Subject Motion: She rises and roars
+Environment Motion: Water streams off her fur
+Duration: 10 seconds
+
 **Beat 5 (TEASER)**
-[Script Segment Text]: "Claws rake. Blood in the foam. The king of the waterfall, beaten for the first time in his life."
-Video Prompt: Fast dramatic shot: a huge young male Alaskan brown bear with a lighter blond-brown coat, a thick neck, a powerful shoulder hump and fresh wounds on his neck raking his claws across the face of a massive old male Alaskan brown bear with a dark brown coat, a huge muscular shoulder hump, a broad heavy head and a pale scar across his muzzle on the rock lip at the top of a low waterfall on a salmon river in Katmai, Alaska, spray and foam flying. Over 10 seconds, claws rake and the old male reels back; foam and spray burst into the air. Camera movement: Slow motion at the strike. Lighting: long low golden Alaskan summer sunlight, glowing rim light on wet fur, sparkling spray and water droplets. Mood: brutal teaser. Visual style: photorealistic cinematic wildlife documentary, premium nature-film look, 16:9 widescreen, warm honey-gold grade over chocolate-brown fur, spruce greens and white water, long telephoto compression, very shallow depth of field with creamy bokeh, ultra-fine micro-detail, realistic animal anatomy and locomotion, natural physics, smooth cinematic motion, no text, no logos, no music, no human presence or man-made structures, no gore.
-Camera Movement: Slow motion at the strike
-Subject Motion: Claws rake and the old male reels back
-Environment Motion: Foam and spray burst into the air
+[Script Segment Text]: "Two giants rise three meters tall in the white water and crash together, jaws open. Every bear on the river stops fishing."
+Video Prompt: Fast dramatic shot: a massive old male Alaskan brown bear with a dark brown coat, a huge muscular shoulder hump, a broad heavy head and a pale scar across his muzzle and a huge young male Alaskan brown bear with a lighter blond-brown coat, a thick neck and a powerful shoulder hump reared up three meters tall and crashing together, jaws open, at a wide low waterfall about two meters high on a salmon river in Katmai, Alaska, white water pouring over a rock ledge, other bears watching. Over 10 seconds, they collide with jaws open; water explodes. Camera movement: Slow motion at impact. Lighting: long low golden Alaskan summer sunlight, glowing rim light on wet fur, sparkling spray and water droplets. Mood: clash teaser. Visual style: photorealistic cinematic wildlife documentary, premium nature-film look, 16:9 widescreen, warm honey-gold grade over chocolate-brown fur, spruce greens and white water, long telephoto compression, very shallow depth of field with creamy bokeh, ultra-fine micro-detail, realistic animal anatomy and locomotion, natural physics, smooth cinematic motion, no text, no logos, no music, no human presence or man-made structures, no gore.
+Camera Movement: Slow motion at impact
+Subject Motion: They collide with jaws open
+Environment Motion: Water explodes
 Duration: 10 seconds
 
 **Beat 6 (TEASER)**
-[Script Segment Text]: "A salmon leaps. Jaws snap shut in mid-air. And fifty bears turn toward the one spot where it happened. This is how it began."
-Video Prompt: Fast dramatic shot: a crimson sockeye salmon leaping straight into the open jaws of a massive old male Alaskan brown bear with a dark brown coat, a huge muscular shoulder hump, a broad heavy head and a pale scar across his muzzle standing on the rock lip at the top of a low waterfall on a salmon river in Katmai, Alaska, dozens of bears in the soft background. Over 10 seconds, the salmon leaps and the jaws snap shut; spray glitters in the light. Camera movement: Slow motion as the jaws close. Lighting: long low golden Alaskan summer sunlight, glowing rim light on wet fur, sparkling spray and water droplets. Mood: epic teaser. Visual style: photorealistic cinematic wildlife documentary, premium nature-film look, 16:9 widescreen, warm honey-gold grade over chocolate-brown fur, spruce greens and white water, long telephoto compression, very shallow depth of field with creamy bokeh, ultra-fine micro-detail, realistic animal anatomy and locomotion, natural physics, smooth cinematic motion, no text, no logos, no music, no human presence or man-made structures, no gore.
-Camera Movement: Slow motion as the jaws close
-Subject Motion: The salmon leaps and the jaws snap shut
-Environment Motion: Spray glitters in the light
+[Script Segment Text]: "Jaws locked at the top of the falls. Claws raking. Then the king of the waterfall goes over the edge. This is how it began."
+Video Prompt: Fast dramatic shot: a huge young male Alaskan brown bear with a lighter blond-brown coat, a thick neck, a powerful shoulder hump and fresh wounds on his neck and a massive old male Alaskan brown bear with a dark brown coat, a huge muscular shoulder hump, a broad heavy head and a pale scar across his muzzle with jaws locked on the rock lip at the top of a low waterfall on a salmon river in Katmai, Alaska, claws raking, the old king toppling backwards over the edge into the white water. Over 10 seconds, they grapple and the king topples; white water explodes. Camera movement: Slow motion during the fall. Lighting: long low golden Alaskan summer sunlight, glowing rim light on wet fur, sparkling spray and water droplets. Mood: epic teaser. Visual style: photorealistic cinematic wildlife documentary, premium nature-film look, 16:9 widescreen, warm honey-gold grade over chocolate-brown fur, spruce greens and white water, long telephoto compression, very shallow depth of field with creamy bokeh, ultra-fine micro-detail, realistic animal anatomy and locomotion, natural physics, smooth cinematic motion, no text, no logos, no music, no human presence or man-made structures, no gore.
+Camera Movement: Slow motion during the fall
+Subject Motion: They grapple and the king topples
+Environment Motion: White water explodes
 Duration: 10 seconds
 
 **Beat 7**

@@ -1,16 +1,16 @@
 # WILD ALASKA | The Bears That Fight for the Waterfall
 
-Two male grizzlies rear up at the top of a waterfall, jaws locked on each other's necks. One goes over the edge.
+A male rears up against a spruce trunk, claws ripping the bark, and a tiny cub clings just above his open jaws.
 
-A mother bear charges straight into a male twice her size, roaring, the only thing between him and her two tiny cubs.
+A cub swept off her feet by the current, tumbling toward the rapids, as a giant male wades in after her.
 
-A cub swept off its feet by the current, tumbling toward the rapids, as something huge wades in after it.
+A wolf and a grizzly mother, face to face in the shallows, teeth bared over the same salmon. Neither one backs down.
 
-A wolf and a grizzly, face to face in the shallows, teeth bared over the same salmon. Neither one willing to back down.
+Knocked down once. Knocked down twice. A mother bear rises out of the river again, roaring into the face of a giant.
 
-Claws rake. Blood in the foam. The king of the waterfall, beaten for the first time in his life.
+Two giants rise three meters tall in the white water and crash together, jaws open. Every bear on the river stops fishing.
 
-A salmon leaps. Jaws snap shut in mid-air. And fifty bears turn toward the one spot where it happened. This is how it began.
+Jaws locked at the top of the falls. Claws raking. Then the king of the waterfall goes over the edge. This is how it began.
 
 Fifty grizzly bears. One river. The biggest predators on land, standing almost shoulder to shoulder.
 
