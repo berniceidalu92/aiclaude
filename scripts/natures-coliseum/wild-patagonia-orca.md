@@ -338,7 +338,7 @@ He chose the storm because its swell ran straight up the channel. The biggest li
 
 And the bull chose it too, because he had learned the same thing.
 
-And the other family? Why did they never come in? Why did they stop at the deep water, even with one of their own dying on the stones?
+And the other family? Not allies. Not rivals. Just a family that hunts a different way, out in deep water. So why did they never come in? Why did they stop at the deep water, even with one of their own dying on the stones?
 
 Because nobody ever taught them.
 
