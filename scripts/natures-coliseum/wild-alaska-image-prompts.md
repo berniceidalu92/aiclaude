@@ -51,87 +51,87 @@ Mood: Epic teaser
 Action: The king goes over the edge
 
 **Beat 7**
-[Script Segment Text]: "Fifty grizzly bears. One river. The biggest predators on land, standing almost shoulder to shoulder. Any one of them could kill any other."
-Image Prompt: Dozens of brown bears fishing along a salmon river at a wide low waterfall about two meters high on a salmon river in Katmai, Alaska, white water pouring over a rock ledge, spread across the falls, the pool and the riffles. Camera: Wide telephoto landscape shot, 200mm, compressed perspective, subject low in frame. Lighting: long low golden Alaskan summer sunlight, glowing rim light on wet fur, sparkling spray and water droplets. Mood: awe. Visual style: photorealistic cinematic wildlife documentary, premium nature-film look, 16:9 widescreen, warm honey-gold light over chocolate-brown fur, deep spruce greens, slate-grey wet rock and white water, soft warm golden grade with gently lifted blacks, long telephoto compression, very shallow depth of field with creamy bokeh, ultra-fine micro-detail on fur, claws, salmon scales and water droplets, intimate and dramatic mood, no people or man-made structures.
-Camera Angle: Wide telephoto landscape shot, 200mm, compressed perspective, subject low in frame
-Lighting: Long low golden Alaskan summer sunlight, glowing rim light on wet fur, sparkling spray and water droplets
-Mood: Awe
-Action: Fifty bears on one river
-
-**Beat 8**
-[Script Segment Text]: "So why aren't they fighting? Because every bear on this river knows its rank. The biggest males take the best places."
-Image Prompt: A massive old male Alaskan brown bear with a dark brown coat, a huge muscular shoulder hump, a broad heavy head and a pale scar across his muzzle standing in the best fishing spot while smaller bears keep their distance at a wide low waterfall about two meters high on a salmon river in Katmai, Alaska, white water pouring over a rock ledge. Camera: Long telephoto lens, 400mm, very shallow depth of field, camera at eye level. Lighting: long low golden Alaskan summer sunlight, glowing rim light on wet fur, sparkling spray and water droplets. Mood: order. Visual style: photorealistic cinematic wildlife documentary, premium nature-film look, 16:9 widescreen, warm honey-gold light over chocolate-brown fur, deep spruce greens, slate-grey wet rock and white water, soft warm golden grade with gently lifted blacks, long telephoto compression, very shallow depth of field with creamy bokeh, ultra-fine micro-detail on fur, claws, salmon scales and water droplets, intimate and dramatic mood, no people or man-made structures.
-Camera Angle: Long telephoto lens, 400mm, very shallow depth of field, camera at eye level
-Lighting: Long low golden Alaskan summer sunlight, glowing rim light on wet fur, sparkling spray and water droplets
-Mood: Order
-Action: A big male takes the best place
-
-**Beat 9**
-[Script Segment Text]: "The smaller bears give way. Most arguments here are settled with a stare, a lowered head, a single step backwards."
-Image Prompt: A young brown bear lowering its head and stepping backwards away from a much bigger bear in shallow fast riffles over round stones on a salmon river in Katmai, Alaska. Camera: Long telephoto lens, 400mm, very shallow depth of field, camera at eye level. Lighting: long low golden Alaskan summer sunlight, glowing rim light on wet fur, sparkling spray and water droplets. Mood: hierarchy. Visual style: photorealistic cinematic wildlife documentary, premium nature-film look, 16:9 widescreen, warm honey-gold light over chocolate-brown fur, deep spruce greens, slate-grey wet rock and white water, soft warm golden grade with gently lifted blacks, long telephoto compression, very shallow depth of field with creamy bokeh, ultra-fine micro-detail on fur, claws, salmon scales and water droplets, intimate and dramatic mood, no people or man-made structures.
-Camera Angle: Long telephoto lens, 400mm, very shallow depth of field, camera at eye level
-Lighting: Long low golden Alaskan summer sunlight, glowing rim light on wet fur, sparkling spray and water droplets
-Mood: Hierarchy
-Action: A smaller bear lowers its head and backs away
-
-**Beat 10**
-[Script Segment Text]: "A young bear wades toward a big male's fishing rock. Too close. The male swings one paw, and the young bear tumbles into the water,"
-Image Prompt: A huge male brown bear swinging one paw at a young brown bear that came too close to his fishing rock, the young bear tumbling into the water in shallow fast riffles over round stones on a salmon river in Katmai, Alaska. Camera: Telephoto tracking shot, 400mm, fast shutter freezing motion. Lighting: long low golden Alaskan summer sunlight, glowing rim light on wet fur, sparkling spray and water droplets. Mood: rank in action. Visual style: photorealistic cinematic wildlife documentary, premium nature-film look, 16:9 widescreen, warm honey-gold light over chocolate-brown fur, deep spruce greens, slate-grey wet rock and white water, soft warm golden grade with gently lifted blacks, long telephoto compression, very shallow depth of field with creamy bokeh, ultra-fine micro-detail on fur, claws, salmon scales and water droplets, intimate and dramatic mood, no people or man-made structures.
-Camera Angle: Telephoto tracking shot, 400mm, fast shutter freezing motion
-Lighting: Long low golden Alaskan summer sunlight, glowing rim light on wet fur, sparkling spray and water droplets
-Mood: Rank in action
-Action: A big male swats a young bear off his rock
-
-**Beat 11**
-[Script Segment Text]: "scrambles up, and backs away. One blow. No second one needed. On this river, the fight is usually over before it starts."
-Image Prompt: A soaked young brown bear scrambling up and backing away from a big male, head lowered in shallow fast riffles over round stones on a salmon river in Katmai, Alaska. Camera: Long telephoto lens, 400mm, very shallow depth of field, camera at eye level. Lighting: long low golden Alaskan summer sunlight, glowing rim light on wet fur, sparkling spray and water droplets. Mood: submission. Visual style: photorealistic cinematic wildlife documentary, premium nature-film look, 16:9 widescreen, warm honey-gold light over chocolate-brown fur, deep spruce greens, slate-grey wet rock and white water, soft warm golden grade with gently lifted blacks, long telephoto compression, very shallow depth of field with creamy bokeh, ultra-fine micro-detail on fur, claws, salmon scales and water droplets, intimate and dramatic mood, no people or man-made structures.
-Camera Angle: Long telephoto lens, 400mm, very shallow depth of field, camera at eye level
-Lighting: Long low golden Alaskan summer sunlight, glowing rim light on wet fur, sparkling spray and water droplets
-Mood: Submission
-Action: The young bear backs away
-
-**Beat 12**
-[Script Segment Text]: "So why, every summer, do some bears still fight to the death? Because rank only works when the difference is obvious."
-Image Prompt: Close on the faces of two big brown bears staring at each other across the white water at a wide low waterfall about two meters high on a salmon river in Katmai, Alaska, white water pouring over a rock ledge. Camera: Extreme close-up, 600mm telephoto, razor-thin focal plane. Lighting: long low golden Alaskan summer sunlight, glowing rim light on wet fur, sparkling spray and water droplets. Mood: tension. Visual style: photorealistic cinematic wildlife documentary, premium nature-film look, 16:9 widescreen, warm honey-gold light over chocolate-brown fur, deep spruce greens, slate-grey wet rock and white water, soft warm golden grade with gently lifted blacks, long telephoto compression, very shallow depth of field with creamy bokeh, ultra-fine micro-detail on fur, claws, salmon scales and water droplets, intimate and dramatic mood, no people or man-made structures.
-Camera Angle: Extreme close-up, 600mm telephoto, razor-thin focal plane
-Lighting: Long low golden Alaskan summer sunlight, glowing rim light on wet fur, sparkling spray and water droplets
-Mood: Tension
-Action: Two bears stare each other down
-
-**Beat 13**
-[Script Segment Text]: "When two bears are nearly the same size, nobody knows who should step back. And the only way to find out is to fight."
-Image Prompt: A massive old male Alaskan brown bear with a dark brown coat, a huge muscular shoulder hump, a broad heavy head and a pale scar across his muzzle and a huge young male Alaskan brown bear with a lighter blond-brown coat, a thick neck and a powerful shoulder hump standing on opposite sides of the river, nearly the same size at a wide low waterfall about two meters high on a salmon river in Katmai, Alaska, white water pouring over a rock ledge. Camera: Long telephoto lens, 400mm, very shallow depth of field, camera at eye level. Lighting: long low golden Alaskan summer sunlight, glowing rim light on wet fur, sparkling spray and water droplets. Mood: evenly matched. Visual style: photorealistic cinematic wildlife documentary, premium nature-film look, 16:9 widescreen, warm honey-gold light over chocolate-brown fur, deep spruce greens, slate-grey wet rock and white water, soft warm golden grade with gently lifted blacks, long telephoto compression, very shallow depth of field with creamy bokeh, ultra-fine micro-detail on fur, claws, salmon scales and water droplets, intimate and dramatic mood, no people or man-made structures.
-Camera Angle: Long telephoto lens, 400mm, very shallow depth of field, camera at eye level
-Lighting: Long low golden Alaskan summer sunlight, glowing rim light on wet fur, sparkling spray and water droplets
-Mood: Evenly matched
-Action: Two males of equal size
-
-**Beat 14**
-[Script Segment Text]: "Below the falls, two males of almost the same size want the same rock. Neither lowers his head. They rise onto their hind legs"
+[Script Segment Text]: "Below the falls, two male grizzlies want the same rock. Neither one lowers his head. They rise onto their hind legs, three meters tall,"
 Image Prompt: Two big male brown bears of almost the same size facing each other over a fishing rock below a low waterfall, heads high, neither backing down, in Katmai, Alaska. Camera: Long telephoto lens, 400mm, very shallow depth of field, camera at eye level. Lighting: long low golden Alaskan summer sunlight, glowing rim light on wet fur, sparkling spray and water droplets. Mood: equal match. Visual style: photorealistic cinematic wildlife documentary, premium nature-film look, 16:9 widescreen, warm honey-gold light over chocolate-brown fur, deep spruce greens, slate-grey wet rock and white water, soft warm golden grade with gently lifted blacks, long telephoto compression, very shallow depth of field with creamy bokeh, ultra-fine micro-detail on fur, claws, salmon scales and water droplets, intimate and dramatic mood, no people or man-made structures.
 Camera Angle: Long telephoto lens, 400mm, very shallow depth of field, camera at eye level
 Lighting: Long low golden Alaskan summer sunlight, glowing rim light on wet fur, sparkling spray and water droplets
 Mood: Equal match
 Action: Two equal males face off over a rock
 
-**Beat 15**
-[Script Segment Text]: "and slam together, jaws open, water exploding around them. Bite. Swipe. Bite. Then one slips, and it is over. He limps away."
+**Beat 8**
+[Script Segment Text]: "and slam together. Jaws open. Water exploding around them. Bite. Swipe. Bite. A paw the size of a dinner plate crashes"
 Image Prompt: Two big male brown bears rearing up on their hind legs and slamming together, jaws open, water exploding around them, below a low waterfall in Katmai, Alaska. Camera: Telephoto tracking shot, 400mm, fast shutter freezing motion. Lighting: long low golden Alaskan summer sunlight, glowing rim light on wet fur, sparkling spray and water droplets. Mood: clash. Visual style: photorealistic cinematic wildlife documentary, premium nature-film look, 16:9 widescreen, warm honey-gold light over chocolate-brown fur, deep spruce greens, slate-grey wet rock and white water, soft warm golden grade with gently lifted blacks, long telephoto compression, very shallow depth of field with creamy bokeh, ultra-fine micro-detail on fur, claws, salmon scales and water droplets, intimate and dramatic mood, no people or man-made structures.
 Camera Angle: Telephoto tracking shot, 400mm, fast shutter freezing motion
 Lighting: Long low golden Alaskan summer sunlight, glowing rim light on wet fur, sparkling spray and water droplets
 Mood: Clash
 Action: Two males rear up and slam together
 
-**Beat 16**
-[Script Segment Text]: "The winner climbs onto the rock. When there is no clear winner, a fight here only ends when somebody bleeds."
+**Beat 9**
+[Script Segment Text]: "into a skull. Then one slips on the wet stone, and it is over. He limps away bleeding."
 Image Prompt: A big male brown bear climbing onto a fishing rock while a beaten rival limps away through the water below a low waterfall in Katmai, Alaska. Camera: Long telephoto lens, 400mm, very shallow depth of field, camera at eye level. Lighting: long low golden Alaskan summer sunlight, glowing rim light on wet fur, sparkling spray and water droplets. Mood: winner. Visual style: photorealistic cinematic wildlife documentary, premium nature-film look, 16:9 widescreen, warm honey-gold light over chocolate-brown fur, deep spruce greens, slate-grey wet rock and white water, soft warm golden grade with gently lifted blacks, long telephoto compression, very shallow depth of field with creamy bokeh, ultra-fine micro-detail on fur, claws, salmon scales and water droplets, intimate and dramatic mood, no people or man-made structures.
 Camera Angle: Long telephoto lens, 400mm, very shallow depth of field, camera at eye level
 Lighting: Long low golden Alaskan summer sunlight, glowing rim light on wet fur, sparkling spray and water droplets
 Mood: Winner
 Action: The winner climbs onto the rock
 
+**Beat 10**
+[Script Segment Text]: "The winner climbs onto the rock. All around them stand fifty more grizzly bears. The biggest predators on land, almost shoulder to shoulder."
+Image Prompt: Dozens of brown bears fishing along a salmon river at a wide low waterfall about two meters high on a salmon river in Katmai, Alaska, white water pouring over a rock ledge, spread across the falls, the pool and the riffles. Camera: Wide telephoto landscape shot, 200mm, compressed perspective, subject low in frame. Lighting: long low golden Alaskan summer sunlight, glowing rim light on wet fur, sparkling spray and water droplets. Mood: awe. Visual style: photorealistic cinematic wildlife documentary, premium nature-film look, 16:9 widescreen, warm honey-gold light over chocolate-brown fur, deep spruce greens, slate-grey wet rock and white water, soft warm golden grade with gently lifted blacks, long telephoto compression, very shallow depth of field with creamy bokeh, ultra-fine micro-detail on fur, claws, salmon scales and water droplets, intimate and dramatic mood, no people or man-made structures.
+Camera Angle: Wide telephoto landscape shot, 200mm, compressed perspective, subject low in frame
+Lighting: Long low golden Alaskan summer sunlight, glowing rim light on wet fur, sparkling spray and water droplets
+Mood: Awe
+Action: Fifty bears on one river
+
+**Beat 11**
+[Script Segment Text]: "Any one of them could kill any other. So why are only these two fighting? Because every bear on this river knows its rank."
+Image Prompt: A massive old male Alaskan brown bear with a dark brown coat, a huge muscular shoulder hump, a broad heavy head and a pale scar across his muzzle standing in the best fishing spot while smaller bears keep their distance at a wide low waterfall about two meters high on a salmon river in Katmai, Alaska, white water pouring over a rock ledge. Camera: Long telephoto lens, 400mm, very shallow depth of field, camera at eye level. Lighting: long low golden Alaskan summer sunlight, glowing rim light on wet fur, sparkling spray and water droplets. Mood: order. Visual style: photorealistic cinematic wildlife documentary, premium nature-film look, 16:9 widescreen, warm honey-gold light over chocolate-brown fur, deep spruce greens, slate-grey wet rock and white water, soft warm golden grade with gently lifted blacks, long telephoto compression, very shallow depth of field with creamy bokeh, ultra-fine micro-detail on fur, claws, salmon scales and water droplets, intimate and dramatic mood, no people or man-made structures.
+Camera Angle: Long telephoto lens, 400mm, very shallow depth of field, camera at eye level
+Lighting: Long low golden Alaskan summer sunlight, glowing rim light on wet fur, sparkling spray and water droplets
+Mood: Order
+Action: A big male takes the best place
+
+**Beat 12**
+[Script Segment Text]: "The biggest males take the best places. The smaller bears give way. Most arguments here are settled with a stare, a lowered head,"
+Image Prompt: A young brown bear lowering its head and stepping backwards away from a much bigger bear in shallow fast riffles over round stones on a salmon river in Katmai, Alaska. Camera: Long telephoto lens, 400mm, very shallow depth of field, camera at eye level. Lighting: long low golden Alaskan summer sunlight, glowing rim light on wet fur, sparkling spray and water droplets. Mood: hierarchy. Visual style: photorealistic cinematic wildlife documentary, premium nature-film look, 16:9 widescreen, warm honey-gold light over chocolate-brown fur, deep spruce greens, slate-grey wet rock and white water, soft warm golden grade with gently lifted blacks, long telephoto compression, very shallow depth of field with creamy bokeh, ultra-fine micro-detail on fur, claws, salmon scales and water droplets, intimate and dramatic mood, no people or man-made structures.
+Camera Angle: Long telephoto lens, 400mm, very shallow depth of field, camera at eye level
+Lighting: Long low golden Alaskan summer sunlight, glowing rim light on wet fur, sparkling spray and water droplets
+Mood: Hierarchy
+Action: A smaller bear lowers its head and backs away
+
+**Beat 13**
+[Script Segment Text]: "a single step backwards. A young bear wades toward a big male's fishing rock. Too close. The male swings one paw,"
+Image Prompt: A huge male brown bear swinging one paw at a young brown bear that came too close to his fishing rock, the young bear tumbling into the water in shallow fast riffles over round stones on a salmon river in Katmai, Alaska. Camera: Telephoto tracking shot, 400mm, fast shutter freezing motion. Lighting: long low golden Alaskan summer sunlight, glowing rim light on wet fur, sparkling spray and water droplets. Mood: rank in action. Visual style: photorealistic cinematic wildlife documentary, premium nature-film look, 16:9 widescreen, warm honey-gold light over chocolate-brown fur, deep spruce greens, slate-grey wet rock and white water, soft warm golden grade with gently lifted blacks, long telephoto compression, very shallow depth of field with creamy bokeh, ultra-fine micro-detail on fur, claws, salmon scales and water droplets, intimate and dramatic mood, no people or man-made structures.
+Camera Angle: Telephoto tracking shot, 400mm, fast shutter freezing motion
+Lighting: Long low golden Alaskan summer sunlight, glowing rim light on wet fur, sparkling spray and water droplets
+Mood: Rank in action
+Action: A big male swats a young bear off his rock
+
+**Beat 14**
+[Script Segment Text]: "and the young bear tumbles into the water, scrambles up, and backs away. One blow. No second one needed. On this river,"
+Image Prompt: A soaked young brown bear scrambling up and backing away from a big male, head lowered in shallow fast riffles over round stones on a salmon river in Katmai, Alaska. Camera: Long telephoto lens, 400mm, very shallow depth of field, camera at eye level. Lighting: long low golden Alaskan summer sunlight, glowing rim light on wet fur, sparkling spray and water droplets. Mood: submission. Visual style: photorealistic cinematic wildlife documentary, premium nature-film look, 16:9 widescreen, warm honey-gold light over chocolate-brown fur, deep spruce greens, slate-grey wet rock and white water, soft warm golden grade with gently lifted blacks, long telephoto compression, very shallow depth of field with creamy bokeh, ultra-fine micro-detail on fur, claws, salmon scales and water droplets, intimate and dramatic mood, no people or man-made structures.
+Camera Angle: Long telephoto lens, 400mm, very shallow depth of field, camera at eye level
+Lighting: Long low golden Alaskan summer sunlight, glowing rim light on wet fur, sparkling spray and water droplets
+Mood: Submission
+Action: The young bear backs away
+
+**Beat 15**
+[Script Segment Text]: "the fight is usually over before it starts. So why do some bears still fight until one of them bleeds?"
+Image Prompt: Close on the faces of two big brown bears staring at each other across the white water at a wide low waterfall about two meters high on a salmon river in Katmai, Alaska, white water pouring over a rock ledge. Camera: Extreme close-up, 600mm telephoto, razor-thin focal plane. Lighting: long low golden Alaskan summer sunlight, glowing rim light on wet fur, sparkling spray and water droplets. Mood: tension. Visual style: photorealistic cinematic wildlife documentary, premium nature-film look, 16:9 widescreen, warm honey-gold light over chocolate-brown fur, deep spruce greens, slate-grey wet rock and white water, soft warm golden grade with gently lifted blacks, long telephoto compression, very shallow depth of field with creamy bokeh, ultra-fine micro-detail on fur, claws, salmon scales and water droplets, intimate and dramatic mood, no people or man-made structures.
+Camera Angle: Extreme close-up, 600mm telephoto, razor-thin focal plane
+Lighting: Long low golden Alaskan summer sunlight, glowing rim light on wet fur, sparkling spray and water droplets
+Mood: Tension
+Action: Two bears stare each other down
+
+**Beat 16**
+[Script Segment Text]: "Because rank only works when the difference is obvious. When two bears are nearly the same size, nobody knows who should step back."
+Image Prompt: A massive old male Alaskan brown bear with a dark brown coat, a huge muscular shoulder hump, a broad heavy head and a pale scar across his muzzle and a huge young male Alaskan brown bear with a lighter blond-brown coat, a thick neck and a powerful shoulder hump standing on opposite sides of the river, nearly the same size at a wide low waterfall about two meters high on a salmon river in Katmai, Alaska, white water pouring over a rock ledge. Camera: Long telephoto lens, 400mm, very shallow depth of field, camera at eye level. Lighting: long low golden Alaskan summer sunlight, glowing rim light on wet fur, sparkling spray and water droplets. Mood: evenly matched. Visual style: photorealistic cinematic wildlife documentary, premium nature-film look, 16:9 widescreen, warm honey-gold light over chocolate-brown fur, deep spruce greens, slate-grey wet rock and white water, soft warm golden grade with gently lifted blacks, long telephoto compression, very shallow depth of field with creamy bokeh, ultra-fine micro-detail on fur, claws, salmon scales and water droplets, intimate and dramatic mood, no people or man-made structures.
+Camera Angle: Long telephoto lens, 400mm, very shallow depth of field, camera at eye level
+Lighting: Long low golden Alaskan summer sunlight, glowing rim light on wet fur, sparkling spray and water droplets
+Mood: Evenly matched
+Action: Two males of equal size
+
 **Beat 17**
-[Script Segment Text]: "This summer, two bears that size are on the same river. And they both want the same spot."
+[Script Segment Text]: "And the only way to find out is what you just saw. This summer, two bears that size are on the same river."
 Image Prompt: A huge young male Alaskan brown bear with a lighter blond-brown coat, a thick neck and a powerful shoulder hump pacing along the bank while a massive old male Alaskan brown bear with a dark brown coat, a huge muscular shoulder hump, a broad heavy head and a pale scar across his muzzle watches from the falls at a wide low waterfall about two meters high on a salmon river in Katmai, Alaska, white water pouring over a rock ledge. Camera: Long telephoto lens, 400mm, very shallow depth of field, camera at eye level. Lighting: long low golden Alaskan summer sunlight, glowing rim light on wet fur, sparkling spray and water droplets. Mood: inevitable. Visual style: photorealistic cinematic wildlife documentary, premium nature-film look, 16:9 widescreen, warm honey-gold light over chocolate-brown fur, deep spruce greens, slate-grey wet rock and white water, soft warm golden grade with gently lifted blacks, long telephoto compression, very shallow depth of field with creamy bokeh, ultra-fine micro-detail on fur, claws, salmon scales and water droplets, intimate and dramatic mood, no people or man-made structures.
 Camera Angle: Long telephoto lens, 400mm, very shallow depth of field, camera at eye level
 Lighting: Long low golden Alaskan summer sunlight, glowing rim light on wet fur, sparkling spray and water droplets
@@ -139,7 +139,7 @@ Mood: Inevitable
 Action: The two males sizing each other up
 
 **Beat 18**
-[Script Segment Text]: "A single ledge of rock at the top of a waterfall. Barely wide enough for one bear to stand on."
+[Script Segment Text]: "And they both want the same spot. A single ledge of rock at the top of a waterfall."
 Image Prompt: The single rock ledge at the top of a low waterfall in Katmai, Alaska, white water pouring over it and salmon leaping below. Camera: Wide telephoto landscape shot, 200mm, compressed perspective, subject low in frame. Lighting: long low golden Alaskan summer sunlight, glowing rim light on wet fur, sparkling spray and water droplets. Mood: the prize. Visual style: photorealistic cinematic wildlife documentary, premium nature-film look, 16:9 widescreen, warm honey-gold light over chocolate-brown fur, deep spruce greens, slate-grey wet rock and white water, soft warm golden grade with gently lifted blacks, long telephoto compression, very shallow depth of field with creamy bokeh, ultra-fine micro-detail on fur, claws, salmon scales and water droplets, intimate and dramatic mood, no people or man-made structures.
 Camera Angle: Wide telephoto landscape shot, 200mm, compressed perspective, subject low in frame
 Lighting: Long low golden Alaskan summer sunlight, glowing rim light on wet fur, sparkling spray and water droplets
@@ -147,7 +147,7 @@ Mood: The prize
 Action: The single ledge at the top
 
 **Beat 19**
-[Script Segment Text]: "Why would the most powerful animals in North America risk their lives for one ledge of rock?"
+[Script Segment Text]: "Barely wide enough for one bear to stand on. Why would the most powerful animals in North America risk their lives for one ledge of rock?"
 Image Prompt: A massive old male Alaskan brown bear with a dark brown coat, a huge muscular shoulder hump, a broad heavy head and a pale scar across his muzzle standing alone on the rock lip at the top of a low waterfall on a salmon river in Katmai, Alaska, water rushing around his legs. Camera: Long telephoto lens, 400mm, very shallow depth of field, camera at eye level. Lighting: long low golden Alaskan summer sunlight, glowing rim light on wet fur, sparkling spray and water droplets. Mood: central question. Visual style: photorealistic cinematic wildlife documentary, premium nature-film look, 16:9 widescreen, warm honey-gold light over chocolate-brown fur, deep spruce greens, slate-grey wet rock and white water, soft warm golden grade with gently lifted blacks, long telephoto compression, very shallow depth of field with creamy bokeh, ultra-fine micro-detail on fur, claws, salmon scales and water droplets, intimate and dramatic mood, no people or man-made structures.
 Camera Angle: Long telephoto lens, 400mm, very shallow depth of field, camera at eye level
 Lighting: Long low golden Alaskan summer sunlight, glowing rim light on wet fur, sparkling spray and water droplets

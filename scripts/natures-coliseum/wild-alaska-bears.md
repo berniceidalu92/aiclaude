@@ -12,9 +12,17 @@ Two giants rise three meters tall in the white water and crash together, jaws op
 
 Jaws locked at the top of the falls. Claws raking. Then the king of the waterfall goes over the edge. This is how it began.
 
-Fifty grizzly bears. One river. The biggest predators on land, standing almost shoulder to shoulder.
+Below the falls, two male grizzlies want the same rock. Neither one lowers his head.
 
-Any one of them could kill any other. So why aren't they fighting?
+They rise onto their hind legs, three meters tall, and slam together. Jaws open. Water exploding around them.
+
+Bite. Swipe. Bite. A paw the size of a dinner plate crashes into a skull.
+
+Then one slips on the wet stone, and it is over. He limps away bleeding. The winner climbs onto the rock.
+
+All around them stand fifty more grizzly bears. The biggest predators on land, almost shoulder to shoulder. Any one of them could kill any other.
+
+So why are only these two fighting?
 
 Because every bear on this river knows its rank.
 
@@ -26,19 +34,11 @@ One blow. No second one needed.
 
 On this river, the fight is usually over before it starts.
 
-So why, every summer, do some bears still fight to the death?
+So why do some bears still fight until one of them bleeds?
 
 Because rank only works when the difference is obvious. When two bears are nearly the same size, nobody knows who should step back.
 
-And the only way to find out is to fight.
-
-Below the falls, two males of almost the same size want the same rock. Neither lowers his head.
-
-They rise onto their hind legs and slam together, jaws open, water exploding around them. Bite. Swipe. Bite.
-
-Then one slips, and it is over. He limps away. The winner climbs onto the rock.
-
-When there is no clear winner, a fight here only ends when somebody bleeds.
+And the only way to find out is what you just saw.
 
 This summer, two bears that size are on the same river. And they both want the same spot.
 
