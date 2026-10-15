@@ -16,7 +16,7 @@ So why is one ledge of rock worth dying for?
 1:00 Two Giants, One Rock – the fight that opens the story
 1:30 The Rules of the River – why fifty grizzlies don't all fight
 3:40 Katmai – where one of the largest salmon runs on Earth comes home
-4:00 Meet Tula – a starving mother and two newborn cubs
+4:00 Meet Tula – a starving mother charges a male to save her cubs
 6:20 The Riffles – her first salmon, and a thief
 7:10 The Pool – the bear that fishes without moving
 8:30 The Lip – Scar, king of the waterfall
