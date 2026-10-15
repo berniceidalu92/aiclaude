@@ -12,9 +12,7 @@ Two giants rise three meters tall in the white water and crash together, jaws op
 
 Jaws locked at the top of the falls. Claws raking. Then the king of the waterfall goes over the edge. This is how it began.
 
-Below the falls, two male grizzlies want the same rock. Neither one lowers his head.
-
-They rise onto their hind legs, three meters tall, and slam together. Jaws open. Water exploding around them.
+Two male grizzlies rise onto their hind legs below the falls, three meters tall, and slam together. Jaws open. Water exploding around them.
 
 Bite. Swipe. Bite. A paw the size of a dinner plate crashes into a skull.
 
@@ -26,7 +24,7 @@ So why are only these two fighting?
 
 Because every bear on this river knows its rank.
 
-The biggest males take the best places. The smaller bears give way. Most arguments here are settled with a stare, a lowered head, a single step backwards.
+Most arguments here end with a stare or a single blow.
 
 A young bear wades toward a big male's fishing rock. Too close. The male swings one paw, and the young bear tumbles into the water, scrambles up, and backs away.
 
@@ -54,19 +52,13 @@ Katmai, on the Alaska Peninsula. A land of volcanoes, lakes and rivers, where on
 
 And the bears come with it.
 
-Down on the riverbank, a mother steps out of the forest. Thin. Ribs showing under her coat.
+A male lifts his head from the river. Two tiny cubs are standing on the bank. He wades straight toward them.
 
-Behind her, two cubs. Five months old. Born in a den in the middle of winter. This is the first summer they have ever seen.
-
-The bigger one is a male. We will call him Bo. The smaller one, a female, Fern.
-
-And their mother, Tula.
-
-They have barely reached the water when a male lifts his head from the river. He has seen the cubs. He wades straight toward them.
-
-Tula does not wait. She charges, ears flat, huffing, and stops one stride from his face, jaws snapping.
+And their mother charges. Ears flat, huffing, she stops one stride from his face, jaws snapping.
 
 The male stops. Weighs it. And turns away. For now.
+
+This is Tula. Thin. Ribs showing under her coat. Her cubs are five months old, born in a den in the middle of winter. The bigger one is a male. We will call him Bo. The smaller one, a female, Fern.
 
 Why would a mother bring tiny cubs to a river full of the bears most likely to kill them?
 
@@ -92,11 +84,9 @@ At the bottom. Downstream. In the shallow riffles where nobody else wants to be.
 
 Tula wades in. The cubs wait on the bank.
 
-A salmon flashes past her legs. She lunges. Misses. Another one. Misses again.
+She lunges. Misses. Lunges again. Misses. Every lunge burns energy she does not have.
 
-Chasing fish in shallow water is like chasing shadows. Every lunge burns energy she does not have.
-
-Then, finally, she pins one. Her first salmon of the summer. And a young bear is already splashing toward her to take it.
+Then she pins one. Her first salmon of the summer. And a young bear is already splashing in to take it.
 
 Tula drops low over the fish and swings. Her paw catches the thief across the face, and it spins away into the current.
 
@@ -112,9 +102,7 @@ Is he resting? While the river is full of fish?
 
 No. He is fishing.
 
-Salmon swim into the pool to gather strength before they jump. They bump against his legs. Scraps from the bears above wash down to him.
-
-He does not chase. He waits. And the river feeds him.
+Salmon rest here before they jump, and bump right into his legs. He does not chase. The river feeds him.
 
 A young bear thinks the pool looks easy. It wades in beside him.
 
@@ -140,17 +128,15 @@ He does not lunge. He does not chase. He stands with his mouth open.
 
 And a salmon jumps straight into it.
 
-Why do the fish jump right at him? Why don't they just go around?
+A smaller male climbs onto the lip beside him. Scar does not even look at him. He swings. The smaller bear is knocked clean off the ledge and into the white water below.
+
+The lip holds one bear. Scar decides which one.
+
+But why do the fish jump right at him? Why don't they just go around?
 
 Because they can't.
 
 The water only runs deep enough to jump from in a few places. And the best of them is right below the lip. The salmon have no choice but to leap where Scar is waiting.
-
-A smaller male climbs the rocks beside him, edging onto the lip.
-
-Scar does not even look at him. He swings. The smaller bear is knocked clean off the ledge and into the white water below.
-
-The lip holds one bear. Scar decides which one.
 
 So that is the spot. The ledge every bear on this river wants.
 
@@ -162,17 +148,9 @@ A young male walks out of the trees. Broad. Heavy. Nearly as big as Scar.
 
 We will call him Ridge.
 
-Last summer, Ridge would have stepped aside. Now he walks straight to the edge of the falls.
+He walks straight to the edge of the falls. Will Scar give up his spot?
 
-Will Scar give up his spot?
-
-Scar turns his head. Lowers it. Stares.
-
-Ridge stares back.
-
-Neither bear moves.
-
-On this river, a stare is supposed to settle it. This one doesn't.
+Scar lowers his head and stares. Ridge stares back. On this river, a stare is supposed to settle it.
 
 Ridge takes one step forward. And Scar comes off the lip like an avalanche.
 
@@ -196,9 +174,7 @@ Downstream. Toward the riffles. Toward the easiest food on the river.
 
 Toward Tula's cubs.
 
-Tula smells him before she sees him. She swings her head toward the bank where the cubs are waiting.
-
-Ridge is already between her and them.
+By the time Tula smells him, he is already between her and them.
 
 Can she reach them in time?
 
@@ -232,9 +208,7 @@ Tula wades into the current and pulls Fern out by the scruff of her neck. Soaked
 
 But where is Bo?
 
-Tula climbs the bank, calling. A low, deep huff.
-
-From high above, a small voice answers.
+Tula calls. From high above, a small voice answers.
 
 Bo is high up a spruce tree, clinging to the trunk.
 
@@ -280,11 +254,7 @@ Tula rises, water pouring off her shoulders, and meets him chest to chest. They 
 
 A mother cannot win the river. But she can win a pool, for an evening.
 
-Night falls. And the next morning, there is a new problem on the riverbank.
-
-Something is standing in the shallows. Grey. Thin. Watching the water.
-
-A wolf.
+Next morning, something grey is standing in the shallows. A wolf.
 
 What is a wolf doing in a river full of grizzly bears?
 
@@ -298,9 +268,7 @@ And Tula's cubs are standing ten meters away.
 
 Is the wolf after the fish, or the cubs?
 
-It looks at the cubs. Then it looks at Tula.
-
-Tula drops her own fish and charges.
+It turns toward the cubs. Tula drops her fish and charges.
 
 The wolf holds its ground for one long second, teeth bared, the salmon in its jaws.
 
@@ -332,23 +300,15 @@ When the easy food runs out, every bear on the river finds a new way to keep eat
 
 And the biggest bears do not plan to go hungry.
 
-Up on the lip, Scar is still fishing. But he is not alone anymore.
+Ridge is back, bigger than before. And this time, there is no stare.
 
-Ridge is back. His neck has healed. And he is bigger than he was.
-
-What happens when the second fight comes?
-
-This time, there is no stare.
-
-Ridge charges up the rocks and crashes into Scar on the lip of the falls.
+He charges up the rocks and crashes into Scar on the lip of the falls.
 
 They rise up together. Jaws locked on each other's necks. Claws raking across faces.
 
 Blood in the foam.
 
-Scar has held this spot for years. He has never lost.
-
-But he is older now. And Ridge is younger, and hungrier, and he has been thinking about this fight all summer.
+Scar has never lost. But he is older now, and Ridge is hungrier.
 
 Ridge drives forward. Scar's back paw slips on the wet rock.
 
