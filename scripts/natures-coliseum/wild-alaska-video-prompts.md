@@ -3,7 +3,7 @@
 10 seconds per beat · fight teaser = beats 1–6 · cold-open hook = beats 7–17 · image-to-video · every prompt standalone
 
 **Beat 1 (TEASER)**
-[Script Segment Text]: "A wall of salmon hurls itself up the falls. A grizzly lunges through the spray, and his jaws snap shut on a fish in mid-air."
+[Script Segment Text]: "A wall of salmon hurls itself up the falls. A grizzly lunges through the spray. Jaws snap shut on a fish in mid-air."
 Video Prompt: Fast dramatic shot: a massive old male Alaskan brown bear with a dark brown coat, a huge muscular shoulder hump, a broad heavy head and a pale scar across his muzzle lunging through backlit spray on the rock lip at the top of a low waterfall on a salmon river in Katmai, Alaska, jaws snapping shut on a leaping crimson sockeye salmon in mid-air as dozens more salmon hurl themselves up the falls. Over 10 seconds, the bear lunges and catches the fish in mid-air; spray and leaping salmon fill the air. Camera movement: Slow motion at the moment the jaws close. Lighting: long low golden Alaskan summer sunlight, glowing rim light on wet fur, sparkling spray and water droplets. Mood: hunt teaser. Visual style: photorealistic cinematic wildlife documentary, premium nature-film look, 16:9 widescreen, warm honey-gold grade over chocolate-brown fur, spruce greens and white water, long telephoto compression, very shallow depth of field with creamy bokeh, ultra-fine micro-detail, realistic animal anatomy and locomotion, natural physics, smooth cinematic motion, no text, no logos, no music, no human presence or man-made structures, no gore.
 Camera Movement: Slow motion at the moment the jaws close
 Subject Motion: The bear lunges and catches the fish in mid-air

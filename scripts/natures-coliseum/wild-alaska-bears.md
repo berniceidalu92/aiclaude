@@ -1,6 +1,6 @@
 # WILD ALASKA | The Bears That Fight for the Waterfall
 
-A wall of salmon hurls itself up the falls. A grizzly lunges through the spray, and his jaws snap shut on a fish in mid-air.
+A wall of salmon hurls itself up the falls. A grizzly lunges through the spray. Jaws snap shut on a fish in mid-air.
 
 A male rears up against a spruce trunk, claws ripping the bark, and a tiny cub clings just above his open jaws.
 
