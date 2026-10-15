@@ -1,5 +1,7 @@
 # WILD PATAGONIA | The Whales That Hunt on Land
 
+## Chapter 1: Every Fight on the Beach (≈0:00)
+
 A six-tonne killer whale explodes out of the surf onto dry stones, jaws wide. A sea lion pup has one second.
 
 A sea lion bull, three hundred kilos of muscle and mane, sinks his teeth into a young orca thrashing in the shallows.
@@ -11,6 +13,8 @@ A mother orca stranded on the stones. The tide draining away behind her. Every w
 Storm waves the height of a house, smashing into the beach. And one small fin heading straight into them. Alone.
 
 One last wave. A young orca rides it onto the beach, jaws open, with the bull already lunging. This is how it began.
+
+## Chapter 2: The Border (≈1:01)
 
 The pups are playing in the shallows. And forty meters out, a tall black fin is watching them.
 
@@ -31,6 +35,8 @@ So how does a whale hunt on land? And why would a mother risk dying on these sto
 This is the story of a mother and the beach that tests her. It is as though the creator built the ocean's greatest hunter for deep water, then placed her prey just out of reach, to see what she would do about it.
 
 Wild Patagonia. The whales that hunt on land.
+
+## Chapter 3: The Road (≈2:30)
 
 Punta Norte, on the Valdés Peninsula of Argentina. March. The sea lion pups are two months old and learning to swim.
 
@@ -64,6 +70,8 @@ Look behind her. Nico was watching every move. Every wave she rode, he memorised
 
 She was not hunting. She was showing him the road.
 
+## Chapter 4: The First Stranding (≈4:46)
+
 And now he wants to drive it himself. But is he ready?
 
 He lines up on the channel. He waits for a wave. He goes.
@@ -84,6 +92,8 @@ He is free. So why did she let him try at all, when she knew he would fail?
 
 Because the beach cannot be explained. It has to be felt. The weight. The stones. The fear. Every calf has to strand once to learn how not to.
 
+## Chapter 5: The Guard (≈6:20)
+
 And Nico has learned it just in time. Because the beach has a guard.
 
 At the top of the channel, a sea lion bull hauls himself onto a rock. Golden mane. Thick neck. Three hundred kilos of muscle.
@@ -102,6 +112,8 @@ Nico rolls, rips free, and retreats to deep water, a ragged wound across his fli
 
 So that is what a bull does. He fights back. And now Nico is wounded, the tide is falling, and the beach is getting more dangerous by the minute.
 
+## Chapter 6: The Tide Clock (≈7:49)
+
 Any sensible whale would leave. So why does Marea keep hunting?
 
 Because the channel only works for an hour or so around high tide. Miss it, and the next chance comes half a day later. Often in the dark.
@@ -117,6 +129,8 @@ Neither. They patrol the deep water, back and forth, waiting for pups that swim 
 They are just as big. Just as strong. They can see the same channel. So why do they never use it?
 
 Hold on to that question. It is the key to everything. And right now, Nico has a more urgent problem.
+
+## Chapter 7: The Wrong Target (≈9:18)
 
 He has not eaten in two days. And he has just spotted a huge, dark shape rolling slowly in the surf.
 
@@ -138,6 +152,8 @@ But knowing what not to catch does not fill an empty stomach. So why doesn't Mar
 
 She could. She has done it a hundred times. But a calf that is always fed never learns to hunt.
 
+## Chapter 8: The Sideways Sea (≈11:01)
+
 So he goes hungry. And that night, the evening tide brings a new problem.
 
 The wind has shifted. The swell is coming in sideways, rolling along the beach instead of straight up it.
@@ -157,6 +173,8 @@ She goes.
 Marea charges up the channel and bursts onto the stones. The sideways wave carries her higher than she has ever gone.
 
 A pup is right there. Inches from her jaws. It slips away.
+
+## Chapter 9: Stranded (≈12:16)
 
 And then the wave is gone. And Marea is stranded.
 
@@ -194,6 +212,8 @@ The backwash grabs her. And Marea slides down the stones and back into the sea.
 
 She survived. But her belly is scraped raw and she can barely swim. She will not be riding any waves for a while.
 
+## Chapter 10: Practice (≈14:53)
+
 So who hunts now?
 
 There is only one answer. Nico.
@@ -210,6 +230,8 @@ Because he is not hunting. He is practicing. How far a wave will carry him. How 
 
 But practice on empty stones only teaches half the lesson. How do you practice catching something?
 
+## Chapter 11: The Living Target (≈16:00)
+
 Marea has the answer. She drifts into the shallows and snatches a pup that has strayed too far from shore.
 
 She does not eat it. She carries it out in front of Nico.
@@ -224,6 +246,8 @@ She is not feeding him. She is giving him a target. A moving one. One that fight
 
 On the third try, Nico catches it. For the first time in days, he eats.
 
+## Chapter 12: The Closing Season (≈17:00)
+
 But one pup in deep water is not the lesson. The lesson is the beach. And the beach is closing.
 
 Every day, the pups swim stronger. Every day, they stay further from the water's edge.
@@ -233,6 +257,8 @@ How long before they are too fast to catch?
 A few weeks at most. Then the season ends, the beach empties, and the chance to learn is gone for another year.
 
 The clock is not just the tide anymore. It is the whole season. And then the weather makes it worse.
+
+## Chapter 13: The Storm (≈17:51)
 
 The sky over the Atlantic goes black. The wind screams across the peninsula. Waves the height of a house slam into the beach.
 
@@ -255,6 +281,8 @@ Who wins this time?
 Behind Nico, his mother rises to the surface. Watching. She cannot help him now.
 
 A wave builds. Grey. Huge. Rolling.
+
+## Chapter 14: The Road Alone (≈19:27)
 
 Nico goes.
 
@@ -279,6 +307,8 @@ The bull is left on the beach, roaring at a wave.
 Nico swims straight out to deep water. To his mother. He drops his catch right in front of her.
 
 And for the first time in days, Marea eats.
+
+## Chapter 15: The Answer (≈20:54)
 
 So how does a whale hunt on land?
 
