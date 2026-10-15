@@ -200,7 +200,7 @@ Tula climbs the bank, calling. A low, deep huff.
 
 From high above, a small voice answers.
 
-Bo is twenty meters up a spruce tree.
+Bo is high up a spruce tree, clinging to the trunk.
 
 How did he get up there?
 
