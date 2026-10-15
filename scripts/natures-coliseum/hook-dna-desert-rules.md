@@ -38,3 +38,15 @@
 7. Let the footage carry the action; narration only names what it means.
 8. Add an out-of-nowhere twist late (the barbed wire), then a loyalty or rescue payoff.
 9. Do NOT copy the second half's encyclopedia format. That is where hooks drop off.
+
+## Nature's Coliseum standing script rules
+1. The script opens with the video's major hunt: the first teaser beat is the biggest predator-and-prey moment, at the moment of contact.
+2. The rest of the 60-second teaser is the most intense encounters in the video, never repeated, ending on the biggest one.
+3. Straight after the teaser, the story opens in a live fight. No scenery or calm setup first.
+4. No build-up before any fight: action first, explanation after.
+5. Every puzzle has a fight or clash, so there is never more than about 2 minutes without action.
+6. Puzzles: the first opens within seconds of the teaser; each small puzzle is answered within 60–90 seconds and leads straight into the next; only the big question waits until the end and is repeated every 4–5 minutes.
+7. Every thumbnail shows one of the video's most intense encounters at the moment of contact.
+8. Chapters go only in the description, never in the script.
+9. About 30 minutes maximum; B-roll at most 20%, never during fights, never two in a row, none before 3:00.
+10. No subscribe line at 2:00 or 4:00; no Word document unless asked; Nature's Coliseum branding.

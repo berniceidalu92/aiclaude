@@ -3,6 +3,14 @@
 10-second beats · fight teaser = beats 1–6 · cold-open hook = beats 7–17 · no B-roll before 2:00 · every prompt standalone
 
 **Beat 1 (TEASER)**
+[Script Segment Text]: "A wall of salmon hurls itself up the falls. A grizzly lunges through the spray, and his jaws snap shut on a fish in mid-air."
+Image Prompt: Fast dramatic shot: a massive old male Alaskan brown bear with a dark brown coat, a huge muscular shoulder hump, a broad heavy head and a pale scar across his muzzle lunging through backlit spray on the rock lip at the top of a low waterfall on a salmon river in Katmai, Alaska, jaws snapping shut on a leaping crimson sockeye salmon in mid-air as dozens more salmon hurl themselves up the falls. Camera: Telephoto tracking shot, 400mm, fast shutter freezing motion. Lighting: long low golden Alaskan summer sunlight, glowing rim light on wet fur, sparkling spray and water droplets. Mood: hunt teaser. Visual style: photorealistic cinematic wildlife documentary, premium nature-film look, 16:9 widescreen, warm honey-gold light over chocolate-brown fur, deep spruce greens, slate-grey wet rock and white water, soft warm golden grade with gently lifted blacks, long telephoto compression, very shallow depth of field with creamy bokeh, ultra-fine micro-detail on fur, claws, salmon scales and water droplets, intimate and dramatic mood, no people or man-made structures.
+Camera Angle: Telephoto tracking shot, 400mm, fast shutter freezing motion
+Lighting: Long low golden Alaskan summer sunlight, glowing rim light on wet fur, sparkling spray and water droplets
+Mood: Hunt teaser
+Action: A grizzly snatches a leaping salmon in mid-air
+
+**Beat 2 (TEASER)**
 [Script Segment Text]: "A male rears up against a spruce trunk, claws ripping the bark, and a tiny cub clings just above his open jaws."
 Image Prompt: Fast dramatic shot: a big male brown bear reared up against a spruce trunk, claws ripping the bark, a five-month-old male brown bear cub with fluffy dark brown fur, a pale cream collar around his neck, round ears and bright curious eyes clinging to the trunk just above his open jaws on a grassy riverbank at the edge of spruce forest in Katmai, Alaska. Camera: Long telephoto lens, 400mm, very shallow depth of field, camera at eye level. Lighting: long low golden Alaskan summer sunlight, glowing rim light on wet fur, sparkling spray and water droplets. Mood: peril teaser. Visual style: photorealistic cinematic wildlife documentary, premium nature-film look, 16:9 widescreen, warm honey-gold light over chocolate-brown fur, deep spruce greens, slate-grey wet rock and white water, soft warm golden grade with gently lifted blacks, long telephoto compression, very shallow depth of field with creamy bokeh, ultra-fine micro-detail on fur, claws, salmon scales and water droplets, intimate and dramatic mood, no people or man-made structures.
 Camera Angle: Long telephoto lens, 400mm, very shallow depth of field, camera at eye level
@@ -10,21 +18,13 @@ Lighting: Long low golden Alaskan summer sunlight, glowing rim light on wet fur,
 Mood: Peril teaser
 Action: A male claws up a tree at a cub
 
-**Beat 2 (TEASER)**
+**Beat 3 (TEASER)**
 [Script Segment Text]: "A cub swept off her feet by the current, tumbling toward the rapids, as a giant male wades in after her."
 Image Prompt: Fast dramatic shot: a five-month-old female brown bear cub, smaller and lighter, with soft cinnamon-brown fur, a pale cream collar around her neck and timid eyes swept off her feet and tumbling through fast water, head barely above the surface, a huge male bear wading in behind her in shallow fast riffles over round stones on a salmon river in Katmai, Alaska. Camera: Waterline shot, camera at water level, 300mm telephoto. Lighting: long low golden Alaskan summer sunlight, glowing rim light on wet fur, sparkling spray and water droplets. Mood: panic teaser. Visual style: photorealistic cinematic wildlife documentary, premium nature-film look, 16:9 widescreen, warm honey-gold light over chocolate-brown fur, deep spruce greens, slate-grey wet rock and white water, soft warm golden grade with gently lifted blacks, long telephoto compression, very shallow depth of field with creamy bokeh, ultra-fine micro-detail on fur, claws, salmon scales and water droplets, intimate and dramatic mood, no people or man-made structures.
 Camera Angle: Waterline shot, camera at water level, 300mm telephoto
 Lighting: Long low golden Alaskan summer sunlight, glowing rim light on wet fur, sparkling spray and water droplets
 Mood: Panic teaser
 Action: A cub swept away by the current
-
-**Beat 3 (TEASER)**
-[Script Segment Text]: "A wolf and a grizzly mother, face to face in the shallows, teeth bared over the same salmon. Neither one backs down."
-Image Prompt: Fast dramatic shot: a lean grey wolf with a pale chest, long legs and amber eyes with a crimson salmon in its jaws, teeth bared, face to face with an adult female Alaskan brown bear, lean after winter, with a chocolate-brown coat, golden-tipped fur on her shoulders, a broad dished face, small rounded ears and dark eyes snarling in the shallows in shallow fast riffles over round stones on a salmon river in Katmai, Alaska. Camera: Long telephoto lens, 400mm, very shallow depth of field, camera at eye level. Lighting: cool blue-grey dawn light with soft mist lying on the water and a faint warm glow on the horizon. Mood: standoff teaser. Visual style: photorealistic cinematic wildlife documentary, premium nature-film look, 16:9 widescreen, warm honey-gold light over chocolate-brown fur, deep spruce greens, slate-grey wet rock and white water, soft warm golden grade with gently lifted blacks, long telephoto compression, very shallow depth of field with creamy bokeh, ultra-fine micro-detail on fur, claws, salmon scales and water droplets, intimate and dramatic mood, no people or man-made structures.
-Camera Angle: Long telephoto lens, 400mm, very shallow depth of field, camera at eye level
-Lighting: Cool blue-grey dawn light with soft mist lying on the water and a faint warm glow on the horizon
-Mood: Standoff teaser
-Action: A wolf and a grizzly face off over a salmon
 
 **Beat 4 (TEASER)**
 [Script Segment Text]: "Knocked down once. Knocked down twice. A mother bear rises out of the river again, roaring into the face of a giant."

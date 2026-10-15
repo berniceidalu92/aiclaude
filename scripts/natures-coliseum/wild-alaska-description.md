@@ -12,7 +12,7 @@ So why is one ledge of rock worth dying for?
 • Bears snorkeling, fighting underwater, and catching salmon in mid-air
 
 ⏱️ Chapters
-0:00 Every Fight on the River – grizzly vs grizzly, mother vs male, wolf vs bear
+0:00 The Hunt and Every Fight – salmon at the falls, grizzly vs grizzly, mother vs male
 1:00 Two Giants, One Rock – the fight that opens the story
 1:30 The Rules of the River – why fifty grizzlies don't all fight
 3:40 Katmai – where one of the largest salmon runs on Earth comes home

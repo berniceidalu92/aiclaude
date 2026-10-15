@@ -1,10 +1,10 @@
 # WILD ALASKA | The Bears That Fight for the Waterfall
 
+A wall of salmon hurls itself up the falls. A grizzly lunges through the spray, and his jaws snap shut on a fish in mid-air.
+
 A male rears up against a spruce trunk, claws ripping the bark, and a tiny cub clings just above his open jaws.
 
 A cub swept off her feet by the current, tumbling toward the rapids, as a giant male wades in after her.
-
-A wolf and a grizzly mother, face to face in the shallows, teeth bared over the same salmon. Neither one backs down.
 
 Knocked down once. Knocked down twice. A mother bear rises out of the river again, roaring into the face of a giant.
 
