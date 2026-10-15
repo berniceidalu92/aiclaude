@@ -20,6 +20,10 @@ Because every bear on this river knows its rank.
 
 The biggest males take the best places. The smaller bears give way. Most arguments here are settled with a stare, a lowered head, a single step backwards.
 
+A young bear wades toward a big male's fishing rock. Too close. The male swings one paw, and the young bear tumbles into the water, scrambles up, and backs away.
+
+One blow. No second one needed.
+
 On this river, the fight is usually over before it starts.
 
 So why, every summer, do some bears still fight to the death?
@@ -27,6 +31,14 @@ So why, every summer, do some bears still fight to the death?
 Because rank only works when the difference is obvious. When two bears are nearly the same size, nobody knows who should step back.
 
 And the only way to find out is to fight.
+
+Below the falls, two males of almost the same size want the same rock. Neither lowers his head.
+
+They rise onto their hind legs and slam together, jaws open, water exploding around them. Bite. Swipe. Bite.
+
+Then one slips, and it is over. He limps away. The winner climbs onto the rock.
+
+When there is no clear winner, a fight here only ends when somebody bleeds.
 
 This summer, two bears that size are on the same river. And they both want the same spot.
 
@@ -49,6 +61,12 @@ Behind her, two cubs. Five months old. Born in a den in the middle of winter. Th
 The bigger one is a male. We will call him Bo. The smaller one, a female, Fern.
 
 And their mother, Tula.
+
+They have barely reached the water when a male lifts his head from the river. He has seen the cubs. He wades straight toward them.
+
+Tula does not wait. She charges, ears flat, huffing, and stops one stride from his face, jaws snapping.
+
+The male stops. Weighs it. And turns away. For now.
 
 Why would a mother bring tiny cubs to a river full of the bears most likely to kill them?
 
@@ -78,6 +96,12 @@ A salmon flashes past her legs. She lunges. Misses. Another one. Misses again.
 
 Chasing fish in shallow water is like chasing shadows. Every lunge burns energy she does not have.
 
+Then, finally, she pins one. Her first salmon of the summer. And a young bear is already splashing toward her to take it.
+
+Tula drops low over the fish and swings. Her paw catches the thief across the face, and it spins away into the current.
+
+On this river, catching a fish is only half the job. Keeping it is the other half.
+
 So how does any bear here get fat?
 
 Look upstream.
@@ -91,6 +115,12 @@ No. He is fishing.
 Salmon swim into the pool to gather strength before they jump. They bump against his legs. Scraps from the bears above wash down to him.
 
 He does not chase. He waits. And the river feeds him.
+
+A young bear thinks the pool looks easy. It wades in beside him.
+
+The male explodes out of the water. One lunge, jaws wide, and the young bear is gone, scrambling for the bank.
+
+Sitting still is only possible when everyone is afraid of you.
 
 But even that is not the best place on the river. So where is?
 
@@ -115,6 +145,12 @@ Why do the fish jump right at him? Why don't they just go around?
 Because they can't.
 
 The water only runs deep enough to jump from in a few places. And the best of them is right below the lip. The salmon have no choice but to leap where Scar is waiting.
+
+A smaller male climbs the rocks beside him, edging onto the lip.
+
+Scar does not even look at him. He swings. The smaller bear is knocked clean off the ledge and into the white water below.
+
+The lip holds one bear. Scar decides which one.
 
 So that is the spot. The ledge every bear on this river wants.
 
@@ -208,6 +244,10 @@ Brown bear cubs can climb like squirrels. Their claws are short and curved, made
 
 The safest place for a cub is the one place a big male cannot reach.
 
+And a big male has followed them here. He stands up against the trunk, sniffing, claws scraping the bark below Bo.
+
+Bo climbs higher. Tula charges up the bank and slams into the male from the side. He turns, snarls, and leaves.
+
 The family is together. But Tula has lost a whole day of fishing. And the clock is running.
 
 Every day the salmon run gets a little thinner. Every day the bears get a little fatter. Except her.
@@ -233,6 +273,12 @@ For the first time this summer, Tula eats until she cannot eat any more.
 Why didn't she do this before?
 
 Because the pool only empties when the big males leave. And they only leave when they are full. A mother has to wait for the edges of the day, the hours nobody else wants.
+
+But the edges of the day belong to the young males too. One wades into the pool, straight at her.
+
+Tula rises, water pouring off her shoulders, and meets him chest to chest. They swat. They bite. She drives him back to the bank.
+
+A mother cannot win the river. But she can win a pool, for an evening.
 
 Night falls. And the next morning, there is a new problem on the riverbank.
 
@@ -277,6 +323,10 @@ No. It is snorkeling.
 With the jumping fish almost gone, the young bears search the river bottom for salmon that have already died. Its eyes are open underwater, scanning the stones.
 
 It comes up with a dead fish in its jaws. Then dives again.
+
+Another young bear sees the fish and charges through the water. The two of them go under together, wrestling, rolling, surfacing in a spray of water, both jaws on the same salmon.
+
+It tears in half. Each one swims off with a piece.
 
 When the easy food runs out, every bear on the river finds a new way to keep eating. Or it goes hungry.
 
