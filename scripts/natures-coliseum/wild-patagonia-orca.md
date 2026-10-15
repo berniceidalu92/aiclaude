@@ -450,7 +450,7 @@ Nico swims straight out to deep water.
 
 To his mother.
 
-He lets the pup go, right in front of her.
+He drops his catch right in front of her.
 
 And for the first time in days, Marea eats.
 
