@@ -40,8 +40,8 @@
 9. Do NOT copy the second half's encyclopedia format. That is where hooks drop off.
 
 ## Nature's Coliseum standing script rules
-1. The script opens with the climax: the first 60 seconds are a flash-forward of the video's biggest group-versus-giant fight, beat by beat, cut off right before the outcome ("To find out who, we have to go back to the beginning").
-2. The rest of the video's most intense encounters appear in the story itself, each scene opening on its moment of contact.
+1. The 60-second teaser is a montage of the video's most intense fights, including the climax, each at the moment of contact.
+2. The story then opens with the climax itself, told beat by beat and cut off right before the outcome ("To find out who, we have to go back to the beginning"), before going back to the start.
 3. Straight after the teaser, the story opens in a live fight. No scenery or calm setup first.
 4. No build-up before any fight: action first, explanation after.
 5. Every puzzle has a fight or clash, so there is never more than about 2 minutes without action.

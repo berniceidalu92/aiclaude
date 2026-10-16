@@ -1,5 +1,17 @@
 # WILD RUAHA | The Lions That Hunt Giraffes
 
+Eight lions on one giraffe. Five meters of bone and hooves at full gallop, and a lioness clinging to its neck.
+
+One kick. A young lioness flies through the air like a rag doll, slams into the sand, and does not get up.
+
+A two-hundred-kilo lion takes a hoof to the skull and drops where he stands. The hyenas are already running in.
+
+Thirty hyenas pour out of the dark, screaming, onto a pride that has nothing left to fight with.
+
+A lioness drinking at the last pool in the river. The water behind her explodes, and jaws close where she stood.
+
+A mother giraffe kicking in every direction over her calf, as a lioness dives beneath her hooves. Nobody here is safe.
+
 Eight lions hidden in the sand. A giant giraffe spreads its legs to drink. And the riverbed explodes.
 
 The giraffe runs, but the sand swallows its hooves. A young lioness slips in low, behind the legs that can kill her.
