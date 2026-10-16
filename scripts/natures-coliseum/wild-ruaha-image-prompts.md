@@ -3,52 +3,52 @@
 10-second beats · fight teaser = beats 1–6 · story opens mid-fight at beat 7 · every prompt standalone
 
 **Beat 1 (TEASER)**
-[Script Segment Text]: "Eight lions on one giraffe. Five meters of bone and hooves at full gallop, and a lioness clinging to its neck."
-Image Prompt: Fast dramatic shot, full height of the giraffe in frame: eight lions attacking a giant old bull giraffe nearly six meters tall with dark chestnut patches on a cream background, a thick heavily scarred neck and large knobbly ossicones at full gallop, an older, heavily built African lioness with a tawny coat, a scarred face, a torn lower lip and amber eyes clinging high on its neck, others leaping at its flanks and legs in a wide dry riverbed of pale soft sand in Ruaha National Park, Tanzania. Camera: Telephoto tracking shot, 400mm, fast shutter freezing motion. Lighting: warm low golden-hour sunlight, glowing rim light on fur, dust hanging in the air and catching the light. Mood: explosive teaser. Visual style: photorealistic cinematic wildlife documentary, premium nature-film look, 16:9 widescreen, warm honey-gold and amber light over pale golden sand, ochre dust and straw-colored grass, soft warm golden grade with gently lifted blacks, long telephoto compression, very shallow depth of field with creamy bokeh, ultra-fine micro-detail on fur, whiskers, claws, hooves and sand grains, intense and dramatic mood, no people or vehicles.
+[Script Segment Text]: "Eight lions hidden in the sand. A giant giraffe spreads its legs to drink. And the riverbed explodes."
+Image Prompt: Fast dramatic shot, full height of the giraffe in frame: eight lions bursting out of the sand from three sides at a giant old bull giraffe nearly six meters tall with dark chestnut patches on a cream background, a thick heavily scarred neck and large knobbly ossicones with its front legs splayed to drink at a shrinking green-brown pool in a dry sandy riverbed in Ruaha National Park, Tanzania. Camera: Telephoto tracking shot, 400mm, fast shutter freezing motion. Lighting: deep amber dusk light, long shadows across the sand, glowing dust. Mood: explosive teaser. Visual style: photorealistic cinematic wildlife documentary, premium nature-film look, 16:9 widescreen, warm honey-gold and amber light over pale golden sand, ochre dust and straw-colored grass, soft warm golden grade with gently lifted blacks, long telephoto compression, very shallow depth of field with creamy bokeh, ultra-fine micro-detail on fur, whiskers, claws, hooves and sand grains, intense and dramatic mood, no people or vehicles.
 Camera Angle: Telephoto tracking shot, 400mm, fast shutter freezing motion
-Lighting: Warm low golden-hour sunlight, glowing rim light on fur, dust hanging in the air and catching the light
+Lighting: Deep amber dusk light, long shadows across the sand, glowing dust
 Mood: Explosive teaser
-Action: Eight lions on one galloping giraffe
+Action: Eight lions burst from the sand at a drinking giraffe
 
 **Beat 2 (TEASER)**
-[Script Segment Text]: "One kick. A young lioness flies through the air like a rag doll, slams into the sand, and does not get up."
-Image Prompt: Fast dramatic shot: a young, lean two-year-old African lioness with a light golden coat, a slim build and bright amber eyes flying through the air after a giraffe's hind kick, body twisting, the giraffe's hoof still raised in a wide dry riverbed of pale soft sand in Ruaha National Park, Tanzania. Camera: Telephoto tracking shot, 400mm, fast shutter freezing motion. Lighting: warm low golden-hour sunlight, glowing rim light on fur, dust hanging in the air and catching the light. Mood: shock teaser. Visual style: photorealistic cinematic wildlife documentary, premium nature-film look, 16:9 widescreen, warm honey-gold and amber light over pale golden sand, ochre dust and straw-colored grass, soft warm golden grade with gently lifted blacks, long telephoto compression, very shallow depth of field with creamy bokeh, ultra-fine micro-detail on fur, whiskers, claws, hooves and sand grains, intense and dramatic mood, no people or vehicles.
+[Script Segment Text]: "The giraffe runs, but the sand swallows its hooves. A young lioness slips in low, behind the legs that can kill her."
+Image Prompt: Fast dramatic shot: a giant old bull giraffe nearly six meters tall with dark chestnut patches on a cream background, a thick heavily scarred neck and large knobbly ossicones running through soft sand with hooves sinking while a young, lean two-year-old African lioness with a light golden coat, a slim build and bright amber eyes slips in low behind its back legs in a wide dry riverbed of pale soft sand in Ruaha National Park, Tanzania, full height in frame. Camera: Telephoto tracking shot, 400mm, fast shutter freezing motion. Lighting: deep amber dusk light, long shadows across the sand, glowing dust. Mood: pursuit teaser. Visual style: photorealistic cinematic wildlife documentary, premium nature-film look, 16:9 widescreen, warm honey-gold and amber light over pale golden sand, ochre dust and straw-colored grass, soft warm golden grade with gently lifted blacks, long telephoto compression, very shallow depth of field with creamy bokeh, ultra-fine micro-detail on fur, whiskers, claws, hooves and sand grains, intense and dramatic mood, no people or vehicles.
 Camera Angle: Telephoto tracking shot, 400mm, fast shutter freezing motion
-Lighting: Warm low golden-hour sunlight, glowing rim light on fur, dust hanging in the air and catching the light
-Mood: Shock teaser
-Action: A lioness kicked through the air
+Lighting: Deep amber dusk light, long shadows across the sand, glowing dust
+Mood: Pursuit teaser
+Action: Hooves sinking; a young lioness goes low
 
 **Beat 3 (TEASER)**
-[Script Segment Text]: "A two-hundred-kilo lion takes a hoof to the skull and drops where he stands. The hyenas are already running in."
-Image Prompt: Fast dramatic shot: a huge male African lion with a thick black-tipped dark mane, a heavy muscular build and amber eyes struck on the side of the head by the front hoof of a giant old bull giraffe nearly six meters tall with dark chestnut patches on a cream background, a thick heavily scarred neck and large knobbly ossicones, collapsing into the sand, hyenas running in from the background at a shrinking green-brown pool in a dry sandy riverbed in Ruaha National Park, Tanzania. Camera: Telephoto tracking shot, 400mm, fast shutter freezing motion. Lighting: deep amber dusk light, long shadows across the sand, glowing dust. Mood: brutal teaser. Visual style: photorealistic cinematic wildlife documentary, premium nature-film look, 16:9 widescreen, warm honey-gold and amber light over pale golden sand, ochre dust and straw-colored grass, soft warm golden grade with gently lifted blacks, long telephoto compression, very shallow depth of field with creamy bokeh, ultra-fine micro-detail on fur, whiskers, claws, hooves and sand grains, intense and dramatic mood, no people or vehicles.
+[Script Segment Text]: "One kick. It misses, and the hoof sinks into the sand. A scarred lioness leaps onto its back."
+Image Prompt: Fast dramatic shot: a hind kick of a giant old bull giraffe nearly six meters tall with dark chestnut patches on a cream background, a thick heavily scarred neck and large knobbly ossicones missing and sinking into the sand as an older, heavily built African lioness with a tawny coat, a scarred face, a torn lower lip and amber eyes leaps onto its back in a wide dry riverbed of pale soft sand in Ruaha National Park, Tanzania, full height in frame. Camera: Telephoto tracking shot, 400mm, fast shutter freezing motion. Lighting: deep amber dusk light, long shadows across the sand, glowing dust. Mood: strike teaser. Visual style: photorealistic cinematic wildlife documentary, premium nature-film look, 16:9 widescreen, warm honey-gold and amber light over pale golden sand, ochre dust and straw-colored grass, soft warm golden grade with gently lifted blacks, long telephoto compression, very shallow depth of field with creamy bokeh, ultra-fine micro-detail on fur, whiskers, claws, hooves and sand grains, intense and dramatic mood, no people or vehicles.
 Camera Angle: Telephoto tracking shot, 400mm, fast shutter freezing motion
 Lighting: Deep amber dusk light, long shadows across the sand, glowing dust
-Mood: Brutal teaser
-Action: A giant lion kicked in the head
+Mood: Strike teaser
+Action: The kick misses and a lioness leaps on
 
 **Beat 4 (TEASER)**
-[Script Segment Text]: "Thirty hyenas pour out of the dark, screaming, onto a pride that has nothing left to fight with."
-Image Prompt: Fast dramatic shot: a clan of spotted hyenas with sloping backs, rounded ears and glowing eyes of thirty pouring out of the dark, mouths open, onto tawny African lionesses standing over a kill in a wide dry riverbed of pale soft sand in Ruaha National Park, Tanzania. Camera: Telephoto tracking shot, 400mm, fast shutter freezing motion. Lighting: soft silver moonlight with a faint warm rim on fur, glowing eyes in the dark, dust in the moonlight. Mood: terror teaser. Visual style: photorealistic cinematic wildlife documentary, premium nature-film look, 16:9 widescreen, warm honey-gold and amber light over pale golden sand, ochre dust and straw-colored grass, soft warm golden grade with gently lifted blacks, long telephoto compression, very shallow depth of field with creamy bokeh, ultra-fine micro-detail on fur, whiskers, claws, hooves and sand grains, intense and dramatic mood, no people or vehicles.
-Camera Angle: Telephoto tracking shot, 400mm, fast shutter freezing motion
-Lighting: Soft silver moonlight with a faint warm rim on fur, glowing eyes in the dark, dust in the moonlight
-Mood: Terror teaser
-Action: Thirty hyenas pour onto the pride
-
-**Beat 5 (TEASER)**
-[Script Segment Text]: "A lioness drinking at the last pool in the river. The water behind her explodes, and jaws close where she stood."
-Image Prompt: Fast dramatic shot: a four-meter Nile crocodile with dark olive scales and pale yellow eyes exploding out of the water with jaws wide behind an older, heavily built African lioness with a tawny coat, a scarred face, a torn lower lip and amber eyes drinking at a shrinking green-brown pool in a dry sandy riverbed in Ruaha National Park, Tanzania. Camera: Telephoto tracking shot, 400mm, fast shutter freezing motion. Lighting: warm low golden-hour sunlight, glowing rim light on fur, dust hanging in the air and catching the light. Mood: ambush teaser. Visual style: photorealistic cinematic wildlife documentary, premium nature-film look, 16:9 widescreen, warm honey-gold and amber light over pale golden sand, ochre dust and straw-colored grass, soft warm golden grade with gently lifted blacks, long telephoto compression, very shallow depth of field with creamy bokeh, ultra-fine micro-detail on fur, whiskers, claws, hooves and sand grains, intense and dramatic mood, no people or vehicles.
-Camera Angle: Telephoto tracking shot, 400mm, fast shutter freezing motion
-Lighting: Warm low golden-hour sunlight, glowing rim light on fur, dust hanging in the air and catching the light
-Mood: Ambush teaser
-Action: A crocodile explodes behind a drinking lioness
-
-**Beat 6 (TEASER)**
-[Script Segment Text]: "Three lions on its back, and the giraffe is still standing. Then it turns, and comes for them. This is how it began."
-Image Prompt: Fast dramatic shot, full height of the giraffe in frame: a giant old bull giraffe nearly six meters tall with dark chestnut patches on a cream background, a thick heavily scarred neck and large knobbly ossicones still standing with three lionesses on its back, turning its neck toward more lions charging in in a wide dry riverbed of pale soft sand in Ruaha National Park, Tanzania. Camera: Telephoto tracking shot, 400mm, fast shutter freezing motion. Lighting: deep amber dusk light, long shadows across the sand, glowing dust. Mood: cliffhanger teaser. Visual style: photorealistic cinematic wildlife documentary, premium nature-film look, 16:9 widescreen, warm honey-gold and amber light over pale golden sand, ochre dust and straw-colored grass, soft warm golden grade with gently lifted blacks, long telephoto compression, very shallow depth of field with creamy bokeh, ultra-fine micro-detail on fur, whiskers, claws, hooves and sand grains, intense and dramatic mood, no people or vehicles.
+[Script Segment Text]: "Three lions on its back. Two on its flanks. And the tallest animal on Earth is still standing."
+Image Prompt: Fast dramatic shot, full height of the giraffe in frame: a giant old bull giraffe nearly six meters tall with dark chestnut patches on a cream background, a thick heavily scarred neck and large knobbly ossicones still standing with three lionesses on its back and two on its flanks in a wide dry riverbed of pale soft sand in Ruaha National Park, Tanzania. Camera: Telephoto tracking shot, 400mm, fast shutter freezing motion. Lighting: deep amber dusk light, long shadows across the sand, glowing dust. Mood: siege teaser. Visual style: photorealistic cinematic wildlife documentary, premium nature-film look, 16:9 widescreen, warm honey-gold and amber light over pale golden sand, ochre dust and straw-colored grass, soft warm golden grade with gently lifted blacks, long telephoto compression, very shallow depth of field with creamy bokeh, ultra-fine micro-detail on fur, whiskers, claws, hooves and sand grains, intense and dramatic mood, no people or vehicles.
 Camera Angle: Telephoto tracking shot, 400mm, fast shutter freezing motion
 Lighting: Deep amber dusk light, long shadows across the sand, glowing dust
+Mood: Siege teaser
+Action: Five lions on a giraffe that will not fall
+
+**Beat 5 (TEASER)**
+[Script Segment Text]: "Its neck swings like a hammer, and a lioness flies into the dust. Then a two-hundred-kilo male launches at its shoulders."
+Image Prompt: Fast dramatic shot: a giant old bull giraffe nearly six meters tall with dark chestnut patches on a cream background, a thick heavily scarred neck and large knobbly ossicones swinging its neck and throwing a lioness into the dust as a huge male African lion with a thick black-tipped dark mane, a heavy muscular build and amber eyes launches at its shoulders in a wide dry riverbed of pale soft sand in Ruaha National Park, Tanzania, full height in frame. Camera: Telephoto tracking shot, 400mm, fast shutter freezing motion. Lighting: deep amber dusk light, long shadows across the sand, glowing dust. Mood: fury teaser. Visual style: photorealistic cinematic wildlife documentary, premium nature-film look, 16:9 widescreen, warm honey-gold and amber light over pale golden sand, ochre dust and straw-colored grass, soft warm golden grade with gently lifted blacks, long telephoto compression, very shallow depth of field with creamy bokeh, ultra-fine micro-detail on fur, whiskers, claws, hooves and sand grains, intense and dramatic mood, no people or vehicles.
+Camera Angle: Telephoto tracking shot, 400mm, fast shutter freezing motion
+Lighting: Deep amber dusk light, long shadows across the sand, glowing dust
+Mood: Fury teaser
+Action: A lioness thrown; the male launches
+
+**Beat 6 (TEASER)**
+[Script Segment Text]: "Eight lions. One giraffe. Only one side walks away. To find out who, we have to go back to the beginning."
+Image Prompt: Fast dramatic wide shot: eight lions surrounding and clinging to a giant old bull giraffe nearly six meters tall with dark chestnut patches on a cream background, a thick heavily scarred neck and large knobbly ossicones in a huge cloud of dust in the riverbed at dusk, the outcome uncertain in a wide dry riverbed of pale soft sand in Ruaha National Park, Tanzania. Camera: Wide telephoto landscape shot, 200mm, compressed perspective, subject low in frame. Lighting: deep amber dusk light, long shadows across the sand, glowing dust. Mood: cliffhanger teaser. Visual style: photorealistic cinematic wildlife documentary, premium nature-film look, 16:9 widescreen, warm honey-gold and amber light over pale golden sand, ochre dust and straw-colored grass, soft warm golden grade with gently lifted blacks, long telephoto compression, very shallow depth of field with creamy bokeh, ultra-fine micro-detail on fur, whiskers, claws, hooves and sand grains, intense and dramatic mood, no people or vehicles.
+Camera Angle: Wide telephoto landscape shot, 200mm, compressed perspective, subject low in frame
+Lighting: Deep amber dusk light, long shadows across the sand, glowing dust
 Mood: Cliffhanger teaser
-Action: Three lions on its back and the giraffe still standing
+Action: Eight lions and one giraffe, frozen before the end
 
 **Beat 7**
 [Script Segment Text]: "Dawn. Three lionesses burst out of the grass at a running giraffe. The first one leaps for its back and slides off."

@@ -1,16 +1,16 @@
 # WILD RUAHA | The Lions That Hunt Giraffes
 
-Eight lions on one giraffe. Five meters of bone and hooves at full gallop, and a lioness clinging to its neck.
+Eight lions hidden in the sand. A giant giraffe spreads its legs to drink. And the riverbed explodes.
 
-One kick. A young lioness flies through the air like a rag doll, slams into the sand, and does not get up.
+The giraffe runs, but the sand swallows its hooves. A young lioness slips in low, behind the legs that can kill her.
 
-A two-hundred-kilo lion takes a hoof to the skull and drops where he stands. The hyenas are already running in.
+One kick. It misses, and the hoof sinks into the sand. A scarred lioness leaps onto its back.
 
-Thirty hyenas pour out of the dark, screaming, onto a pride that has nothing left to fight with.
+Three lions on its back. Two on its flanks. And the tallest animal on Earth is still standing.
 
-A lioness drinking at the last pool in the river. The water behind her explodes, and jaws close where she stood.
+Its neck swings like a hammer, and a lioness flies into the dust. Then a two-hundred-kilo male launches at its shoulders.
 
-Three lions on its back, and the giraffe is still standing. Then it turns, and comes for them. This is how it began.
+Eight lions. One giraffe. Only one side walks away. To find out who, we have to go back to the beginning.
 
 Dawn. Three lionesses burst out of the grass at a running giraffe.
 
