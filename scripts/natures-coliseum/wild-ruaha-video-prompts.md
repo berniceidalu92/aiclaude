@@ -811,7 +811,7 @@ Environment Motion: Heat haze shimmers
 Duration: 10 seconds
 
 **Beat 102**
-[Script Segment Text]: "and many never get the chance to try again. At midday, he picks his target. Not a calf."
+[Script Segment Text]: "and many never get the chance to try again. At midday, he picks his target. Not a calf. A full-grown giraffe,"
 Video Prompt: A three-year-old male lion with a short scruffy growing mane and a lean body charging alone across the burning sand toward a bull giraffe with chestnut patches on a cream background and a long muscular neck at midday in a wide dry riverbed of pale soft sand in Ruaha National Park, Tanzania, full height in frame. Over 10 seconds, the young lion charges; heat haze ripples. Camera movement: Fast tracking shot. Lighting: harsh bright midday sun with heavy heat haze shimmering over the sand. Mood: reckless. Visual style: photorealistic cinematic wildlife documentary, premium nature-film look, 16:9 widescreen, warm honey-gold grade over pale sand and golden grass, long telephoto compression, very shallow depth of field with creamy bokeh, ultra-fine micro-detail, realistic animal anatomy and locomotion, natural physics, smooth cinematic motion, no text, no logos, no music, no human presence or vehicles, no gore.
 Camera Movement: Fast tracking shot
 Subject Motion: The young lion charges
@@ -819,7 +819,7 @@ Environment Motion: Heat haze ripples
 Duration: 10 seconds
 
 **Beat 103**
-[Script Segment Text]: "A full-grown giraffe, to prove himself. He stalks it through the heat haze, then he charges. One lion. One giraffe."
+[Script Segment Text]: "to prove himself. He stalks it through the heat haze, then he charges. One lion. One giraffe. It sees him coming and runs."
 Video Prompt: A three-year-old male lion with a short scruffy growing mane and a lean body stalking low through shimmering heat haze toward a full-grown a bull giraffe with chestnut patches on a cream background and a long muscular neck in a wide dry riverbed of pale soft sand in Ruaha National Park, Tanzania. Over 10 seconds, he creeps forward; heat haze ripples. Camera movement: Slow tracking shot. Lighting: harsh bright midday sun with heavy heat haze shimmering over the sand. Mood: stalk. Visual style: photorealistic cinematic wildlife documentary, premium nature-film look, 16:9 widescreen, warm honey-gold grade over pale sand and golden grass, long telephoto compression, very shallow depth of field with creamy bokeh, ultra-fine micro-detail, realistic animal anatomy and locomotion, natural physics, smooth cinematic motion, no text, no logos, no music, no human presence or vehicles, no gore.
 Camera Movement: Slow tracking shot
 Subject Motion: He creeps forward
@@ -827,7 +827,7 @@ Environment Motion: Heat haze ripples
 Duration: 10 seconds
 
 **Beat 104**
-[Script Segment Text]: "It sees him coming and runs. He chases it across the burning sand, closing, closing, until he is right under its tail."
+[Script Segment Text]: "He chases it across the burning sand, closing, closing, until he is right under its tail. He leaps and sinks his claws"
 Video Prompt: A three-year-old male lion with a short scruffy growing mane and a lean body chasing a galloping a bull giraffe with chestnut patches on a cream background and a long muscular neck across burning sand in a wide dry riverbed of pale soft sand in Ruaha National Park, Tanzania, full height in frame. Over 10 seconds, the lion closes in; heat haze ripples and sand flies. Camera movement: Fast tracking shot. Lighting: harsh bright midday sun with heavy heat haze shimmering over the sand. Mood: pursuit. Visual style: photorealistic cinematic wildlife documentary, premium nature-film look, 16:9 widescreen, warm honey-gold grade over pale sand and golden grass, long telephoto compression, very shallow depth of field with creamy bokeh, ultra-fine micro-detail, realistic animal anatomy and locomotion, natural physics, smooth cinematic motion, no text, no logos, no music, no human presence or vehicles, no gore.
 Camera Movement: Fast tracking shot
 Subject Motion: The lion closes in
@@ -835,7 +835,7 @@ Environment Motion: Heat haze ripples and sand flies
 Duration: 10 seconds
 
 **Beat 105**
-[Script Segment Text]: "He leaps and sinks his claws into its hindquarters, hanging on as it bolts. The giraffe does not even try to kick him off."
+[Script Segment Text]: "into its hindquarters, hanging on as it bolts. The giraffe does not even try to kick him off. It just runs."
 Video Prompt: A bull giraffe with chestnut patches on a cream background and a long muscular neck galloping across the sand with a three-year-old male lion with a short scruffy growing mane and a lean body hanging from its rump in a wide dry riverbed of pale soft sand in Ruaha National Park, Tanzania. Over 10 seconds, the giraffe runs; dust trails behind. Camera movement: Fast tracking shot. Lighting: harsh bright midday sun with heavy heat haze shimmering over the sand. Mood: ignored. Visual style: photorealistic cinematic wildlife documentary, premium nature-film look, 16:9 widescreen, warm honey-gold grade over pale sand and golden grass, long telephoto compression, very shallow depth of field with creamy bokeh, ultra-fine micro-detail, realistic animal anatomy and locomotion, natural physics, smooth cinematic motion, no text, no logos, no music, no human presence or vehicles, no gore.
 Camera Movement: Fast tracking shot
 Subject Motion: The giraffe runs
@@ -843,7 +843,7 @@ Environment Motion: Dust trails behind
 Duration: 10 seconds
 
 **Beat 106**
-[Script Segment Text]: "It just runs. To an animal that size, one lion is just extra weight. One lion cannot even slow a giraffe down."
+[Script Segment Text]: "To an animal that size, one lion is just extra weight. One lion cannot even slow a giraffe down. His grip fails."
 Video Prompt: Low angle showing a three-year-old male lion with a short scruffy growing mane and a lean body tiny against the huge hindquarters of a running a bull giraffe with chestnut patches on a cream background and a long muscular neck in a wide dry riverbed of pale soft sand in Ruaha National Park, Tanzania. Over 10 seconds, the lion clings; heat haze shimmers. Camera movement: Slow motion. Lighting: harsh bright midday sun with heavy heat haze shimmering over the sand. Mood: scale. Visual style: photorealistic cinematic wildlife documentary, premium nature-film look, 16:9 widescreen, warm honey-gold grade over pale sand and golden grass, long telephoto compression, very shallow depth of field with creamy bokeh, ultra-fine micro-detail, realistic animal anatomy and locomotion, natural physics, smooth cinematic motion, no text, no logos, no music, no human presence or vehicles, no gore.
 Camera Movement: Slow motion
 Subject Motion: The lion clings
@@ -851,7 +851,7 @@ Environment Motion: Heat haze shimmers
 Duration: 10 seconds
 
 **Beat 107**
-[Script Segment Text]: "His grip fails. He drops. Rolls. And a back hoof slams down where he landed a heartbeat earlier."
+[Script Segment Text]: "He drops. Rolls. And a back hoof slams down where he landed a heartbeat earlier. He limps back toward the rocks"
 Video Prompt: A three-year-old male lion with a short scruffy growing mane and a lean body rolling away in the sand as a giraffe's back hoof slams down beside him in a wide dry riverbed of pale soft sand in Ruaha National Park, Tanzania. Over 10 seconds, the hoof slams down; sand blasts up. Camera movement: Slow motion at the impact. Lighting: harsh bright midday sun with heavy heat haze shimmering over the sand. Mood: near death. Visual style: photorealistic cinematic wildlife documentary, premium nature-film look, 16:9 widescreen, warm honey-gold grade over pale sand and golden grass, long telephoto compression, very shallow depth of field with creamy bokeh, ultra-fine micro-detail, realistic animal anatomy and locomotion, natural physics, smooth cinematic motion, no text, no logos, no music, no human presence or vehicles, no gore.
 Camera Movement: Slow motion at the impact
 Subject Motion: The hoof slams down
@@ -859,7 +859,7 @@ Environment Motion: Sand blasts up
 Duration: 10 seconds
 
 **Beat 108**
-[Script Segment Text]: "He limps back toward the rocks where the pride's cubs are hidden, bleeding from a cut on his leg."
+[Script Segment Text]: "where the pride's cubs are hidden, bleeding from a cut on his leg. And he leaves a trail. That night, the hyenas follow it,"
 Video Prompt: A three-year-old male lion with a short scruffy growing mane and a lean body limping back across the sand with giraffe hair in his mouth in a wide dry riverbed of pale soft sand in Ruaha National Park, Tanzania. Over 10 seconds, he limps; heat haze ripples. Camera movement: Slow tracking shot. Lighting: harsh bright midday sun with heavy heat haze shimmering over the sand. Mood: humbled. Visual style: photorealistic cinematic wildlife documentary, premium nature-film look, 16:9 widescreen, warm honey-gold grade over pale sand and golden grass, long telephoto compression, very shallow depth of field with creamy bokeh, ultra-fine micro-detail, realistic animal anatomy and locomotion, natural physics, smooth cinematic motion, no text, no logos, no music, no human presence or vehicles, no gore.
 Camera Movement: Slow tracking shot
 Subject Motion: He limps
@@ -867,7 +867,7 @@ Environment Motion: Heat haze ripples
 Duration: 10 seconds
 
 **Beat 109**
-[Script Segment Text]: "And he leaves a trail. That night, the hyenas follow it, noses to the ground, at a steady lope, straight to the rocks."
+[Script Segment Text]: "noses to the ground, at a steady lope, straight to the rocks. A hyena can follow the scent of blood for kilometres."
 Video Prompt: A clan of spotted hyenas with sloping backs, rounded ears and glowing eyes loping along a trail of blood across the moonlit sand toward a pile of boulders in a wide dry riverbed of pale soft sand in Ruaha National Park, Tanzania. Over 10 seconds, the hyenas follow the trail; dust drifts in the moonlight. Camera movement: Slow tracking shot. Lighting: soft silver moonlight with a faint warm rim on fur, glowing eyes in the dark, dust in the moonlight. Mood: blood trail. Visual style: photorealistic cinematic wildlife documentary, premium nature-film look, 16:9 widescreen, warm honey-gold grade over pale sand and golden grass, long telephoto compression, very shallow depth of field with creamy bokeh, ultra-fine micro-detail, realistic animal anatomy and locomotion, natural physics, smooth cinematic motion, no text, no logos, no music, no human presence or vehicles, no gore.
 Camera Movement: Slow tracking shot
 Subject Motion: The hyenas follow the trail
@@ -875,7 +875,7 @@ Environment Motion: Dust drifts in the moonlight
 Duration: 10 seconds
 
 **Beat 110**
-[Script Segment Text]: "A hyena can follow the scent of blood for kilometres. And hyenas will kill lion cubs whenever they get the chance."
+[Script Segment Text]: "And hyenas will kill lion cubs whenever they get the chance. Zuri hears the laughing from half a kilometre away,"
 Video Prompt: An older, heavily built African lioness with a tawny coat, a scarred face, a torn lower lip and amber eyes sprinting through the moonlit bush toward the rocks on a riverbank of dry golden grass, thorn bushes and baobab trees in Ruaha National Park, Tanzania. Over 10 seconds, she runs; dust trails behind. Camera movement: Fast tracking shot. Lighting: soft silver moonlight with a faint warm rim on fur, glowing eyes in the dark, dust in the moonlight. Mood: alarm. Visual style: photorealistic cinematic wildlife documentary, premium nature-film look, 16:9 widescreen, warm honey-gold grade over pale sand and golden grass, long telephoto compression, very shallow depth of field with creamy bokeh, ultra-fine micro-detail, realistic animal anatomy and locomotion, natural physics, smooth cinematic motion, no text, no logos, no music, no human presence or vehicles, no gore.
 Camera Movement: Fast tracking shot
 Subject Motion: She runs
@@ -883,7 +883,7 @@ Environment Motion: Dust trails behind
 Duration: 10 seconds
 
 **Beat 111**
-[Script Segment Text]: "Zuri hears the laughing from half a kilometre away, and she runs. A hyena is already pushing its head into the cave"
+[Script Segment Text]: "and she runs. A hyena is already pushing its head into the cave where her three cubs are hiding."
 Video Prompt: A spotted hyena pushing its head into the mouth of a small cave among a pile of boulders above a dry river in Ruaha National Park, Tanzania. Over 10 seconds, the hyena pushes in; dust drifts. Camera movement: Slow push-in. Lighting: soft silver moonlight with a faint warm rim on fur, glowing eyes in the dark, dust in the moonlight. Mood: threat. Visual style: photorealistic cinematic wildlife documentary, premium nature-film look, 16:9 widescreen, warm honey-gold grade over pale sand and golden grass, long telephoto compression, very shallow depth of field with creamy bokeh, ultra-fine micro-detail, realistic animal anatomy and locomotion, natural physics, smooth cinematic motion, no text, no logos, no music, no human presence or vehicles, no gore.
 Camera Movement: Slow push-in
 Subject Motion: The hyena pushes in
@@ -891,7 +891,7 @@ Environment Motion: Dust drifts
 Duration: 10 seconds
 
 **Beat 112**
-[Script Segment Text]: "where her three cubs are hiding. Zuri hits it from behind. They roll down the rocks together, biting, screaming."
+[Script Segment Text]: "Zuri hits it from behind. They roll down the rocks together, biting, screaming. Two more hyenas come at her."
 Video Prompt: An older, heavily built African lioness with a tawny coat, a scarred face, a torn lower lip and amber eyes slamming into a spotted hyena, both rolling down the boulders, more hyenas rushing in among a pile of boulders above a dry river in Ruaha National Park, Tanzania. Over 10 seconds, they roll and bite; dust and stones fly. Camera movement: Slow motion at impact. Lighting: soft silver moonlight with a faint warm rim on fur, glowing eyes in the dark, dust in the moonlight. Mood: fight. Visual style: photorealistic cinematic wildlife documentary, premium nature-film look, 16:9 widescreen, warm honey-gold grade over pale sand and golden grass, long telephoto compression, very shallow depth of field with creamy bokeh, ultra-fine micro-detail, realistic animal anatomy and locomotion, natural physics, smooth cinematic motion, no text, no logos, no music, no human presence or vehicles, no gore.
 Camera Movement: Slow motion at impact
 Subject Motion: They roll and bite
@@ -899,7 +899,7 @@ Environment Motion: Dust and stones fly
 Duration: 10 seconds
 
 **Beat 113**
-[Script Segment Text]: "Two more hyenas come at her. Then four. One gets a grip on her back leg. And then Jabari is there,"
+[Script Segment Text]: "Then four. One gets a grip on her back leg. And then Jabari is there, swollen jaw and all."
 Video Prompt: A huge male African lion with a thick black-tipped dark mane, a heavy muscular build, amber eyes and a swollen jaw crashing into a clan of spotted hyenas with sloping backs, rounded ears and glowing eyes at the base of the rocks among a pile of boulders above a dry river in Ruaha National Park, Tanzania. Over 10 seconds, he crashes in; dust explodes. Camera movement: Slow motion at impact. Lighting: soft silver moonlight with a faint warm rim on fur, glowing eyes in the dark, dust in the moonlight. Mood: rescue. Visual style: photorealistic cinematic wildlife documentary, premium nature-film look, 16:9 widescreen, warm honey-gold grade over pale sand and golden grass, long telephoto compression, very shallow depth of field with creamy bokeh, ultra-fine micro-detail, realistic animal anatomy and locomotion, natural physics, smooth cinematic motion, no text, no logos, no music, no human presence or vehicles, no gore.
 Camera Movement: Slow motion at impact
 Subject Motion: He crashes in
@@ -907,7 +907,7 @@ Environment Motion: Dust explodes
 Duration: 10 seconds
 
 **Beat 114**
-[Script Segment Text]: "swollen jaw and all. He crashes into the clan like he did on the first night. When the dust settles,"
+[Script Segment Text]: "He crashes into the clan like he did on the first night. When the dust settles, the hyenas are gone."
 Video Prompt: Three small lion cubs with faint spots on their fur peering out of a small cave as dust settles among a pile of boulders above a dry river in Ruaha National Park, Tanzania. Over 10 seconds, the cubs peer out; moonlight glows. Camera movement: Slow push-in. Lighting: soft silver moonlight with a faint warm rim on fur, glowing eyes in the dark, dust in the moonlight. Mood: safe. Visual style: photorealistic cinematic wildlife documentary, premium nature-film look, 16:9 widescreen, warm honey-gold grade over pale sand and golden grass, long telephoto compression, very shallow depth of field with creamy bokeh, ultra-fine micro-detail, realistic animal anatomy and locomotion, natural physics, smooth cinematic motion, no text, no logos, no music, no human presence or vehicles, no gore.
 Camera Movement: Slow push-in
 Subject Motion: The cubs peer out
@@ -915,7 +915,7 @@ Environment Motion: Moonlight glows
 Duration: 10 seconds
 
 **Beat 115**
-[Script Segment Text]: "the hyenas are gone. All three cubs are still in the cave. But the pride cannot survive another night like this."
+[Script Segment Text]: "All three cubs are still in the cave. At first light, the pride is starving. Jabari cannot eat with his broken tooth,"
 Video Prompt: Thin, exhausted lions lying at the base of the rocks at night, cubs peering from the cave among a pile of boulders above a dry river in Ruaha National Park, Tanzania. Over 10 seconds, the lions breathe heavily; moonlight glows. Camera movement: Slow push-in. Lighting: soft silver moonlight with a faint warm rim on fur, glowing eyes in the dark, dust in the moonlight. Mood: exhausted. Visual style: photorealistic cinematic wildlife documentary, premium nature-film look, 16:9 widescreen, warm honey-gold grade over pale sand and golden grass, long telephoto compression, very shallow depth of field with creamy bokeh, ultra-fine micro-detail, realistic animal anatomy and locomotion, natural physics, smooth cinematic motion, no text, no logos, no music, no human presence or vehicles, no gore.
 Camera Movement: Slow push-in
 Subject Motion: The lions breathe heavily
@@ -923,6 +923,158 @@ Environment Motion: Moonlight glows
 Duration: 10 seconds
 
 **Beat 116**
+[Script Segment Text]: "and the young male can barely walk. So Zuri hunts without them. She picks a young bull giraffe, half the Tower's size,"
+Video Prompt: Close on the amber eyes of an older, heavily built African lioness with a tawny coat, a scarred face, a torn lower lip and amber eyes staring through dry grass, the blurred shape of a young giraffe feeding in the background. Over 10 seconds, her eyes lock on; mist drifts. Camera movement: Imperceptible push-in. Lighting: pale gold dawn light with low mist drifting over the riverbed. Mood: choosing. Visual style: photorealistic cinematic wildlife documentary, premium nature-film look, 16:9 widescreen, warm honey-gold grade over pale sand and golden grass, long telephoto compression, very shallow depth of field with creamy bokeh, ultra-fine micro-detail, realistic animal anatomy and locomotion, natural physics, smooth cinematic motion, no text, no logos, no music, no human presence or vehicles, no gore.
+Camera Movement: Imperceptible push-in
+Subject Motion: Her eyes lock on
+Environment Motion: Mist drifts
+Duration: 10 seconds
+
+**Beat 117**
+[Script Segment Text]: "feeding alone on the bank above the riverbed. Young, inexperienced, and too far from the herd. But this time,"
+Video Prompt: A young bull giraffe with chestnut patches on a cream background, a slim neck and small ossicones feeding alone from a thorn tree on the riverbank, far from its herd, the sandy riverbed below on a riverbank of dry golden grass, thorn bushes and baobab trees in Ruaha National Park, Tanzania, full height in frame. Over 10 seconds, the giraffe feeds; mist drifts over the riverbed. Camera movement: Slow push-in. Lighting: pale gold dawn light with low mist drifting over the riverbed. Mood: target. Visual style: photorealistic cinematic wildlife documentary, premium nature-film look, 16:9 widescreen, warm honey-gold grade over pale sand and golden grass, long telephoto compression, very shallow depth of field with creamy bokeh, ultra-fine micro-detail, realistic animal anatomy and locomotion, natural physics, smooth cinematic motion, no text, no logos, no music, no human presence or vehicles, no gore.
+Camera Movement: Slow push-in
+Subject Motion: The giraffe feeds
+Environment Motion: Mist drifts over the riverbed
+Duration: 10 seconds
+
+**Beat 118**
+[Script Segment Text]: "she does not attack him on the bank. Five lionesses fan out through the grass in a wide half circle,"
+Video Prompt: Five tawny African lionesses spreading out through tall dry grass in a wide half circle behind a young bull giraffe with chestnut patches on a cream background, a slim neck and small ossicones, cutting it off from the open plain on a riverbank of dry golden grass, thorn bushes and baobab trees in Ruaha National Park, Tanzania. Over 10 seconds, the lionesses fan out; grass sways. Camera movement: Slow rising crane shot. Lighting: pale gold dawn light with low mist drifting over the riverbed. Mood: the trap. Visual style: photorealistic cinematic wildlife documentary, premium nature-film look, 16:9 widescreen, warm honey-gold grade over pale sand and golden grass, long telephoto compression, very shallow depth of field with creamy bokeh, ultra-fine micro-detail, realistic animal anatomy and locomotion, natural physics, smooth cinematic motion, no text, no logos, no music, no human presence or vehicles, no gore.
+Camera Movement: Slow rising crane shot
+Subject Motion: The lionesses fan out
+Environment Motion: Grass sways
+Duration: 10 seconds
+
+**Beat 119**
+[Script Segment Text]: "between him and the open plain. They crawl closer, bellies to the ground, for almost an hour. Thirty meters. Twenty."
+Video Prompt: Tawny African lionesses crawling with bellies to the ground through dry grass toward a young bull giraffe with chestnut patches on a cream background, a slim neck and small ossicones on a riverbank of dry golden grass, thorn bushes and baobab trees in Ruaha National Park, Tanzania. Over 10 seconds, the lionesses creep forward; grass parts around them. Camera movement: Low slow tracking shot. Lighting: pale gold dawn light with low mist drifting over the riverbed. Mood: stalk. Visual style: photorealistic cinematic wildlife documentary, premium nature-film look, 16:9 widescreen, warm honey-gold grade over pale sand and golden grass, long telephoto compression, very shallow depth of field with creamy bokeh, ultra-fine micro-detail, realistic animal anatomy and locomotion, natural physics, smooth cinematic motion, no text, no logos, no music, no human presence or vehicles, no gore.
+Camera Movement: Low slow tracking shot
+Subject Motion: The lionesses creep forward
+Environment Motion: Grass parts around them
+Duration: 10 seconds
+
+**Beat 120**
+[Script Segment Text]: "Then Zuri stands up, in full view, on purpose. The young bull sees her and bolts the only way left open."
+Video Prompt: An older, heavily built African lioness with a tawny coat, a scarred face, a torn lower lip and amber eyes rising to full height out of the grass in plain view as a young bull giraffe with chestnut patches on a cream background, a slim neck and small ossicones jerks its head up in alarm on a riverbank of dry golden grass, thorn bushes and baobab trees in Ruaha National Park, Tanzania. Over 10 seconds, the lioness stands and the giraffe startles; dust drifts. Camera movement: Slow rack focus from the giraffe to the lioness. Lighting: pale gold dawn light with low mist drifting over the riverbed. Mood: on purpose. Visual style: photorealistic cinematic wildlife documentary, premium nature-film look, 16:9 widescreen, warm honey-gold grade over pale sand and golden grass, long telephoto compression, very shallow depth of field with creamy bokeh, ultra-fine micro-detail, realistic animal anatomy and locomotion, natural physics, smooth cinematic motion, no text, no logos, no music, no human presence or vehicles, no gore.
+Camera Movement: Slow rack focus from the giraffe to the lioness
+Subject Motion: The lioness stands and the giraffe startles
+Environment Motion: Dust drifts
+Duration: 10 seconds
+
+**Beat 121**
+[Script Segment Text]: "Down the bank, and out onto the soft sand of the riverbed. That is exactly where she wants him."
+Video Prompt: A young bull giraffe with chestnut patches on a cream background, a slim neck and small ossicones galloping down a riverbank and out onto the soft sand of a dry riverbed in a wide dry riverbed of pale soft sand in Ruaha National Park, Tanzania, full height in frame. Over 10 seconds, the giraffe bolts; sand bursts from the bank. Camera movement: Fast tracking shot. Lighting: warm low golden-hour sunlight, glowing rim light on fur, dust hanging in the air and catching the light. Mood: driven. Visual style: photorealistic cinematic wildlife documentary, premium nature-film look, 16:9 widescreen, warm honey-gold grade over pale sand and golden grass, long telephoto compression, very shallow depth of field with creamy bokeh, ultra-fine micro-detail, realistic animal anatomy and locomotion, natural physics, smooth cinematic motion, no text, no logos, no music, no human presence or vehicles, no gore.
+Camera Movement: Fast tracking shot
+Subject Motion: The giraffe bolts
+Environment Motion: Sand bursts from the bank
+Duration: 10 seconds
+
+**Beat 122**
+[Script Segment Text]: "Five lionesses pour down the bank behind him, two on each side, and Zuri straight up the middle. On the sand, his stride shortens."
+Video Prompt: Five tawny African lionesses pouring down a riverbank after a young bull giraffe with chestnut patches on a cream background, a slim neck and small ossicones, two on each side and an older, heavily built African lioness with a tawny coat, a scarred face, a torn lower lip and amber eyes straight up the middle in a wide dry riverbed of pale soft sand in Ruaha National Park, Tanzania, full height in frame. Over 10 seconds, the lionesses chase; sand sprays from their paws. Camera movement: Fast low tracking shot. Lighting: warm low golden-hour sunlight, glowing rim light on fur, dust hanging in the air and catching the light. Mood: pursuit. Visual style: photorealistic cinematic wildlife documentary, premium nature-film look, 16:9 widescreen, warm honey-gold grade over pale sand and golden grass, long telephoto compression, very shallow depth of field with creamy bokeh, ultra-fine micro-detail, realistic animal anatomy and locomotion, natural physics, smooth cinematic motion, no text, no logos, no music, no human presence or vehicles, no gore.
+Camera Movement: Fast low tracking shot
+Subject Motion: The lionesses chase
+Environment Motion: Sand sprays from their paws
+Duration: 10 seconds
+
+**Beat 123**
+[Script Segment Text]: "His hooves sink deep with every step. And for the first time, the lions are gaining fast. Kesi gets there first,"
+Video Prompt: Low close view of the hooves of a young bull giraffe with chestnut patches on a cream background, a slim neck and small ossicones sinking deep into soft sand mid-gallop, lionesses closing in behind in a wide dry riverbed of pale soft sand in Ruaha National Park, Tanzania. Over 10 seconds, the hooves sink and the lions gain; sand sprays. Camera movement: Low fast tracking shot. Lighting: warm low golden-hour sunlight, glowing rim light on fur, dust hanging in the air and catching the light. Mood: sinking. Visual style: photorealistic cinematic wildlife documentary, premium nature-film look, 16:9 widescreen, warm honey-gold grade over pale sand and golden grass, long telephoto compression, very shallow depth of field with creamy bokeh, ultra-fine micro-detail, realistic animal anatomy and locomotion, natural physics, smooth cinematic motion, no text, no logos, no music, no human presence or vehicles, no gore.
+Camera Movement: Low fast tracking shot
+Subject Motion: The hooves sink and the lions gain
+Environment Motion: Sand sprays
+Duration: 10 seconds
+
+**Beat 124**
+[Script Segment Text]: "still limping, and goes low behind his legs again. He kicks. The hoof sinks into the sand, and misses her completely."
+Video Prompt: A young, lean two-year-old African lioness with a light golden coat, a slim build, bright amber eyes and a dark bruise on her ribs slipping in low behind the back legs of a young bull giraffe with chestnut patches on a cream background, a slim neck and small ossicones as its kick misses and sinks into the sand in a wide dry riverbed of pale soft sand in Ruaha National Park, Tanzania. Over 10 seconds, the kick misses; sand explodes. Camera movement: Slow motion at the kick. Lighting: warm low golden-hour sunlight, glowing rim light on fur, dust hanging in the air and catching the light. Mood: the legs. Visual style: photorealistic cinematic wildlife documentary, premium nature-film look, 16:9 widescreen, warm honey-gold grade over pale sand and golden grass, long telephoto compression, very shallow depth of field with creamy bokeh, ultra-fine micro-detail, realistic animal anatomy and locomotion, natural physics, smooth cinematic motion, no text, no logos, no music, no human presence or vehicles, no gore.
+Camera Movement: Slow motion at the kick
+Subject Motion: The kick misses
+Environment Motion: Sand explodes
+Duration: 10 seconds
+
+**Beat 125**
+[Script Segment Text]: "Zuri leaps onto his back. A second lioness hits his flank. A third hangs from his hindquarters, dragging backwards with all her weight."
+Video Prompt: An older, heavily built African lioness with a tawny coat, a scarred face, a torn lower lip and amber eyes leaping onto the back of a young bull giraffe with chestnut patches on a cream background, a slim neck and small ossicones while a second lioness hits its flank and a third hangs from its hindquarters in a wide dry riverbed of pale soft sand in Ruaha National Park, Tanzania, full height in frame. Over 10 seconds, the lions grab hold; sand flies. Camera movement: Slow motion at contact. Lighting: warm low golden-hour sunlight, glowing rim light on fur, dust hanging in the air and catching the light. Mood: contact. Visual style: photorealistic cinematic wildlife documentary, premium nature-film look, 16:9 widescreen, warm honey-gold grade over pale sand and golden grass, long telephoto compression, very shallow depth of field with creamy bokeh, ultra-fine micro-detail, realistic animal anatomy and locomotion, natural physics, smooth cinematic motion, no text, no logos, no music, no human presence or vehicles, no gore.
+Camera Movement: Slow motion at contact
+Subject Motion: The lions grab hold
+Environment Motion: Sand flies
+Duration: 10 seconds
+
+**Beat 126**
+[Script Segment Text]: "Five lions against one young giraffe, on soft sand. He staggers. His back legs fold. For one second, he is almost down."
+Video Prompt: A young bull giraffe with chestnut patches on a cream background, a slim neck and small ossicones staggering on soft sand with its back legs folding under the weight of three lionesses in a wide dry riverbed of pale soft sand in Ruaha National Park, Tanzania, full height in frame. Over 10 seconds, the giraffe sinks toward the sand; dust billows. Camera movement: Slow motion. Lighting: warm low golden-hour sunlight, glowing rim light on fur, dust hanging in the air and catching the light. Mood: almost. Visual style: photorealistic cinematic wildlife documentary, premium nature-film look, 16:9 widescreen, warm honey-gold grade over pale sand and golden grass, long telephoto compression, very shallow depth of field with creamy bokeh, ultra-fine micro-detail, realistic animal anatomy and locomotion, natural physics, smooth cinematic motion, no text, no logos, no music, no human presence or vehicles, no gore.
+Camera Movement: Slow motion
+Subject Motion: The giraffe sinks toward the sand
+Environment Motion: Dust billows
+Duration: 10 seconds
+
+**Beat 127**
+[Script Segment Text]: "Then he plants his front hooves, heaves his whole body upward, and the three lionesses hanging on him slide off into the sand."
+Video Prompt: A young bull giraffe with chestnut patches on a cream background, a slim neck and small ossicones heaving its body upward on its front hooves as three lionesses slide off into the sand in a wide dry riverbed of pale soft sand in Ruaha National Park, Tanzania, full height in frame. Over 10 seconds, the giraffe rises and the lions fall; sand sprays. Camera movement: Slow motion. Lighting: warm low golden-hour sunlight, glowing rim light on fur, dust hanging in the air and catching the light. Mood: heave. Visual style: photorealistic cinematic wildlife documentary, premium nature-film look, 16:9 widescreen, warm honey-gold grade over pale sand and golden grass, long telephoto compression, very shallow depth of field with creamy bokeh, ultra-fine micro-detail, realistic animal anatomy and locomotion, natural physics, smooth cinematic motion, no text, no logos, no music, no human presence or vehicles, no gore.
+Camera Movement: Slow motion
+Subject Motion: The giraffe rises and the lions fall
+Environment Motion: Sand sprays
+Duration: 10 seconds
+
+**Beat 128**
+[Script Segment Text]: "He bursts free, scrambles up the far bank onto hard ground, and is gone. The lionesses lie panting in the sand behind him."
+Video Prompt: A young bull giraffe with chestnut patches on a cream background, a slim neck and small ossicones scrambling up a far riverbank onto hard ground while exhausted lionesses lie in the sand below in a wide dry riverbed of pale soft sand in Ruaha National Park, Tanzania, full height in frame. Over 10 seconds, the giraffe escapes; dust drifts. Camera movement: Slow pull-back. Lighting: warm low golden-hour sunlight, glowing rim light on fur, dust hanging in the air and catching the light. Mood: escape. Visual style: photorealistic cinematic wildlife documentary, premium nature-film look, 16:9 widescreen, warm honey-gold grade over pale sand and golden grass, long telephoto compression, very shallow depth of field with creamy bokeh, ultra-fine micro-detail, realistic animal anatomy and locomotion, natural physics, smooth cinematic motion, no text, no logos, no music, no human presence or vehicles, no gore.
+Camera Movement: Slow pull-back
+Subject Motion: The giraffe escapes
+Environment Motion: Dust drifts
+Duration: 10 seconds
+
+**Beat 129**
+[Script Segment Text]: "Five lions. One young giraffe. The closest they have come. And still, the giraffe wins. But Zuri has learned two things."
+Video Prompt: Five exhausted tawny African lionesses lying panting in the sand of a dry riverbed, a giraffe disappearing on the bank behind them in a wide dry riverbed of pale soft sand in Ruaha National Park, Tanzania. Over 10 seconds, the lionesses pant; heat haze shimmers. Camera movement: Slow push-in. Lighting: warm low golden-hour sunlight, glowing rim light on fur, dust hanging in the air and catching the light. Mood: panting. Visual style: photorealistic cinematic wildlife documentary, premium nature-film look, 16:9 widescreen, warm honey-gold grade over pale sand and golden grass, long telephoto compression, very shallow depth of field with creamy bokeh, ultra-fine micro-detail, realistic animal anatomy and locomotion, natural physics, smooth cinematic motion, no text, no logos, no music, no human presence or vehicles, no gore.
+Camera Movement: Slow push-in
+Subject Motion: The lionesses pant
+Environment Motion: Heat haze shimmers
+Duration: 10 seconds
+
+**Beat 130**
+[Script Segment Text]: "The first is that the sand works. He could not kick, and he could not run. On soft sand,"
+Video Prompt: Close on deep, collapsed giraffe hoofprints in soft sand beside lion paw prints in a wide dry riverbed of pale soft sand in Ruaha National Park, Tanzania. Over 10 seconds, sand trickles into the prints; wind ripples the sand. Camera movement: Slow push-in. Lighting: warm low golden-hour sunlight, glowing rim light on fur, dust hanging in the air and catching the light. Mood: lesson one. Visual style: photorealistic cinematic wildlife documentary, premium nature-film look, 16:9 widescreen, warm honey-gold grade over pale sand and golden grass, long telephoto compression, very shallow depth of field with creamy bokeh, ultra-fine micro-detail, realistic animal anatomy and locomotion, natural physics, smooth cinematic motion, no text, no logos, no music, no human presence or vehicles, no gore.
+Camera Movement: Slow push-in
+Subject Motion: Sand trickles into the prints
+Environment Motion: Wind ripples the sand
+Duration: 10 seconds
+
+**Beat 131**
+[Script Segment Text]: "a giraffe is half the animal it is on hard ground. The second is that five lionesses are not enough."
+Video Prompt: Close on the scarred face of an older, heavily built African lioness with a tawny coat, a scarred face, a torn lower lip and amber eyes lying in the sand, staring toward the bank. Over 10 seconds, her eyes narrow; dust drifts. Camera movement: Imperceptible push-in. Lighting: warm low golden-hour sunlight, glowing rim light on fur, dust hanging in the air and catching the light. Mood: lesson two. Visual style: photorealistic cinematic wildlife documentary, premium nature-film look, 16:9 widescreen, warm honey-gold grade over pale sand and golden grass, long telephoto compression, very shallow depth of field with creamy bokeh, ultra-fine micro-detail, realistic animal anatomy and locomotion, natural physics, smooth cinematic motion, no text, no logos, no music, no human presence or vehicles, no gore.
+Camera Movement: Imperceptible push-in
+Subject Motion: Her eyes narrow
+Environment Motion: Dust drifts
+Duration: 10 seconds
+
+**Beat 132**
+[Script Segment Text]: "Lionesses can grab a giraffe and hang on, but they cannot pull it down. That takes weight, high on the shoulders,"
+Video Prompt: An older, heavily built African lioness with a tawny coat, a scarred face, a torn lower lip and amber eyes walking across the sand toward a huge male African lion with a thick black-tipped dark mane, a heavy muscular build, amber eyes and a swollen jaw lying at the base of the rocks among a pile of boulders above a dry river in Ruaha National Park, Tanzania. Over 10 seconds, the lioness walks; dust drifts. Camera movement: Slow tracking shot. Lighting: warm low golden-hour sunlight, glowing rim light on fur, dust hanging in the air and catching the light. Mood: weight. Visual style: photorealistic cinematic wildlife documentary, premium nature-film look, 16:9 widescreen, warm honey-gold grade over pale sand and golden grass, long telephoto compression, very shallow depth of field with creamy bokeh, ultra-fine micro-detail, realistic animal anatomy and locomotion, natural physics, smooth cinematic motion, no text, no logos, no music, no human presence or vehicles, no gore.
+Camera Movement: Slow tracking shot
+Subject Motion: The lioness walks
+Environment Motion: Dust drifts
+Duration: 10 seconds
+
+**Beat 133**
+[Script Segment Text]: "and only Jabari has that much. So the next hunt needs the sand, the one moment a giraffe cannot run,"
+Video Prompt: A huge male African lion with a thick black-tipped dark mane, a heavy muscular build, amber eyes and a swollen jaw lying at the base of the rocks, chest rising and falling among a pile of boulders above a dry river in Ruaha National Park, Tanzania. Over 10 seconds, the lion breathes heavily; dust glows in the low light. Camera movement: Slow push-in. Lighting: deep amber dusk light, long shadows across the sand, glowing dust. Mood: the missing piece. Visual style: photorealistic cinematic wildlife documentary, premium nature-film look, 16:9 widescreen, warm honey-gold grade over pale sand and golden grass, long telephoto compression, very shallow depth of field with creamy bokeh, ultra-fine micro-detail, realistic animal anatomy and locomotion, natural physics, smooth cinematic motion, no text, no logos, no music, no human presence or vehicles, no gore.
+Camera Movement: Slow push-in
+Subject Motion: The lion breathes heavily
+Environment Motion: Dust glows in the low light
+Duration: 10 seconds
+
+**Beat 134**
+[Script Segment Text]: "and every lion in the pride. Even the injured ones. And the pride cannot survive another night like this."
+Video Prompt: The whole pride of eight lions gathered at the base of the rocks at dusk, including a young, lean two-year-old African lioness with a light golden coat, a slim build, bright amber eyes and a dark bruise on her ribs and a three-year-old male lion with a short scruffy growing mane and a lean body among a pile of boulders above a dry river in Ruaha National Park, Tanzania. Over 10 seconds, the lions rest together; long shadows stretch. Camera movement: Slow pull-back. Lighting: deep amber dusk light, long shadows across the sand, glowing dust. Mood: every lion. Visual style: photorealistic cinematic wildlife documentary, premium nature-film look, 16:9 widescreen, warm honey-gold grade over pale sand and golden grass, long telephoto compression, very shallow depth of field with creamy bokeh, ultra-fine micro-detail, realistic animal anatomy and locomotion, natural physics, smooth cinematic motion, no text, no logos, no music, no human presence or vehicles, no gore.
+Camera Movement: Slow pull-back
+Subject Motion: The lions rest together
+Environment Motion: Long shadows stretch
+Duration: 10 seconds
+
+**Beat 135**
 [Script Segment Text]: "Tomorrow, it needs the biggest kill there is. The Tower. Zuri has chosen her target: the Tower, and only the Tower."
 Video Prompt: Close on an older, heavily built African lioness with a tawny coat, a scarred face, a torn lower lip and amber eyes staring across the riverbed at a distant giant giraffe. Over 10 seconds, her eyes narrow; heat haze shimmers. Camera movement: Imperceptible push-in. Lighting: warm low golden-hour sunlight, glowing rim light on fur, dust hanging in the air and catching the light. Mood: the plan. Visual style: photorealistic cinematic wildlife documentary, premium nature-film look, 16:9 widescreen, warm honey-gold grade over pale sand and golden grass, long telephoto compression, very shallow depth of field with creamy bokeh, ultra-fine micro-detail, realistic animal anatomy and locomotion, natural physics, smooth cinematic motion, no text, no logos, no music, no human presence or vehicles, no gore.
 Camera Movement: Imperceptible push-in
@@ -930,7 +1082,7 @@ Subject Motion: Her eyes narrow
 Environment Motion: Heat haze shimmers
 Duration: 10 seconds
 
-**Beat 117**
+**Beat 136**
 [Script Segment Text]: "She has chosen her ground: the soft sand. And she has chosen her moment: when he drinks. The next evening,"
 Video Prompt: The wide soft sand of the dry riverbed leading to the last small pool at dusk, a giant giraffe approaching in the distance in a wide dry riverbed of pale soft sand in Ruaha National Park, Tanzania. Over 10 seconds, the giraffe approaches; wind ripples the sand. Camera movement: Slow push-in. Lighting: deep amber dusk light, long shadows across the sand, glowing dust. Mood: ground and moment. Visual style: photorealistic cinematic wildlife documentary, premium nature-film look, 16:9 widescreen, warm honey-gold grade over pale sand and golden grass, long telephoto compression, very shallow depth of field with creamy bokeh, ultra-fine micro-detail, realistic animal anatomy and locomotion, natural physics, smooth cinematic motion, no text, no logos, no music, no human presence or vehicles, no gore.
 Camera Movement: Slow push-in
@@ -938,7 +1090,7 @@ Subject Motion: The giraffe approaches
 Environment Motion: Wind ripples the sand
 Duration: 10 seconds
 
-**Beat 118**
+**Beat 137**
 [Script Segment Text]: "he walks out onto the soft sand of the riverbed to reach the last pool. He does not see the lions."
 Video Prompt: A giant old bull giraffe nearly six meters tall with dark chestnut patches on a cream background, a thick heavily scarred neck and large knobbly ossicones walking slowly onto the soft sand, head high, looking around in a wide dry riverbed of pale soft sand in Ruaha National Park, Tanzania, full height in frame. Over 10 seconds, he walks carefully; sand shifts under his hooves. Camera movement: Slow tracking shot. Lighting: deep amber dusk light, long shadows across the sand, glowing dust. Mood: wary. Visual style: photorealistic cinematic wildlife documentary, premium nature-film look, 16:9 widescreen, warm honey-gold grade over pale sand and golden grass, long telephoto compression, very shallow depth of field with creamy bokeh, ultra-fine micro-detail, realistic animal anatomy and locomotion, natural physics, smooth cinematic motion, no text, no logos, no music, no human presence or vehicles, no gore.
 Camera Movement: Slow tracking shot
@@ -946,7 +1098,7 @@ Subject Motion: He walks carefully
 Environment Motion: Sand shifts under his hooves
 Duration: 10 seconds
 
-**Beat 119**
+**Beat 138**
 [Script Segment Text]: "They are lying flat in the sand, all around the pool. Eight of them. Every lion the pride has."
 Video Prompt: Lions lying flat in shallow dry channels of the sandy riverbed, almost invisible in a wide dry riverbed of pale soft sand in Ruaha National Park, Tanzania. Over 10 seconds, the lions stay still; sand drifts over their backs. Camera movement: Low slow tracking shot. Lighting: deep amber dusk light, long shadows across the sand, glowing dust. Mood: hidden. Visual style: photorealistic cinematic wildlife documentary, premium nature-film look, 16:9 widescreen, warm honey-gold grade over pale sand and golden grass, long telephoto compression, very shallow depth of field with creamy bokeh, ultra-fine micro-detail, realistic animal anatomy and locomotion, natural physics, smooth cinematic motion, no text, no logos, no music, no human presence or vehicles, no gore.
 Camera Movement: Low slow tracking shot
@@ -954,7 +1106,7 @@ Subject Motion: The lions stay still
 Environment Motion: Sand drifts over their backs
 Duration: 10 seconds
 
-**Beat 120**
+**Beat 139**
 [Script Segment Text]: "He spreads his front legs to drink. And Zuri rises out of the sand. The pride explodes from three sides at once."
 Video Prompt: An older, heavily built African lioness with a tawny coat, a scarred face, a torn lower lip and amber eyes rising out of the sand as the whole pride explodes from three sides toward a giant old bull giraffe nearly six meters tall with dark chestnut patches on a cream background, a thick heavily scarred neck and large knobbly ossicones with its legs spread to drink at a shrinking green-brown pool in a dry sandy riverbed in Ruaha National Park, Tanzania. Over 10 seconds, the lions burst from the sand; sand explodes everywhere. Camera movement: Slow motion as the lions rise. Lighting: deep amber dusk light, long shadows across the sand, glowing dust. Mood: ambush. Visual style: photorealistic cinematic wildlife documentary, premium nature-film look, 16:9 widescreen, warm honey-gold grade over pale sand and golden grass, long telephoto compression, very shallow depth of field with creamy bokeh, ultra-fine micro-detail, realistic animal anatomy and locomotion, natural physics, smooth cinematic motion, no text, no logos, no music, no human presence or vehicles, no gore.
 Camera Movement: Slow motion as the lions rise
@@ -962,7 +1114,7 @@ Subject Motion: The lions burst from the sand
 Environment Motion: Sand explodes everywhere
 Duration: 10 seconds
 
-**Beat 121**
+**Beat 140**
 [Script Segment Text]: "The Tower runs for the bank and the hard ground beyond it. But the lions on that side are already there,"
 Video Prompt: Lionesses racing to the riverbank ahead of a giant old bull giraffe nearly six meters tall with dark chestnut patches on a cream background, a thick heavily scarred neck and large knobbly ossicones, cutting it off from the hard ground in a wide dry riverbed of pale soft sand in Ruaha National Park, Tanzania, full height in frame. Over 10 seconds, the lions block the bank; dust streams in the amber light. Camera movement: Fast low tracking shot. Lighting: deep amber dusk light, long shadows across the sand, glowing dust. Mood: cut off. Visual style: photorealistic cinematic wildlife documentary, premium nature-film look, 16:9 widescreen, warm honey-gold grade over pale sand and golden grass, long telephoto compression, very shallow depth of field with creamy bokeh, ultra-fine micro-detail, realistic animal anatomy and locomotion, natural physics, smooth cinematic motion, no text, no logos, no music, no human presence or vehicles, no gore.
 Camera Movement: Fast low tracking shot
@@ -970,7 +1122,7 @@ Subject Motion: The lions block the bank
 Environment Motion: Dust streams in the amber light
 Duration: 10 seconds
 
-**Beat 122**
+**Beat 141**
 [Script Segment Text]: "cutting him off. He swings away, back across the open sand, eight lions closing from every side. His hooves sink with every stride."
 Video Prompt: A giant old bull giraffe nearly six meters tall with dark chestnut patches on a cream background, a thick heavily scarred neck and large knobbly ossicones swinging back across the open sand with eight lions closing from every side, its hooves sinking with each stride in a wide dry riverbed of pale soft sand in Ruaha National Park, Tanzania, full height in frame. Over 10 seconds, the giraffe struggles through the sand; sand sprays from its hooves. Camera movement: Slow motion. Lighting: deep amber dusk light, long shadows across the sand, glowing dust. Mood: trapped in sand. Visual style: photorealistic cinematic wildlife documentary, premium nature-film look, 16:9 widescreen, warm honey-gold grade over pale sand and golden grass, long telephoto compression, very shallow depth of field with creamy bokeh, ultra-fine micro-detail, realistic animal anatomy and locomotion, natural physics, smooth cinematic motion, no text, no logos, no music, no human presence or vehicles, no gore.
 Camera Movement: Slow motion
@@ -978,7 +1130,7 @@ Subject Motion: The giraffe struggles through the sand
 Environment Motion: Sand sprays from its hooves
 Duration: 10 seconds
 
-**Beat 123**
+**Beat 142**
 [Script Segment Text]: "Kesi reaches him first. The same young lioness who was kicked into the dust at the very start. She goes low,"
 Video Prompt: A young, lean two-year-old African lioness with a light golden coat, a slim build, bright amber eyes and a dark bruise on her ribs sprinting low across the sand toward the back legs of a giant old bull giraffe nearly six meters tall with dark chestnut patches on a cream background, a thick heavily scarred neck and large knobbly ossicones in a wide dry riverbed of pale soft sand in Ruaha National Park, Tanzania. Over 10 seconds, she closes in; sand flies. Camera movement: Fast tracking shot. Lighting: deep amber dusk light, long shadows across the sand, glowing dust. Mood: redemption. Visual style: photorealistic cinematic wildlife documentary, premium nature-film look, 16:9 widescreen, warm honey-gold grade over pale sand and golden grass, long telephoto compression, very shallow depth of field with creamy bokeh, ultra-fine micro-detail, realistic animal anatomy and locomotion, natural physics, smooth cinematic motion, no text, no logos, no music, no human presence or vehicles, no gore.
 Camera Movement: Fast tracking shot
@@ -986,7 +1138,7 @@ Subject Motion: She closes in
 Environment Motion: Sand flies
 Duration: 10 seconds
 
-**Beat 124**
+**Beat 143**
 [Script Segment Text]: "behind his back legs, out of reach of his kick, and bites into the tendon above his hoof. The Tower kicks. And misses."
 Video Prompt: A young, lean two-year-old African lioness with a light golden coat, a slim build, bright amber eyes and a dark bruise on her ribs biting the leg above the hoof of a giant old bull giraffe nearly six meters tall with dark chestnut patches on a cream background, a thick heavily scarred neck and large knobbly ossicones as its kick misses and the hoof sinks into the sand in a wide dry riverbed of pale soft sand in Ruaha National Park, Tanzania. Over 10 seconds, the kick misses; sand explodes. Camera movement: Slow motion at the bite. Lighting: deep amber dusk light, long shadows across the sand, glowing dust. Mood: the bite. Visual style: photorealistic cinematic wildlife documentary, premium nature-film look, 16:9 widescreen, warm honey-gold grade over pale sand and golden grass, long telephoto compression, very shallow depth of field with creamy bokeh, ultra-fine micro-detail, realistic animal anatomy and locomotion, natural physics, smooth cinematic motion, no text, no logos, no music, no human presence or vehicles, no gore.
 Camera Movement: Slow motion at the bite
@@ -994,7 +1146,7 @@ Subject Motion: The kick misses
 Environment Motion: Sand explodes
 Duration: 10 seconds
 
-**Beat 125**
+**Beat 144**
 [Script Segment Text]: "His hoof sinks into the sand. Zuri leaps onto his back. Two more lionesses hit his flanks. Three lions on his back."
 Video Prompt: An older, heavily built African lioness with a tawny coat, a scarred face, a torn lower lip and amber eyes and two more lionesses on the back and flanks of a giant old bull giraffe nearly six meters tall with dark chestnut patches on a cream background, a thick heavily scarred neck and large knobbly ossicones, still standing in a wide dry riverbed of pale soft sand in Ruaha National Park, Tanzania, full height in frame. Over 10 seconds, the giraffe staggers but stands; dust swirls. Camera movement: Slow orbit. Lighting: deep amber dusk light, long shadows across the sand, glowing dust. Mood: pile on. Visual style: photorealistic cinematic wildlife documentary, premium nature-film look, 16:9 widescreen, warm honey-gold grade over pale sand and golden grass, long telephoto compression, very shallow depth of field with creamy bokeh, ultra-fine micro-detail, realistic animal anatomy and locomotion, natural physics, smooth cinematic motion, no text, no logos, no music, no human presence or vehicles, no gore.
 Camera Movement: Slow orbit
@@ -1002,7 +1154,7 @@ Subject Motion: The giraffe staggers but stands
 Environment Motion: Dust swirls
 Duration: 10 seconds
 
-**Beat 126**
+**Beat 145**
 [Script Segment Text]: "And the Tower is still standing. He swings his neck like a hammer, and a lioness is thrown into the sand."
 Video Prompt: A giant old bull giraffe nearly six meters tall with dark chestnut patches on a cream background, a thick heavily scarred neck and large knobbly ossicones swinging its neck like a hammer and throwing a lioness into the sand in a wide dry riverbed of pale soft sand in Ruaha National Park, Tanzania. Over 10 seconds, the lioness is thrown; sand bursts. Camera movement: Slow motion at impact. Lighting: deep amber dusk light, long shadows across the sand, glowing dust. Mood: counterattack. Visual style: photorealistic cinematic wildlife documentary, premium nature-film look, 16:9 widescreen, warm honey-gold grade over pale sand and golden grass, long telephoto compression, very shallow depth of field with creamy bokeh, ultra-fine micro-detail, realistic animal anatomy and locomotion, natural physics, smooth cinematic motion, no text, no logos, no music, no human presence or vehicles, no gore.
 Camera Movement: Slow motion at impact
@@ -1010,7 +1162,7 @@ Subject Motion: The lioness is thrown
 Environment Motion: Sand bursts
 Duration: 10 seconds
 
-**Beat 127**
+**Beat 146**
 [Script Segment Text]: "He turns, and comes for the rest. The young male leaps for his flank and is kicked away."
 Video Prompt: A three-year-old male lion with a short scruffy growing mane and a lean body kicked away from the flank of a giant old bull giraffe nearly six meters tall with dark chestnut patches on a cream background, a thick heavily scarred neck and large knobbly ossicones, then scrambling up and leaping again in a wide dry riverbed of pale soft sand in Ruaha National Park, Tanzania, full height in frame. Over 10 seconds, he is kicked and leaps again; sand sprays. Camera movement: Slow motion. Lighting: deep amber dusk light, long shadows across the sand, glowing dust. Mood: never quit. Visual style: photorealistic cinematic wildlife documentary, premium nature-film look, 16:9 widescreen, warm honey-gold grade over pale sand and golden grass, long telephoto compression, very shallow depth of field with creamy bokeh, ultra-fine micro-detail, realistic animal anatomy and locomotion, natural physics, smooth cinematic motion, no text, no logos, no music, no human presence or vehicles, no gore.
 Camera Movement: Slow motion
@@ -1018,7 +1170,7 @@ Subject Motion: He is kicked and leaps again
 Environment Motion: Sand sprays
 Duration: 10 seconds
 
-**Beat 128**
+**Beat 147**
 [Script Segment Text]: "He gets up, and leaps again. Then Jabari hits him. Two hundred kilos of lion, landing high on his shoulders,"
 Video Prompt: A huge male African lion with a thick black-tipped dark mane, a heavy muscular build, amber eyes and a swollen jaw landing high on the shoulders of a giant old bull giraffe nearly six meters tall with dark chestnut patches on a cream background, a thick heavily scarred neck and large knobbly ossicones, dragging down in a wide dry riverbed of pale soft sand in Ruaha National Park, Tanzania, full height in frame. Over 10 seconds, the lion drags down; sand and dust explode. Camera movement: Slow motion at impact. Lighting: deep amber dusk light, long shadows across the sand, glowing dust. Mood: the weight. Visual style: photorealistic cinematic wildlife documentary, premium nature-film look, 16:9 widescreen, warm honey-gold grade over pale sand and golden grass, long telephoto compression, very shallow depth of field with creamy bokeh, ultra-fine micro-detail, realistic animal anatomy and locomotion, natural physics, smooth cinematic motion, no text, no logos, no music, no human presence or vehicles, no gore.
 Camera Movement: Slow motion at impact
@@ -1026,7 +1178,7 @@ Subject Motion: The lion drags down
 Environment Motion: Sand and dust explode
 Duration: 10 seconds
 
-**Beat 129**
+**Beat 148**
 [Script Segment Text]: "dragging down with everything he has. The Tower's front legs buckle in the sand. He sways. He fights."
 Video Prompt: The front legs of a giant old bull giraffe nearly six meters tall with dark chestnut patches on a cream background, a thick heavily scarred neck and large knobbly ossicones buckling in soft sand under the weight of lions in a wide dry riverbed of pale soft sand in Ruaha National Park, Tanzania. Over 10 seconds, the legs fold; sand slides. Camera movement: Slow motion. Lighting: deep amber dusk light, long shadows across the sand, glowing dust. Mood: buckle. Visual style: photorealistic cinematic wildlife documentary, premium nature-film look, 16:9 widescreen, warm honey-gold grade over pale sand and golden grass, long telephoto compression, very shallow depth of field with creamy bokeh, ultra-fine micro-detail, realistic animal anatomy and locomotion, natural physics, smooth cinematic motion, no text, no logos, no music, no human presence or vehicles, no gore.
 Camera Movement: Slow motion
@@ -1034,7 +1186,7 @@ Subject Motion: The legs fold
 Environment Motion: Sand slides
 Duration: 10 seconds
 
-**Beat 130**
+**Beat 149**
 [Script Segment Text]: "He tries to plant his feet. There is nothing to plant them on. And the tallest animal on Earth comes down."
 Video Prompt: A giant old bull giraffe nearly six meters tall with dark chestnut patches on a cream background, a thick heavily scarred neck and large knobbly ossicones crashing down onto the sand with the pride on him in a wide dry riverbed of pale soft sand in Ruaha National Park, Tanzania. Over 10 seconds, the giraffe falls; a huge cloud of sand and dust rises. Camera movement: Slow motion during the fall. Lighting: deep amber dusk light, long shadows across the sand, glowing dust. Mood: the fall. Visual style: photorealistic cinematic wildlife documentary, premium nature-film look, 16:9 widescreen, warm honey-gold grade over pale sand and golden grass, long telephoto compression, very shallow depth of field with creamy bokeh, ultra-fine micro-detail, realistic animal anatomy and locomotion, natural physics, smooth cinematic motion, no text, no logos, no music, no human presence or vehicles, no gore.
 Camera Movement: Slow motion during the fall
@@ -1042,7 +1194,7 @@ Subject Motion: The giraffe falls
 Environment Motion: A huge cloud of sand and dust rises
 Duration: 10 seconds
 
-**Beat 131**
+**Beat 150**
 [Script Segment Text]: "So how did eight lions kill an animal that should have killed them? Look at the final hunt again."
 Video Prompt: The whole pride around the fallen Tower in the dusky riverbed, dust settling in a wide dry riverbed of pale soft sand in Ruaha National Park, Tanzania. Over 10 seconds, the lions settle; dust drifts in the amber light. Camera movement: Slow pull-back and rise. Lighting: deep amber dusk light, long shadows across the sand, glowing dust. Mood: the answer. Visual style: photorealistic cinematic wildlife documentary, premium nature-film look, 16:9 widescreen, warm honey-gold grade over pale sand and golden grass, long telephoto compression, very shallow depth of field with creamy bokeh, ultra-fine micro-detail, realistic animal anatomy and locomotion, natural physics, smooth cinematic motion, no text, no logos, no music, no human presence or vehicles, no gore.
 Camera Movement: Slow pull-back and rise
@@ -1050,7 +1202,7 @@ Subject Motion: The lions settle
 Environment Motion: Dust drifts in the amber light
 Duration: 10 seconds
 
-**Beat 132**
+**Beat 151**
 [Script Segment Text]: "They waited until the river turned to sand. They hid in it. They struck at the one moment he could not run,"
 Video Prompt: Lions lying flat in shallow dry channels of the sandy riverbed, almost invisible in a wide dry riverbed of pale soft sand in Ruaha National Park, Tanzania. Over 10 seconds, the lions stay still; sand drifts over their backs. Camera movement: Low slow tracking shot. Lighting: deep amber dusk light, long shadows across the sand, glowing dust. Mood: hidden. Visual style: photorealistic cinematic wildlife documentary, premium nature-film look, 16:9 widescreen, warm honey-gold grade over pale sand and golden grass, long telephoto compression, very shallow depth of field with creamy bokeh, ultra-fine micro-detail, realistic animal anatomy and locomotion, natural physics, smooth cinematic motion, no text, no logos, no music, no human presence or vehicles, no gore.
 Camera Movement: Low slow tracking shot
@@ -1058,7 +1210,7 @@ Subject Motion: The lions stay still
 Environment Motion: Sand drifts over their backs
 Duration: 10 seconds
 
-**Beat 133**
+**Beat 152**
 [Script Segment Text]: "when he spread his legs to drink. They cut him off from the bank, so he could never reach the hard ground"
 Video Prompt: Lionesses racing to the riverbank ahead of a giant old bull giraffe nearly six meters tall with dark chestnut patches on a cream background, a thick heavily scarred neck and large knobbly ossicones, cutting it off from the hard ground in a wide dry riverbed of pale soft sand in Ruaha National Park, Tanzania, full height in frame. Over 10 seconds, the lions block the bank; dust streams in the amber light. Camera movement: Fast low tracking shot. Lighting: deep amber dusk light, long shadows across the sand, glowing dust. Mood: cut off. Visual style: photorealistic cinematic wildlife documentary, premium nature-film look, 16:9 widescreen, warm honey-gold grade over pale sand and golden grass, long telephoto compression, very shallow depth of field with creamy bokeh, ultra-fine micro-detail, realistic animal anatomy and locomotion, natural physics, smooth cinematic motion, no text, no logos, no music, no human presence or vehicles, no gore.
 Camera Movement: Fast low tracking shot
@@ -1066,7 +1218,7 @@ Subject Motion: The lions block the bank
 Environment Motion: Dust streams in the amber light
 Duration: 10 seconds
 
-**Beat 134**
+**Beat 153**
 [Script Segment Text]: "where he had escaped them before. Every kick sank. Every stride sank. And then, the weight. Lionesses can hold a giraffe."
 Video Prompt: Close on a giraffe hoof sinking into loose sand mid-kick in a wide dry riverbed of pale soft sand in Ruaha National Park, Tanzania. Over 10 seconds, the hoof sinks; sand slides away. Camera movement: Slow motion. Lighting: warm low golden-hour sunlight, glowing rim light on fur, dust hanging in the air and catching the light. Mood: time. Visual style: photorealistic cinematic wildlife documentary, premium nature-film look, 16:9 widescreen, warm honey-gold grade over pale sand and golden grass, long telephoto compression, very shallow depth of field with creamy bokeh, ultra-fine micro-detail, realistic animal anatomy and locomotion, natural physics, smooth cinematic motion, no text, no logos, no music, no human presence or vehicles, no gore.
 Camera Movement: Slow motion
@@ -1074,7 +1226,7 @@ Subject Motion: The hoof sinks
 Environment Motion: Sand slides away
 Duration: 10 seconds
 
-**Beat 135**
+**Beat 154**
 [Script Segment Text]: "It takes a male's weight on its shoulders to pull it down. That is why the pride needed Jabari."
 Video Prompt: A huge male African lion with a thick black-tipped dark mane, a heavy muscular build and amber eyes walking heavily across the sand, muscles rolling in a wide dry riverbed of pale soft sand in Ruaha National Park, Tanzania. Over 10 seconds, he walks; sand shifts under his paws. Camera movement: Slow tracking shot. Lighting: warm low golden-hour sunlight, glowing rim light on fur, dust hanging in the air and catching the light. Mood: weight. Visual style: photorealistic cinematic wildlife documentary, premium nature-film look, 16:9 widescreen, warm honey-gold grade over pale sand and golden grass, long telephoto compression, very shallow depth of field with creamy bokeh, ultra-fine micro-detail, realistic animal anatomy and locomotion, natural physics, smooth cinematic motion, no text, no logos, no music, no human presence or vehicles, no gore.
 Camera Movement: Slow tracking shot
@@ -1082,7 +1234,7 @@ Subject Motion: He walks
 Environment Motion: Sand shifts under his paws
 Duration: 10 seconds
 
-**Beat 136**
+**Beat 155**
 [Script Segment Text]: "A giraffe's greatest weapon is its height. Once the ground gives way, its height is the reason it cannot get back up."
 Video Prompt: A huge male African lion with a thick black-tipped dark mane, a heavy muscular build, amber eyes and a swollen jaw landing high on the shoulders of a giant old bull giraffe nearly six meters tall with dark chestnut patches on a cream background, a thick heavily scarred neck and large knobbly ossicones, dragging down in a wide dry riverbed of pale soft sand in Ruaha National Park, Tanzania, full height in frame. Over 10 seconds, the lion drags down; sand and dust explode. Camera movement: Slow motion at impact. Lighting: deep amber dusk light, long shadows across the sand, glowing dust. Mood: the weight. Visual style: photorealistic cinematic wildlife documentary, premium nature-film look, 16:9 widescreen, warm honey-gold grade over pale sand and golden grass, long telephoto compression, very shallow depth of field with creamy bokeh, ultra-fine micro-detail, realistic animal anatomy and locomotion, natural physics, smooth cinematic motion, no text, no logos, no music, no human presence or vehicles, no gore.
 Camera Movement: Slow motion at impact
@@ -1090,15 +1242,15 @@ Subject Motion: The lion drags down
 Environment Motion: Sand and dust explode
 Duration: 10 seconds
 
-**Beat 137**
-[Script Segment Text]: "One lion could not kill a giraffe. Three could not. Four could not. Seven could not. It took all eight."
+**Beat 156**
+[Script Segment Text]: "One lion could not kill a giraffe. Three could not. Four could not. Five could not. Seven could not. It took all eight."
 Video Prompt: A female giraffe with lighter tan patches on a cream background drinking with front legs splayed at the edge of soft sand at a shrinking green-brown pool in a dry sandy riverbed in Ruaha National Park, Tanzania. Over 10 seconds, she drinks; ripples spread. Camera movement: Slow push-in. Lighting: warm low golden-hour sunlight, glowing rim light on fur, dust hanging in the air and catching the light. Mood: ground. Visual style: photorealistic cinematic wildlife documentary, premium nature-film look, 16:9 widescreen, warm honey-gold grade over pale sand and golden grass, long telephoto compression, very shallow depth of field with creamy bokeh, ultra-fine micro-detail, realistic animal anatomy and locomotion, natural physics, smooth cinematic motion, no text, no logos, no music, no human presence or vehicles, no gore.
 Camera Movement: Slow push-in
 Subject Motion: She drinks
 Environment Motion: Ripples spread
 Duration: 10 seconds
 
-**Beat 138**
+**Beat 157**
 [Script Segment Text]: "And a drought that turned the river into sand. For the first time in weeks, the pride eats until it can eat no more."
 Video Prompt: The vast dry riverbed of the Great Ruaha at dusk, sand stretching to the horizon, Ruaha National Park, Tanzania. Over 10 seconds, the light fades; wind ripples the sand. Camera movement: Slow pull-back. Lighting: deep amber dusk light, long shadows across the sand, glowing dust. Mood: the drought's role. Visual style: photorealistic cinematic wildlife documentary, premium nature-film look, 16:9 widescreen, warm honey-gold grade over pale sand and golden grass, long telephoto compression, very shallow depth of field with creamy bokeh, ultra-fine micro-detail, realistic animal anatomy and locomotion, natural physics, smooth cinematic motion, no text, no logos, no music, no human presence or vehicles, no gore.
 Camera Movement: Slow pull-back
@@ -1106,7 +1258,7 @@ Subject Motion: The light fades
 Environment Motion: Wind ripples the sand
 Duration: 10 seconds
 
-**Beat 139**
+**Beat 158**
 [Script Segment Text]: "Up in the rocks, Zuri's three cubs are fed. Jabari's jaw is healing. And Kesi lies in the sand beside the kill,"
 Video Prompt: Three small lion cubs with faint spots on their fur with full bellies playing at the mouth of a cave among a pile of boulders above a dry river in Ruaha National Park, Tanzania. Over 10 seconds, the cubs play; dust drifts. Camera movement: Slow push-in. Lighting: deep amber dusk light, long shadows across the sand, glowing dust. Mood: fed. Visual style: photorealistic cinematic wildlife documentary, premium nature-film look, 16:9 widescreen, warm honey-gold grade over pale sand and golden grass, long telephoto compression, very shallow depth of field with creamy bokeh, ultra-fine micro-detail, realistic animal anatomy and locomotion, natural physics, smooth cinematic motion, no text, no logos, no music, no human presence or vehicles, no gore.
 Camera Movement: Slow push-in
@@ -1114,7 +1266,7 @@ Subject Motion: The cubs play
 Environment Motion: Dust drifts
 Duration: 10 seconds
 
-**Beat 140**
+**Beat 159**
 [Script Segment Text]: "the young lioness who started this story flying through the air, and finished it holding the Tower's legs."
 Video Prompt: A young, lean two-year-old African lioness with a light golden coat, a slim build, bright amber eyes and a dark bruise on her ribs lying proudly in the sand, head up, in amber light in a wide dry riverbed of pale soft sand in Ruaha National Park, Tanzania. Over 10 seconds, she rests; dust glows. Camera movement: Slow push-in. Lighting: deep amber dusk light, long shadows across the sand, glowing dust. Mood: pride. Visual style: photorealistic cinematic wildlife documentary, premium nature-film look, 16:9 widescreen, warm honey-gold grade over pale sand and golden grass, long telephoto compression, very shallow depth of field with creamy bokeh, ultra-fine micro-detail, realistic animal anatomy and locomotion, natural physics, smooth cinematic motion, no text, no logos, no music, no human presence or vehicles, no gore.
 Camera Movement: Slow push-in
@@ -1122,7 +1274,7 @@ Subject Motion: She rests
 Environment Motion: Dust glows
 Duration: 10 seconds
 
-**Beat 141**
+**Beat 160**
 [Script Segment Text]: "Ruaha is one of the last great strongholds for lions in Africa, home to one of the largest lion populations left on the continent."
 Video Prompt: A pride of lions resting under a huge baobab tree in the vast golden landscape of Ruaha National Park, Tanzania. Over 10 seconds, the lions rest; heat haze shimmers. Camera movement: Slow pull-back. Lighting: warm low golden-hour sunlight, glowing rim light on fur, dust hanging in the air and catching the light. Mood: stronghold. Visual style: photorealistic cinematic wildlife documentary, premium nature-film look, 16:9 widescreen, warm honey-gold grade over pale sand and golden grass, long telephoto compression, very shallow depth of field with creamy bokeh, ultra-fine micro-detail, realistic animal anatomy and locomotion, natural physics, smooth cinematic motion, no text, no logos, no music, no human presence or vehicles, no gore.
 Camera Movement: Slow pull-back
@@ -1130,7 +1282,7 @@ Subject Motion: The lions rest
 Environment Motion: Heat haze shimmers
 Duration: 10 seconds
 
-**Beat 142**
+**Beat 161**
 [Script Segment Text]: "But the Great Ruaha River is in trouble. Upstream, water is taken for farms and towns,"
 Video Prompt: A long stretch of the Great Ruaha River completely dry, cracked mud and stranded fish bones, in Ruaha National Park, Tanzania. Over 10 seconds, dust blows; heat haze ripples. Camera movement: Slow lateral drift. Lighting: warm low golden-hour sunlight, glowing rim light on fur, dust hanging in the air and catching the light. Mood: threat. Visual style: photorealistic cinematic wildlife documentary, premium nature-film look, 16:9 widescreen, warm honey-gold grade over pale sand and golden grass, long telephoto compression, very shallow depth of field with creamy bokeh, ultra-fine micro-detail, realistic animal anatomy and locomotion, natural physics, smooth cinematic motion, no text, no logos, no music, no human presence or vehicles, no gore.
 Camera Movement: Slow lateral drift
@@ -1138,7 +1290,7 @@ Subject Motion: Dust blows
 Environment Motion: Heat haze ripples
 Duration: 10 seconds
 
-**Beat 143**
+**Beat 162**
 [Script Segment Text]: "and in the dry season the river that once flowed all year now runs dry for months. When the river dies,"
 Video Prompt: Close view of cracked dry mud where a river once flowed, in Ruaha National Park, Tanzania. Over 10 seconds, dust stirs; heat haze shimmers. Camera movement: Slow push-in. Lighting: warm low golden-hour sunlight, glowing rim light on fur, dust hanging in the air and catching the light. Mood: dry for months. Visual style: photorealistic cinematic wildlife documentary, premium nature-film look, 16:9 widescreen, warm honey-gold grade over pale sand and golden grass, long telephoto compression, very shallow depth of field with creamy bokeh, ultra-fine micro-detail, realistic animal anatomy and locomotion, natural physics, smooth cinematic motion, no text, no logos, no music, no human presence or vehicles, no gore.
 Camera Movement: Slow push-in
@@ -1146,7 +1298,7 @@ Subject Motion: Dust stirs
 Environment Motion: Heat haze shimmers
 Duration: 10 seconds
 
-**Beat 144**
+**Beat 163**
 [Script Segment Text]: "everything that depends on it is pushed to the edge. Even lions. Perhaps the creator built the giraffe tall enough to see every danger coming,"
 Video Prompt: Low angle of a bull giraffe with chestnut patches on a cream background and a long muscular neck gazing out over the bush, head high above the trees on a riverbank of dry golden grass, thorn bushes and baobab trees in Ruaha National Park, Tanzania. Over 10 seconds, the giraffe watches; clouds drift. Camera movement: Slow tilt up. Lighting: warm low golden-hour sunlight, glowing rim light on fur, dust hanging in the air and catching the light. Mood: watcher. Visual style: photorealistic cinematic wildlife documentary, premium nature-film look, 16:9 widescreen, warm honey-gold grade over pale sand and golden grass, long telephoto compression, very shallow depth of field with creamy bokeh, ultra-fine micro-detail, realistic animal anatomy and locomotion, natural physics, smooth cinematic motion, no text, no logos, no music, no human presence or vehicles, no gore.
 Camera Movement: Slow tilt up
@@ -1154,7 +1306,7 @@ Subject Motion: The giraffe watches
 Environment Motion: Clouds drift
 Duration: 10 seconds
 
-**Beat 145**
+**Beat 164**
 [Script Segment Text]: "and the lion patient enough to wait for the one moment it cannot, to show us something. That in the wild,"
 Video Prompt: Close on the calm, patient face of an older, heavily built African lioness with a tawny coat, a scarred face, a torn lower lip and amber eyes in amber dusk light. Over 10 seconds, she blinks slowly; dust glows. Camera movement: Imperceptible push-in. Lighting: deep amber dusk light, long shadows across the sand, glowing dust. Mood: patience. Visual style: photorealistic cinematic wildlife documentary, premium nature-film look, 16:9 widescreen, warm honey-gold grade over pale sand and golden grass, long telephoto compression, very shallow depth of field with creamy bokeh, ultra-fine micro-detail, realistic animal anatomy and locomotion, natural physics, smooth cinematic motion, no text, no logos, no music, no human presence or vehicles, no gore.
 Camera Movement: Imperceptible push-in
@@ -1162,7 +1314,7 @@ Subject Motion: She blinks slowly
 Environment Motion: Dust glows
 Duration: 10 seconds
 
-**Beat 146**
+**Beat 165**
 [Script Segment Text]: "strength alone never wins. Timing does. And working together does. Somewhere along the dry bed of the Great Ruaha tonight,"
 Video Prompt: A pride of eight lions silhouetted on the dry riverbed against an orange sunset in Ruaha National Park, Tanzania. Over 10 seconds, the lions rest; the sun sinks. Camera movement: Static telephoto shot. Lighting: deep amber dusk light, long shadows across the sand, glowing dust. Mood: together. Visual style: photorealistic cinematic wildlife documentary, premium nature-film look, 16:9 widescreen, warm honey-gold grade over pale sand and golden grass, long telephoto compression, very shallow depth of field with creamy bokeh, ultra-fine micro-detail, realistic animal anatomy and locomotion, natural physics, smooth cinematic motion, no text, no logos, no music, no human presence or vehicles, no gore.
 Camera Movement: Static telephoto shot
@@ -1170,7 +1322,7 @@ Subject Motion: The lions rest
 Environment Motion: The sun sinks
 Duration: 10 seconds
 
-**Beat 147**
+**Beat 166**
 [Script Segment Text]: "eight lions lie together in the sand, full for the first time in weeks. The river is still waiting for the rain."
 Video Prompt: Eight lions lying together in the moonlit sand, full and resting in a wide dry riverbed of pale soft sand in Ruaha National Park, Tanzania. Over 10 seconds, they breathe slowly; moonlight shimmers. Camera movement: Slow push-in. Lighting: soft silver moonlight with a faint warm rim on fur, glowing eyes in the dark, dust in the moonlight. Mood: peace. Visual style: photorealistic cinematic wildlife documentary, premium nature-film look, 16:9 widescreen, warm honey-gold grade over pale sand and golden grass, long telephoto compression, very shallow depth of field with creamy bokeh, ultra-fine micro-detail, realistic animal anatomy and locomotion, natural physics, smooth cinematic motion, no text, no logos, no music, no human presence or vehicles, no gore.
 Camera Movement: Slow push-in
@@ -1178,7 +1330,7 @@ Subject Motion: They breathe slowly
 Environment Motion: Moonlight shimmers
 Duration: 10 seconds
 
-**Beat 148**
+**Beat 167**
 [Script Segment Text]: "And so are they. If Zuri's story stayed with you, join us again for the next battle in the wild."
 Video Prompt: Distant storm clouds with lightning on the horizon over the dry riverbed at night in Ruaha National Park, Tanzania. Over 10 seconds, lightning flickers far away; clouds roll. Camera movement: Slow tilt up. Lighting: soft silver moonlight with a faint warm rim on fur, glowing eyes in the dark, dust in the moonlight. Mood: waiting. Visual style: photorealistic cinematic wildlife documentary, premium nature-film look, 16:9 widescreen, warm honey-gold grade over pale sand and golden grass, long telephoto compression, very shallow depth of field with creamy bokeh, ultra-fine micro-detail, realistic animal anatomy and locomotion, natural physics, smooth cinematic motion, no text, no logos, no music, no human presence or vehicles, no gore.
 Camera Movement: Slow tilt up
@@ -1186,7 +1338,7 @@ Subject Motion: Lightning flickers far away
 Environment Motion: Clouds roll
 Duration: 10 seconds
 
-**Beat 149**
+**Beat 168**
 [Script Segment Text]: "Subscribe to Nature's Coliseum, and we'll meet you again where the wild still holds its ground."
 Video Prompt: The dry riverbed under a starry sky with a baobab silhouette in Ruaha National Park, Tanzania. Over 10 seconds, stars twinkle; the sand glows faintly. Camera movement: Slow pull-back and rise. Lighting: soft silver moonlight with a faint warm rim on fur, glowing eyes in the dark, dust in the moonlight. Mood: farewell. Visual style: photorealistic cinematic wildlife documentary, premium nature-film look, 16:9 widescreen, warm honey-gold grade over pale sand and golden grass, long telephoto compression, very shallow depth of field with creamy bokeh, ultra-fine micro-detail, realistic animal anatomy and locomotion, natural physics, smooth cinematic motion, no text, no logos, no music, no human presence or vehicles, no gore.
 Camera Movement: Slow pull-back and rise

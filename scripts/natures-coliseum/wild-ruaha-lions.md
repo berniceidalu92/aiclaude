@@ -232,7 +232,39 @@ And then Jabari is there, swollen jaw and all. He crashes into the clan like he 
 
 When the dust settles, the hyenas are gone. All three cubs are still in the cave.
 
-But the pride cannot survive another night like this. Tomorrow, it needs the biggest kill there is.
+At first light, the pride is starving. Jabari cannot eat with his broken tooth, and the young male can barely walk. So Zuri hunts without them.
+
+She picks a young bull giraffe, half the Tower's size, feeding alone on the bank above the riverbed. Young, inexperienced, and too far from the herd.
+
+But this time, she does not attack him on the bank. Five lionesses fan out through the grass in a wide half circle, between him and the open plain.
+
+They crawl closer, bellies to the ground, for almost an hour. Thirty meters. Twenty. Then Zuri stands up, in full view, on purpose.
+
+The young bull sees her and bolts the only way left open. Down the bank, and out onto the soft sand of the riverbed.
+
+That is exactly where she wants him. Five lionesses pour down the bank behind him, two on each side, and Zuri straight up the middle.
+
+On the sand, his stride shortens. His hooves sink deep with every step. And for the first time, the lions are gaining fast.
+
+Kesi gets there first, still limping, and goes low behind his legs again. He kicks. The hoof sinks into the sand, and misses her completely.
+
+Zuri leaps onto his back. A second lioness hits his flank. A third hangs from his hindquarters, dragging backwards with all her weight.
+
+Five lions against one young giraffe, on soft sand. He staggers. His back legs fold. For one second, he is almost down.
+
+Then he plants his front hooves, heaves his whole body upward, and the three lionesses hanging on him slide off into the sand.
+
+He bursts free, scrambles up the far bank onto hard ground, and is gone. The lionesses lie panting in the sand behind him.
+
+Five lions. One young giraffe. The closest they have come. And still, the giraffe wins.
+
+But Zuri has learned two things. The first is that the sand works. He could not kick, and he could not run. On soft sand, a giraffe is half the animal it is on hard ground.
+
+The second is that five lionesses are not enough. Lionesses can grab a giraffe and hang on, but they cannot pull it down. That takes weight, high on the shoulders, and only Jabari has that much.
+
+So the next hunt needs the sand, the one moment a giraffe cannot run, and every lion in the pride. Even the injured ones.
+
+And the pride cannot survive another night like this. Tomorrow, it needs the biggest kill there is.
 
 The Tower.
 
@@ -286,7 +318,7 @@ And then, the weight. Lionesses can hold a giraffe. It takes a male's weight on 
 
 A giraffe's greatest weapon is its height. Once the ground gives way, its height is the reason it cannot get back up.
 
-One lion could not kill a giraffe. Three could not. Four could not. Seven could not.
+One lion could not kill a giraffe. Three could not. Four could not. Five could not. Seven could not.
 
 It took all eight. And a drought that turned the river into sand.
 

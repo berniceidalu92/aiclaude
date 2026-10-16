@@ -6,7 +6,7 @@ Add all text in the editor, not in the generator. Series text: "RUAHA" in heavy 
 Visual Concept: A giant bull giraffe still standing in the sand with lions clinging to its neck, back and flanks, more lions charging in.
 Text Overlay: "RUAHA" top-left; optional hook "8 VS 1" in warm yellow.
 Emotion Trigger: The many-against-one hook and the size difference in one glance.
-In the video: 20:50.
+In the video: 24:00.
 Prompt: Photorealistic cinematic wildlife thumbnail, 16:9, full height of the giraffe in frame. A giant old bull giraffe nearly six meters tall with dark chestnut patches and a thick scarred neck stands in a dry sandy riverbed with a scarred lioness clinging high on its neck, two lionesses on its back and two more on its flanks, while a huge black-maned male lion leaps in from the side and more lions charge from the foreground. Sand and dust exploding around its hooves, frozen in mid-air. Low camera looking up at the giraffe, warm amber dusk backlight with glowing rim light on fur, telephoto compression, frozen action, crisp detail, high contrast against a deep orange sky. Negative space in the top-left corner for text. No people, no vehicles, no text, no logos.
 
 **Thumbnail 2: One Kick**
