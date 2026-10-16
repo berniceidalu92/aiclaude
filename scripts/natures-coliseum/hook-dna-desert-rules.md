@@ -57,3 +57,4 @@
 15. Fights first: after the climax opener, all the fights and confrontations run back to back, each one causing the next ("The giraffe that kicked Kesi runs straight into...", "a kill makes noise", "he leaves a trail"). Inside each fight, a short explanation of two to four sentences right after the action: why it happened and how it worked.
 16. After the final fight, one short breakdown of how the climax was won, then the ending. Each fight's own "why" is explained inside that fight, not repeated at the end. This replaces the earlier rule of answering each puzzle within 60–90 seconds.
 17. B-roll stays out of the fight chain: only after the title card and in the explanation and ending sections.
+18. No fight appears in the story without showing how it got there: who targets whom and why (the one at the edge, the limping one, the calf), the stalk or approach, and the chase. The teaser montage is the only exception.

@@ -26,7 +26,11 @@ Its neck swings like a hammer, and a lioness flies into the dust. Then a two-hun
 
 Eight lions. One giraffe. Only one side walks away. To find out who, we have to go back to the beginning.
 
-Dawn. A giraffe is feeding at the edge of the riverbed. Three lionesses are already running.
+Dawn. A small herd of giraffes is feeding along the riverbed.
+
+Zuri does not pick the biggest. She picks the one at the edge, feeding alone, farthest from the others and closest to the riverbed.
+
+Three lionesses crawl toward it through the grass, bellies to the ground. Then they run.
 
 Sixty meters. Forty. The giraffe sees them and wheels away, five meters of legs eating up the ground.
 
@@ -58,6 +62,8 @@ The giraffe that kicked Kesi does not get far.
 
 It gallops straight into the ground of a much bigger bull. And he does not share it.
 
+He sees a stranger on his ground and comes straight at him, at a gallop, neck already swinging.
+
 He is enormous. Nearly six meters tall, his neck scarred from a hundred fights. We will call him the Tower.
 
 The two bulls stand neck to neck, and swing. Giraffe bulls settle who rules this way. They call it necking. A two-meter neck swung that hard hits like a hammer, and a fight can go on until one bull can barely stand.
@@ -72,7 +78,7 @@ The smaller bull goes down on one knee. He scrambles up, and runs.
 
 And the lions have been watching all of it. Because a beaten bull is a tired bull. And a tired bull kicks slower.
 
-Four lionesses come out of the grass after the beaten bull.
+Four lionesses come out of the grass after the beaten bull. They pick him because he is limping, and breathing hard, and alone.
 
 He runs. Across the riverbed, up the bank, out onto the open plain. A giraffe can gallop at fifty kilometres an hour. A lioness is faster, but only for a few hundred meters.
 
@@ -94,9 +100,13 @@ Why? Look at the ground they fought on. Hard. Flat. Firm. On ground like this, a
 
 The chase has dragged the pride far out onto the open plain. And as night falls, a herd of zebra comes in to graze.
 
-Two lionesses drive one out of the herd at full gallop, straight toward two more waiting in the dark. It goes down in seconds.
+The lionesses circle downwind and watch. Not the fastest zebra. The old stallion limping at the back.
+
+Two lionesses drive him out of the herd at full gallop, straight toward two more waiting in the dark. It goes down in seconds.
 
 But a kill makes noise. And the noise carries.
+
+A kilometre away, a hyena lifts its head. It whoops. And from every direction, the clan comes running, following the sound across the dark plain.
 
 They have eaten for less than a minute when the laughing starts.
 
@@ -112,7 +122,7 @@ Four lionesses against thirty hyenas. The pride backs away. The hyenas take the 
 
 Why give up a kill? Because a hyena bite to a leg can cripple a lioness. And in a drought, a crippled lioness is a dead lioness. Without a male, four lionesses cannot hold a kill against a clan this size.
 
-Then, out of the dark, a roar that shakes the riverbed.
+Then, out of the dark, a roar that shakes the riverbed. He heard the fight from the far side of the territory, and he has been running for two kilometres.
 
 A male lion comes in at full speed. Black mane. Two hundred kilos. He hits the hyenas like a falling tree.
 
@@ -126,6 +136,8 @@ The last pool in the river. A green-brown puddle in a kilometre of sand. In the 
 
 Zuri lowers her head to the water.
 
+The crocodile has been watching the bank since dawn. It saw her coming down to drink. It sank, and glided toward her along the bottom without a single ripple.
+
 The water behind her explodes.
 
 A Nile crocodile, four meters long, lunges out of the shallows. Its jaws snap shut a hand's width from her face.
@@ -137,6 +149,8 @@ At the far end, a giraffe lifts its head at the splash. Then lowers it again.
 The Tower. Front legs spread wide. Head down at the water.
 
 A giraffe's neck is too short to reach the ground while its legs stand straight. So to drink, it must spread them wide. For those few seconds, it cannot run, and it cannot kick properly. It is the most dangerous moment of a giraffe's day.
+
+Zuri picks her target. Not the giraffes at the other pools. The Tower, drinking alone, legs spread, while the giraffe on watch looks the other way.
 
 Seven lions creep along the riverbed. More lions than the pride has ever used on one giraffe. Kesi limps at the back. Twenty meters. Ten.
 
@@ -158,9 +172,9 @@ He drops where he stands. And he does not move.
 
 Is he dead?
 
-The hyenas have been following the pride since the zebra. Now they have seen the biggest lion go down.
+The hyenas have been following the pride since the zebra. Now they have seen the biggest lion go down. And they go straight for the weakest point in the pride: the lion on the ground.
 
-Fifteen of them, coming in from three sides.
+Fifteen of them, running in from three sides.
 
 The lionesses close around Jabari. Kesi, ribs still cracked, steps in front of him and roars.
 
@@ -174,7 +188,7 @@ He staggers up, blood on his jaw, and roars. The hyenas scatter into the dark.
 
 He is alive. But his jaw is swollen, and a tooth is broken. He cannot eat. And neither can the pride.
 
-Hunger drives them at the first giraffe they see. A mother with a young calf. The calf is the size of a lion. Its mother is five times that.
+Hunger drives them at the first giraffe they see. A mother with a young calf. They are not after the mother. They are after the calf, smaller, slower, easier. All they have to do is split it from her. The calf is the size of a lion. Its mother is five times that.
 
 She sees them coming at a hundred meters. She could outrun them. Her calf cannot.
 
@@ -190,7 +204,7 @@ Why didn't she run and save herself? Because the safest place for a calf is dire
 
 One failure too many. The youngest male breaks away from the pride, and goes alone. Young males often try hunts like this to prove themselves, and many never get the chance to try again.
 
-At midday, he charges a giraffe.
+At midday, he picks his target. Not a calf. A full-grown giraffe, to prove himself. He stalks it through the heat haze, then he charges.
 
 One lion. One giraffe.
 
@@ -206,7 +220,7 @@ He limps back toward the rocks where the pride's cubs are hidden, bleeding from 
 
 And he leaves a trail.
 
-That night, the hyenas follow it. A hyena can follow the scent of blood for kilometres. And hyenas will kill lion cubs whenever they get the chance.
+That night, the hyenas follow it, noses to the ground, at a steady lope, straight to the rocks. A hyena can follow the scent of blood for kilometres. And hyenas will kill lion cubs whenever they get the chance.
 
 Zuri hears the laughing from half a kilometre away, and she runs.
 
@@ -221,6 +235,8 @@ When the dust settles, the hyenas are gone. All three cubs are still in the cave
 But the pride cannot survive another night like this. Tomorrow, it needs the biggest kill there is.
 
 The Tower.
+
+Zuri has chosen her target: the Tower, and only the Tower. She has chosen her ground: the soft sand. And she has chosen her moment: when he drinks.
 
 The next evening, he walks out onto the soft sand of the riverbed to reach the last pool.
 
