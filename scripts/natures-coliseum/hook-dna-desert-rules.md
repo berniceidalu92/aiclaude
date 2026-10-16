@@ -54,6 +54,6 @@
 12. Every scene opens on its most high-tension moment, then explains. Never set up a scene calmly.
 13. Every hunt shows the chase before the catch: the sprint, the closing distance ("Sixty meters. Forty."), the prey running, the hunters splitting to cut it off, then the moment of contact. The chase is action, never calm setup.
 14. B-roll never lands mid-sentence; only after a beat that ends a sentence.
-15. Fights first: after the climax opener, all the fights and confrontations run back to back, each one causing the next ("The giraffe that kicked Kesi runs straight into...", "a kill makes noise", "he leaves a trail"). Inside the fights, at most one short line of explanation per fight.
-16. Explanations last: one section after the final fight answers every "why" in the order the fights happened, then the ending. This replaces the earlier rule of answering each puzzle within 60–90 seconds.
+15. Fights first: after the climax opener, all the fights and confrontations run back to back, each one causing the next ("The giraffe that kicked Kesi runs straight into...", "a kill makes noise", "he leaves a trail"). Inside each fight, a short explanation of two to four sentences right after the action: why it happened and how it worked.
+16. After the final fight, one short breakdown of how the climax was won, then the ending. Each fight's own "why" is explained inside that fight, not repeated at the end. This replaces the earlier rule of answering each puzzle within 60–90 seconds.
 17. B-roll stays out of the fight chain: only after the title card and in the explanation and ending sections.

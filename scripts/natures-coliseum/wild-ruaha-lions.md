@@ -42,9 +42,13 @@ One kick from a giraffe can kill a lion outright. The hoof catches her in the ri
 
 Three lions. One giraffe. And the giraffe wins.
 
+Why would lions even try? Because it is the end of the dry season. The river has stopped flowing, and the zebra and antelope have scattered across a thousand square kilometres of dying bush. But one giraffe is more than a thousand kilos of meat, enough to feed a pride for a week.
+
+And why go for the legs, not the throat? Because the throat is five meters up, out of reach of any lion on Earth. The only way to kill a giraffe is to make it fall. And the only way to make it fall is through the legs that can kill you.
+
 On the sand, the young lioness lifts her head. She is alive. We will call her Kesi.
 
-An older lioness with a scarred face and a torn lip walks back and lies down beside her. Zuri, the leader of the hunt.
+An older lioness with a scarred face and a torn lip walks back and lies down beside her. Zuri, the leader of the hunt. The whole pride waits. Why wait for a lioness who cannot hunt? Because against a giraffe, every single lion counts.
 
 How do you bring down an animal that kicks in every direction, and stands taller than a house?
 
@@ -56,7 +60,7 @@ It gallops straight into the ground of a much bigger bull. And he does not share
 
 He is enormous. Nearly six meters tall, his neck scarred from a hundred fights. We will call him the Tower.
 
-The two bulls stand neck to neck, and swing. Giraffe bulls settle who rules this way. They call it necking.
+The two bulls stand neck to neck, and swing. Giraffe bulls settle who rules this way. They call it necking. A two-meter neck swung that hard hits like a hammer, and a fight can go on until one bull can barely stand.
 
 Heads like sledgehammers, thirty kilos of skull on the end of a two-meter neck. Crack. A blow to the ribs. Crack. A blow to the spine.
 
@@ -66,7 +70,7 @@ Then he drops his head low, and swings from the ground up.
 
 The smaller bull goes down on one knee. He scrambles up, and runs.
 
-And the lions have been watching all of it.
+And the lions have been watching all of it. Because a beaten bull is a tired bull. And a tired bull kicks slower.
 
 Four lionesses come out of the grass after the beaten bull.
 
@@ -86,6 +90,8 @@ And he is gone.
 
 Four lions. One tired giraffe. And still, the giraffe wins.
 
+Why? Look at the ground they fought on. Hard. Flat. Firm. On ground like this, a giraffe can plant its feet, kick, and run. It cannot fall. Zuri has learned something.
+
 The chase has dragged the pride far out onto the open plain. And as night falls, a herd of zebra comes in to graze.
 
 Two lionesses drive one out of the herd at full gallop, straight toward two more waiting in the dark. It goes down in seconds.
@@ -104,17 +110,19 @@ Another lioness is surrounded. Four hyenas at once, snapping at her legs. She ro
 
 Four lionesses against thirty hyenas. The pride backs away. The hyenas take the zebra.
 
+Why give up a kill? Because a hyena bite to a leg can cripple a lioness. And in a drought, a crippled lioness is a dead lioness. Without a male, four lionesses cannot hold a kill against a clan this size.
+
 Then, out of the dark, a roar that shakes the riverbed.
 
 A male lion comes in at full speed. Black mane. Two hundred kilos. He hits the hyenas like a falling tree.
 
 He pins one under his paws. He swats another into the air. They scatter, screaming. One does not get up.
 
-This is Jabari. The pride male.
+This is Jabari. The pride male. Half as heavy again as any lioness. And before this drought is over, that weight will matter more than anything.
 
 The fight leaves the pride with nothing but thirst. And in this drought, there is only one place left to drink.
 
-The last pool in the river. A green-brown puddle in a kilometre of sand. In the dry season, every crocodile in the river is packed into pools like this.
+The last pool in the river. A green-brown puddle in a kilometre of sand. In the dry season, every crocodile in the river is packed into pools like this. But it is the only water for twenty kilometres. Every drink is a gamble.
 
 Zuri lowers her head to the water.
 
@@ -128,15 +136,19 @@ At the far end, a giraffe lifts its head at the splash. Then lowers it again.
 
 The Tower. Front legs spread wide. Head down at the water.
 
+A giraffe's neck is too short to reach the ground while its legs stand straight. So to drink, it must spread them wide. For those few seconds, it cannot run, and it cannot kick properly. It is the most dangerous moment of a giraffe's day.
+
 Seven lions creep along the riverbed. More lions than the pride has ever used on one giraffe. Kesi limps at the back. Twenty meters. Ten.
 
 The pride charges.
 
 But the Tower's head is already up.
 
+How did he know? Look at the top of the bank. Another giraffe, standing perfectly still. Giraffes drink in turns. While one drinks, another keeps watch. And from six meters up, a watcher sees everything.
+
 He bolts up the riverbed with seven lions behind him, sand flying from every stride. For two hundred meters they gain on him.
 
-Then the bank. He takes it in three strides, out onto hard ground, and spins to face them.
+Then the bank. He takes it in three strides, out onto hard ground, and spins to face them. Back on firm earth, where a giraffe can fight.
 
 Jabari leaps for his flank. And the Tower kicks.
 
@@ -174,7 +186,9 @@ Another lioness goes for the calf from the side. The mother spins on the spot, a
 
 The pride pulls back. Mother and calf walk away.
 
-One failure too many. The youngest male breaks away from the pride, and goes alone. Young males often try hunts like this to prove themselves.
+Why didn't she run and save herself? Because the safest place for a calf is directly underneath its mother. Any lion that wants it has to go through four legs that can each kill.
+
+One failure too many. The youngest male breaks away from the pride, and goes alone. Young males often try hunts like this to prove themselves, and many never get the chance to try again.
 
 At midday, he charges a giraffe.
 
@@ -184,7 +198,7 @@ It sees him coming and runs. He chases it across the burning sand, closing, clos
 
 He leaps and sinks his claws into its hindquarters, hanging on as it bolts.
 
-The giraffe does not even try to kick him off. It just runs.
+The giraffe does not even try to kick him off. It just runs. To an animal that size, one lion is just extra weight. One lion cannot even slow a giraffe down.
 
 His grip fails. He drops. Rolls. And a back hoof slams down where he landed a heartbeat earlier.
 
@@ -192,7 +206,7 @@ He limps back toward the rocks where the pride's cubs are hidden, bleeding from 
 
 And he leaves a trail.
 
-That night, the hyenas follow it. Hyenas will kill lion cubs whenever they get the chance.
+That night, the hyenas follow it. A hyena can follow the scent of blood for kilometres. And hyenas will kill lion cubs whenever they get the chance.
 
 Zuri hears the laughing from half a kilometre away, and she runs.
 
@@ -244,35 +258,17 @@ There is nothing to plant them on.
 
 And the tallest animal on Earth comes down.
 
-So how did eight lions kill an animal that should have killed them? Every fight you just watched holds part of the answer.
+So how did eight lions kill an animal that should have killed them?
 
-Why would lions even try? Because it was the end of the dry season. The river had stopped flowing, and the zebra and antelope had scattered across a thousand square kilometres of dying bush. But one giraffe is more than a thousand kilos of meat. Enough to feed a pride for a week.
+Look at the final hunt again.
 
-Why did Kesi go for the legs and not the throat? Because a giraffe's throat is five meters up, out of reach of any lion on Earth. The only way to kill a giraffe is to make it fall. And the only way to make it fall is through the legs that can kill you.
+They waited until the river turned to sand. They hid in it. They struck at the one moment he could not run, when he spread his legs to drink.
 
-Why did Zuri go back for Kesi when she was hurt? Because against a giraffe, every single lion counts.
+They cut him off from the bank, so he could never reach the hard ground where he had escaped them before. Every kick sank. Every stride sank.
 
-Why did the lions go after the beaten bull? Because a beaten bull is a tired bull. And a tired bull kicks slower.
+And then, the weight. Lionesses can hold a giraffe. It takes a male's weight on its shoulders to pull it down. That is why the pride needed Jabari.
 
-So why did four lions still lose him? Look at the ground they fought on. Hard. Flat. Firm. On ground like that, a giraffe can plant its feet, kick, and run. It cannot fall.
-
-Why did the lionesses give up their zebra to the hyenas? Because a hyena bite to a leg can cripple a lioness. And in a drought, a crippled lioness is a dead lioness.
-
-Why drink from a pool full of crocodiles? Because it was the only water for twenty kilometres. Every drink was a gamble.
-
-Why does a giraffe drink with its legs spread so wide? Because its neck is too short to reach the ground while its legs stand straight. For those few seconds, it cannot run, and it cannot kick properly. It is the most dangerous moment of a giraffe's day.
-
-So how did the Tower know the lions were coming? Because giraffes drink in turns. While one drinks, another stands watch. And from six meters up, a watcher sees everything. And when he ran, he ran for the bank, back to hard ground, where he could fight.
-
-Why didn't the mother giraffe just run? Because the safest place for a calf is directly underneath her. Any lion that wants it has to go through four legs that can each kill.
-
-Why didn't the giraffe even bother to kick the young male off? Because it did not need to. To an animal that size, one lion is just extra weight.
-
-And why did the pride need Jabari? Because lionesses can hold a giraffe. But it takes a male's weight on its shoulders to pull it down.
-
-Now look at the final hunt again.
-
-They waited until the river turned to sand. They hid in it. They struck when he spread his legs to drink. They cut him off from the bank, so he could never reach hard ground. Every kick sank. Every stride sank. And then, the weight.
+A giraffe's greatest weapon is its height. Once the ground gives way, its height is the reason it cannot get back up.
 
 One lion could not kill a giraffe. Three could not. Four could not. Seven could not.
 
