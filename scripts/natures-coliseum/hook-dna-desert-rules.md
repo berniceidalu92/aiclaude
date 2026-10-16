@@ -52,3 +52,5 @@
 10. No subscribe line at 2:00 or 4:00; no Word document unless asked; Nature's Coliseum branding.
 11. Many against one: the main hunts are a pack or pride (two, three, four or more predators) fighting one giant animal. Lions vs giraffe (Ruaha), lions vs hippo (Luangwa), wolves vs bison (Canada). The number of attackers grows as the video goes on.
 12. Every scene opens on its most high-tension moment, then explains. Never set up a scene calmly.
+13. Every hunt shows the chase before the catch: the sprint, the closing distance ("Sixty meters. Forty."), the prey running, the hunters splitting to cut it off, then the moment of contact. The chase is action, never calm setup.
+14. B-roll never lands mid-sentence; only after a beat that ends a sentence.

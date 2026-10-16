@@ -14,6 +14,8 @@ A mother giraffe kicking in every direction over her calf, as a lioness dives be
 
 Eight lions hidden in the sand. A giant giraffe spreads its legs to drink. And the riverbed explodes.
 
+It bolts. Eight lions sprint across the riverbed after it, fanning out left and right, cutting off every way back to firm ground.
+
 The giraffe runs, but the sand swallows its hooves. A young lioness slips in low, behind the legs that can kill her.
 
 One kick. It misses, and the hoof sinks into the sand. A scarred lioness leaps onto its back.
@@ -24,7 +26,11 @@ Its neck swings like a hammer, and a lioness flies into the dust. Then a two-hun
 
 Eight lions. One giraffe. Only one side walks away. To find out who, we have to go back to the beginning.
 
-Dawn. Three lionesses burst out of the grass at a running giraffe.
+Dawn. A giraffe is feeding at the edge of the riverbed. Three lionesses are already running.
+
+Sixty meters. Forty. The giraffe sees them and wheels away, five meters of legs eating up the ground.
+
+The lionesses split. One wide on each side. One straight behind. Twenty meters. Ten.
 
 The first one leaps for its back and slides off. The second goes for its flank and misses.
 
@@ -90,6 +96,10 @@ Because a beaten bull is a tired bull. And a tired bull kicks slower.
 
 Four lionesses rise out of the grass and go after the loser.
 
+He sees them and runs. Across the riverbed, up the bank, out onto the open plain. A galloping giraffe can hold fifty kilometres an hour. A lioness is faster, but only for a few hundred meters.
+
+Two of them swing wide to cut him off. He turns, and runs straight into the other two.
+
 They catch him on open ground. Two on his flanks. One on his back. Zuri at his legs.
 
 He kicks. He spins. He drags the lioness on his back fifty meters through the dust.
@@ -106,7 +116,7 @@ Zuri has learned something. But the pride has eaten nothing. And the night is co
 
 The night brings a zebra.
 
-The pride ambushes it at the edge of the riverbed in the dark, four lionesses at once, and it goes down in seconds.
+Two lionesses drive it out of the bush at full gallop, straight toward two more waiting in the dark. The zebra never sees them. It goes down in seconds.
 
 They have eaten for less than a minute when the laughing starts.
 
@@ -186,7 +196,9 @@ Look at the top of the bank. Another giraffe, standing perfectly still, staring 
 
 Giraffes drink in turns. One always watches. And from six meters up, a watcher sees everything.
 
-The Tower spins to face them.
+He bolts up the riverbed with seven lions behind him, sand flying from every stride. For two hundred meters they gain on him.
+
+Then the bank. He takes it in three strides, out onto hard ground, and spins to face them.
 
 Jabari leaps for his flank. And the Tower kicks.
 
@@ -230,11 +242,11 @@ The next morning, hunger makes them try something easier.
 
 A giraffe mother with a young calf, feeding at the edge of the riverbed.
 
-The pride rushes in.
+The pride rushes in from the grass.
 
-The mother does not run.
+The mother sees them at a hundred meters. She could outrun them. Her calf cannot.
 
-She plants herself over the calf, and she kicks. Front legs. Back legs. In every direction at once.
+She runs a few strides beside it. Then she stops, plants herself over the calf, and turns to face them. And she kicks. Front legs. Back legs. In every direction at once.
 
 A lioness gets a hoof in the shoulder and rolls away. Zuri dives under the mother's belly for the calf, and the mother's back leg slams down beside her head, so close it throws sand in her eyes.
 
@@ -259,6 +271,8 @@ Not much longer. And the youngest male cannot wait at all.
 At midday, alone, he charges a giraffe at the edge of the riverbed.
 
 One lion. One giraffe.
+
+It sees him coming from a long way off and starts to run. He chases it across the burning sand, closing, closing, until he is right under its tail.
 
 He leaps and sinks his claws into its hindquarters, hanging on as it bolts across the sand.
 
@@ -326,7 +340,9 @@ And Zuri rises out of the sand.
 
 The pride explodes from three sides at once.
 
-The Tower jerks his head up and runs. But the sand pulls at his hooves. Every stride sinks.
+The Tower jerks his head up and runs. He heads for the bank and the hard ground beyond it. But the lions on that side are already there, cutting him off.
+
+He swings away, back across the open sand, eight lions closing from every side. And the sand pulls at his hooves. Every stride sinks.
 
 Kesi reaches him first.
 
