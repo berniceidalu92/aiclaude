@@ -40,5 +40,5 @@ Ruaha National Park is one of the last great strongholds for lions in Africa. Bu
 
 Note: Some scenes in this documentary are AI-generated recreations, based on real lion and giraffe behaviour recorded in Ruaha National Park, Tanzania.
 
-## Tags (paste into the tags box, 479 characters)
+## Tags (paste into the tags box, 490 characters)
 lions hunt giraffe, lion vs giraffe, lions vs giraffe, giraffe kicks lion, lion pride hunting, eight lions vs giraffe, ruaha national park, ruaha lions, wild ruaha, tanzania wildlife, african wildlife documentary, nature documentary, wildlife documentary, lions vs hyenas, hyenas vs lions, crocodile attacks lion, giraffe vs lion fight, lion hunting giraffe, animal fights, predator vs prey, big cats documentary, lion documentary, giraffe documentary, natures coliseum, wild animal battles
