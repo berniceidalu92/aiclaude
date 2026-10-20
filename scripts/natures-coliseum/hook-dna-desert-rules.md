@@ -40,8 +40,8 @@
 9. Do NOT copy the second half's encyclopedia format. That is where hooks drop off.
 
 ## Nature's Coliseum standing script rules
-1. The 60-second teaser is a montage of the video's most intense fights, including the climax, each at the moment of contact.
-2. The story then opens with the climax itself, told beat by beat and cut off right before the outcome ("To find out who, we have to go back to the beginning"), before going back to the start.
+1. The 60-second teaser is a montage of the video's most intense fights, including the climax, each at the moment of contact. The teaser always ends with the line "This is how it all began." before the storytelling starts.
+2. After "This is how it all began.", the story opens with the climax itself, told beat by beat and cut off right before the outcome ("To find out who, we have to go back to the beginning"), before going back to the start.
 3. Straight after the teaser, the story opens in a live fight. No scenery or calm setup first.
 4. No build-up before any fight: action first, explanation after.
 5. Every puzzle has a fight or clash, so there is never more than about 2 minutes without action.
