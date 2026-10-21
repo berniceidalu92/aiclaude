@@ -19,7 +19,11 @@ The same locked Nature's Coliseum look, adapted to a frozen high-altitude cliff 
 - **Mood:** Tense, vertiginous, cold, majestic. Fights are visceral without gore.
 
 ## Real-documentary feel (every beat)
-- Every shot should look like footage filmed by a natural-history camera crew from a hidden position at long range, not like CGI or a staged render.
+- Every shot should look like footage filmed by a natural-history camera crew from hidden positions, not like CGI or a staged render.
+- Mix the range to suit the moment, as real documentaries do. Each prompt names its range:
+  - **Long range** (from far across the valley, animals small in the landscape): opening and setting shots, hunters watching or choosing a target, stalks, and the pack moving into place.
+  - **Mid range** (telephoto from a hidden position, animals filling about half the frame): chases, approaches, and animals moving through the scene.
+  - **Close range** (a hidden remote camera a few meters away, animals filling the frame): every moment of contact (strikes, bites, horn hits, leaps, landings), plus faces, eyes, hooves and emotional moments.
 - The animals are wild, unposed and unaware of the camera. Every pose, gait and expression is one the real animal makes.
 - True-to-life anatomy, proportions, fur and horn texture, and natural colors without oversaturation.
 - The small imperfections of real telephoto footage: atmospheric haze over distance, fine film grain, gentle lens breathing and focus pulls.
