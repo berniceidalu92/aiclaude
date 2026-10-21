@@ -18,6 +18,20 @@ The same locked Nature's Coliseum look, adapted to a frozen high-altitude cliff 
 - **Detail:** Ultra-fine detail in focus (fur, frost on whiskers and beards, horn ridges, hoof edges, snow crystals, rock grain) and creamy bokeh everywhere else.
 - **Mood:** Tense, vertiginous, cold, majestic. Fights are visceral without gore.
 
+## Real-documentary feel (every beat)
+- Every shot should look like footage filmed by a natural-history camera crew from a hidden position at long range, not like CGI or a staged render.
+- The animals are wild, unposed and unaware of the camera. Every pose, gait and expression is one the real animal makes.
+- True-to-life anatomy, proportions, fur and horn texture, and natural colors without oversaturation.
+- The small imperfections of real telephoto footage: atmospheric haze over distance, fine film grain, gentle lens breathing and focus pulls.
+- Video: a steady tripod or gimbal-mounted long lens. Action plays in true high-frame-rate slow motion with real weight and physics for snow, rock and wind.
+
+## Continuity between beats
+- Each scene has one fixed time of day and lighting from its first beat to its last. Beats never switch lighting mid-scene.
+- Generate the first beat of each scene first, then use the previous beat's image as the reference for the next one, so the animals, location and light carry straight on.
+- Injuries carry forward once they happen: the young male's leg gash (from the rut), Nima's shoulder bite (from the wolves) and Kala's leg bites (from the ledge).
+- Each teaser shot matches the story beat it previews, with the same animals, lighting and setting.
+- The image and video prompt files give each beat a "Continuity" line with its scene, its shot number and the beat to use as the reference.
+
 ## Lighting variations
 - **Dawn:** pink-gold alpenglow on the peaks, the valley still in blue shadow.
 - **Day (eagle scenes):** bright high-altitude sun and a deep blue sky. The eagle dives out of the sun with lens flare.
