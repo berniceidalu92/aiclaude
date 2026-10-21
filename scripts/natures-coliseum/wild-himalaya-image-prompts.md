@@ -1,6 +1,6 @@
 # WILD HIMALAYA — Image Prompts
 
-10-second beats · fight teaser = beats 1–6 (ends "This is how it all began.") · intro over B-roll = beats 7–8 · climax opener = beats 9–14 · every prompt standalone
+10-second beats · fight teaser = beats 1–6 · intro over B-roll = beats 7–8 · climax opener = beats 9–14 · every prompt standalone
 
 **Beat 1 (TEASER)**
 [Script Segment Text]: "A snow leopard launches off a cliff at a running ibex. Both of them fall. Two hundred meters of rock, and neither can stop."
@@ -43,7 +43,7 @@ Mood: Pursuit teaser
 Action: Wolves run on top of the snow; the mother sinks
 
 **Beat 6 (TEASER)**
-[Script Segment Text]: "Eight wolves. One old ibex on a ledge above a two-hundred-meter drop. This is how it all began."
+[Script Segment Text]: "Eight wolves. One old ibex on a ledge above a two-hundred-meter drop."
 Image Prompt: Fast dramatic wide shot: eight lean Himalayan wolves with thick tawny-grey winter coats, pale chests and yellow eyes closing from both sides on a huge old male Himalayan ibex with a thick sandy-brown winter coat, a dark beard, a scarred face and massive curved horns over a meter long, ridged like a saw blade and swept back over his shoulders standing on a ledge on a narrow rock ledge no wider than a doorway at the end of a ridge, a two-hundred-meter drop below, in the Spiti Valley in the Indian Himalaya. Camera: Wide telephoto landscape shot, 300mm, compressed perspective stacking cliffs and peaks, animals small against the rock. Lighting: last orange light on the ridgelines and blue twilight on the snow, breath steaming in the cold. Mood: cliffhanger teaser. Visual style: photorealistic cinematic wildlife documentary, premium nature-film look, 16:9 widescreen, cool blue-white snow and slate-grey rock with steel-blue shadows, warm gold winter sunlight on fur and horns, crisp cool grade with clean highlights, long telephoto compression, very shallow depth of field with creamy bokeh, ultra-fine micro-detail on fur, frost, horn ridges, hooves, snow crystals and rock grain, tense and dramatic mood, no people, villages or vehicles.
 Camera Angle: Wide telephoto landscape shot, 300mm, compressed perspective stacking cliffs and peaks, animals small against the rock
 Lighting: Last orange light on the ridgelines and blue twilight on the snow, breath steaming in the cold

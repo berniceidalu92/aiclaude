@@ -40,8 +40,8 @@
 9. Do NOT copy the second half's encyclopedia format. That is where hooks drop off.
 
 ## Nature's Coliseum standing script rules
-1. The 60-second teaser is a montage of the video's most intense fights, including the climax, each at the moment of contact. The teaser always ends with the line "This is how it all began." before the storytelling starts.
-2. After "This is how it all began.", the story opens with the climax itself, told beat by beat and cut off right before the outcome ("To find out who, we have to go back to the beginning"), before going back to the start.
+1. The 60-second teaser is a montage of the video's most intense fights, including the climax, each at the moment of contact.
+2. After the teaser and the intro (rule 19), the story opens with the climax itself, told beat by beat and cut off right before the outcome ("To find out who, we have to go back to the beginning"), before going back to the start.
 3. Straight after the teaser, the story opens in a live fight. No scenery or calm setup first.
 4. No build-up before any fight: action first, explanation after.
 5. Every puzzle has a fight or clash, so there is never more than about 2 minutes without action.
@@ -58,4 +58,4 @@
 16. After the final fight, one short breakdown of how the climax was won, then the ending. Each fight's own "why" is explained inside that fight, not repeated at the end. This replaces the earlier rule of answering each puzzle within 60–90 seconds.
 17. B-roll stays out of the fight chain: only after the title card and in the explanation and ending sections.
 18. No fight appears in the story without showing how it got there: who targets whom and why (the one at the edge, the limping one, the calf), the stalk or approach, and the chase. The teaser montage is the only exception.
-19. Intro: right after the teaser's "This is how it all began.", play at least 2 beautiful scenic B-roll clips with this line spoken over them: "Thank you for being here. If you love discovering the hidden wonders of our natural world, hit the like and subscribe button. There are so many more stories waiting to be told. Now, let's begin." Then the climax opener starts.
+19. Intro: right after the teaser, play at least 2 beautiful scenic B-roll clips with this line spoken over them: "Thank you for being here. If you love discovering the hidden wonders of our natural world, hit the like and subscribe button. There are so many more stories waiting to be told. Now, let's begin." Then the climax opener starts.

@@ -43,7 +43,7 @@ Environment Motion: Snow sprays from every stride
 Duration: 10 seconds
 
 **Beat 6 (TEASER)**
-[Script Segment Text]: "Eight wolves. One old ibex on a ledge above a two-hundred-meter drop. This is how it all began."
+[Script Segment Text]: "Eight wolves. One old ibex on a ledge above a two-hundred-meter drop."
 Video Prompt: Fast dramatic wide shot: eight lean Himalayan wolves with thick tawny-grey winter coats, pale chests and yellow eyes closing from both sides on a huge old male Himalayan ibex with a thick sandy-brown winter coat, a dark beard, a scarred face and massive curved horns over a meter long, ridged like a saw blade and swept back over his shoulders standing on a ledge on a narrow rock ledge no wider than a doorway at the end of a ridge, a two-hundred-meter drop below, in the Spiti Valley in the Indian Himalaya. Over 10 seconds, the wolves close in; spindrift blows over the edge. Camera movement: Slow push-in. Lighting: last orange light on the ridgelines and blue twilight on the snow, breath steaming in the cold. Mood: cliffhanger teaser. Visual style: photorealistic cinematic wildlife documentary, premium nature-film look, 16:9 widescreen, cool blue-white snow and slate-grey rock with warm gold winter light, long telephoto compression, very shallow depth of field with creamy bokeh, ultra-fine micro-detail, realistic animal anatomy and locomotion, natural physics, smooth cinematic motion, no text, no logos, no music, no human presence, villages or vehicles, no gore.
 Camera Movement: Slow push-in
 Subject Motion: The wolves close in

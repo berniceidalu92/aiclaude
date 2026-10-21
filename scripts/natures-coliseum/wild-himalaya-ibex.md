@@ -10,7 +10,7 @@ Three snow leopards at once. A mother ibex spinning on a ledge, horns down, betw
 
 Wolves running across the snow after a mother who has sunk to her chest. Four of them. Then eight.
 
-Eight wolves. One old ibex on a ledge above a two-hundred-meter drop. This is how it all began.
+Eight wolves. One old ibex on a ledge above a two-hundred-meter drop.
 
 Thank you for being here. If you love discovering the hidden wonders of our natural world, hit the like and subscribe button. There are so many more stories waiting to be told. Now, let's begin.
 
