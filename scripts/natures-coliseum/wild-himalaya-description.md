@@ -1,6 +1,6 @@
 # WILD HIMALAYA — Description & Tags
 
-Planned length: about 28:00 at your voiceover pace. Chapter times are estimates from the beat plan (±5–10 seconds); check them against the final edit before publishing.
+Planned length: about 28:10 at your voiceover pace (including the 20-second intro after the teaser). Chapter times are estimates from the beat plan (±5–10 seconds); check them against the final edit before publishing.
 
 ## Title
 WILD HIMALAYA | The Goats That Fight Snow Leopards
@@ -15,20 +15,20 @@ The Himalaya is one of the last strongholds of the snow leopard, with as few as 
 
 ⏱️ CHAPTERS
 0:00 Eight Wolves, One Ibex
-1:00 Trapped on the Ledge
-1:54 The Eagle Strikes
-4:41 King of the Cliff
-7:30 The Snow Leopard
-10:14 Three Snow Leopards
-12:40 The Big Snow
-13:10 Two Eagles on the Ice
-15:34 The Wolves
-18:25 Wolves vs Snow Leopards
-20:27 Hunting the King
-21:54 Eight Wolves vs Kala
-23:56 The Mountain Decides
-25:23 Spring
-26:09 The Last Snow Leopards
+1:19 Trapped on the Ledge
+2:13 The Eagle Strikes
+5:01 King of the Cliff
+7:50 The Snow Leopard
+10:33 Three Snow Leopards
+13:00 The Big Snow
+13:30 Two Eagles on the Ice
+15:53 The Wolves
+18:44 Wolves vs Snow Leopards
+20:47 Hunting the King
+22:13 Eight Wolves vs Kala
+24:15 The Mountain Decides
+25:43 Spring
+26:29 The Last Snow Leopards
 
 🏔️ Subscribe to Nature's Coliseum for more battles from the wild, where survival is never guaranteed.
 

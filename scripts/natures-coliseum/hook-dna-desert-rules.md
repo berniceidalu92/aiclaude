@@ -48,8 +48,8 @@
 6. Puzzles: the first opens within seconds of the teaser; each small puzzle is answered within 60–90 seconds and leads straight into the next; only the big question waits until the end and is repeated every 4–5 minutes.
 7. Every thumbnail shows one of the video's most intense encounters at the moment of contact.
 8. Chapters go only in the description, never in the script.
-9. About 30 minutes maximum; B-roll at most 20%, never during fights, never two in a row, none before 3:00.
-10. No subscribe line at 2:00 or 4:00; no Word document unless asked; Nature's Coliseum branding.
+9. About 30 minutes maximum; B-roll at most 20%, never during fights. Apart from the intro clips (rule 19), never two in a row and none before 3:00.
+10. Apart from the intro (rule 19), no subscribe line at 2:00 or 4:00; no Word document unless asked; Nature's Coliseum branding.
 11. Many against one: the main hunts are a pack or pride (two, three, four or more predators) fighting one giant animal. Lions vs giraffe (Ruaha), lions vs hippo (Luangwa), wolves vs bison (Canada). The number of attackers grows as the video goes on.
 12. Every scene opens on its most high-tension moment, then explains. Never set up a scene calmly.
 13. Every hunt shows the chase before the catch: the sprint, the closing distance ("Sixty meters. Forty."), the prey running, the hunters splitting to cut it off, then the moment of contact. The chase is action, never calm setup.
@@ -58,3 +58,4 @@
 16. After the final fight, one short breakdown of how the climax was won, then the ending. Each fight's own "why" is explained inside that fight, not repeated at the end. This replaces the earlier rule of answering each puzzle within 60–90 seconds.
 17. B-roll stays out of the fight chain: only after the title card and in the explanation and ending sections.
 18. No fight appears in the story without showing how it got there: who targets whom and why (the one at the edge, the limping one, the calf), the stalk or approach, and the chase. The teaser montage is the only exception.
+19. Intro: right after the teaser's "This is how it all began.", play at least 2 beautiful scenic B-roll clips with this line spoken over them: "Thank you for being here. If you love discovering the hidden wonders of our natural world, hit the like and subscribe button. There are so many more stories waiting to be told. Now, let's begin." Then the climax opener starts.

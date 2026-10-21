@@ -12,6 +12,8 @@ Wolves running across the snow after a mother who has sunk to her chest. Four of
 
 Eight wolves. One old ibex on a ledge above a two-hundred-meter drop. This is how it all began.
 
+Thank you for being here. If you love discovering the hidden wonders of our natural world, hit the like and subscribe button. There are so many more stories waiting to be told. Now, let's begin.
+
 Dusk, high in the Himalaya. Eight wolves come up the ridge at a run, and the old ibex has nowhere left to go.
 
 He backs onto a ledge no wider than a doorway. Rock wall on one side. Two hundred meters of empty air on the other.
