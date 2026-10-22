@@ -3,7 +3,7 @@
 Planned length: about 28 minutes at your voiceover pace (including 8 B-roll clips). Chapter times are estimates from the beat plan (±5–10 seconds); check them against the final edit before publishing.
 
 ## Title
-The Great Ibex Circle and Why They Don't Live on the Ground
+WILD KARAKORAM | The Great Ibex Circle and Why They Don't Live on the Ground
 
 ## Description (paste into YouTube)
 
