@@ -132,15 +132,69 @@ So instead, the family moves onto the steep slopes that face the sun. Slopes so 
 
 Their coats have changed too. Under the long outer hair, they now grow a layer of fine, soft wool, one of the warmest natural fibres on Earth. It traps the heat so well that snow can settle on an ibex's back without melting.
 
+But winter is not only hard for the ibex. It is hard for the animal that hunts them.
+
+Up here, there are almost no large animals to eat. No herds of deer. No antelope. For a snow leopard in the Karakoram, the ibex is everything. Along with the wild blue sheep, ibex make up most of what a snow leopard eats in its entire life.
+
+And one ibex is worth the risk. A grown ibex can weigh three times as much as the leopard that kills it. A single kill can feed her for a week. Without one, she starves.
+
+Everything about the snow leopard is built for hunting ibex on this mountain.
+
+Her paws are huge and covered in fur, so they spread her weight across the snow like snowshoes. Her back legs are longer than her front legs, giving her the power to leap many times her own body length, up a slope or across a gap in the rock.
+
+Her tail is almost as long as her body. She uses it to balance on narrow ledges, and to steer in mid-air. At night, she wraps it around her face like a scarf against the cold.
+
+She cannot roar. Instead, she hunts in total silence. And her smoky coat and black rosettes make her almost invisible against the rock. The people of these mountains call her the grey ghost.
+
+But she has one weakness. She is a sprinter. She can only run flat out for a few hundred meters. So she cannot chase an ibex down. She has to get close without being seen, and strike before it reaches the cliffs.
+
+That is why she picks her targets so carefully. Not the strongest ibex in the herd. The young, who have not yet learned the mountain. The old, who are too slow. The sick, the injured, and the ones who wander too far from the rock.
+
+And this winter, Dawa's daughter is all of those things at once.
+
+She is not yet two years old. And in the hungry days of late winter, she has started feeding at the very bottom of the herd, on the slope below the cliffs, where the snow is thinnest and the grass is easiest to reach.
+
+The leopard has seen her.
+
+She circles above the herd, out of sight, until she is on the ridge directly above the young ibex. Then she starts to come down.
+
+Belly to the rock. One paw at a time. Every time an ibex lifts its head, she freezes, and becomes just another grey stone.
+
+It takes her almost an hour to move a hundred meters. Fifty meters. Thirty. Twenty.
+
+Then a pebble slides from under her paw, and rattles down the slope.
+
+The young ibex looks up. And the leopard launches.
+
+The daughter does what every young animal does. She runs away from the danger. Down the slope. The worst way she could go.
+
+From above the herd, Dawa whistles. Once. Sharp. And her daughter turns.
+
+Not down. Up. Straight across the slope, toward a band of cliffs, with the leopard closing behind her in great bounding leaps.
+
+She hits the rock and starts to climb. One leap. Two. Her front hooves catch a ledge.
+
+And the leopard's claws catch her back leg.
+
+For a moment, they hang together on the face of the cliff, the leopard pulling down, the young ibex scrambling up, stones falling around them.
+
+Then the daughter kicks, hard, with her back hooves. The leopard's grip slips. She slides down the rock and drops to the snow below, landing on her feet.
+
+The daughter pulls herself onto the ledge. Then up again. And again. Until she is standing high on the wall, shaking, with a line of scratches down her leg.
+
+The leopard looks up at her for a long time. Then she walks away.
+
+Why did she get away? Because she reached the rock. Even a snow leopard, one of the best climbers of all the big cats, cannot grip a cliff the way an ibex can. On the rock face, every second favours the ibex. A leopard that does not finish the hunt in the first few seconds has almost always lost it.
+
+And after a miss like this, the leopard has spent the burst of energy she needed. She will have to rest, and wait, and try again, perhaps for days.
+
 But for one old ibex, the winter is too much.
 
-He is older than Kesang, thin and stiff, his horns heavy with fourteen rings. And in the deep cold, he has started feeding far from the cliffs, where the snow is thinner.
+He is older than Kesang, thin and stiff, his horns heavy with fourteen rings. The rut burned away his fat, and the deep cold is doing the rest. And he has started feeding far from the cliffs, where the snow is thinner.
 
-And the snow leopard is there.
+The snow leopard has been watching him for three days. He is the target she has been waiting for. Old. Weak. Alone. And she has learned his path. Down the gully at dawn, out onto the flat ground, back to the cliffs before noon.
 
-She has been watching the old male for three days. She has learned his path. Down the gully at dawn, out onto the flat ground, back to the cliffs before noon.
-
-That morning, she does not wait on a boulder. She waits in the snow, flat, behind a ridge, between him and the cliffs.
+That morning, she does not wait above him. She waits in the snow, flat, behind a ridge, between him and the cliffs.
 
 He walks out onto the flat ground. Lowers his head to dig for grass.
 
@@ -154,9 +208,13 @@ She leaps, and lands on his back.
 
 He staggers, and goes down in the snow.
 
-The old ibex did nothing wrong. He was simply too far from the rock. A few hundred meters from the cliffs, on ground he should never have been on.
+The old ibex did nothing wrong. He was simply too far from the rock. A few hundred meters from the cliffs, on ground he should never have been on. This time, the leopard did not try to catch him near the cliff. She cut him off from it.
+
+She will stay beside the kill for days, eating, resting, and chasing off the ravens and vultures. For a snow leopard in winter, one old ibex is the difference between life and death.
 
 And up on the cliffs, the rest of the herd watches from the ledges. Safe.
+
+It sounds cruel. But the snow leopard takes the old, the weak and the careless. The ibex that survive are the fastest, the most watchful, and the best climbers on the mountain. And they are the ones who pass that on to their kids. The hunter keeps the herd sharp. And the herd keeps the hunter alive.
 
 Through the whole of that winter, Dawa has been carrying a secret.
 
@@ -182,7 +240,7 @@ Down a crack. Across a ledge. Up a slab of rock that would stop a human climber.
 
 This is the most surprising thing of all about an ibex. It does not learn to climb. It is born knowing how. It only learns where.
 
-A week later, Dawa brings the kid back to the herd.
+A week later, Dawa brings the kid back to the herd. Her daughter is waiting there, the scratches on her leg long healed, a survivor of her first winter.
 
 Other mothers have given birth on other ledges, and now the kids gather together in a group. A nursery on the side of a cliff. While some of the mothers feed, one or two stay behind, watching over all the kids at once.
 
