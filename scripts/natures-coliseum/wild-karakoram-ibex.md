@@ -1,4 +1,4 @@
-# WILD KARAKORAM | Why the Ibex Doesn't Belong on the Ground
+# WILD KARAKORAM | The Great Ibex Circle and Why They Don't Live on the Ground
 
 A ledge no wider than a hand, three hundred meters above the valley floor. And standing on it, perfectly still, is a goat.
 
@@ -262,7 +262,7 @@ It eats beside her. Fast. Heads down. Then heads up, every few seconds, watching
 
 And when Dawa turns back toward the cliff, the kid does not need to be told. It follows her up the rock, leaping from ledge to ledge, until the two of them are standing high above the valley again, where nothing can reach them.
 
-This is the life of the ibex. Every day, down to the ground for the things it needs. And every day, back up to the cliffs to live.
+This is the great ibex circle. Every day, down to the ground for the things it needs. And every day, back up to the cliffs to live.
 
 The ground feeds them. The cliffs keep them alive.
 
