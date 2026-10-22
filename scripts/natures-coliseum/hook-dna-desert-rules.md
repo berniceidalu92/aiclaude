@@ -1,5 +1,8 @@
 # Hook DNA — "Desert Rules" reference transcript (roadrunner, rattlesnake, Harris's hawks)
 
+> **Status: Rule Set 1, saved and not active.** Kept for reference. Use it only when you ask for "Rule Set 1" (or for specific rules from it). The active rules are in `rules-set-2.md`.
+
+
 ## Hook map
 | Time | Line (paraphrased type) | Hook type |
 |---|---|---|
