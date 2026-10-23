@@ -38,3 +38,37 @@ In the video: ~16:55.
 Prompt: Photorealistic cinematic wildlife thumbnail, 16:9, full height of the giraffe in frame. A young male lion with a short scruffy mane hangs from the hindquarters of a galloping bull giraffe, claws sunk in, legs dangling, tiny against the giraffe's towering body. Sand exploding from the hooves, heat haze over the riverbed. Harsh bright midday light, low camera looking up, telephoto compression, frozen action, crisp detail, high contrast against a pale blue sky. Negative space in the top-left corner for text. No people, no vehicles, no text, no logos.
 
 Test first: Thumbnail 1 (8 vs 1) against Thumbnail 2 (One Kick), using YouTube Test & Compare.
+
+---
+
+# Redesign v2 (after low click-through on YouTube)
+
+Why v1 underperformed:
+- **Too much in one image.** Eight lions, a giraffe at full height and dust make every animal tiny on a phone screen, and the eye has nothing to land on.
+- **No face.** Nothing looks at the viewer, so there is no emotion to read.
+- **It looks staged.** A crowded, perfectly lit action pile reads as AI art and gets skipped. Real-looking frames win.
+
+v2 rules:
+- One clear moment with **two animals maximum**, big in frame.
+- A **face with visible emotion** (snarl, wide eyes) or a **shocking single action** (a lion flying through the air).
+- The giraffe's size shown by **framing** (towering above the lion, cut by the top edge or shown at full height behind), not by shrinking everything.
+- **Two or three words** of text, huge, in one corner. No series name on the thumbnail; the title carries it.
+- Real documentary look: natural colours, slight grain, nothing perfectly symmetrical.
+
+**Thumbnail v2-A: Lion Launched (recommended)**
+Visual Concept: A lioness flung through the air by a giraffe's kick, big and close, with the giraffe's leg and hoof in the frame.
+Text Overlay: "ONE KICK" in huge white letters top-left.
+Emotion Trigger: Shock. The hunter gets destroyed.
+Prompt: Photorealistic wildlife documentary frame, 16:9. A tawny African lioness fills the left half of the frame, twisted in mid-air with legs splayed and mouth open, just struck by the hind hoof of a giraffe. The giraffe's long chestnut-and-cream patterned leg and hoof enter from the right edge, still extended from the kick. Sand exploding beneath her, frozen. Low golden dawn backlight with rim light on her fur, the rest of the giraffe softly out of focus above, telephoto compression, natural colours, fine film grain, crisp detail on the lioness. Negative space top-left for text. No people, no vehicles, no text, no logos, no gore.
+
+**Thumbnail v2-B: Face to Face**
+Visual Concept: A snarling male lion's face huge in the foreground, a giant giraffe towering over him in the background, looking down.
+Text Overlay: "TOO BIG?" in huge yellow letters top-right.
+Emotion Trigger: Size and tension in one glance. Can he really take it down?
+Prompt: Photorealistic wildlife documentary frame, 16:9. In the lower-left foreground, the head and shoulders of a huge male African lion with a dark black-tipped mane, snarling, amber eyes locked upward. Behind him, a giant bull giraffe nearly six meters tall with dark chestnut patches and a scarred neck towers over the frame, head high, looking down, slightly out of focus. Dry sandy riverbed, deep orange dusk sky, warm rim light on the mane, telephoto compression, natural colours, fine film grain. Negative space top-right for text. No people, no vehicles, no text, no logos.
+
+**Thumbnail v2-C: Hanging On**
+Visual Concept: One lioness clinging to a running giraffe's neck high above the ground, the giraffe at full height filling the frame vertically.
+Text Overlay: "HANG ON" in huge white letters top-left.
+Emotion Trigger: Disbelief. How is she up there?
+Prompt: Photorealistic wildlife documentary frame, 16:9. A giant giraffe with chestnut-and-cream patches gallops across a dry sandy riverbed at full height, filling the frame from bottom to top. High on its neck, a single scarred tawny lioness clings with all four paws, body stretched, eyes wide. Sand spraying from the giraffe's hooves. Warm amber dusk light with strong rim light on both animals against a darker blue-grey sky so they stand out, telephoto compression, natural colours, fine film grain, crisp detail. Negative space top-left for text. No people, no vehicles, no text, no logos.

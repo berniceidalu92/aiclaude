@@ -5,6 +5,14 @@ Final edit: 28:11. Chapter times are estimates scaled from the beat plan (±5 se
 ## Title
 WILD RUAHA | The Lions That Hunt Giraffes
 
+### New title options (v2, after low click-through)
+"WILD RUAHA" at the front uses the most valuable words on a place nobody searches for. Lead with the hook and move the series name to the end:
+1. **8 Lions vs 1 Giant Giraffe… Only One Walks Away | Wild Ruaha** (recommended)
+2. The Giraffe That Lions Couldn't Kill | Wild Ruaha
+3. One Kick From This Giraffe Can Kill a Lion | Wild Ruaha
+4. Why Lions Wait for a River to Die Before Hunting Giraffes | Wild Ruaha
+5. Lions Hunt the Tallest Animal on Earth | Wild Ruaha
+
 ## Description (paste into YouTube)
 
 Eight lions. One giant giraffe. Only one side walks away.
