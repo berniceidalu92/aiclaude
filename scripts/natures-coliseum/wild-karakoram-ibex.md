@@ -40,7 +40,7 @@ And here, they do something strange. They eat as fast as they can. Barely chewin
 
 Because the ground is where the hunters are, and they do not stay one second longer than they must.
 
-An hour later, they are back on the cliff. And only now, on a ledge where nothing can reach them, do they finally start to chew.
+An hour later, they are back on the cliff. And only now, safe on a ledge, do they finally start to chew.
 
 An ibex is a ruminant. Like a cow, it has a stomach with four chambers. It can swallow its food quickly, and later bring it back up to chew it again in safety. It is how the ibex survives. Eat on the ground. Digest on the cliff.
 
@@ -56,33 +56,17 @@ Dawa reaches the salt lick in the late afternoon. She stops at the top of the gu
 
 They lick at the white crust on the rocks. Heads down. For a few seconds, not watching.
 
-Above them, on a boulder, something grey shifts against the grey stone.
+Above them, on a boulder, something grey shifts against the grey stone. A snow leopard, her smoky coat blending with the lichen on the rock.
 
-A snow leopard.
+She is not ready to strike. She is waiting for the two ibex to step a few meters farther from the cliff.
 
-She has been lying on that boulder since noon, her smoky coat and black rosettes blending perfectly with the lichen on the rock.
+But Dawa's head comes up. She has seen nothing. Something is simply wrong, and an ibex never ignores something wrong.
 
-Dawa's head comes up. She has seen nothing. But something is wrong. And an ibex never ignores something wrong.
+She gives a sharp whistle, an alarm call that cuts through the thin air like a blade. And before the leopard can move, both ibex are back on the rock, climbing.
 
-She gives a sharp whistle, an ibex alarm call that cuts through the thin air like a blade. Her daughter bolts.
+The leopard never even gets to run.
 
-The leopard launches off the boulder.
-
-But the ibex are not running away. They are running up. Straight toward the cliff at the head of the gully. Leaping from rock to rock, each jump higher than the last.
-
-The leopard is fast. Faster than the ibex on open ground. But the ground runs out. And the cliff begins.
-
-Dawa hits the rock wall and does not slow down. Up a crack. Onto a ledge. Up again. Ten meters. Twenty. Her daughter right beside her, hooves finding holds on stone that looks perfectly smooth.
-
-The leopard reaches the foot of the cliff and stops.
-
-She looks up. Two ibex are standing on the wall above her, as calm as if they were standing in a field.
-
-She turns, and walks away.
-
-This is why the ibex lives the way it does. A snow leopard is one of the greatest climbers among the big cats. But it hunts by ambush, from above, and on flat or broken ground. If it does not catch an ibex in the first few seconds, before it reaches the cliffs, it almost never catches it at all.
-
-So the snow leopard waits where the ibex must go. The salt licks. The grassy slopes. The places where the cliffs end.
+This is the snow leopard's problem. She cannot catch an ibex on a cliff. She has to catch it in the open, in the few seconds before it reaches the rock. So she waits where the ibex must go. The salt licks. The grassy slopes. The places where the cliffs end.
 
 The ground.
 
@@ -134,7 +118,7 @@ Their coats have changed too. Under the long outer hair, they now grow a layer o
 
 But winter is not only hard for the ibex. It is hard for the animal that hunts them.
 
-Up here, there are almost no large animals to eat. No herds of deer. No antelope. For a snow leopard in the Karakoram, the ibex is everything. Along with the wild blue sheep, ibex make up most of what a snow leopard eats in its entire life.
+Up here, there are almost no large animals to eat. For a snow leopard in the Karakoram, the ibex is everything. Along with the wild blue sheep, ibex make up most of what a snow leopard eats in its entire life.
 
 And one ibex is worth the risk. A grown ibex can weigh three times as much as the leopard that kills it. A single kill can feed her for a week. Without one, she starves.
 
@@ -144,9 +128,7 @@ Her paws are huge and covered in fur, so they spread her weight across the snow 
 
 Her tail is almost as long as her body. She uses it to balance on narrow ledges, and to steer in mid-air. At night, she wraps it around her face like a scarf against the cold.
 
-She cannot roar. Instead, she hunts in total silence. And her smoky coat and black rosettes make her almost invisible against the rock. The people of these mountains call her the grey ghost.
-
-But she has one weakness. She is a sprinter. She can only run flat out for a few hundred meters. So she cannot chase an ibex down. She has to get close without being seen, and strike before it reaches the cliffs.
+She cannot roar, so she hunts in total silence, and against the rock she is almost invisible. The people of these mountains call her the grey ghost. But she is a sprinter, built for a few seconds of speed, never a long chase.
 
 That is why she picks her targets so carefully. Not the strongest ibex in the herd. The young, who have not yet learned the mountain. The old, who are too slow. The sick, the injured, and the ones who wander too far from the rock.
 
@@ -184,9 +166,7 @@ The daughter pulls herself onto the ledge. Then up again. And again. Until she i
 
 The leopard looks up at her for a long time. Then she walks away.
 
-Why did she get away? Because she reached the rock. Even a snow leopard, one of the best climbers of all the big cats, cannot grip a cliff the way an ibex can. On the rock face, every second favours the ibex. A leopard that does not finish the hunt in the first few seconds has almost always lost it.
-
-And after a miss like this, the leopard has spent the burst of energy she needed. She will have to rest, and wait, and try again, perhaps for days.
+Why did she get away? Because of her hooves. On bare rock, an ibex's split hooves and rubbery pads hold where a leopard's claws slip. The kick did the rest. And a leopard that misses has spent her burst of speed. She will have to rest, and wait, perhaps for days.
 
 But for one old ibex, the winter is too much.
 
@@ -208,7 +188,7 @@ She leaps, and lands on his back.
 
 He staggers, and goes down in the snow.
 
-The old ibex did nothing wrong. He was simply too far from the rock. A few hundred meters from the cliffs, on ground he should never have been on. This time, the leopard did not try to catch him near the cliff. She cut him off from it.
+The old ibex did nothing wrong. He was just a few hundred meters from the cliffs. This time, the leopard did not race him to the rock. She cut him off from it.
 
 She will stay beside the kill for days, eating, resting, and chasing off the ravens and vultures. For a snow leopard in winter, one old ibex is the difference between life and death.
 
@@ -246,7 +226,7 @@ Other mothers have given birth on other ledges, and now the kids gather together
 
 And the kids play.
 
-They chase each other along ledges as wide as a hand. They leap onto boulders and spring straight off again. They rear up on their hind legs and bump heads, exactly as their fathers did in the rut.
+They chase each other along ledges barely wider than their hooves. They leap onto boulders and spring straight off again. They rear up on their hind legs and bump heads, exactly as their fathers did in the rut.
 
 It looks like a game. But every leap is practice. Every chase is training for the day a leopard comes.
 
@@ -258,9 +238,9 @@ At the end of the summer, the kid takes its first trip down to the ground.
 
 At dawn, it follows Dawa off the cliff and onto the slope of grass below, where it has never been before. Flat, open ground, stretching away in every direction.
 
-It eats beside her. Fast. Heads down. Then heads up, every few seconds, watching the boulders.
+It eats beside her, copying everything she does. Head down. Head up. Watching the boulders.
 
-And when Dawa turns back toward the cliff, the kid does not need to be told. It follows her up the rock, leaping from ledge to ledge, until the two of them are standing high above the valley again, where nothing can reach them.
+And when Dawa turns back toward the cliff, the kid does not need to be told. It follows her up the rock, leaping from ledge to ledge, until the two of them are standing high above the valley again.
 
 This is the great ibex circle. Every day, down to the ground for the things it needs. And every day, back up to the cliffs to live.
 

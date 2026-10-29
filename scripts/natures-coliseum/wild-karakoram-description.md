@@ -1,6 +1,6 @@
 # WILD KARAKORAM — Description & Tags
 
-Planned length: about 28 minutes at your voiceover pace (including 8 B-roll clips). Chapter times are estimates from the beat plan (±5–10 seconds); check them against the final edit before publishing.
+Planned length: about 26 minutes at your voiceover pace (including 8 B-roll clips). Chapter times are estimates from the beat plan (±5–10 seconds); check them against the final edit before publishing.
 
 ## Title
 WILD KARAKORAM | The Great Ibex Circle and Why They Don't Live on the Ground
@@ -18,18 +18,18 @@ In parts of the Karakoram, local communities now protect the ibex, and the herds
 1:26 The Family
 2:08 Built for Cliffs
 3:51 Eat Low, Chew High
-5:05 The Salt Trap
-8:19 Summer at 5,000 Meters
-9:30 Horns Like Tree Rings
-9:56 The Rut
-12:20 Winter
-13:37 Why the Snow Leopard Hunts the Ibex
-15:56 The Hunt for Dawa's Daughter
-19:14 The Old Male
-21:51 Born on a Cliff
-24:01 The Nursery
-25:29 The First Trip Down
-26:53 Where They Belong
+5:01 The Salt Trap
+7:14 Summer at 5,000 Meters
+8:22 Horns Like Tree Rings
+8:49 The Rut
+11:12 Winter
+12:30 Why the Snow Leopard Hunts the Ibex
+14:39 The Hunt for Dawa's Daughter
+17:38 The Old Male
+20:10 Born on a Cliff
+22:15 The Nursery
+23:42 The First Trip Down
+25:01 Where They Belong
 
 🏔️ Subscribe to Nature's Coliseum for more hidden stories from the wild.
 
