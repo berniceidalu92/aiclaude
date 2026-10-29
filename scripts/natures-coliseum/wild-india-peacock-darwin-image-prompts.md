@@ -1,6 +1,6 @@
 # WILD INDIA (PEACOCK) — Image Prompts
 
-10-second beats · every prompt standalone · each beat has a plain Description of what must be in the frame · each beat continues from the one before (see Continuity)
+10-second beats · every prompt standalone · each beat has a plain Description of what must be in the frame
 
 **Beat 1**
 [Script Segment Text]: "In the spring of 1860, Charles Darwin, the man who explained how life on Earth evolves, sat down and wrote a letter to a friend."
@@ -11,7 +11,6 @@ Camera Angle: Cinematic still-life shot, 50mm lens, shallow depth of field
 Lighting: Warm flickering oil-lamp light in a dim Victorian study, dust floating in the air
 Mood: Mystery
 Action: An 1860 study: an unfinished letter on a desk by lamplight
-Continuity: Opens scene "Darwin's letter" (Beats 1–3). Use this image as the reference for every beat in the scene.
 
 **Beat 2**
 [Script Segment Text]: "And in it, he confessed something strange. "The sight of a feather in a peacock's tail," he wrote, "whenever I gaze at it,"
@@ -22,7 +21,6 @@ Camera Angle: Cinematic still-life shot, 50mm lens, shallow depth of field
 Lighting: Warm flickering oil-lamp light in a dim Victorian study, dust floating in the air
 Mood: Confession
 Action: Close on the letter's handwriting
-Continuity: Scene "Darwin's letter", shot 2 of 3. Continues directly from Beat 1: same season, lighting, location, and the same animals in the same condition. Use Beat 1 as the reference image.
 
 **Beat 3**
 [Script Segment Text]: "makes me sick." Darwin had just shown the world that nature keeps what helps an animal survive, and throws away what does not."
@@ -33,7 +31,6 @@ Camera Angle: Macro lens, 100mm, extreme magnification of feather structure
 Lighting: Warm flickering oil-lamp light in a dim Victorian study, dust floating in the air
 Mood: Sick
 Action: A single peacock feather lying across the letter
-Continuity: Scene "Darwin's letter", shot 3 of 3. Continues directly from Beat 2: same season, lighting, location, and the same animals in the same condition. Use Beat 2 as the reference image.
 
 **Beat 4**
 [Script Segment Text]: "Fast legs. Sharp eyes. Good camouflage. And then there was the peacock. A bird dragging a train of feathers longer than its whole body."
@@ -44,7 +41,6 @@ Camera Angle: Gimbal-mounted telephoto tracking alongside the animal, 400mm, smo
 Lighting: Soft pale gold dry-season dawn light, dust hanging in the air over golden grass
 Mood: The problem
 Action: A peacock walks, train dragging behind him
-Continuity: Opens scene "The impossible bird" (Beats 4–6). Use this image as the reference for every beat in the scene.
 
 **Beat 5**
 [Script Segment Text]: "So bright it can be seen from across a forest. In a land full of tigers and leopards. By Darwin's own rules,"
@@ -55,7 +51,6 @@ Camera Angle: Wide telephoto landscape shot, 300mm, compressed perspective
 Lighting: Soft pale gold dry-season dawn light, dust hanging in the air over golden grass
 Mood: Visible
 Action: A blaze of blue in a vast forest
-Continuity: Scene "The impossible bird", shot 2 of 3. Continues directly from Beat 4: same season, lighting, location, and the same animals in the same condition. Use Beat 4 as the reference image.
 
 **Beat 6**
 [Script Segment Text]: "the peacock should not exist. And yet, here it is. And to understand how, you have to follow one peacock through one year,"
@@ -66,7 +61,6 @@ Camera Angle: Extreme close-up, 800mm telephoto or close remote camera, razor-th
 Lighting: Soft pale gold dry-season dawn light, dust hanging in the air over golden grass
 Mood: Here it is
 Action: Close on Raja's head turning, crest catching the light
-Continuity: Scene "The impossible bird", shot 3 of 3. Continues directly from Beat 5: same season, lighting, location, and the same animals in the same condition. Use Beat 5 as the reference image.
 
 **Beat 7**
 [Script Segment Text]: "in the forests where it has lived for millions of years. This is Bandhavgarh, in central India. A land of sal forest,"
@@ -77,7 +71,6 @@ Camera Angle: Aerial shot from a quiet high-altitude drone, gliding over the for
 Lighting: Soft pale gold dry-season dawn light, dust hanging in the air over golden grass
 Mood: Bandhavgarh
 Action: Flying over sal forest, hills and meadows
-Continuity: Opens scene "Bandhavgarh" (Beats 7–7). Use this image as the reference for every beat in the scene.
 
 **Beat 8**
 [Script Segment Text]: "rocky hills and open meadows. And one of the places on Earth with the most tigers. It is still dark."
@@ -88,7 +81,6 @@ Camera Angle: Wide telephoto landscape shot, 300mm, compressed perspective
 Lighting: Deep blue pre-dawn darkness, a faint glow on the horizon, the forest in shadow
 Mood: Darkness
 Action: The forest before dawn
-Continuity: Opens scene "Before dawn" (Beats 8–9). Use this image as the reference for every beat in the scene.
 
 **Beat 9**
 [Script Segment Text]: "Somewhere below, in the long grass, a tiger is calling. And high in a tall tree, a peacock is listening."
@@ -99,7 +91,6 @@ Camera Angle: Telephoto shot looking up into the trees from below, 400mm, sky be
 Lighting: Deep blue pre-dawn darkness, a faint glow on the horizon, the forest in shadow
 Mood: Listening
 Action: Raja on a high branch, listening to the tiger
-Continuity: Scene "Before dawn", shot 2 of 2. Continues directly from Beat 8: same season, lighting, location, and the same animals in the same condition. Use Beat 8 as the reference image.
 
 **Beat 10**
 [Script Segment Text]: "We will call him Raja. He is six years old, and in his prime. His neck shines a deep electric blue."
@@ -110,7 +101,6 @@ Camera Angle: Extreme close-up, 800mm telephoto or close remote camera, razor-th
 Lighting: Soft pale gold dry-season dawn light, dust hanging in the air over golden grass
 Mood: Raja
 Action: Close on Raja's blue neck in first light
-Continuity: Opens scene "Dawn" (Beats 10–18). Use this image as the reference for every beat in the scene.
 
 **Beat 11**
 [Script Segment Text]: "And behind him hangs his train. Almost one and a half meters of green and bronze feathers, covered in glowing eyes."
@@ -121,7 +111,6 @@ Camera Angle: Long telephoto lens, 600mm, very shallow depth of field
 Lighting: Soft pale gold dry-season dawn light, dust hanging in the air over golden grass
 Mood: The train
 Action: His train hanging below the branch
-Continuity: Scene "Dawn", shot 2 of 9. Continues directly from Beat 10: same season, lighting, location, and the same animals in the same condition. Use Beat 10 as the reference image.
 
 **Beat 12**
 [Script Segment Text]: "He spent the night up here, as every peacock does. On the ground, in the dark, he would be easy prey. Up here,"
@@ -132,7 +121,6 @@ Camera Angle: Telephoto shot looking up into the trees from below, 400mm, sky be
 Lighting: Soft pale gold dry-season dawn light, dust hanging in the air over golden grass
 Mood: Safe
 Action: The roost tree high above the grass
-Continuity: Scene "Dawn", shot 3 of 9. Continues directly from Beat 11: same season, lighting, location, and the same animals in the same condition. Use Beat 11 as the reference image.
 
 **Beat 13**
 [Script Segment Text]: "nothing can reach him. As the sky turns pale, the tiger's calls fade into the distance. And Raja drops from his branch,"
@@ -143,7 +131,6 @@ Camera Angle: Close-range tracking shot, 70–200mm from a few meters away, fast
 Lighting: Soft pale gold dry-season dawn light, dust hanging in the air over golden grass
 Mood: Drop
 Action: Raja drops from his branch, wings spreading
-Continuity: Scene "Dawn", shot 4 of 9. Continues directly from Beat 12: same season, lighting, location, and the same animals in the same condition. Use Beat 12 as the reference image.
 
 **Beat 14**
 [Script Segment Text]: "spreads his wings, and glides down to the meadow below, his train streaming out behind him like a comet. He lands,"
@@ -154,7 +141,6 @@ Camera Angle: Gimbal-mounted telephoto tracking alongside the animal, 400mm, smo
 Lighting: Soft pale gold dry-season dawn light, dust hanging in the air over golden grass
 Mood: Comet
 Action: Gliding down with his train streaming behind
-Continuity: Scene "Dawn", shot 5 of 9. Continues directly from Beat 13: same season, lighting, location, and the same animals in the same condition. Use Beat 13 as the reference image.
 
 **Beat 15**
 [Script Segment Text]: "folds it, and starts to feed. Seeds. Insects. A lizard that moves too slowly. And every few seconds, his head comes up."
@@ -165,7 +151,6 @@ Camera Angle: Low ground-level remote camera, 35mm, grass sharp in the foregroun
 Lighting: Soft pale gold dry-season dawn light, dust hanging in the air over golden grass
 Mood: Feeding
 Action: Raja lands, folds his train and pecks at the ground
-Continuity: Scene "Dawn", shot 6 of 9. Continues directly from Beat 14: same season, lighting, location, and the same animals in the same condition. Use Beat 14 as the reference image.
 
 **Beat 16**
 [Script Segment Text]: "Watching the edge of the forest. This is exactly what bothered Darwin. Every morning, Raja walks through a forest full of hunters,"
@@ -176,7 +161,6 @@ Camera Angle: Extreme close-up, 800mm telephoto or close remote camera, razor-th
 Lighting: Soft pale gold dry-season dawn light, dust hanging in the air over golden grass
 Mood: Watchful
 Action: Head up, eye on the forest edge
-Continuity: Scene "Dawn", shot 7 of 9. Continues directly from Beat 15: same season, lighting, location, and the same animals in the same condition. Use Beat 15 as the reference image.
 
 **Beat 17**
 [Script Segment Text]: "carrying the most obvious signal in the jungle. A tiger does not have to search for him. He is shouting where he is."
@@ -187,7 +171,6 @@ Camera Angle: Long telephoto lens, 600mm, very shallow depth of field
 Lighting: Soft pale gold dry-season dawn light, dust hanging in the air over golden grass
 Mood: Shouting
 Action: A blue peacock against a forest of hunters
-Continuity: Scene "Dawn", shot 8 of 9. Continues directly from Beat 16: same season, lighting, location, and the same animals in the same condition. Use Beat 16 as the reference image.
 
 **Beat 18**
 [Script Segment Text]: "So why would nature build a bird like this? For most of the year, the forest is dry and quiet,"
@@ -198,7 +181,6 @@ Camera Angle: Wide telephoto landscape shot, 300mm, compressed perspective
 Lighting: Soft pale gold dry-season dawn light, dust hanging in the air over golden grass
 Mood: The dry season
 Action: A dry, quiet forest
-Continuity: Scene "Dawn", shot 9 of 9. Continues directly from Beat 17: same season, lighting, location, and the same animals in the same condition. Use Beat 17 as the reference image.
 
 **Beat 19**
 [Script Segment Text]: "and the peacocks keep a low profile, feeding in small groups. But in June, the monsoon arrives. Thunder rolls across the hills."
@@ -209,7 +191,6 @@ Camera Angle: Wide telephoto landscape shot, 300mm
 Lighting: Soft grey diffused storm light
 Mood: The monsoon
 Action: Storm clouds build over the hills
-Continuity: Opens scene "The monsoon and the rival" (Beats 19–27). Use this image as the reference for the weather and light in the scene.
 
 **Beat 20**
 [Script Segment Text]: "The rain pours down, and within days the forest turns green. And the peacocks change completely. Every morning,"
@@ -220,7 +201,6 @@ Camera Angle: Long telephoto lens, 600mm, very shallow depth of field
 Lighting: Heavy monsoon rain falling in grey light, rain streaks and splashing puddles
 Mood: Rain
 Action: Rain hammers down and the forest turns green
-Continuity: Scene "The monsoon and the rival", shot 2 of 9. Continues directly from Beat 19: same season, lighting, location, and the same animals in the same condition. Use Beat 19 as the reference image.
 
 **Beat 21**
 [Script Segment Text]: "the males gather at the same open patches of ground in the forest. Each one claims a small space of his own,"
@@ -231,7 +211,6 @@ Camera Angle: Aerial shot from a quiet high-altitude drone, gliding over the for
 Lighting: Soft grey diffused monsoon light under dark rain clouds, wet leaves glistening
 Mood: The display grounds
 Action: Males gathering at open patches in the forest
-Continuity: Scene "The monsoon and the rival", shot 3 of 9. Continues directly from Beat 20: same season, lighting, location, and the same animals in the same condition. Use Beat 20 as the reference image.
 
 **Beat 22**
 [Script Segment Text]: "only a few meters across, and defends it against every other male. Raja's spot is a patch of bare earth under a mahua tree."
@@ -242,7 +221,6 @@ Camera Angle: Long telephoto lens, 600mm, very shallow depth of field
 Lighting: Soft grey diffused monsoon light under dark rain clouds, wet leaves glistening
 Mood: His spot
 Action: Raja on his patch of earth under the mahua tree
-Continuity: Scene "The monsoon and the rival", shot 4 of 9. Continues directly from Beat 21: same season, lighting, location, and the same animals in the same condition. Use Beat 21 as the reference image.
 
 **Beat 23**
 [Script Segment Text]: "He has held it for three years. But this year, a younger male wants it. They meet at the edge of the clearing,"
@@ -253,7 +231,6 @@ Camera Angle: Gimbal-mounted telephoto tracking alongside the animal, 400mm, smo
 Lighting: Soft grey diffused monsoon light under dark rain clouds, wet leaves glistening
 Mood: The challenger
 Action: A younger male approaches the clearing
-Continuity: Scene "The monsoon and the rival", shot 5 of 9. Continues directly from Beat 22: same season, lighting, location, and the same animals in the same condition. Use Beat 22 as the reference image.
 
 **Beat 24**
 [Script Segment Text]: "necks stretched, crests raised. They circle each other, slowly. Then the young male leaps. He jumps into the air,"
@@ -264,7 +241,6 @@ Camera Angle: Long telephoto lens, 600mm, very shallow depth of field
 Lighting: Soft grey diffused monsoon light under dark rain clouds, wet leaves glistening
 Mood: Circling
 Action: Necks stretched, crests raised, they circle
-Continuity: Scene "The monsoon and the rival", shot 6 of 9. Continues directly from Beat 23: same season, lighting, location, and the same animals in the same condition. Use Beat 23 as the reference image.
 
 **Beat 25**
 [Script Segment Text]: "feet first, kicking out with the sharp spurs on the back of his legs. Raja leaps to meet him."
@@ -275,7 +251,6 @@ Camera Angle: Close-range tracking shot, 70–200mm from a few meters away, fast
 Lighting: Soft grey diffused monsoon light under dark rain clouds, wet leaves glistening
 Mood: The leap
 Action: The young male leaps feet first, spurs out
-Continuity: Scene "The monsoon and the rival", shot 7 of 9. Continues directly from Beat 24: same season, lighting, location, and the same animals in the same condition. Use Beat 24 as the reference image.
 
 **Beat 26**
 [Script Segment Text]: "They collide in mid-air, wings beating, feathers flying, and fall back to the ground. Again. Leaping, kicking, slashing with their spurs."
@@ -286,7 +261,6 @@ Camera Angle: Close-range tracking shot, 70–200mm from a few meters away, fast
 Lighting: Soft grey diffused monsoon light under dark rain clouds, wet leaves glistening
 Mood: Collision
 Action: They collide in mid-air, feathers flying
-Continuity: Scene "The monsoon and the rival", shot 8 of 9. Continues directly from Beat 25: same season, lighting, location, and the same animals in the same condition. Use Beat 25 as the reference image.
 
 **Beat 27**
 [Script Segment Text]: "The young male lands badly. Raja jumps on him, driving him back across the clearing. And the young male turns, and runs."
@@ -297,7 +271,6 @@ Camera Angle: Gimbal-mounted telephoto tracking alongside the animal, 400mm, smo
 Lighting: Soft grey diffused monsoon light under dark rain clouds, wet leaves glistening
 Mood: Driven off
 Action: Raja drives the young male across the clearing
-Continuity: Scene "The monsoon and the rival", shot 9 of 9. Continues directly from Beat 26: same season, lighting, location, and the same animals in the same condition. Use Beat 26 as the reference image.
 
 **Beat 28**
 [Script Segment Text]: "The spot is Raja's. Now he needs someone to show it to. A small group of peahens wanders into the clearing."
@@ -308,7 +281,6 @@ Camera Angle: Wide telephoto landscape shot, 300mm, compressed perspective
 Lighting: Soft grey diffused monsoon light under dark rain clouds, wet leaves glistening
 Mood: Peahens arrive
 Action: A small group of peahens wanders into the clearing
-Continuity: Opens scene "The display and the choice" (Beats 28–52). Use this image as the reference for every beat in the scene.
 
 **Beat 29**
 [Script Segment Text]: "Brown and grey, with green necks and small crests. Plain, compared to him. But they are the ones who decide everything."
@@ -319,7 +291,6 @@ Camera Angle: Extreme close-up, 800mm telephoto or close remote camera, razor-th
 Lighting: Soft grey diffused monsoon light under dark rain clouds, wet leaves glistening
 Mood: The ones who decide
 Action: Close on a peahen's face and crest
-Continuity: Scene "The display and the choice", shot 2 of 25. Continues directly from Beat 28: same season, lighting, location, and the same animals in the same condition. Use Beat 28 as the reference image.
 
 **Beat 30**
 [Script Segment Text]: "Raja turns to face them, and raises his train. Two hundred feathers rise behind him into a shimmering fan, taller than he is."
@@ -330,7 +301,6 @@ Camera Angle: Long telephoto lens, 600mm, very shallow depth of field
 Lighting: Soft grey diffused monsoon light under dark rain clouds, wet leaves glistening
 Mood: The fan
 Action: Raja raises his train into a shimmering fan
-Continuity: Scene "The display and the choice", shot 3 of 25. Continues directly from Beat 29: same season, lighting, location, and the same animals in the same condition. Use Beat 29 as the reference image.
 
 **Beat 31**
 [Script Segment Text]: "Green, blue, bronze and gold. And scattered across it, more than a hundred eyes, glowing in the grey monsoon light."
@@ -341,7 +311,6 @@ Camera Angle: Extreme close-up, 800mm telephoto or close remote camera, razor-th
 Lighting: Soft grey diffused monsoon light under dark rain clouds, wet leaves glistening
 Mood: A hundred eyes
 Action: Close across the glowing eyespots
-Continuity: Scene "The display and the choice", shot 4 of 25. Continues directly from Beat 30: same season, lighting, location, and the same animals in the same condition. Use Beat 30 as the reference image.
 
 **Beat 32**
 [Script Segment Text]: "And this is where the peacock becomes far stranger than most people know. First, this is not his tail."
@@ -352,7 +321,6 @@ Camera Angle: Long telephoto lens, 600mm, very shallow depth of field
 Lighting: Soft grey diffused monsoon light under dark rain clouds, wet leaves glistening
 Mood: Not a tail
 Action: The fan seen from behind
-Continuity: Scene "The display and the choice", shot 5 of 25. Continues directly from Beat 31: same season, lighting, location, and the same animals in the same condition. Use Beat 31 as the reference image.
 
 **Beat 33**
 [Script Segment Text]: "His real tail is short and dull, hidden underneath. The great fan is made of special feathers that grow from his lower back."
@@ -363,7 +331,6 @@ Camera Angle: Extreme close-up, 800mm telephoto or close remote camera, razor-th
 Lighting: Soft grey diffused monsoon light under dark rain clouds, wet leaves glistening
 Mood: The real tail
 Action: Close on the short dull tail under the fan
-Continuity: Scene "The display and the choice", shot 6 of 25. Continues directly from Beat 32: same season, lighting, location, and the same animals in the same condition. Use Beat 32 as the reference image.
 
 **Beat 34**
 [Script Segment Text]: "And he grows a brand new set every single year, just for these few weeks. Second, there is no blue in these feathers."
@@ -374,7 +341,6 @@ Camera Angle: Long telephoto lens, 600mm, very shallow depth of field
 Lighting: Soft grey diffused monsoon light under dark rain clouds, wet leaves glistening
 Mood: New every year
 Action: The train in full glory against the forest
-Continuity: Scene "The display and the choice", shot 7 of 25. Continues directly from Beat 33: same season, lighting, location, and the same animals in the same condition. Use Beat 33 as the reference image.
 
 **Beat 35**
 [Script Segment Text]: "No green either. If you ground a peacock feather into powder, it would be brown. The colours are made by tiny structures inside the feathers,"
@@ -385,7 +351,6 @@ Camera Angle: Macro lens, 100mm, extreme magnification of feather structure
 Lighting: Soft grey diffused monsoon light under dark rain clouds, wet leaves glistening
 Mood: No blue at all
 Action: Extreme close-up of feather barbs
-Continuity: Scene "The display and the choice", shot 8 of 25. Continues directly from Beat 34: same season, lighting, location, and the same animals in the same condition. Use Beat 34 as the reference image.
 
 **Beat 36**
 [Script Segment Text]: "so small they bend the light itself, like the shimmer on a soap bubble. That is why, as Raja turns,"
@@ -396,7 +361,6 @@ Camera Angle: Macro lens, 100mm, extreme magnification of feather structure
 Lighting: Soft grey diffused monsoon light under dark rain clouds, wet leaves glistening
 Mood: Bending light
 Action: The colours flash as the angle changes
-Continuity: Scene "The display and the choice", shot 9 of 25. Continues directly from Beat 35: same season, lighting, location, and the same animals in the same condition. Use Beat 35 as the reference image.
 
 **Beat 37**
 [Script Segment Text]: "the colours flash and change. And third, there is a part of this display you cannot hear. Raja shakes his train."
@@ -407,7 +371,6 @@ Camera Angle: Long telephoto lens, 600mm, very shallow depth of field
 Lighting: Soft grey diffused monsoon light under dark rain clouds, wet leaves glistening
 Mood: Turning
 Action: Raja turns and the colours shift across the fan
-Continuity: Scene "The display and the choice", shot 10 of 25. Continues directly from Beat 36: same season, lighting, location, and the same animals in the same condition. Use Beat 36 as the reference image.
 
 **Beat 38**
 [Script Segment Text]: "Fast. The feathers rattle and shiver. And that shiver sends out a deep rumble, far too low for human ears."
@@ -418,7 +381,6 @@ Camera Angle: Close-range tracking shot, 70–200mm from a few meters away, fast
 Lighting: Soft grey diffused monsoon light under dark rain clouds, wet leaves glistening
 Mood: The shiver
 Action: Raja shakes his train fast, feathers rattling
-Continuity: Scene "The display and the choice", shot 11 of 25. Continues directly from Beat 37: same season, lighting, location, and the same animals in the same condition. Use Beat 37 as the reference image.
 
 **Beat 39**
 [Script Segment Text]: "But scientists have found that the little crest of feathers on a peahen's head vibrates at almost exactly the same rhythm"
@@ -429,7 +391,6 @@ Camera Angle: Extreme close-up, 800mm telephoto or close remote camera, razor-th
 Lighting: Soft grey diffused monsoon light under dark rain clouds, wet leaves glistening
 Mood: The crest
 Action: Close on a peahen's crest feathers trembling
-Continuity: Scene "The display and the choice", shot 12 of 25. Continues directly from Beat 38: same season, lighting, location, and the same animals in the same condition. Use Beat 38 as the reference image.
 
 **Beat 40**
 [Script Segment Text]: "as the shaking train. She may not just see his display. She may feel it. One peahen steps forward."
@@ -440,7 +401,6 @@ Camera Angle: Long telephoto lens, 600mm, very shallow depth of field
 Lighting: Soft grey diffused monsoon light under dark rain clouds, wet leaves glistening
 Mood: She steps forward
 Action: One peahen steps toward Raja
-Continuity: Scene "The display and the choice", shot 13 of 25. Continues directly from Beat 39: same season, lighting, location, and the same animals in the same condition. Use Beat 39 as the reference image.
 
 **Beat 41**
 [Script Segment Text]: "We will call her Meera. She walks slowly in front of Raja, then around him. Studying him. He turns his back to her,"
@@ -451,7 +411,6 @@ Camera Angle: Gimbal-mounted telephoto tracking alongside the animal, 400mm, smo
 Lighting: Soft grey diffused monsoon light under dark rain clouds, wet leaves glistening
 Mood: Inspection
 Action: Meera walks slowly around him
-Continuity: Scene "The display and the choice", shot 14 of 25. Continues directly from Beat 40: same season, lighting, location, and the same animals in the same condition. Use Beat 40 as the reference image.
 
 **Beat 42**
 [Script Segment Text]: "then spins around, so the whole wall of eyes fills her view. And shivers it again. For a long time,"
@@ -462,7 +421,6 @@ Camera Angle: Close-range tracking shot, 70–200mm from a few meters away, fast
 Lighting: Soft grey diffused monsoon light under dark rain clouds, wet leaves glistening
 Mood: The spin
 Action: Raja spins so the wall of eyes fills her view
-Continuity: Scene "The display and the choice", shot 15 of 25. Continues directly from Beat 41: same season, lighting, location, and the same animals in the same condition. Use Beat 41 as the reference image.
 
 **Beat 43**
 [Script Segment Text]: "people thought peahens counted the eyes. And one famous study found that males with more eyes attracted more females."
@@ -473,7 +431,6 @@ Camera Angle: Extreme close-up, 800mm telephoto or close remote camera, razor-th
 Lighting: Soft grey diffused monsoon light under dark rain clouds, wet leaves glistening
 Mood: Counting eyes
 Action: Close on a row of eyespots
-Continuity: Scene "The display and the choice", shot 16 of 25. Continues directly from Beat 42: same season, lighting, location, and the same animals in the same condition. Use Beat 42 as the reference image.
 
 **Beat 44**
 [Script Segment Text]: "But when scientists later put tiny cameras on peahens' heads to see exactly where they looked, they found something surprising."
@@ -484,7 +441,6 @@ Camera Angle: Extreme close-up, 800mm telephoto or close remote camera, razor-th
 Lighting: Soft grey diffused monsoon light under dark rain clouds, wet leaves glistening
 Mood: Where she looks
 Action: From the peahen's point of view, looking low
-Continuity: Scene "The display and the choice", shot 17 of 25. Continues directly from Beat 43: same season, lighting, location, and the same animals in the same condition. Use Beat 43 as the reference image.
 
 **Beat 45**
 [Script Segment Text]: "The peahens hardly ever looked at the top of the train at all. They looked at the bottom. The base of the feathers."
@@ -495,7 +451,6 @@ Camera Angle: Extreme close-up, 800mm telephoto or close remote camera, razor-th
 Lighting: Soft grey diffused monsoon light under dark rain clouds, wet leaves glistening
 Mood: The bottom
 Action: Close on the base of the train and his legs
-Continuity: Scene "The display and the choice", shot 18 of 25. Continues directly from Beat 44: same season, lighting, location, and the same animals in the same condition. Use Beat 44 as the reference image.
 
 **Beat 46**
 [Script Segment Text]: "The legs. The way he moved. The great fan may be mostly an advertisement, seen from far away, to bring them in close."
@@ -506,7 +461,6 @@ Camera Angle: Wide telephoto landscape shot, 300mm, compressed perspective
 Lighting: Soft grey diffused monsoon light under dark rain clouds, wet leaves glistening
 Mood: Advertisement
 Action: The fan seen from far across the forest
-Continuity: Scene "The display and the choice", shot 19 of 25. Continues directly from Beat 45: same season, lighting, location, and the same animals in the same condition. Use Beat 45 as the reference image.
 
 **Beat 47**
 [Script Segment Text]: "Once they are close, the inspection is about the details. And there is one more secret. Every so often, Raja gives a loud,"
@@ -517,7 +471,6 @@ Camera Angle: Extreme close-up, 800mm telephoto or close remote camera, razor-th
 Lighting: Soft grey diffused monsoon light under dark rain clouds, wet leaves glistening
 Mood: The call
 Action: Raja throws his head back and calls
-Continuity: Scene "The display and the choice", shot 20 of 25. Continues directly from Beat 46: same season, lighting, location, and the same animals in the same condition. Use Beat 46 as the reference image.
 
 **Beat 48**
 [Script Segment Text]: "sharp call. A hoot, then a rush of short notes. Peacocks normally make this call when they are mating."
@@ -528,7 +481,6 @@ Camera Angle: Long telephoto lens, 600mm, very shallow depth of field
 Lighting: Soft grey diffused monsoon light under dark rain clouds, wet leaves glistening
 Mood: Hoot and rush
 Action: Raja calls from his patch
-Continuity: Scene "The display and the choice", shot 21 of 25. Continues directly from Beat 47: same season, lighting, location, and the same animals in the same condition. Use Beat 47 as the reference image.
 
 **Beat 49**
 [Script Segment Text]: "Other peahens hear it, and come to see what is going on. But Raja is not mating. He is calling anyway."
@@ -539,7 +491,6 @@ Camera Angle: Long telephoto lens, 600mm, very shallow depth of field
 Lighting: Soft grey diffused monsoon light under dark rain clouds, wet leaves glistening
 Mood: They come to see
 Action: Other peahens turn and walk toward the sound
-Continuity: Scene "The display and the choice", shot 22 of 25. Continues directly from Beat 48: same season, lighting, location, and the same animals in the same condition. Use Beat 48 as the reference image.
 
 **Beat 50**
 [Script Segment Text]: "Scientists studying peacocks in India found that males make this call even when no female is with them. And when they do,"
@@ -550,7 +501,6 @@ Camera Angle: Long telephoto lens, 600mm, very shallow depth of field
 Lighting: Soft grey diffused monsoon light under dark rain clouds, wet leaves glistening
 Mood: Alone
 Action: Raja calling with no female near
-Continuity: Scene "The display and the choice", shot 23 of 25. Continues directly from Beat 49: same season, lighting, location, and the same animals in the same condition. Use Beat 49 as the reference image.
 
 **Beat 51**
 [Script Segment Text]: "more females come to their display. It seems the peacock is not above a little lie. Meera walks around him one last time."
@@ -561,7 +511,6 @@ Camera Angle: Gimbal-mounted telephoto tracking alongside the animal, 400mm, smo
 Lighting: Soft grey diffused monsoon light under dark rain clouds, wet leaves glistening
 Mood: A little lie
 Action: More peahens arrive; Meera circles one last time
-Continuity: Scene "The display and the choice", shot 24 of 25. Continues directly from Beat 50: same season, lighting, location, and the same animals in the same condition. Use Beat 50 as the reference image.
 
 **Beat 52**
 [Script Segment Text]: "Then she crouches in front of him. She has chosen. And this was the answer Darwin found, eleven years after his letter."
@@ -572,7 +521,6 @@ Camera Angle: Long telephoto lens, 600mm, very shallow depth of field
 Lighting: Soft grey diffused monsoon light under dark rain clouds, wet leaves glistening
 Mood: She has chosen
 Action: Meera crouches in front of Raja
-Continuity: Scene "The display and the choice", shot 25 of 25. Continues directly from Beat 51: same season, lighting, location, and the same animals in the same condition. Use Beat 51 as the reference image.
 
 **Beat 53**
 [Script Segment Text]: "In 1871, he published a new idea. Nature, he realised, does not only keep what helps an animal survive."
@@ -583,7 +531,6 @@ Camera Angle: Cinematic still-life shot, 50mm lens, shallow depth of field
 Lighting: Warm flickering oil-lamp light in a dim Victorian study, dust floating in the air
 Mood: 1871
 Action: An old leather book on the desk
-Continuity: Opens scene "Darwin's answer" (Beats 53–54). Use this image as the reference for every beat in the scene.
 
 **Beat 54**
 [Script Segment Text]: "It also keeps what helps an animal be chosen. If the peahens prefer the males with the most dazzling trains,"
@@ -594,7 +541,6 @@ Camera Angle: Cinematic still-life shot, 50mm lens, shallow depth of field
 Lighting: Warm flickering oil-lamp light in a dim Victorian study, dust floating in the air
 Mood: Chosen
 Action: Pages turning in the lamplight
-Continuity: Scene "Darwin's answer", shot 2 of 2. Continues directly from Beat 53: same season, lighting, location, and the same animals in the same condition. Use Beat 53 as the reference image.
 
 **Beat 55**
 [Script Segment Text]: "then those males have the most chicks. And over thousands of generations, the trains grow more and more dazzling."
@@ -605,7 +551,6 @@ Camera Angle: Wide telephoto landscape shot, 300mm, compressed perspective
 Lighting: Soft grey diffused monsoon light under dark rain clouds, wet leaves glistening
 Mood: Generations
 Action: Many peacocks displaying across a meadow
-Continuity: Opens scene "Sexual selection" (Beats 55–57). Use this image as the reference for every beat in the scene.
 
 **Beat 56**
 [Script Segment Text]: "Darwin called it sexual selection. The peacock's train did not evolve to beat the tiger. It evolved to win the peahen."
@@ -616,7 +561,6 @@ Camera Angle: Long telephoto lens, 600mm, very shallow depth of field
 Lighting: Soft grey diffused monsoon light under dark rain clouds, wet leaves glistening
 Mood: Sexual selection
 Action: Raja's fan beside the watching peahen
-Continuity: Scene "Sexual selection", shot 2 of 3. Continues directly from Beat 55: same season, lighting, location, and the same animals in the same condition. Use Beat 55 as the reference image.
 
 **Beat 57**
 [Script Segment Text]: "But that only raises another question. Why would a peahen choose a male carrying something so heavy and so dangerous?"
@@ -627,7 +571,6 @@ Camera Angle: Extreme close-up, 800mm telephoto or close remote camera, razor-th
 Lighting: Soft grey diffused monsoon light under dark rain clouds, wet leaves glistening
 Mood: The question
 Action: Close on Meera's eye
-Continuity: Scene "Sexual selection", shot 3 of 3. Continues directly from Beat 56: same season, lighting, location, and the same animals in the same condition. Use Beat 56 as the reference image.
 
 **Beat 58**
 [Script Segment Text]: "One answer is that the danger is the point. A big, perfect train is hard to grow. It takes food, health and strength."
@@ -638,7 +581,6 @@ Camera Angle: Gimbal-mounted telephoto tracking alongside the animal, 400mm, smo
 Lighting: Warm late-afternoon sun breaking through monsoon clouds, golden rim light, long shadows
 Mood: Hard to grow
 Action: Raja feeding to keep his strength
-Continuity: Opens scene "The proof" (Beats 58–63). Use this image as the reference for every beat in the scene.
 
 **Beat 59**
 [Script Segment Text]: "A sick or weak male cannot build one, and could not survive carrying one. So when a peahen chooses the male"
@@ -649,7 +591,6 @@ Camera Angle: Long telephoto lens, 600mm, very shallow depth of field
 Lighting: Warm late-afternoon sun breaking through monsoon clouds, golden rim light, long shadows
 Mood: Weakness
 Action: The young rival with his thin train
-Continuity: Scene "The proof", shot 2 of 6. Continues directly from Beat 58: same season, lighting, location, and the same animals in the same condition. Use Beat 58 as the reference image.
 
 **Beat 60**
 [Script Segment Text]: "with the finest train, she is choosing the male who has proved he is strong enough to survive in spite of it."
@@ -660,7 +601,6 @@ Camera Angle: Extreme close-up, 800mm telephoto or close remote camera, razor-th
 Lighting: Warm late-afternoon sun breaking through monsoon clouds, golden rim light, long shadows
 Mood: Proof
 Action: Close on Raja's perfect eyespots in warm light
-Continuity: Scene "The proof", shot 3 of 6. Continues directly from Beat 59: same season, lighting, location, and the same animals in the same condition. Use Beat 59 as the reference image.
 
 **Beat 61**
 [Script Segment Text]: "And it seems to work. In one experiment, scientists raised the chicks of different peacocks under exactly the same conditions."
@@ -671,7 +611,6 @@ Camera Angle: Low ground-level remote camera, 35mm, grass sharp in the foregroun
 Lighting: Warm late-afternoon sun breaking through monsoon clouds, golden rim light, long shadows
 Mood: An experiment
 Action: Chicks of a strong father
-Continuity: Scene "The proof", shot 4 of 6. Continues directly from Beat 60: same season, lighting, location, and the same animals in the same condition. Use Beat 60 as the reference image.
 
 **Beat 62**
 [Script Segment Text]: "The chicks fathered by males with the most elaborate trains grew faster, and were more likely to survive. When Meera chose Raja,"
@@ -682,7 +621,6 @@ Camera Angle: Long telephoto lens, 600mm, very shallow depth of field
 Lighting: Warm late-afternoon sun breaking through monsoon clouds, golden rim light, long shadows
 Mood: Best father
 Action: Meera feeding near Raja
-Continuity: Scene "The proof", shot 5 of 6. Continues directly from Beat 61: same season, lighting, location, and the same animals in the same condition. Use Beat 61 as the reference image.
 
 **Beat 63**
 [Script Segment Text]: "she was not just choosing beauty. She was choosing the best father for her chicks. But Darwin's other worry was still real."
@@ -693,7 +631,6 @@ Camera Angle: Wide telephoto landscape shot, 300mm, compressed perspective
 Lighting: Warm late-afternoon sun breaking through monsoon clouds, golden rim light, long shadows
 Mood: A tiger forest
 Action: Raja's train in the open meadow
-Continuity: Scene "The proof", shot 6 of 6. Continues directly from Beat 62: same season, lighting, location, and the same animals in the same condition. Use Beat 62 as the reference image.
 
 **Beat 64**
 [Script Segment Text]: "The train is a terrible thing to carry through a tiger forest. Or is it? A few weeks later,"
@@ -704,7 +641,6 @@ Camera Angle: Long telephoto lens, 600mm, very shallow depth of field
 Lighting: Warm late-afternoon sun breaking through monsoon clouds, golden rim light, long shadows
 Mood: Or is it?
 Action: Raja feeding near the forest edge
-Continuity: Opens scene "The tigress" (Beats 64–76). Use this image as the reference for every beat in the scene.
 
 **Beat 65**
 [Script Segment Text]: "Raja is feeding at the edge of the meadow in the late afternoon, his train trailing behind him in the grass."
@@ -715,7 +651,6 @@ Camera Angle: Gimbal-mounted telephoto tracking alongside the animal, 400mm, smo
 Lighting: Warm late-afternoon sun breaking through monsoon clouds, golden rim light, long shadows
 Mood: Trailing
 Action: His train trailing in the grass
-Continuity: Scene "The tigress", shot 2 of 13. Continues directly from Beat 64: same season, lighting, location, and the same animals in the same condition. Use Beat 64 as the reference image.
 
 **Beat 66**
 [Script Segment Text]: "At the forest edge, something is watching him. A tigress. Lying flat in the long grass, her stripes melting into the shadows."
@@ -726,7 +661,6 @@ Camera Angle: Long telephoto lens, 600mm, very shallow depth of field
 Lighting: Warm late-afternoon sun breaking through monsoon clouds, golden rim light, long shadows
 Mood: Watched
 Action: The tigress lying flat in the long grass
-Continuity: Scene "The tigress", shot 3 of 13. Continues directly from Beat 65: same season, lighting, location, and the same animals in the same condition. Use Beat 65 as the reference image.
 
 **Beat 67**
 [Script Segment Text]: "She has been creeping closer for twenty minutes. Thirty meters. Twenty. Raja's head comes up. He has not seen her."
@@ -737,7 +671,6 @@ Camera Angle: Low ground-level remote camera, 35mm, grass sharp in the foregroun
 Lighting: Warm late-afternoon sun breaking through monsoon clouds, golden rim light, long shadows
 Mood: Creeping
 Action: The tigress creeps closer
-Continuity: Scene "The tigress", shot 4 of 13. Continues directly from Beat 66: same season, lighting, location, and the same animals in the same condition. Use Beat 66 as the reference image.
 
 **Beat 68**
 [Script Segment Text]: "But he has seen a langur in the trees above go suddenly still. The tigress charges. Raja does not run. He explodes upward."
@@ -748,7 +681,6 @@ Camera Angle: Telephoto shot looking up into the trees from below, 400mm, sky be
 Lighting: Warm late-afternoon sun breaking through monsoon clouds, golden rim light, long shadows
 Mood: A warning
 Action: A langur above freezes
-Continuity: Scene "The tigress", shot 5 of 13. Continues directly from Beat 67: same season, lighting, location, and the same animals in the same condition. Use Beat 67 as the reference image.
 
 **Beat 69**
 [Script Segment Text]: "Two powerful beats of his wings, and he is off the ground. A third, and he is above the grass."
@@ -759,7 +691,6 @@ Camera Angle: Close-range tracking shot, 70–200mm from a few meters away, fast
 Lighting: Warm late-afternoon sun breaking through monsoon clouds, golden rim light, long shadows
 Mood: Explosion
 Action: The tigress charges; Raja bursts upward
-Continuity: Scene "The tigress", shot 6 of 13. Continues directly from Beat 68: same season, lighting, location, and the same animals in the same condition. Use Beat 68 as the reference image.
 
 **Beat 70**
 [Script Segment Text]: "The tigress leaps, paws outstretched, and her claws swipe through the trailing feathers of his train. Three more wingbeats."
@@ -770,7 +701,6 @@ Camera Angle: Close-range tracking shot, 70–200mm from a few meters away, fast
 Lighting: Warm late-afternoon sun breaking through monsoon clouds, golden rim light, long shadows
 Mood: The swipe
 Action: Her claws swipe through his train
-Continuity: Scene "The tigress", shot 7 of 13. Continues directly from Beat 69: same season, lighting, location, and the same animals in the same condition. Use Beat 69 as the reference image.
 
 **Beat 71**
 [Script Segment Text]: "And he is in the branches of a tree, ten meters up. The tigress lands in the grass below,"
@@ -781,7 +711,6 @@ Camera Angle: Telephoto shot looking up into the trees from below, 400mm, sky be
 Lighting: Warm late-afternoon sun breaking through monsoon clouds, golden rim light, long shadows
 Mood: Ten meters up
 Action: Raja lands in the branches
-Continuity: Scene "The tigress", shot 8 of 13. Continues directly from Beat 70: same season, lighting, location, and the same animals in the same condition. Use Beat 70 as the reference image.
 
 **Beat 72**
 [Script Segment Text]: "a single long feather caught in her claws. She looks up at him. Then turns, and walks back into the forest. Raja screams."
@@ -792,7 +721,6 @@ Camera Angle: Long telephoto lens, 600mm, very shallow depth of field
 Lighting: Warm late-afternoon sun breaking through monsoon clouds, golden rim light, long shadows
 Mood: One feather
 Action: The tigress below with a feather in her claws
-Continuity: Scene "The tigress", shot 9 of 13. Continues directly from Beat 71: same season, lighting, location, and the same animals in the same condition. Use Beat 71 as the reference image.
 
 **Beat 73**
 [Script Segment Text]: "Again and again. And all across the meadow, spotted deer lift their heads and stamp their feet, and the langurs bark from the trees."
@@ -803,7 +731,6 @@ Camera Angle: Wide telephoto landscape shot, 300mm, compressed perspective
 Lighting: Warm late-afternoon sun breaking through monsoon clouds, golden rim light, long shadows
 Mood: The alarm
 Action: Deer and langurs react across the meadow
-Continuity: Scene "The tigress", shot 10 of 13. Continues directly from Beat 72: same season, lighting, location, and the same animals in the same condition. Use Beat 72 as the reference image.
 
 **Beat 74**
 [Script Segment Text]: "The whole forest now knows where the tigress is. Darwin was sure the train must slow the peacock down."
@@ -814,7 +741,6 @@ Camera Angle: Extreme close-up, 800mm telephoto or close remote camera, razor-th
 Lighting: Warm late-afternoon sun breaking through monsoon clouds, golden rim light, long shadows
 Mood: Doubt
 Action: Raja calling from the branch
-Continuity: Scene "The tigress", shot 11 of 13. Continues directly from Beat 73: same season, lighting, location, and the same animals in the same condition. Use Beat 73 as the reference image.
 
 **Beat 75**
 [Script Segment Text]: "But when scientists finally filmed peacocks taking off, with and without their full trains, they found almost no difference. The train is light,"
@@ -825,7 +751,6 @@ Camera Angle: Close-range tracking shot, 70–200mm from a few meters away, fast
 Lighting: Warm late-afternoon sun breaking through monsoon clouds, golden rim light, long shadows
 Mood: Take-off
 Action: A peacock bursting into the air in slow motion
-Continuity: Scene "The tigress", shot 12 of 13. Continues directly from Beat 74: same season, lighting, location, and the same animals in the same condition. Use Beat 74 as the reference image.
 
 **Beat 76**
 [Script Segment Text]: "and it streams out behind the bird, out of the way of its wings. A healthy peacock can still burst"
@@ -836,7 +761,6 @@ Camera Angle: Gimbal-mounted telephoto tracking alongside the animal, 400mm, smo
 Lighting: Warm late-afternoon sun breaking through monsoon clouds, golden rim light, long shadows
 Mood: Out of the way
 Action: The train streams behind the wings
-Continuity: Scene "The tigress", shot 13 of 13. Continues directly from Beat 75: same season, lighting, location, and the same animals in the same condition. Use Beat 75 as the reference image.
 
 **Beat 77**
 [Script Segment Text]: "into the air in a second. The train is a burden. But not nearly as heavy as Darwin feared. Meanwhile, Meera has disappeared."
@@ -847,7 +771,6 @@ Camera Angle: Long telephoto lens, 600mm, very shallow depth of field
 Lighting: Warm late-afternoon sun breaking through monsoon clouds, golden rim light, long shadows
 Mood: Disappeared
 Action: Meera slips away into thick grass
-Continuity: Opens scene "The nest" (Beats 77–79). Use this image as the reference for every beat in the scene.
 
 **Beat 78**
 [Script Segment Text]: "She has made a nest on the ground, a shallow scrape hidden in thick grass under a bush. And in it,"
@@ -858,7 +781,6 @@ Camera Angle: Low ground-level remote camera, 35mm, grass sharp in the foregroun
 Lighting: Warm late-afternoon sun breaking through monsoon clouds, golden rim light, long shadows
 Mood: The nest
 Action: A shallow scrape hidden in the grass
-Continuity: Scene "The nest", shot 2 of 3. Continues directly from Beat 77: same season, lighting, location, and the same animals in the same condition. Use Beat 77 as the reference image.
 
 **Beat 79**
 [Script Segment Text]: "she has laid five pale eggs. Raja will not help her. He stays at his display ground, dancing for other females."
@@ -869,7 +791,6 @@ Camera Angle: Extreme close-up, 800mm telephoto or close remote camera, razor-th
 Lighting: Warm late-afternoon sun breaking through monsoon clouds, golden rim light, long shadows
 Mood: Five eggs
 Action: Five pale eggs in the nest
-Continuity: Scene "The nest", shot 3 of 3. Continues directly from Beat 78: same season, lighting, location, and the same animals in the same condition. Use Beat 78 as the reference image.
 
 **Beat 80**
 [Script Segment Text]: "Everything else falls to Meera. For four weeks she sits on the eggs, hidden from tigers, jackals, mongooses and snakes."
@@ -880,7 +801,6 @@ Camera Angle: Long telephoto lens, 600mm, very shallow depth of field
 Lighting: Soft grey diffused monsoon light under dark rain clouds, wet leaves glistening
 Mood: Alone
 Action: Meera sitting on the eggs in the rain
-Continuity: Opens scene "Four weeks" (Beats 80–80). Use this image as the reference for every beat in the scene.
 
 **Beat 81**
 [Script Segment Text]: "Leaving them only for a few minutes each day to feed. And then, one by one, the shells crack. Five peachicks."
@@ -891,7 +811,6 @@ Camera Angle: Extreme close-up, 800mm telephoto or close remote camera, razor-th
 Lighting: Clear fresh light after the monsoon over lush green forest
 Mood: Hatching
 Action: An eggshell cracks
-Continuity: Opens scene "The chicks" (Beats 81–83). Use this image as the reference for every beat in the scene.
 
 **Beat 82**
 [Script Segment Text]: "Fluffy, brown and cream, with tiny wings already sprouting. Within a day, they are following her through the grass."
@@ -902,7 +821,6 @@ Camera Angle: Low ground-level remote camera, 35mm, grass sharp in the foregroun
 Lighting: Clear fresh light after the monsoon over lush green forest
 Mood: Five peachicks
 Action: Fluffy chicks following Meera
-Continuity: Scene "The chicks", shot 2 of 3. Continues directly from Beat 81: same season, lighting, location, and the same animals in the same condition. Use Beat 81 as the reference image.
 
 **Beat 83**
 [Script Segment Text]: "Within a couple of weeks, they can flutter up into low branches. And every evening, she leads them a little higher,"
@@ -913,7 +831,6 @@ Camera Angle: Telephoto shot looking up into the trees from below, 400mm, sky be
 Lighting: Clear fresh light after the monsoon over lush green forest
 Mood: First flight
 Action: Chicks fluttering up into low branches
-Continuity: Scene "The chicks", shot 3 of 3. Continues directly from Beat 82: same season, lighting, location, and the same animals in the same condition. Use Beat 82 as the reference image.
 
 **Beat 84**
 [Script Segment Text]: "until they can sleep safely in the trees, just like their father. Two of the chicks are males. In three years,"
@@ -924,7 +841,6 @@ Camera Angle: Telephoto shot looking up into the trees from below, 400mm, sky be
 Lighting: Soft silver moonlight through the trees, the forest floor in deep shadow
 Mood: Higher
 Action: The family roosting in a tree at dusk
-Continuity: Opens scene "Roosting" (Beats 84–84). Use this image as the reference for every beat in the scene.
 
 **Beat 85**
 [Script Segment Text]: "they will grow their first full trains. And because their father was Raja, they will have a good chance of growing fine ones."
@@ -935,7 +851,6 @@ Camera Angle: Extreme close-up, 800mm telephoto or close remote camera, razor-th
 Lighting: Clear fresh light after the monsoon over lush green forest
 Mood: Future trains
 Action: Close on a young male chick
-Continuity: Opens scene "Future trains" (Beats 85–85). Use this image as the reference for every beat in the scene.
 
 **Beat 86**
 [Script Segment Text]: "By the end of the monsoon, the forest is lush and green. And Raja does something remarkable. He drops his train."
@@ -946,7 +861,6 @@ Camera Angle: Wide telephoto landscape shot, 300mm, compressed perspective
 Lighting: Clear fresh light after the monsoon over lush green forest
 Mood: End of the monsoon
 Action: Lush green forest after the rains
-Continuity: Opens scene "Shedding the train" (Beats 86–89). Use this image as the reference for every beat in the scene.
 
 **Beat 87**
 [Script Segment Text]: "One by one, the great feathers fall out and are left lying in the grass. Eyes and all."
@@ -957,7 +871,6 @@ Camera Angle: Extreme close-up, 800mm telephoto or close remote camera, razor-th
 Lighting: Clear fresh light after the monsoon over lush green forest
 Mood: Letting go
 Action: A long train feather falls into the grass
-Continuity: Scene "Shedding the train", shot 2 of 4. Continues directly from Beat 86: same season, lighting, location, and the same animals in the same condition. Use Beat 86 as the reference image.
 
 **Beat 88**
 [Script Segment Text]: "After all that effort, all those dances and fights, he simply lets them go. For the rest of the year,"
@@ -968,7 +881,6 @@ Camera Angle: Long telephoto lens, 600mm, very shallow depth of field
 Lighting: Clear fresh light after the monsoon over lush green forest
 Mood: Shed
 Action: Feathers lying in the grass behind him
-Continuity: Scene "Shedding the train", shot 3 of 4. Continues directly from Beat 87: same season, lighting, location, and the same animals in the same condition. Use Beat 87 as the reference image.
 
 **Beat 89**
 [Script Segment Text]: "he will look plain, almost ordinary. And then, before the next monsoon, he will grow the whole thing again from nothing."
@@ -979,7 +891,6 @@ Camera Angle: Gimbal-mounted telephoto tracking alongside the animal, 400mm, smo
 Lighting: Clear fresh light after the monsoon over lush green forest
 Mood: Plain
 Action: Raja without his train
-Continuity: Scene "Shedding the train", shot 4 of 4. Continues directly from Beat 88: same season, lighting, location, and the same animals in the same condition. Use Beat 88 as the reference image.
 
 **Beat 90**
 [Script Segment Text]: "The bird that made Darwin sick ended up teaching him one of the most important ideas in biology."
@@ -990,7 +901,6 @@ Camera Angle: Cinematic still-life shot, 50mm lens, shallow depth of field
 Lighting: Warm flickering oil-lamp light in a dim Victorian study, dust floating in the air
 Mood: The lesson
 Action: The feather on Darwin's desk once more
-Continuity: Opens scene "Ending" (Beats 90–98). Use this image as the reference for every beat in the scene.
 
 **Beat 91**
 [Script Segment Text]: "That life is not only a struggle to survive. It is also a struggle to be chosen. And sometimes,"
@@ -1001,7 +911,6 @@ Camera Angle: Long telephoto lens, 600mm, very shallow depth of field
 Lighting: Soft grey diffused monsoon light under dark rain clouds, wet leaves glistening
 Mood: To be chosen
 Action: A male displaying to a peahen
-Continuity: Scene "Ending", shot 2 of 9. Continues directly from Beat 90: same season, lighting, location, and the same animals in the same condition. Use Beat 90 as the reference image.
 
 **Beat 92**
 [Script Segment Text]: "being chosen matters so much that an animal will carry something dangerous, heavy and beautiful, just for the chance."
@@ -1012,7 +921,6 @@ Camera Angle: Extreme close-up, 800mm telephoto or close remote camera, razor-th
 Lighting: Soft grey diffused monsoon light under dark rain clouds, wet leaves glistening
 Mood: Dangerous and beautiful
 Action: Close on the shimmering fan
-Continuity: Scene "Ending", shot 3 of 9. Continues directly from Beat 91: same season, lighting, location, and the same animals in the same condition. Use Beat 91 as the reference image.
 
 **Beat 93**
 [Script Segment Text]: "Today, the Indian peacock is the national bird of India, and it is protected by law across the country."
@@ -1023,7 +931,6 @@ Camera Angle: Aerial shot from a quiet high-altitude drone, gliding over the for
 Lighting: Clear fresh light after the monsoon over lush green forest
 Mood: National bird
 Action: Flying over the forest of central India
-Continuity: Scene "Ending", shot 4 of 9. Continues directly from Beat 92: same season, lighting, location, and the same animals in the same condition. Use Beat 92 as the reference image.
 
 **Beat 94**
 [Script Segment Text]: "In many villages, people welcome peafowl near their homes and fields, and the birds are doing well. But they still face poaching,"
@@ -1034,7 +941,6 @@ Camera Angle: Wide telephoto landscape shot, 300mm, compressed perspective
 Lighting: Clear fresh light after the monsoon over lush green forest
 Mood: Doing well
 Action: Peafowl feeding in a green field at the forest edge
-Continuity: Scene "Ending", shot 5 of 9. Continues directly from Beat 93: same season, lighting, location, and the same animals in the same condition. Use Beat 93 as the reference image.
 
 **Beat 95**
 [Script Segment Text]: "and poisoning from pesticides on farmland. And in some forests, they are now rarer than they once were."
@@ -1045,7 +951,6 @@ Camera Angle: Long telephoto lens, 600mm, very shallow depth of field
 Lighting: Clear fresh light after the monsoon over lush green forest
 Mood: Threats
 Action: An empty meadow edge where peafowl used to feed
-Continuity: Scene "Ending", shot 6 of 9. Continues directly from Beat 94: same season, lighting, location, and the same animals in the same condition. Use Beat 94 as the reference image.
 
 **Beat 96**
 [Script Segment Text]: "Perhaps the creator made the peacock to remind us that not everything in nature is about survival. Some things are simply about beauty,"
@@ -1056,7 +961,6 @@ Camera Angle: Long telephoto lens, 600mm, very shallow depth of field
 Lighting: Soft grey diffused monsoon light under dark rain clouds, wet leaves glistening
 Mood: Beauty
 Action: Raja's fan glowing in soft light
-Continuity: Scene "Ending", shot 7 of 9. Continues directly from Beat 95: same season, lighting, location, and the same animals in the same condition. Use Beat 95 as the reference image.
 
 **Beat 97**
 [Script Segment Text]: "and the courage to show it. Tonight, in the forests of Bandhavgarh, a peacock sleeps high in a tree, his train already gone,"
@@ -1067,7 +971,6 @@ Camera Angle: Telephoto shot looking up into the trees from below, 400mm, sky be
 Lighting: Soft silver moonlight through the trees, the forest floor in deep shadow
 Mood: Tonight
 Action: Raja asleep high in a tree, no train
-Continuity: Scene "Ending", shot 8 of 9. Continues directly from Beat 96: same season, lighting, location, and the same animals in the same condition. Use Beat 96 as the reference image.
 
 **Beat 98**
 [Script Segment Text]: "the tiger calling somewhere below. Next monsoon, he will be back on the same patch of earth under the mahua tree. Dancing again."
@@ -1078,4 +981,3 @@ Camera Angle: Wide telephoto landscape shot, 300mm, compressed perspective
 Lighting: Soft silver moonlight through the trees, the forest floor in deep shadow
 Mood: Dancing again
 Action: Moonlit forest, the mahua tree and the bare patch of earth
-Continuity: Scene "Ending", shot 9 of 9. Continues directly from Beat 97: same season, lighting, location, and the same animals in the same condition. Use Beat 97 as the reference image.

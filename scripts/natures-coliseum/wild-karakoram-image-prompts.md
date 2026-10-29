@@ -1,6 +1,6 @@
 # WILD KARAKORAM — Image Prompts
 
-10-second beats · every prompt standalone · each beat has a plain Description of what must be in the frame · each beat continues from the one before (see Continuity)
+10-second beats · every prompt standalone · each beat has a plain Description of what must be in the frame
 
 **Beat 1**
 [Script Segment Text]: "A ledge no wider than a hand, three hundred meters above the valley floor. And standing on it,"
@@ -11,7 +11,6 @@ Camera Angle: Aerial shot from a quiet high-altitude drone, sweeping along the m
 Lighting: Warm low late-afternoon summer sun, golden rim light on fur and horns, long shadows across the rock
 Mood: Awe
 Action: The camera rises up the cliff to reveal a goat on a hand-wide ledge
-Continuity: Opens scene "The ledge and the mountains" (Beats 1–8). Use this image as the reference for every beat in the scene.
 
 **Beat 2**
 [Script Segment Text]: "perfectly still, is a goat. She is not lost, and she is not trapped. She chose this ledge,"
@@ -22,7 +21,6 @@ Camera Angle: Extreme close-up, 800mm telephoto or close remote camera, razor-th
 Lighting: Warm low late-afternoon summer sun, golden rim light on fur and horns, long shadows across the rock
 Mood: Calm
 Action: Close on Dawa: ears flick, wind in her coat, a raven passes behind
-Continuity: Scene "The ledge and the mountains", shot 2 of 8. Continues directly from Beat 1: same season, lighting, location, and the same animals in the same condition. Use Beat 1 as the reference image.
 
 **Beat 3**
 [Script Segment Text]: "because up here nothing can reach her. Down on the flat ground below, there is grass, water and salt."
@@ -33,7 +31,6 @@ Camera Angle: Aerial shot from a quiet high-altitude drone, sweeping along the m
 Lighting: Warm low late-afternoon summer sun, golden rim light on fur and horns, long shadows across the rock
 Mood: Temptation
 Action: The camera drops from the ledge to the valley floor: grass, water, salt
-Continuity: Scene "The ledge and the mountains", shot 3 of 8. Continues directly from Beat 2: same season, lighting, location, and the same animals in the same condition. Use Beat 2 as the reference image.
 
 **Beat 4**
 [Script Segment Text]: "Everything she needs to live. And every time she goes down to get it, something is waiting to kill her."
@@ -44,7 +41,6 @@ Camera Angle: Low ground-level remote camera, 35mm, grass and snow sharp in the 
 Lighting: Warm low late-afternoon summer sun, golden rim light on fur and horns, long shadows across the rock
 Mood: Threat
 Action: Among the boulders, a snow leopard's tail flicks in the shadows
-Continuity: Scene "The ledge and the mountains", shot 4 of 8. Continues directly from Beat 3: same season, lighting, location, and the same animals in the same condition. Use Beat 3 as the reference image.
 
 **Beat 5**
 [Script Segment Text]: "This is the story of an animal that lives its whole life on the edge of a cliff. Not because it has to."
@@ -55,7 +51,6 @@ Camera Angle: Gimbal-mounted telephoto tracking alongside the animal, 400mm, smo
 Lighting: Warm low late-afternoon summer sun, golden rim light on fur and horns, long shadows across the rock
 Mood: Life on the edge
 Action: Dawa walks the very edge of the cliff
-Continuity: Scene "The ledge and the mountains", shot 5 of 8. Continues directly from Beat 4: same season, lighting, location, and the same animals in the same condition. Use Beat 4 as the reference image.
 
 **Beat 6**
 [Script Segment Text]: "Because the ground is the most dangerous place it could ever stand. High in the Karakoram, in the far north of Pakistan,"
@@ -66,7 +61,6 @@ Camera Angle: Close-range tracking shot, 70–200mm from a few meters away, fast
 Lighting: Warm low late-afternoon summer sun, golden rim light on fur and horns, long shadows across the rock
 Mood: The gap
 Action: Dawa leaps across a gap between two ledges
-Continuity: Scene "The ledge and the mountains", shot 6 of 8. Continues directly from Beat 5: same season, lighting, location, and the same animals in the same condition. Use Beat 5 as the reference image.
 
 **Beat 7**
 [Script Segment Text]: "the mountains rise so steeply that most of the land is not land at all. It is walls. Granite and slate,"
@@ -77,7 +71,6 @@ Camera Angle: Aerial shot from a quiet high-altitude drone, sweeping along the m
 Lighting: Warm low late-afternoon summer sun, golden rim light on fur and horns, long shadows across the rock
 Mood: Walls
 Action: Flying along endless granite walls
-Continuity: Scene "The ledge and the mountains", shot 7 of 8. Continues directly from Beat 6: same season, lighting, location, and the same animals in the same condition. Use Beat 6 as the reference image.
 
 **Beat 8**
 [Script Segment Text]: "cracked and folded, climbing toward peaks of seven and eight thousand meters. This is the home of the Himalayan ibex."
@@ -88,7 +81,6 @@ Camera Angle: Aerial shot from a quiet high-altitude drone, sweeping along the m
 Lighting: Warm low late-afternoon summer sun, golden rim light on fur and horns, long shadows across the rock
 Mood: The home of the ibex
 Action: Rising over a ridge to reveal huge peaks and a herd crossing a ledge
-Continuity: Scene "The ledge and the mountains", shot 8 of 8. Continues directly from Beat 7: same season, lighting, location, and the same animals in the same condition. Use Beat 7 as the reference image.
 
 **Beat 9**
 [Script Segment Text]: "And this is one ibex family. The mother we will call Dawa. She is eight years old, light and sandy-grey,"
@@ -99,7 +91,6 @@ Camera Angle: Gimbal-mounted telephoto tracking alongside the animal, 400mm, smo
 Lighting: Warm low late-afternoon summer sun, golden rim light on fur and horns, long shadows across the rock
 Mood: Dawa
 Action: Dawa hops down a staircase of ledges
-Continuity: Opens scene "The family" (Beats 9–13). Use this image as the reference for every beat in the scene.
 
 **Beat 10**
 [Script Segment Text]: "with short curved horns and a body built like a coiled spring. Beside her is her daughter, born last summer,"
@@ -110,7 +101,6 @@ Camera Angle: Long telephoto lens, 600mm, very shallow depth of field, camera at
 Lighting: Warm low late-afternoon summer sun, golden rim light on fur and horns, long shadows across the rock
 Mood: The daughter
 Action: The daughter bounds after her mother
-Continuity: Scene "The family", shot 2 of 5. Continues directly from Beat 9: same season, lighting, location, and the same animals in the same condition. Use Beat 9 as the reference image.
 
 **Beat 11**
 [Script Segment Text]: "still learning the mountain. And far above them, on a slope of his own, is the male. We will call him Kesang."
@@ -121,7 +111,6 @@ Camera Angle: Telephoto shot looking up the cliff from below, 400mm, sky behind
 Lighting: Warm low late-afternoon summer sun, golden rim light on fur and horns, long shadows across the rock
 Mood: Kesang
 Action: Kesang climbs onto a pinnacle against the sky
-Continuity: Scene "The family", shot 3 of 5. Continues directly from Beat 10: same season, lighting, location, and the same animals in the same condition. Use Beat 10 as the reference image.
 
 **Beat 12**
 [Script Segment Text]: "More than twice Dawa's weight, with a dark beard and horns so long they sweep back over his shoulders"
@@ -132,7 +121,6 @@ Camera Angle: Extreme close-up, 800mm telephoto or close remote camera, razor-th
 Lighting: Warm low late-afternoon summer sun, golden rim light on fur and horns, long shadows across the rock
 Mood: Horns like swords
 Action: Kesang shakes his head, light sliding along his horns
-Continuity: Scene "The family", shot 4 of 5. Continues directly from Beat 11: same season, lighting, location, and the same animals in the same condition. Use Beat 11 as the reference image.
 
 **Beat 13**
 [Script Segment Text]: "like a pair of curved swords. To understand why this family lives on the cliffs, you have to start with their feet."
@@ -143,7 +131,6 @@ Camera Angle: Low ground-level remote camera, 35mm, grass and snow sharp in the 
 Lighting: Warm low late-afternoon summer sun, golden rim light on fur and horns, long shadows across the rock
 Mood: The feet
 Action: Hooves land on a ledge in front of the camera
-Continuity: Scene "The family", shot 5 of 5. Continues directly from Beat 12: same season, lighting, location, and the same animals in the same condition. Use Beat 12 as the reference image.
 
 **Beat 14**
 [Script Segment Text]: "An ibex hoof is not one solid block. It is split into two toes, and each toe can move on its own,"
@@ -154,7 +141,6 @@ Camera Angle: Extreme close-up, 800mm telephoto or close remote camera, razor-th
 Lighting: Clear high-altitude summer sun under a deep blue sky, crisp light with soft rim light on fur
 Mood: Two toes
 Action: The split hoof
-Continuity: Opens scene "Built for cliffs" (Beats 14–22). Use this image as the reference for every beat in the scene.
 
 **Beat 15**
 [Script Segment Text]: "spreading apart to grip the rock or squeezing together to fit into a crack. The outer rim of each toe is hard"
@@ -165,7 +151,6 @@ Camera Angle: Extreme close-up, 800mm telephoto or close remote camera, razor-th
 Lighting: Clear high-altitude summer sun under a deep blue sky, crisp light with soft rim light on fur
 Mood: Gripping
 Action: Toes squeezing into a crack
-Continuity: Scene "Built for cliffs", shot 2 of 9. Continues directly from Beat 14: same season, lighting, location, and the same animals in the same condition. Use Beat 14 as the reference image.
 
 **Beat 16**
 [Script Segment Text]: "and sharp, like the edge of a knife, to catch on the smallest ridge. But the center is soft and rubbery,"
@@ -176,7 +161,6 @@ Camera Angle: Extreme close-up, 800mm telephoto or close remote camera, razor-th
 Lighting: Clear high-altitude summer sun under a deep blue sky, crisp light with soft rim light on fur
 Mood: Knife edges
 Action: The hard outer rim
-Continuity: Scene "Built for cliffs", shot 3 of 9. Continues directly from Beat 15: same season, lighting, location, and the same animals in the same condition. Use Beat 15 as the reference image.
 
 **Beat 17**
 [Script Segment Text]: "and it moulds itself to the stone like the sole of a climbing shoe. Behind the hoof, a pair of small dewclaws act as brakes."
@@ -187,7 +171,6 @@ Camera Angle: Extreme close-up, 800mm telephoto or close remote camera, razor-th
 Lighting: Clear high-altitude summer sun under a deep blue sky, crisp light with soft rim light on fur
 Mood: Climbing shoes
 Action: The soft rubbery pad and the dewclaws
-Continuity: Scene "Built for cliffs", shot 4 of 9. Continues directly from Beat 16: same season, lighting, location, and the same animals in the same condition. Use Beat 16 as the reference image.
 
 **Beat 18**
 [Script Segment Text]: "On a steep descent, the ibex digs them into the rock to stop itself sliding. And then there is the balance."
@@ -198,7 +181,6 @@ Camera Angle: Telephoto tracking shot, 600mm, fast shutter freezing motion
 Lighting: Clear high-altitude summer sun under a deep blue sky, crisp light with soft rim light on fur
 Mood: Brakes
 Action: Dewclaws dug in on a steep descent
-Continuity: Scene "Built for cliffs", shot 5 of 9. Continues directly from Beat 17: same season, lighting, location, and the same animals in the same condition. Use Beat 17 as the reference image.
 
 **Beat 19**
 [Script Segment Text]: "An ibex can stand with all four hooves together on a point of rock no bigger than a dinner plate. From a standstill,"
@@ -209,7 +191,6 @@ Camera Angle: Long telephoto lens, 600mm, eye level, side-on
 Lighting: Clear high-altitude summer sun under a deep blue sky, soft rim light on fur
 Mood: Balance
 Action: Dawa balances on a rock pillar, all four legs visible
-Continuity: Scene "Built for cliffs", shot 6 of 9. Continues directly from Beat 18: same season, lighting, location, and the same animal. Use Beat 18 as the reference image.
 Generator tip: If the legs still tangle, regenerate with a slightly wider frame, or use the image as a still with only a slow zoom.
 
 **Beat 20**
@@ -221,7 +202,6 @@ Camera Angle: Close-range tracking shot, 70–200mm from a few meters away, fast
 Lighting: Clear high-altitude summer sun under a deep blue sky, crisp light with soft rim light on fur
 Mood: The leap
 Action: Nearly two meters straight up
-Continuity: Scene "Built for cliffs", shot 7 of 9. Continues directly from Beat 19: same season, lighting, location, and the same animals in the same condition. Use Beat 19 as the reference image.
 
 **Beat 21**
 [Script Segment Text]: "the Alpine ibex, have been filmed climbing the almost vertical wall of a dam, just to lick the salt from the stone."
@@ -232,7 +212,6 @@ Camera Angle: Wide telephoto landscape shot, 300mm, compressed perspective stack
 Lighting: Clear high-altitude summer sun under a deep blue sky, crisp light with soft rim light on fur
 Mood: Cousins
 Action: Alpine ibex on a dam wall
-Continuity: Scene "Built for cliffs", shot 8 of 9. Continues directly from Beat 20: same season, lighting, location, and the same animals in the same condition. Use Beat 20 as the reference image.
 
 **Beat 22**
 [Script Segment Text]: "On a cliff, there is no animal on Earth that can follow an ibex. And that is the whole point."
@@ -243,7 +222,6 @@ Camera Angle: Telephoto shot looking up the cliff from below, 400mm, sky behind
 Lighting: Clear high-altitude summer sun under a deep blue sky, crisp light with soft rim light on fur
 Mood: Untouchable
 Action: Nothing can follow an ibex on a cliff
-Continuity: Scene "Built for cliffs", shot 9 of 9. Continues directly from Beat 21: same season, lighting, location, and the same animals in the same condition. Use Beat 21 as the reference image.
 
 **Beat 23**
 [Script Segment Text]: "Every morning, at first light, Dawa leads her daughter down. Not all the way. Just to the bottom of the cliffs,"
@@ -254,7 +232,6 @@ Camera Angle: Aerial shot from a quiet high-altitude drone, sweeping along the m
 Lighting: Pale gold summer dawn light on the peaks, the valley still in cool shadow, frost glinting on the grass
 Mood: First light
 Action: Dawa leads her daughter down
-Continuity: Opens scene "Dawn feeding" (Beats 23–26). Use this image as the reference for every beat in the scene.
 
 **Beat 24**
 [Script Segment Text]: "where the rock gives way to a slope of grass and herbs, still wet with frost. And here, they do something strange."
@@ -265,7 +242,6 @@ Camera Angle: Long telephoto lens, 600mm, very shallow depth of field, camera at
 Lighting: Pale gold summer dawn light on the peaks, the valley still in cool shadow, frost glinting on the grass
 Mood: The slope
 Action: Grass wet with frost at the foot of the cliffs
-Continuity: Scene "Dawn feeding", shot 2 of 4. Continues directly from Beat 23: same season, lighting, location, and the same animals in the same condition. Use Beat 23 as the reference image.
 
 **Beat 25**
 [Script Segment Text]: "They eat as fast as they can. Barely chewing. Tearing up mouthfuls of grass and swallowing them almost whole."
@@ -276,7 +252,6 @@ Camera Angle: Extreme close-up, 800mm telephoto or close remote camera, razor-th
 Lighting: Pale gold summer dawn light on the peaks, the valley still in cool shadow, frost glinting on the grass
 Mood: Eating fast
 Action: Tearing up grass and swallowing it whole
-Continuity: Scene "Dawn feeding", shot 3 of 4. Continues directly from Beat 24: same season, lighting, location, and the same animals in the same condition. Use Beat 24 as the reference image.
 
 **Beat 26**
 [Script Segment Text]: "Because the ground is where the hunters are, and they do not stay one second longer than they must."
@@ -287,7 +262,6 @@ Camera Angle: Long telephoto lens, 600mm, very shallow depth of field, camera at
 Lighting: Pale gold summer dawn light on the peaks, the valley still in cool shadow, frost glinting on the grass
 Mood: Watchful
 Action: Heads up between mouthfuls
-Continuity: Scene "Dawn feeding", shot 4 of 4. Continues directly from Beat 25: same season, lighting, location, and the same animals in the same condition. Use Beat 25 as the reference image.
 
 **Beat 27**
 [Script Segment Text]: "An hour later, they are back on the cliff. And only now, safe on a ledge, do they finally start to chew."
@@ -298,7 +272,6 @@ Camera Angle: Long telephoto lens, 600mm, very shallow depth of field, camera at
 Lighting: Clear high-altitude summer sun under a deep blue sky, crisp light with soft rim light on fur
 Mood: Back on the cliff
 Action: An hour later, on the ledge
-Continuity: Opens scene "Chewing on the cliff" (Beats 27–30). Use this image as the reference for every beat in the scene.
 
 **Beat 28**
 [Script Segment Text]: "An ibex is a ruminant. Like a cow, it has a stomach with four chambers. It can swallow its food quickly,"
@@ -309,7 +282,6 @@ Camera Angle: Extreme close-up, 800mm telephoto or close remote camera, razor-th
 Lighting: Clear high-altitude summer sun under a deep blue sky, crisp light with soft rim light on fur
 Mood: Chewing the cud
 Action: Close on Dawa chewing
-Continuity: Scene "Chewing on the cliff", shot 2 of 4. Continues directly from Beat 27: same season, lighting, location, and the same animals in the same condition. Use Beat 27 as the reference image.
 
 **Beat 29**
 [Script Segment Text]: "and later bring it back up to chew it again in safety. It is how the ibex survives. Eat on the ground."
@@ -320,7 +292,6 @@ Camera Angle: Long telephoto lens, 600mm, very shallow depth of field, camera at
 Lighting: Clear high-altitude summer sun under a deep blue sky, crisp light with soft rim light on fur
 Mood: Safe digestion
 Action: Resting and chewing in safety
-Continuity: Scene "Chewing on the cliff", shot 3 of 4. Continues directly from Beat 28: same season, lighting, location, and the same animals in the same condition. Use Beat 28 as the reference image.
 
 **Beat 30**
 [Script Segment Text]: "Digest on the cliff. Because there is one more thing the ibex needs, and it cannot get it on the cliffs. Salt."
@@ -331,7 +302,6 @@ Camera Angle: Wide telephoto landscape shot, 300mm, compressed perspective stack
 Lighting: Clear high-altitude summer sun under a deep blue sky, crisp light with soft rim light on fur
 Mood: Eat low, digest high
 Action: The ledge above the grazing slope
-Continuity: Scene "Chewing on the cliff", shot 4 of 4. Continues directly from Beat 29: same season, lighting, location, and the same animals in the same condition. Use Beat 29 as the reference image.
 
 **Beat 31**
 [Script Segment Text]: "Grass in these mountains has almost no minerals in it. So every few days, the ibex have to visit one of the few places"
@@ -342,7 +312,6 @@ Camera Angle: Aerial shot from a quiet high-altitude drone, sweeping along the m
 Lighting: Warm low late-afternoon summer sun, golden rim light on fur and horns, long shadows across the rock
 Mood: Salt
 Action: The valley floor far below
-Continuity: Opens scene "The salt lick" (Beats 31–42). Use this image as the reference for every beat in the scene.
 
 **Beat 32**
 [Script Segment Text]: "where salt seeps out of the ground. A patch of pale, crusted earth in a gully at the bottom of the valley."
@@ -353,7 +322,6 @@ Camera Angle: Extreme close-up, 800mm telephoto or close remote camera, razor-th
 Lighting: Warm low late-afternoon summer sun, golden rim light on fur and horns, long shadows across the rock
 Mood: Minerals
 Action: Salt seeping from the ground
-Continuity: Scene "The salt lick", shot 2 of 12. Continues directly from Beat 31: same season, lighting, location, and the same animals in the same condition. Use Beat 31 as the reference image.
 
 **Beat 33**
 [Script Segment Text]: "And the hunters know exactly where it is. Dawa reaches the salt lick in the late afternoon."
@@ -364,7 +332,6 @@ Camera Angle: Long telephoto lens, 600mm, very shallow depth of field, camera at
 Lighting: Warm low late-afternoon summer sun, golden rim light on fur and horns, long shadows across the rock
 Mood: Known to hunters
 Action: The salt lick gully
-Continuity: Scene "The salt lick", shot 3 of 12. Continues directly from Beat 32: same season, lighting, location, and the same animals in the same condition. Use Beat 32 as the reference image.
 
 **Beat 34**
 [Script Segment Text]: "She stops at the top of the gully for a long time, ears turning, nostrils wide. Then she goes down, her daughter close behind."
@@ -375,7 +342,6 @@ Camera Angle: Long telephoto lens, 600mm, very shallow depth of field, camera at
 Lighting: Warm low late-afternoon summer sun, golden rim light on fur and horns, long shadows across the rock
 Mood: Caution
 Action: Dawa stops at the top of the gully
-Continuity: Scene "The salt lick", shot 4 of 12. Continues directly from Beat 33: same season, lighting, location, and the same animals in the same condition. Use Beat 33 as the reference image.
 
 **Beat 35**
 [Script Segment Text]: "They lick at the white crust on the rocks. Heads down. For a few seconds, not watching. Above them, on a boulder,"
@@ -386,7 +352,6 @@ Camera Angle: Extreme close-up, 800mm telephoto or close remote camera, razor-th
 Lighting: Warm low late-afternoon summer sun, golden rim light on fur and horns, long shadows across the rock
 Mood: Heads down
 Action: Licking the white crust
-Continuity: Scene "The salt lick", shot 5 of 12. Continues directly from Beat 34: same season, lighting, location, and the same animals in the same condition. Use Beat 34 as the reference image.
 
 **Beat 36**
 [Script Segment Text]: "something grey shifts against the grey stone. A snow leopard, her smoky coat blending with the lichen on the rock."
@@ -397,7 +362,6 @@ Camera Angle: Long telephoto lens, 600mm, very shallow depth of field, camera at
 Lighting: Warm low late-afternoon summer sun, golden rim light on fur and horns, long shadows across the rock
 Mood: The grey ghost
 Action: A snow leopard on a boulder above
-Continuity: Scene "The salt lick", shot 6 of 12. Continues directly from Beat 35: same season, lighting, location, and the same animals in the same condition. Use Beat 35 as the reference image.
 
 **Beat 37**
 [Script Segment Text]: "She is not ready to strike. She is waiting for the two ibex to step a few meters farther from the cliff."
@@ -408,7 +372,6 @@ Camera Angle: Extreme close-up, 800mm telephoto or close remote camera, razor-th
 Lighting: Warm low late-afternoon summer sun, golden rim light on fur and horns, long shadows across the rock
 Mood: Patience
 Action: Close on the leopard's eyes: waiting for a few more meters
-Continuity: Scene "The salt lick", shot 7 of 12. Continues directly from Beat 36: same season, lighting, location, and the same animals in the same condition. Use Beat 36 as the reference image.
 
 **Beat 38**
 [Script Segment Text]: "But Dawa's head comes up. She has seen nothing. Something is simply wrong, and an ibex never ignores something wrong."
@@ -419,7 +382,6 @@ Camera Angle: Extreme close-up, 800mm telephoto or close remote camera, razor-th
 Lighting: Warm low late-afternoon summer sun, golden rim light on fur and horns, long shadows across the rock
 Mood: The whistle
 Action: Dawa's head comes up
-Continuity: Scene "The salt lick", shot 8 of 12. Continues directly from Beat 37: same season, lighting, location, and the same animals in the same condition. Use Beat 37 as the reference image.
 
 **Beat 39**
 [Script Segment Text]: "She gives a sharp whistle, an alarm call that cuts through the thin air like a blade. And before the leopard can move,"
@@ -430,7 +392,6 @@ Camera Angle: Long telephoto lens, 600mm, very shallow depth of field, camera at
 Lighting: Warm low late-afternoon summer sun, golden rim light on fur and horns, long shadows across the rock
 Mood: Gone
 Action: Both ibex spring from the salt onto the rock
-Continuity: Scene "The salt lick", shot 9 of 12. Continues directly from Beat 38: same season, lighting, location, and the same animals in the same condition. Use Beat 38 as the reference image.
 
 **Beat 40**
 [Script Segment Text]: "both ibex are back on the rock, climbing. The leopard never even gets to run. This is the snow leopard's problem."
@@ -441,7 +402,6 @@ Camera Angle: Telephoto shot looking up the cliff from below, 400mm, sky behind
 Lighting: Warm low late-afternoon summer sun, golden rim light on fur and horns, long shadows across the rock
 Mood: Too late
 Action: The leopard on her boulder; the ibex already high on the cliff
-Continuity: Scene "The salt lick", shot 10 of 12. Continues directly from Beat 39: same season, lighting, location, and the same animals in the same condition. Use Beat 39 as the reference image.
 
 **Beat 41**
 [Script Segment Text]: "She cannot catch an ibex on a cliff. She has to catch it in the open, in the few seconds before it reaches the rock."
@@ -452,7 +412,6 @@ Camera Angle: Wide telephoto landscape shot, 300mm, compressed perspective stack
 Lighting: Warm low late-afternoon summer sun, golden rim light on fur and horns, long shadows across the rock
 Mood: The first seconds
 Action: Broken ground meeting the cliff
-Continuity: Scene "The salt lick", shot 11 of 12. Continues directly from Beat 40: same season, lighting, location, and the same animals in the same condition. Use Beat 40 as the reference image.
 
 **Beat 42**
 [Script Segment Text]: "So she waits where the ibex must go. The salt licks. The grassy slopes. The places where the cliffs end. The ground."
@@ -463,7 +422,6 @@ Camera Angle: Long telephoto lens, 600mm, very shallow depth of field, camera at
 Lighting: Warm low late-afternoon summer sun, golden rim light on fur and horns, long shadows across the rock
 Mood: Waiting places
 Action: The leopard waits where the ibex must go
-Continuity: Scene "The salt lick", shot 12 of 12. Continues directly from Beat 41: same season, lighting, location, and the same animals in the same condition. Use Beat 41 as the reference image.
 
 **Beat 43**
 [Script Segment Text]: "As summer comes, the family climbs. The snow melts upward, and the ibex follow the green line as it rises up the mountain."
@@ -474,7 +432,6 @@ Camera Angle: Aerial shot from a quiet high-altitude drone, sweeping along the m
 Lighting: Clear high-altitude summer sun under a deep blue sky, crisp light with soft rim light on fur
 Mood: Summer
 Action: The family climbs
-Continuity: Opens scene "Summer meadows" (Beats 43–48). Use this image as the reference for every beat in the scene.
 
 **Beat 44**
 [Script Segment Text]: "Higher and higher, until by midsummer they are grazing on meadows more than five thousand meters above the sea,"
@@ -485,7 +442,6 @@ Camera Angle: Wide telephoto landscape shot, 300mm, compressed perspective stack
 Lighting: Clear high-altitude summer sun under a deep blue sky, crisp light with soft rim light on fur
 Mood: Five thousand meters
 Action: Meadows beneath the glaciers
-Continuity: Scene "Summer meadows", shot 2 of 6. Continues directly from Beat 43: same season, lighting, location, and the same animals in the same condition. Use Beat 43 as the reference image.
 
 **Beat 45**
 [Script Segment Text]: "where the air holds half the oxygen it does at the coast. And for most of the year, the family lives apart."
@@ -496,7 +452,6 @@ Camera Angle: Long telephoto lens, 600mm, very shallow depth of field, camera at
 Lighting: Clear high-altitude summer sun under a deep blue sky, crisp light with soft rim light on fur
 Mood: Thin air
 Action: Ibex breathing hard in thin air
-Continuity: Scene "Summer meadows", shot 3 of 6. Continues directly from Beat 44: same season, lighting, location, and the same animals in the same condition. Use Beat 44 as the reference image.
 
 **Beat 46**
 [Script Segment Text]: "The males gather in their own herds, on gentler slopes with richer grass, where they can eat as much as possible and grow"
@@ -507,7 +462,6 @@ Camera Angle: Aerial shot from a quiet high-altitude drone, sweeping along the m
 Lighting: Clear high-altitude summer sun under a deep blue sky, crisp light with soft rim light on fur
 Mood: Bachelor herds
 Action: Males on gentler slopes
-Continuity: Scene "Summer meadows", shot 4 of 6. Continues directly from Beat 45: same season, lighting, location, and the same animals in the same condition. Use Beat 45 as the reference image.
 
 **Beat 47**
 [Script Segment Text]: "as big as possible. The females and young stay on the steepest, most broken ground on the mountain, closer to the cliffs,"
@@ -518,7 +472,6 @@ Camera Angle: Wide telephoto landscape shot, 300mm, compressed perspective stack
 Lighting: Clear high-altitude summer sun under a deep blue sky, crisp light with soft rim light on fur
 Mood: The steepest ground
 Action: Females and young near the cliffs
-Continuity: Scene "Summer meadows", shot 5 of 6. Continues directly from Beat 46: same season, lighting, location, and the same animals in the same condition. Use Beat 46 as the reference image.
 
 **Beat 48**
 [Script Segment Text]: "where the grass is poorer, but the kids are safer. For a mother, it is a simple trade. Less food. More life."
@@ -529,7 +482,6 @@ Camera Angle: Long telephoto lens, 600mm, very shallow depth of field, camera at
 Lighting: Clear high-altitude summer sun under a deep blue sky, crisp light with soft rim light on fur
 Mood: Less food, more life
 Action: Dawa and her daughter near the rock
-Continuity: Scene "Summer meadows", shot 6 of 6. Continues directly from Beat 47: same season, lighting, location, and the same animals in the same condition. Use Beat 47 as the reference image.
 
 **Beat 49**
 [Script Segment Text]: "Look closely at his horns. Each year, an ibex's horns grow, and each winter, the growth slows and leaves a ring."
@@ -540,7 +492,6 @@ Camera Angle: Extreme close-up, 800mm telephoto or close remote camera, razor-th
 Lighting: Low golden autumn light over golden grass and a fresh dusting of snow, breath steaming
 Mood: Horn rings
 Action: Close on the rings of Kesang's horns
-Continuity: Opens scene "The rut" (Beats 49–65). Use this image as the reference for every beat in the scene.
 
 **Beat 50**
 [Script Segment Text]: "Count the rings, and you can read the age of an ibex the way you read a tree. Kesang has eleven."
@@ -551,7 +502,6 @@ Camera Angle: Extreme close-up, 800mm telephoto or close remote camera, razor-th
 Lighting: Low golden autumn light over golden grass and a fresh dusting of snow, breath steaming
 Mood: Eleven
 Action: Reading his age like a tree
-Continuity: Scene "The rut", shot 2 of 17. Continues directly from Beat 49: same season, lighting, location, and the same animals in the same condition. Use Beat 49 as the reference image.
 
 **Beat 51**
 [Script Segment Text]: "On the front of each horn are thick ridges, like knuckles. And soon, he will be using them. At the start of winter,"
@@ -562,7 +512,6 @@ Camera Angle: Long telephoto lens, 600mm, very shallow depth of field, camera at
 Lighting: Low golden autumn light over golden grass and a fresh dusting of snow, breath steaming
 Mood: First snow
 Action: Males come down looking for the females
-Continuity: Scene "The rut", shot 3 of 17. Continues directly from Beat 50: same season, lighting, location, and the same animals in the same condition. Use Beat 50 as the reference image.
 
 **Beat 52**
 [Script Segment Text]: "as the first heavy snow falls, the males come down off their slopes and go looking for the females."
@@ -573,7 +522,6 @@ Camera Angle: Aerial shot from a quiet high-altitude drone, sweeping along the m
 Lighting: Low golden autumn light over golden grass and a fresh dusting of snow, breath steaming
 Mood: The rut
 Action: Males arrive among the females
-Continuity: Scene "The rut", shot 4 of 17. Continues directly from Beat 51: same season, lighting, location, and the same animals in the same condition. Use Beat 51 as the reference image.
 
 **Beat 53**
 [Script Segment Text]: "The rut has begun. It is the only time of the year the family is together. And for the males,"
@@ -584,7 +532,6 @@ Camera Angle: Wide telephoto landscape shot, 300mm, compressed perspective stack
 Lighting: Low golden autumn light over golden grass and a fresh dusting of snow, breath steaming
 Mood: Together
 Action: The whole family on one slope
-Continuity: Scene "The rut", shot 5 of 17. Continues directly from Beat 52: same season, lighting, location, and the same animals in the same condition. Use Beat 52 as the reference image.
 
 **Beat 54**
 [Script Segment Text]: "it is a battle. Two males face each other on a slope above the herd. They walk side by side, slowly,"
@@ -595,7 +542,6 @@ Camera Angle: Long telephoto lens, 600mm, very shallow depth of field, camera at
 Lighting: Low golden autumn light over golden grass and a fresh dusting of snow, breath steaming
 Mood: The display
 Action: Two males side by side
-Continuity: Scene "The rut", shot 6 of 17. Continues directly from Beat 53: same season, lighting, location, and the same animals in the same condition. Use Beat 53 as the reference image.
 
 **Beat 55**
 [Script Segment Text]: "chins raised, showing off the length of their horns. Most of the time, this is enough. The smaller male backs down."
@@ -606,7 +552,6 @@ Camera Angle: Long telephoto lens, 600mm, very shallow depth of field, camera at
 Lighting: Low golden autumn light over golden grass and a fresh dusting of snow, breath steaming
 Mood: Sizing up
 Action: Showing off the horns
-Continuity: Scene "The rut", shot 7 of 17. Continues directly from Beat 54: same season, lighting, location, and the same animals in the same condition. Use Beat 54 as the reference image.
 
 **Beat 56**
 [Script Segment Text]: "But not always. The two males rear up on their hind legs, standing taller than a man. Hang there, perfectly balanced."
@@ -617,7 +562,6 @@ Camera Angle: Close-range tracking shot, 70–200mm from a few meters away, fast
 Lighting: Low golden autumn light over golden grass and a fresh dusting of snow, breath steaming
 Mood: Rearing
 Action: Both rear up taller than a man
-Continuity: Scene "The rut", shot 8 of 17. Continues directly from Beat 55: same season, lighting, location, and the same animals in the same condition. Use Beat 55 as the reference image.
 
 **Beat 57**
 [Script Segment Text]: "And drop, slamming their horns together with the whole weight of their bodies. The crack echoes off the cliffs. Again. And again."
@@ -628,7 +572,6 @@ Camera Angle: Close-range tracking shot, 70–200mm from a few meters away, fast
 Lighting: Low golden autumn light over golden grass and a fresh dusting of snow, breath steaming
 Mood: Crack
 Action: Horns slammed together
-Continuity: Scene "The rut", shot 9 of 17. Continues directly from Beat 56: same season, lighting, location, and the same animals in the same condition. Use Beat 56 as the reference image.
 
 **Beat 58**
 [Script Segment Text]: "An ibex can take blows like this because its skull is built like a crash helmet, with a double layer of bone over the brain."
@@ -639,7 +582,6 @@ Camera Angle: Extreme close-up, 800mm telephoto or close remote camera, razor-th
 Lighting: Low golden autumn light over golden grass and a fresh dusting of snow, breath steaming
 Mood: Crash helmet
 Action: The thick skull and horn bases
-Continuity: Scene "The rut", shot 10 of 17. Continues directly from Beat 57: same season, lighting, location, and the same animals in the same condition. Use Beat 57 as the reference image.
 
 **Beat 59**
 [Script Segment Text]: "And the ridges on the horns lock together, so the force goes down into the thick muscles of the neck."
@@ -650,7 +592,6 @@ Camera Angle: Extreme close-up, 800mm telephoto or close remote camera, razor-th
 Lighting: Low golden autumn light over golden grass and a fresh dusting of snow, breath steaming
 Mood: Locked
 Action: Horn ridges locked together
-Continuity: Scene "The rut", shot 11 of 17. Continues directly from Beat 58: same season, lighting, location, and the same animals in the same condition. Use Beat 58 as the reference image.
 
 **Beat 60**
 [Script Segment Text]: "Kesang wins. And now comes the strangest part of the rut. He does not charge at Dawa. He creeps toward her,"
@@ -661,7 +602,6 @@ Camera Angle: Long telephoto lens, 600mm, very shallow depth of field, camera at
 Lighting: Low golden autumn light over golden grass and a fresh dusting of snow, breath steaming
 Mood: Victory
 Action: Kesang approaches Dawa
-Continuity: Scene "The rut", shot 12 of 17. Continues directly from Beat 59: same season, lighting, location, and the same animals in the same condition. Use Beat 59 as the reference image.
 
 **Beat 61**
 [Script Segment Text]: "low to the ground, his neck stretched out, flicking his tongue in and out. Then he stops, lifts his head,"
@@ -672,7 +612,6 @@ Camera Angle: Long telephoto lens, 600mm, very shallow depth of field, camera at
 Lighting: Low golden autumn light over golden grass and a fresh dusting of snow, breath steaming
 Mood: Courtship
 Action: Low, neck stretched, tongue flicking
-Continuity: Scene "The rut", shot 13 of 17. Continues directly from Beat 60: same season, lighting, location, and the same animals in the same condition. Use Beat 60 as the reference image.
 
 **Beat 62**
 [Script Segment Text]: "and curls back his upper lip in a strange, frozen grimace. He is not snarling. He is tasting the air."
@@ -683,7 +622,6 @@ Camera Angle: Extreme close-up, 800mm telephoto or close remote camera, razor-th
 Lighting: Low golden autumn light over golden grass and a fresh dusting of snow, breath steaming
 Mood: The grimace
 Action: The lip curl
-Continuity: Scene "The rut", shot 14 of 17. Continues directly from Beat 61: same season, lighting, location, and the same animals in the same condition. Use Beat 61 as the reference image.
 
 **Beat 63**
 [Script Segment Text]: "That grimace pulls scent into a special organ in the roof of his mouth. It tells him whether Dawa is ready to breed."
@@ -694,7 +632,6 @@ Camera Angle: Extreme close-up, 800mm telephoto or close remote camera, razor-th
 Lighting: Low golden autumn light over golden grass and a fresh dusting of snow, breath steaming
 Mood: Tasting the air
 Action: Scent drawn into the mouth
-Continuity: Scene "The rut", shot 15 of 17. Continues directly from Beat 62: same season, lighting, location, and the same animals in the same condition. Use Beat 62 as the reference image.
 
 **Beat 64**
 [Script Segment Text]: "And she will only be ready for a day or two in the entire year. Miss it, and he waits another twelve months."
@@ -705,7 +642,6 @@ Camera Angle: Long telephoto lens, 600mm, very shallow depth of field, camera at
 Lighting: Low golden autumn light over golden grass and a fresh dusting of snow, breath steaming
 Mood: A day or two
 Action: Dawa ready to breed
-Continuity: Scene "The rut", shot 16 of 17. Continues directly from Beat 63: same season, lighting, location, and the same animals in the same condition. Use Beat 63 as the reference image.
 
 **Beat 65**
 [Script Segment Text]: "For weeks, Kesang barely eats. He spends every hour guarding the females and fighting off rivals. By the end of the rut,"
@@ -716,7 +652,6 @@ Camera Angle: Long telephoto lens, 600mm, very shallow depth of field, camera at
 Lighting: Low golden autumn light over golden grass and a fresh dusting of snow, breath steaming
 Mood: Guarding
 Action: Kesang guards the females
-Continuity: Scene "The rut", shot 17 of 17. Continues directly from Beat 64: same season, lighting, location, and the same animals in the same condition. Use Beat 64 as the reference image.
 
 **Beat 66**
 [Script Segment Text]: "he will have burned away much of the fat he spent all summer building. Winter in the Karakoram is long and brutal."
@@ -727,7 +662,6 @@ Camera Angle: Long telephoto lens, 600mm, very shallow depth of field, camera at
 Lighting: Low pale winter sun on deep snow, steel-blue shadows, breath steaming in the frozen air
 Mood: Burned away
 Action: Kesang thin as winter arrives
-Continuity: Opens scene "Winter" (Beats 66–73). Use this image as the reference for every beat in the scene.
 
 **Beat 67**
 [Script Segment Text]: "Temperatures fall to thirty below. Snow buries the high meadows, and the ibex are driven lower down the mountain."
@@ -738,7 +672,6 @@ Camera Angle: Aerial shot from a quiet high-altitude drone, sweeping along the m
 Lighting: Low pale winter sun on deep snow, steel-blue shadows, breath steaming in the frozen air
 Mood: Thirty below
 Action: Snow buries the meadows
-Continuity: Scene "Winter", shot 2 of 8. Continues directly from Beat 66: same season, lighting, location, and the same animals in the same condition. Use Beat 66 as the reference image.
 
 **Beat 68**
 [Script Segment Text]: "But they do not go down into the deep snow of the valleys. In snow up to its chest, an ibex cannot run,"
@@ -749,7 +682,6 @@ Camera Angle: Low ground-level remote camera, 35mm, grass and snow sharp in the 
 Lighting: Low pale winter sun on deep snow, steel-blue shadows, breath steaming in the frozen air
 Mood: Helpless in deep snow
 Action: An ibex sinking to its chest
-Continuity: Scene "Winter", shot 3 of 8. Continues directly from Beat 67: same season, lighting, location, and the same animals in the same condition. Use Beat 67 as the reference image.
 
 **Beat 69**
 [Script Segment Text]: "and cannot climb. On flat ground in winter, it is helpless. So instead, the family moves onto the steep slopes that face the sun."
@@ -760,7 +692,6 @@ Camera Angle: Wide telephoto landscape shot, 300mm, compressed perspective stack
 Lighting: Low pale winter sun on deep snow, steel-blue shadows, breath steaming in the frozen air
 Mood: Sun-facing slopes
 Action: The family moves onto steep sunny slopes
-Continuity: Scene "Winter", shot 4 of 8. Continues directly from Beat 68: same season, lighting, location, and the same animals in the same condition. Use Beat 68 as the reference image.
 
 **Beat 70**
 [Script Segment Text]: "Slopes so steep that the snow slides off them, or is blown away by the wind, leaving the grass underneath bare."
@@ -771,7 +702,6 @@ Camera Angle: Long telephoto lens, 600mm, very shallow depth of field, camera at
 Lighting: Low pale winter sun on deep snow, steel-blue shadows, breath steaming in the frozen air
 Mood: Bare grass
 Action: Snow blown off the slope
-Continuity: Scene "Winter", shot 5 of 8. Continues directly from Beat 69: same season, lighting, location, and the same animals in the same condition. Use Beat 69 as the reference image.
 
 **Beat 71**
 [Script Segment Text]: "On these slopes, they can feed, and still be a few leaps from the cliffs. Their coats have changed too."
@@ -782,7 +712,6 @@ Camera Angle: Long telephoto lens, 600mm, very shallow depth of field, camera at
 Lighting: Low pale winter sun on deep snow, steel-blue shadows, breath steaming in the frozen air
 Mood: A few leaps away
 Action: Feeding beside the cliffs
-Continuity: Scene "Winter", shot 6 of 8. Continues directly from Beat 70: same season, lighting, location, and the same animals in the same condition. Use Beat 70 as the reference image.
 
 **Beat 72**
 [Script Segment Text]: "Under the long outer hair, they now grow a layer of fine, soft wool, one of the warmest natural fibres on Earth."
@@ -793,7 +722,6 @@ Camera Angle: Extreme close-up, 800mm telephoto or close remote camera, razor-th
 Lighting: Low pale winter sun on deep snow, steel-blue shadows, breath steaming in the frozen air
 Mood: Winter wool
 Action: Fine wool under the long hair
-Continuity: Scene "Winter", shot 7 of 8. Continues directly from Beat 71: same season, lighting, location, and the same animals in the same condition. Use Beat 71 as the reference image.
 
 **Beat 73**
 [Script Segment Text]: "It traps the heat so well that snow can settle on an ibex's back without melting. But winter is not only hard for the ibex."
@@ -804,7 +732,6 @@ Camera Angle: Extreme close-up, 800mm telephoto or close remote camera, razor-th
 Lighting: Low pale winter sun on deep snow, steel-blue shadows, breath steaming in the frozen air
 Mood: Snow that doesn't melt
 Action: Snow settled on an ibex's back
-Continuity: Scene "Winter", shot 8 of 8. Continues directly from Beat 72: same season, lighting, location, and the same animals in the same condition. Use Beat 72 as the reference image.
 
 **Beat 74**
 [Script Segment Text]: "It is hard for the animal that hunts them. Up here, there are almost no large animals to eat."
@@ -815,7 +742,6 @@ Camera Angle: Aerial shot from a quiet high-altitude drone, sweeping along the m
 Lighting: Low pale winter sun on deep snow, steel-blue shadows, breath steaming in the frozen air
 Mood: Empty mountains
 Action: No other large animals
-Continuity: Opens scene "The snow leopard" (Beats 74–86). Use this image as the reference for every beat in the scene.
 
 **Beat 75**
 [Script Segment Text]: "For a snow leopard in the Karakoram, the ibex is everything. Along with the wild blue sheep,"
@@ -826,7 +752,6 @@ Camera Angle: Long telephoto lens, 600mm, very shallow depth of field, camera at
 Lighting: Low pale winter sun on deep snow, steel-blue shadows, breath steaming in the frozen air
 Mood: The ibex is everything
 Action: A snow leopard watching ibex
-Continuity: Scene "The snow leopard", shot 2 of 13. Continues directly from Beat 74: same season, lighting, location, and the same animals in the same condition. Use Beat 74 as the reference image.
 
 **Beat 76**
 [Script Segment Text]: "ibex make up most of what a snow leopard eats in its entire life. And one ibex is worth the risk."
@@ -837,7 +762,6 @@ Camera Angle: Wide telephoto landscape shot, 300mm, compressed perspective stack
 Lighting: Low pale winter sun on deep snow, steel-blue shadows, breath steaming in the frozen air
 Mood: Prey
 Action: Ibex and blue sheep on the slopes
-Continuity: Scene "The snow leopard", shot 3 of 13. Continues directly from Beat 75: same season, lighting, location, and the same animals in the same condition. Use Beat 75 as the reference image.
 
 **Beat 77**
 [Script Segment Text]: "A grown ibex can weigh three times as much as the leopard that kills it. A single kill can feed her for a week."
@@ -848,7 +772,6 @@ Camera Angle: Long telephoto lens, 600mm, very shallow depth of field, camera at
 Lighting: Low pale winter sun on deep snow, steel-blue shadows, breath steaming in the frozen air
 Mood: Worth the risk
 Action: A grown ibex next to a leopard's size
-Continuity: Scene "The snow leopard", shot 4 of 13. Continues directly from Beat 76: same season, lighting, location, and the same animals in the same condition. Use Beat 76 as the reference image.
 
 **Beat 78**
 [Script Segment Text]: "Without one, she starves. Everything about the snow leopard is built for hunting ibex on this mountain. Her paws are huge"
@@ -859,7 +782,6 @@ Camera Angle: Extreme close-up, 800mm telephoto or close remote camera, razor-th
 Lighting: Low pale winter sun on deep snow, steel-blue shadows, breath steaming in the frozen air
 Mood: Snowshoes
 Action: Huge furry paws
-Continuity: Scene "The snow leopard", shot 5 of 13. Continues directly from Beat 77: same season, lighting, location, and the same animals in the same condition. Use Beat 77 as the reference image.
 
 **Beat 79**
 [Script Segment Text]: "and covered in fur, so they spread her weight across the snow like snowshoes. Her back legs are longer than her front legs,"
@@ -870,7 +792,6 @@ Camera Angle: Telephoto tracking shot, 600mm, fast shutter freezing motion
 Lighting: Low pale winter sun on deep snow, steel-blue shadows, breath steaming in the frozen air
 Mood: Built to leap
 Action: Long back legs
-Continuity: Scene "The snow leopard", shot 6 of 13. Continues directly from Beat 78: same season, lighting, location, and the same animals in the same condition. Use Beat 78 as the reference image.
 
 **Beat 80**
 [Script Segment Text]: "giving her the power to leap many times her own body length, up a slope or across a gap in the rock."
@@ -881,7 +802,6 @@ Camera Angle: Telephoto tracking shot, 600mm, fast shutter freezing motion
 Lighting: Low pale winter sun on deep snow, steel-blue shadows, breath steaming in the frozen air
 Mood: Across the gap
 Action: A leap across a gap in the rock
-Continuity: Scene "The snow leopard", shot 7 of 13. Continues directly from Beat 79: same season, lighting, location, and the same animals in the same condition. Use Beat 79 as the reference image.
 
 **Beat 81**
 [Script Segment Text]: "Her tail is almost as long as her body. She uses it to balance on narrow ledges, and to steer in mid-air."
@@ -892,7 +812,6 @@ Camera Angle: Close-range tracking shot, 70–200mm from a few meters away, fast
 Lighting: Low pale winter sun on deep snow, steel-blue shadows, breath steaming in the frozen air
 Mood: The tail
 Action: Balancing on a narrow ledge
-Continuity: Scene "The snow leopard", shot 8 of 13. Continues directly from Beat 80: same season, lighting, location, and the same animals in the same condition. Use Beat 80 as the reference image.
 
 **Beat 82**
 [Script Segment Text]: "At night, she wraps it around her face like a scarf against the cold. She cannot roar, so she hunts in total silence,"
@@ -903,7 +822,6 @@ Camera Angle: Extreme close-up, 800mm telephoto or close remote camera, razor-th
 Lighting: Soft silver moonlight on the cliffs and snowfields, a faint cold rim light, stars above
 Mood: A scarf
 Action: Tail wrapped around her face
-Continuity: Scene "The snow leopard", shot 9 of 13. Continues directly from Beat 81: same season, lighting, location, and the same animals in the same condition. Use Beat 81 as the reference image.
 
 **Beat 83**
 [Script Segment Text]: "and against the rock she is almost invisible. The people of these mountains call her the grey ghost. But she is a sprinter,"
@@ -914,7 +832,6 @@ Camera Angle: Extreme close-up, 800mm telephoto or close remote camera, razor-th
 Lighting: Low pale winter sun on deep snow, steel-blue shadows, breath steaming in the frozen air
 Mood: The grey ghost
 Action: Rosettes against the rock
-Continuity: Scene "The snow leopard", shot 10 of 13. Continues directly from Beat 82: same season, lighting, location, and the same animals in the same condition. Use Beat 82 as the reference image.
 
 **Beat 84**
 [Script Segment Text]: "built for a few seconds of speed, never a long chase. That is why she picks her targets so carefully."
@@ -925,7 +842,6 @@ Camera Angle: Telephoto tracking shot, 600mm, fast shutter freezing motion
 Lighting: Low pale winter sun on deep snow, steel-blue shadows, breath steaming in the frozen air
 Mood: Sprinter
 Action: A short explosive burst
-Continuity: Scene "The snow leopard", shot 11 of 13. Continues directly from Beat 83: same season, lighting, location, and the same animals in the same condition. Use Beat 83 as the reference image.
 
 **Beat 85**
 [Script Segment Text]: "Not the strongest ibex in the herd. The young, who have not yet learned the mountain. The old,"
@@ -936,7 +852,6 @@ Camera Angle: Long telephoto lens, 600mm, very shallow depth of field, camera at
 Lighting: Low pale winter sun on deep snow, steel-blue shadows, breath steaming in the frozen air
 Mood: Choosing
 Action: Scanning the herd for the weakest
-Continuity: Scene "The snow leopard", shot 12 of 13. Continues directly from Beat 84: same season, lighting, location, and the same animals in the same condition. Use Beat 84 as the reference image.
 
 **Beat 86**
 [Script Segment Text]: "who are too slow. The sick, the injured, and the ones who wander too far from the rock."
@@ -947,7 +862,6 @@ Camera Angle: Long telephoto lens, 600mm, very shallow depth of field, camera at
 Lighting: Low pale winter sun on deep snow, steel-blue shadows, breath steaming in the frozen air
 Mood: The weak
 Action: An ibex far from the rock
-Continuity: Scene "The snow leopard", shot 13 of 13. Continues directly from Beat 85: same season, lighting, location, and the same animals in the same condition. Use Beat 85 as the reference image.
 
 **Beat 87**
 [Script Segment Text]: "And this winter, Dawa's daughter is all of those things at once. She is not yet two years old."
@@ -958,7 +872,6 @@ Camera Angle: Long telephoto lens, 600mm, very shallow depth of field, camera at
 Lighting: Low pale winter sun on deep snow, steel-blue shadows, breath steaming in the frozen air
 Mood: Target
 Action: Dawa's daughter
-Continuity: Opens scene "The hunt for Dawa's daughter" (Beats 87–105). Use this image as the reference for every beat in the scene.
 
 **Beat 88**
 [Script Segment Text]: "And in the hungry days of late winter, she has started feeding at the very bottom of the herd,"
@@ -969,7 +882,6 @@ Camera Angle: Aerial shot from a quiet high-altitude drone, sweeping along the m
 Lighting: Low pale winter sun on deep snow, steel-blue shadows, breath steaming in the frozen air
 Mood: Hungry days
 Action: Feeding at the very bottom of the herd
-Continuity: Scene "The hunt for Dawa's daughter", shot 2 of 19. Continues directly from Beat 87: same season, lighting, location, and the same animals in the same condition. Use Beat 87 as the reference image.
 
 **Beat 89**
 [Script Segment Text]: "on the slope below the cliffs, where the snow is thinnest and the grass is easiest to reach. The leopard has seen her."
@@ -980,7 +892,6 @@ Camera Angle: Long telephoto lens, 600mm, very shallow depth of field, camera at
 Lighting: Low pale winter sun on deep snow, steel-blue shadows, breath steaming in the frozen air
 Mood: Seen
 Action: The leopard watches her
-Continuity: Scene "The hunt for Dawa's daughter", shot 3 of 19. Continues directly from Beat 88: same season, lighting, location, and the same animals in the same condition. Use Beat 88 as the reference image.
 
 **Beat 90**
 [Script Segment Text]: "She circles above the herd, out of sight, until she is on the ridge directly above the young ibex."
@@ -991,7 +902,6 @@ Camera Angle: Wide telephoto landscape shot, 300mm, compressed perspective stack
 Lighting: Low pale winter sun on deep snow, steel-blue shadows, breath steaming in the frozen air
 Mood: Circling
 Action: Moving above the herd out of sight
-Continuity: Scene "The hunt for Dawa's daughter", shot 4 of 19. Continues directly from Beat 89: same season, lighting, location, and the same animals in the same condition. Use Beat 89 as the reference image.
 
 **Beat 91**
 [Script Segment Text]: "Then she starts to come down. Belly to the rock. One paw at a time. Every time an ibex lifts its head,"
@@ -1002,7 +912,6 @@ Camera Angle: Low ground-level remote camera, 35mm, grass and snow sharp in the 
 Lighting: Low pale winter sun on deep snow, steel-blue shadows, breath steaming in the frozen air
 Mood: Stalk
 Action: Belly to the rock
-Continuity: Scene "The hunt for Dawa's daughter", shot 5 of 19. Continues directly from Beat 90: same season, lighting, location, and the same animals in the same condition. Use Beat 90 as the reference image.
 
 **Beat 92**
 [Script Segment Text]: "she freezes, and becomes just another grey stone. It takes her almost an hour to move a hundred meters. Fifty meters."
@@ -1013,7 +922,6 @@ Camera Angle: Long telephoto lens, 600mm, very shallow depth of field, camera at
 Lighting: Low pale winter sun on deep snow, steel-blue shadows, breath steaming in the frozen air
 Mood: Frozen
 Action: She becomes a grey stone
-Continuity: Scene "The hunt for Dawa's daughter", shot 6 of 19. Continues directly from Beat 91: same season, lighting, location, and the same animals in the same condition. Use Beat 91 as the reference image.
 
 **Beat 93**
 [Script Segment Text]: "Thirty. Twenty. Then a pebble slides from under her paw, and rattles down the slope. The young ibex looks up."
@@ -1024,7 +932,6 @@ Camera Angle: Extreme close-up, 800mm telephoto or close remote camera, razor-th
 Lighting: Low pale winter sun on deep snow, steel-blue shadows, breath steaming in the frozen air
 Mood: The pebble
 Action: A pebble rattles down
-Continuity: Scene "The hunt for Dawa's daughter", shot 7 of 19. Continues directly from Beat 92: same season, lighting, location, and the same animals in the same condition. Use Beat 92 as the reference image.
 
 **Beat 94**
 [Script Segment Text]: "And the leopard launches. The daughter does what every young animal does. She runs away from the danger. Down the slope."
@@ -1035,7 +942,6 @@ Camera Angle: Telephoto tracking shot, 600mm, fast shutter freezing motion
 Lighting: Low pale winter sun on deep snow, steel-blue shadows, breath steaming in the frozen air
 Mood: Launch
 Action: The leopard launches; the daughter runs downhill
-Continuity: Scene "The hunt for Dawa's daughter", shot 8 of 19. Continues directly from Beat 93: same season, lighting, location, and the same animals in the same condition. Use Beat 93 as the reference image.
 
 **Beat 95**
 [Script Segment Text]: "The worst way she could go. From above the herd, Dawa whistles. Once. Sharp. And her daughter turns. Not down."
@@ -1046,7 +952,6 @@ Camera Angle: Long telephoto lens, 600mm, very shallow depth of field, camera at
 Lighting: Low pale winter sun on deep snow, steel-blue shadows, breath steaming in the frozen air
 Mood: The whistle
 Action: Dawa whistles from above
-Continuity: Scene "The hunt for Dawa's daughter", shot 9 of 19. Continues directly from Beat 94: same season, lighting, location, and the same animals in the same condition. Use Beat 94 as the reference image.
 
 **Beat 96**
 [Script Segment Text]: "Up. Straight across the slope, toward a band of cliffs, with the leopard closing behind her in great bounding leaps."
@@ -1057,7 +962,6 @@ Camera Angle: Telephoto tracking shot, 600mm, fast shutter freezing motion
 Lighting: Low pale winter sun on deep snow, steel-blue shadows, breath steaming in the frozen air
 Mood: Up
 Action: Across the slope toward the cliffs
-Continuity: Scene "The hunt for Dawa's daughter", shot 10 of 19. Continues directly from Beat 95: same season, lighting, location, and the same animals in the same condition. Use Beat 95 as the reference image.
 
 **Beat 97**
 [Script Segment Text]: "She hits the rock and starts to climb. One leap. Two. Her front hooves catch a ledge."
@@ -1068,7 +972,6 @@ Camera Angle: Close-range tracking shot, 70–200mm from a few meters away, fast
 Lighting: Low pale winter sun on deep snow, steel-blue shadows, breath steaming in the frozen air
 Mood: The rock
 Action: She hits the rock and climbs
-Continuity: Scene "The hunt for Dawa's daughter", shot 11 of 19. Continues directly from Beat 96: same season, lighting, location, and the same animals in the same condition. Use Beat 96 as the reference image.
 
 **Beat 98**
 [Script Segment Text]: "And the leopard's claws catch her back leg. For a moment, they hang together on the face of the cliff,"
@@ -1079,7 +982,6 @@ Camera Angle: Close-range tracking shot, 70–200mm from a few meters away, fast
 Lighting: Low pale winter sun on deep snow, steel-blue shadows, breath steaming in the frozen air
 Mood: Caught
 Action: Claws catch her back leg
-Continuity: Scene "The hunt for Dawa's daughter", shot 12 of 19. Continues directly from Beat 97: same season, lighting, location, and the same animals in the same condition. Use Beat 97 as the reference image.
 
 **Beat 99**
 [Script Segment Text]: "the leopard pulling down, the young ibex scrambling up, stones falling around them. Then the daughter kicks, hard, with her back hooves."
@@ -1090,7 +992,6 @@ Camera Angle: Close-range tracking shot, 70–200mm from a few meters away, fast
 Lighting: Low pale winter sun on deep snow, steel-blue shadows, breath steaming in the frozen air
 Mood: The kick
 Action: The daughter kicks hard
-Continuity: Scene "The hunt for Dawa's daughter", shot 13 of 19. Continues directly from Beat 98: same season, lighting, location, and the same animals in the same condition. Use Beat 98 as the reference image.
 
 **Beat 100**
 [Script Segment Text]: "The leopard's grip slips. She slides down the rock and drops to the snow below, landing on her feet."
@@ -1101,7 +1002,6 @@ Camera Angle: Telephoto tracking shot, 600mm, fast shutter freezing motion
 Lighting: Low pale winter sun on deep snow, steel-blue shadows, breath steaming in the frozen air
 Mood: Falling
 Action: The leopard drops to the snow
-Continuity: Scene "The hunt for Dawa's daughter", shot 14 of 19. Continues directly from Beat 99: same season, lighting, location, and the same animals in the same condition. Use Beat 99 as the reference image.
 
 **Beat 101**
 [Script Segment Text]: "The daughter pulls herself onto the ledge. Then up again. And again. Until she is standing high on the wall, shaking,"
@@ -1112,7 +1012,6 @@ Camera Angle: Telephoto shot looking up the cliff from below, 400mm, sky behind
 Lighting: Low pale winter sun on deep snow, steel-blue shadows, breath steaming in the frozen air
 Mood: Climbing away
 Action: The daughter climbs higher
-Continuity: Scene "The hunt for Dawa's daughter", shot 15 of 19. Continues directly from Beat 100: same season, lighting, location, and the same animals in the same condition. Use Beat 100 as the reference image.
 
 **Beat 102**
 [Script Segment Text]: "with a line of scratches down her leg. The leopard looks up at her for a long time. Then she walks away."
@@ -1123,7 +1022,6 @@ Camera Angle: Extreme close-up, 800mm telephoto or close remote camera, razor-th
 Lighting: Low pale winter sun on deep snow, steel-blue shadows, breath steaming in the frozen air
 Mood: Shaking
 Action: Scratches down her leg
-Continuity: Scene "The hunt for Dawa's daughter", shot 16 of 19. Continues directly from Beat 101: same season, lighting, location, and the same animals in the same condition. Use Beat 101 as the reference image.
 
 **Beat 103**
 [Script Segment Text]: "Why did she get away? Because of her hooves. On bare rock, an ibex's split hooves and rubbery pads hold"
@@ -1134,7 +1032,6 @@ Camera Angle: Extreme close-up, 800mm telephoto or close remote camera, razor-th
 Lighting: Low pale winter sun on deep snow, steel-blue shadows, breath steaming in the frozen air
 Mood: Grip
 Action: Ibex hooves versus leopard claws on rock
-Continuity: Scene "The hunt for Dawa's daughter", shot 17 of 19. Continues directly from Beat 102: same season, lighting, location, and the same animals in the same condition. Use Beat 102 as the reference image.
 
 **Beat 104**
 [Script Segment Text]: "where a leopard's claws slip. The kick did the rest. And a leopard that misses has spent her burst of speed."
@@ -1145,7 +1042,6 @@ Camera Angle: Long telephoto lens, 600mm, very shallow depth of field, camera at
 Lighting: Low pale winter sun on deep snow, steel-blue shadows, breath steaming in the frozen air
 Mood: Spent
 Action: The leopard rests after the miss
-Continuity: Scene "The hunt for Dawa's daughter", shot 18 of 19. Continues directly from Beat 103: same season, lighting, location, and the same animals in the same condition. Use Beat 103 as the reference image.
 
 **Beat 105**
 [Script Segment Text]: "She will have to rest, and wait, perhaps for days. But for one old ibex, the winter is too much."
@@ -1156,7 +1052,6 @@ Camera Angle: Aerial shot from a quiet high-altitude drone, sweeping along the m
 Lighting: Low pale winter sun on deep snow, steel-blue shadows, breath steaming in the frozen air
 Mood: Days of waiting
 Action: The leopard alone on the mountain
-Continuity: Scene "The hunt for Dawa's daughter", shot 19 of 19. Continues directly from Beat 104: same season, lighting, location, and the same animals in the same condition. Use Beat 104 as the reference image.
 
 **Beat 106**
 [Script Segment Text]: "He is older than Kesang, thin and stiff, his horns heavy with fourteen rings. The rut burned away his fat,"
@@ -1167,7 +1062,6 @@ Camera Angle: Long telephoto lens, 600mm, very shallow depth of field, camera at
 Lighting: Low pale winter sun on deep snow, steel-blue shadows, breath steaming in the frozen air
 Mood: The old male
 Action: Thin and stiff, fourteen rings
-Continuity: Opens scene "The old male" (Beats 106–108). Use this image as the reference for every beat in the scene.
 
 **Beat 107**
 [Script Segment Text]: "and the deep cold is doing the rest. And he has started feeding far from the cliffs, where the snow is thinner."
@@ -1178,7 +1072,6 @@ Camera Angle: Long telephoto lens, 600mm, very shallow depth of field, camera at
 Lighting: Low pale winter sun on deep snow, steel-blue shadows, breath steaming in the frozen air
 Mood: Too far
 Action: Feeding far from the cliffs
-Continuity: Scene "The old male", shot 2 of 3. Continues directly from Beat 106: same season, lighting, location, and the same animals in the same condition. Use Beat 106 as the reference image.
 
 **Beat 108**
 [Script Segment Text]: "The snow leopard has been watching him for three days. He is the target she has been waiting for. Old. Weak. Alone."
@@ -1189,7 +1082,6 @@ Camera Angle: Long telephoto lens, 600mm, very shallow depth of field, camera at
 Lighting: Low pale winter sun on deep snow, steel-blue shadows, breath steaming in the frozen air
 Mood: Target
 Action: The leopard watches the old male
-Continuity: Scene "The old male", shot 3 of 3. Continues directly from Beat 107: same season, lighting, location, and the same animals in the same condition. Use Beat 107 as the reference image.
 
 **Beat 109**
 [Script Segment Text]: "And she has learned his path. Down the gully at dawn, out onto the flat ground, back to the cliffs before noon."
@@ -1200,7 +1092,6 @@ Camera Angle: Wide telephoto landscape shot, 300mm, compressed perspective stack
 Lighting: Cold blue winter dawn turning pink on the peaks, frost in the air
 Mood: His path
 Action: Tracks down the gully onto the flat
-Continuity: Opens scene "The ambush at dawn" (Beats 109–115). Use this image as the reference for every beat in the scene.
 
 **Beat 110**
 [Script Segment Text]: "That morning, she does not wait above him. She waits in the snow, flat, behind a ridge, between him and the cliffs."
@@ -1211,7 +1102,6 @@ Camera Angle: Low ground-level remote camera, 35mm, grass and snow sharp in the 
 Lighting: Cold blue winter dawn turning pink on the peaks, frost in the air
 Mood: The ambush
 Action: Waiting behind a ridge, between him and the cliffs
-Continuity: Scene "The ambush at dawn", shot 2 of 7. Continues directly from Beat 109: same season, lighting, location, and the same animals in the same condition. Use Beat 109 as the reference image.
 
 **Beat 111**
 [Script Segment Text]: "He walks out onto the flat ground. Lowers his head to dig for grass. She comes over the ridge at a sprint."
@@ -1222,7 +1112,6 @@ Camera Angle: Telephoto tracking shot, 600mm, fast shutter freezing motion
 Lighting: Cold blue winter dawn turning pink on the peaks, frost in the air
 Mood: The sprint
 Action: She comes over the ridge
-Continuity: Scene "The ambush at dawn", shot 3 of 7. Continues directly from Beat 110: same season, lighting, location, and the same animals in the same condition. Use Beat 110 as the reference image.
 
 **Beat 112**
 [Script Segment Text]: "He sees her and runs for the cliffs. But she is already between them. He turns, and runs the only way left."
@@ -1233,7 +1122,6 @@ Camera Angle: Telephoto tracking shot, 600mm, fast shutter freezing motion
 Lighting: Cold blue winter dawn turning pink on the peaks, frost in the air
 Mood: Cut off
 Action: He runs for the cliffs but she is between
-Continuity: Scene "The ambush at dawn", shot 4 of 7. Continues directly from Beat 111: same season, lighting, location, and the same animals in the same condition. Use Beat 111 as the reference image.
 
 **Beat 113**
 [Script Segment Text]: "Down the slope, onto the flat. On the open ground, the snow leopard is faster. Fifty meters. Twenty. She leaps,"
@@ -1244,7 +1132,6 @@ Camera Angle: Telephoto tracking shot, 600mm, fast shutter freezing motion
 Lighting: Cold blue winter dawn turning pink on the peaks, frost in the air
 Mood: The flat
 Action: Fifty meters, twenty
-Continuity: Scene "The ambush at dawn", shot 5 of 7. Continues directly from Beat 112: same season, lighting, location, and the same animals in the same condition. Use Beat 112 as the reference image.
 
 **Beat 114**
 [Script Segment Text]: "and lands on his back. He staggers, and goes down in the snow. The old ibex did nothing wrong."
@@ -1255,7 +1142,6 @@ Camera Angle: Close-range tracking shot, 70–200mm from a few meters away, fast
 Lighting: Cold blue winter dawn turning pink on the peaks, frost in the air
 Mood: Contact
 Action: She lands on his back
-Continuity: Scene "The ambush at dawn", shot 6 of 7. Continues directly from Beat 113: same season, lighting, location, and the same animals in the same condition. Use Beat 113 as the reference image.
 
 **Beat 115**
 [Script Segment Text]: "He was just a few hundred meters from the cliffs. This time, the leopard did not race him to the rock."
@@ -1266,7 +1152,6 @@ Camera Angle: Aerial shot from a quiet high-altitude drone, sweeping along the m
 Lighting: Cold blue winter dawn turning pink on the peaks, frost in the air
 Mood: Too far from the rock
 Action: The flat ground and the distant cliffs
-Continuity: Scene "The ambush at dawn", shot 7 of 7. Continues directly from Beat 114: same season, lighting, location, and the same animals in the same condition. Use Beat 114 as the reference image.
 
 **Beat 116**
 [Script Segment Text]: "She cut him off from it. She will stay beside the kill for days, eating, resting, and chasing off the ravens and vultures."
@@ -1277,7 +1162,6 @@ Camera Angle: Long telephoto lens, 600mm, very shallow depth of field, camera at
 Lighting: Low pale winter sun on deep snow, steel-blue shadows, breath steaming in the frozen air
 Mood: Guarding the kill
 Action: Ravens and vultures kept away
-Continuity: Opens scene "After the kill" (Beats 116–121). Use this image as the reference for every beat in the scene.
 
 **Beat 117**
 [Script Segment Text]: "For a snow leopard in winter, one old ibex is the difference between life and death. And up on the cliffs,"
@@ -1288,7 +1172,6 @@ Camera Angle: Extreme close-up, 800mm telephoto or close remote camera, razor-th
 Lighting: Low pale winter sun on deep snow, steel-blue shadows, breath steaming in the frozen air
 Mood: Life or death
 Action: The leopard rests beside her kill, licking a paw
-Continuity: Scene "After the kill", shot 2 of 6. Continues directly from Beat 116: same season, lighting, location, and the same animals in the same condition. Use Beat 116 as the reference image.
 
 **Beat 118**
 [Script Segment Text]: "the rest of the herd watches from the ledges. Safe. It sounds cruel. But the snow leopard takes the old,"
@@ -1299,7 +1182,6 @@ Camera Angle: Telephoto shot looking up the cliff from below, 400mm, sky behind
 Lighting: Low pale winter sun on deep snow, steel-blue shadows, breath steaming in the frozen air
 Mood: Safe
 Action: The herd watches from the ledges
-Continuity: Scene "After the kill", shot 3 of 6. Continues directly from Beat 117: same season, lighting, location, and the same animals in the same condition. Use Beat 117 as the reference image.
 
 **Beat 119**
 [Script Segment Text]: "the weak and the careless. The ibex that survive are the fastest, the most watchful, and the best climbers on the mountain."
@@ -1310,7 +1192,6 @@ Camera Angle: Long telephoto lens, 600mm, very shallow depth of field, camera at
 Lighting: Low pale winter sun on deep snow, steel-blue shadows, breath steaming in the frozen air
 Mood: The survivors
 Action: The fastest and most watchful
-Continuity: Scene "After the kill", shot 4 of 6. Continues directly from Beat 118: same season, lighting, location, and the same animals in the same condition. Use Beat 118 as the reference image.
 
 **Beat 120**
 [Script Segment Text]: "And they are the ones who pass that on to their kids. The hunter keeps the herd sharp."
@@ -1321,7 +1202,6 @@ Camera Angle: Telephoto tracking shot, 600mm, fast shutter freezing motion
 Lighting: Low pale winter sun on deep snow, steel-blue shadows, breath steaming in the frozen air
 Mood: Passed on
 Action: Young ibex climbing like their mothers
-Continuity: Scene "After the kill", shot 5 of 6. Continues directly from Beat 119: same season, lighting, location, and the same animals in the same condition. Use Beat 119 as the reference image.
 
 **Beat 121**
 [Script Segment Text]: "And the herd keeps the hunter alive. Through the whole of that winter, Dawa has been carrying a secret. She is pregnant."
@@ -1332,7 +1212,6 @@ Camera Angle: Wide telephoto landscape shot, 300mm, compressed perspective stack
 Lighting: Low pale winter sun on deep snow, steel-blue shadows, breath steaming in the frozen air
 Mood: The balance
 Action: Hunter and herd on one mountain
-Continuity: Scene "After the kill", shot 6 of 6. Continues directly from Beat 120: same season, lighting, location, and the same animals in the same condition. Use Beat 120 as the reference image.
 
 **Beat 122**
 [Script Segment Text]: "Inside her, a kid has been growing since the rut. It will take almost six months, through the coldest, hungriest season of the year."
@@ -1343,7 +1222,6 @@ Camera Angle: Long telephoto lens, 600mm, very shallow depth of field, camera at
 Lighting: Low pale winter sun on deep snow, steel-blue shadows, breath steaming in the frozen air
 Mood: A secret
 Action: Dawa through the winter
-Continuity: Opens scene "A winter secret" (Beats 122–122). Use this image as the reference for every beat in the scene.
 
 **Beat 123**
 [Script Segment Text]: "As the snow begins to melt and the first green returns to the slopes, Dawa does something she never does. She leaves the herd."
@@ -1354,7 +1232,6 @@ Camera Angle: Aerial shot from a quiet high-altitude drone, sweeping along the m
 Lighting: Soft spring morning light on melting snow and wet rock, the first green shoots on the ledges
 Mood: Melting
 Action: The first green returns
-Continuity: Opens scene "Spring: the birth" (Beats 123–134). Use this image as the reference for every beat in the scene.
 
 **Beat 124**
 [Script Segment Text]: "Alone, she climbs. Past the ledges where the herd rests. Past the cliffs where the leopard cannot follow. Up to the steepest,"
@@ -1365,7 +1242,6 @@ Camera Angle: Long telephoto lens, 600mm, very shallow depth of field, camera at
 Lighting: Soft spring morning light on melting snow and wet rock, the first green shoots on the ledges
 Mood: Alone
 Action: Dawa leaves the herd
-Continuity: Scene "Spring: the birth", shot 2 of 12. Continues directly from Beat 123: same season, lighting, location, and the same animals in the same condition. Use Beat 123 as the reference image.
 
 **Beat 125**
 [Script Segment Text]: "most broken rock on the whole mountain, to a ledge barely wide enough to lie on. No wolf could reach this ledge."
@@ -1376,7 +1252,6 @@ Camera Angle: Telephoto shot looking up the cliff from below, 400mm, sky behind
 Lighting: Soft spring morning light on melting snow and wet rock, the first green shoots on the ledges
 Mood: Higher
 Action: Past the ledges, past the cliffs
-Continuity: Scene "Spring: the birth", shot 3 of 12. Continues directly from Beat 124: same season, lighting, location, and the same animals in the same condition. Use Beat 124 as the reference image.
 
 **Beat 126**
 [Script Segment Text]: "No leopard would try. Only the eagles can see it. And it is here, in early summer, alone, that she gives birth."
@@ -1387,7 +1262,6 @@ Camera Angle: Telephoto shot looking straight down the cliff face, the drop fill
 Lighting: Soft spring morning light on melting snow and wet rock, the first green shoots on the ledges
 Mood: The birth ledge
 Action: A ledge barely wide enough to lie on
-Continuity: Scene "Spring: the birth", shot 4 of 12. Continues directly from Beat 125: same season, lighting, location, and the same animals in the same condition. Use Beat 125 as the reference image.
 
 **Beat 127**
 [Script Segment Text]: "The kid arrives wet, folded and tiny. Barely three kilos. Dawa licks it clean, nudging it with her nose."
@@ -1398,7 +1272,6 @@ Camera Angle: Telephoto shot looking up the cliff from below, 400mm, sky behind
 Lighting: Soft spring morning light on melting snow and wet rock, the first green shoots on the ledges
 Mood: Only the eagles
 Action: The ledge from far below
-Continuity: Scene "Spring: the birth", shot 5 of 12. Continues directly from Beat 126: same season, lighting, location, and the same animals in the same condition. Use Beat 126 as the reference image.
 
 **Beat 128**
 [Script Segment Text]: "And within an hour, on a ledge three hundred meters above the valley, the kid is standing. Its legs are shaking."
@@ -1409,7 +1282,6 @@ Camera Angle: Extreme close-up, 800mm telephoto or close remote camera, razor-th
 Lighting: Soft spring morning light on melting snow and wet rock, the first green shoots on the ledges
 Mood: Born
 Action: Dawa licks the newborn clean
-Continuity: Scene "Spring: the birth", shot 6 of 12. Continues directly from Beat 127: same season, lighting, location, and the same animals in the same condition. Use Beat 127 as the reference image.
 
 **Beat 129**
 [Script Segment Text]: "Its hooves are soft. But they are already ibex hooves, with the same hard rims and rubbery pads as its mother's."
@@ -1420,7 +1292,6 @@ Camera Angle: Extreme close-up, 800mm telephoto or close remote camera, razor-th
 Lighting: Soft spring morning light on melting snow and wet rock, the first green shoots on the ledges
 Mood: Standing
 Action: The kid stands within an hour
-Continuity: Scene "Spring: the birth", shot 7 of 12. Continues directly from Beat 128: same season, lighting, location, and the same animals in the same condition. Use Beat 128 as the reference image.
 
 **Beat 130**
 [Script Segment Text]: "For the first few days, the kid stays tucked among the rocks on the ledge, while Dawa feeds close by."
@@ -1431,7 +1302,6 @@ Camera Angle: Extreme close-up, 800mm telephoto or close remote camera, razor-th
 Lighting: Soft spring morning light on melting snow and wet rock, the first green shoots on the ledges
 Mood: Ibex hooves
 Action: Close on the newborn's hooves
-Continuity: Scene "Spring: the birth", shot 8 of 12. Continues directly from Beat 129: same season, lighting, location, and the same animals in the same condition. Use Beat 129 as the reference image.
 
 **Beat 131**
 [Script Segment Text]: "Then it follows her. And within days of being born, the kid is climbing. Down a crack. Across a ledge."
@@ -1442,7 +1312,6 @@ Camera Angle: Long telephoto lens, 600mm, very shallow depth of field, camera at
 Lighting: Soft spring morning light on melting snow and wet rock, the first green shoots on the ledges
 Mood: Tucked away
 Action: The kid hides among the rocks
-Continuity: Scene "Spring: the birth", shot 9 of 12. Continues directly from Beat 130: same season, lighting, location, and the same animals in the same condition. Use Beat 130 as the reference image.
 
 **Beat 132**
 [Script Segment Text]: "Up a slab of rock that would stop a human climber. Every step a little surer than the last."
@@ -1453,7 +1322,6 @@ Camera Angle: Close-range tracking shot, 70–200mm from a few meters away, fast
 Lighting: Soft spring morning light on melting snow and wet rock, the first green shoots on the ledges
 Mood: First climb
 Action: Down a crack, across a ledge
-Continuity: Scene "Spring: the birth", shot 10 of 12. Continues directly from Beat 131: same season, lighting, location, and the same animals in the same condition. Use Beat 131 as the reference image.
 
 **Beat 133**
 [Script Segment Text]: "This is the most surprising thing of all about an ibex. It does not learn to climb. It is born knowing how."
@@ -1464,7 +1332,6 @@ Camera Angle: Telephoto shot looking up the cliff from below, 400mm, sky behind
 Lighting: Soft spring morning light on melting snow and wet rock, the first green shoots on the ledges
 Mood: Surer every step
 Action: Up a slab of rock
-Continuity: Scene "Spring: the birth", shot 11 of 12. Continues directly from Beat 132: same season, lighting, location, and the same animals in the same condition. Use Beat 132 as the reference image.
 
 **Beat 134**
 [Script Segment Text]: "It only learns where. A week later, Dawa brings the kid back to the herd. Her daughter is waiting there,"
@@ -1475,7 +1342,6 @@ Camera Angle: Extreme close-up, 800mm telephoto or close remote camera, razor-th
 Lighting: Soft spring morning light on melting snow and wet rock, the first green shoots on the ledges
 Mood: Born knowing how
 Action: Close on the kid's face
-Continuity: Scene "Spring: the birth", shot 12 of 12. Continues directly from Beat 133: same season, lighting, location, and the same animals in the same condition. Use Beat 133 as the reference image.
 
 **Beat 135**
 [Script Segment Text]: "the scratches on her leg long healed, a survivor of her first winter. Other mothers have given birth on other ledges,"
@@ -1486,7 +1352,6 @@ Camera Angle: Long telephoto lens, 600mm, very shallow depth of field, camera at
 Lighting: Clear high-altitude summer sun under a deep blue sky, crisp light with soft rim light on fur
 Mood: Back to the herd
 Action: Dawa brings the kid to the herd
-Continuity: Opens scene "The nursery" (Beats 135–143). Use this image as the reference for every beat in the scene.
 
 **Beat 136**
 [Script Segment Text]: "and now the kids gather together in a group. A nursery on the side of a cliff."
@@ -1497,7 +1362,6 @@ Camera Angle: Long telephoto lens, 600mm, very shallow depth of field, camera at
 Lighting: Clear high-altitude summer sun under a deep blue sky, crisp light with soft rim light on fur
 Mood: A survivor
 Action: The daughter, scratches healed
-Continuity: Scene "The nursery", shot 2 of 9. Continues directly from Beat 135: same season, lighting, location, and the same animals in the same condition. Use Beat 135 as the reference image.
 
 **Beat 137**
 [Script Segment Text]: "While some of the mothers feed, one or two stay behind, watching over all the kids at once. And the kids play."
@@ -1508,7 +1372,6 @@ Camera Angle: Wide telephoto landscape shot, 300mm, compressed perspective stack
 Lighting: Clear high-altitude summer sun under a deep blue sky, crisp light with soft rim light on fur
 Mood: The nursery
 Action: Kids gather on the cliff
-Continuity: Scene "The nursery", shot 3 of 9. Continues directly from Beat 136: same season, lighting, location, and the same animals in the same condition. Use Beat 136 as the reference image.
 
 **Beat 138**
 [Script Segment Text]: "They chase each other along ledges barely wider than their hooves. They leap onto boulders and spring straight off again."
@@ -1519,7 +1382,6 @@ Camera Angle: Long telephoto lens, 600mm, very shallow depth of field, camera at
 Lighting: Clear high-altitude summer sun under a deep blue sky, crisp light with soft rim light on fur
 Mood: Babysitters
 Action: A few mothers keep watch
-Continuity: Scene "The nursery", shot 4 of 9. Continues directly from Beat 137: same season, lighting, location, and the same animals in the same condition. Use Beat 137 as the reference image.
 
 **Beat 139**
 [Script Segment Text]: "They rear up on their hind legs and bump heads, exactly as their fathers did in the rut. It looks like a game."
@@ -1530,7 +1392,6 @@ Camera Angle: Close-range tracking shot, 70–200mm from a few meters away, fast
 Lighting: Clear high-altitude summer sun under a deep blue sky, crisp light with soft rim light on fur
 Mood: Play
 Action: Chasing along narrow ledges
-Continuity: Scene "The nursery", shot 5 of 9. Continues directly from Beat 138: same season, lighting, location, and the same animals in the same condition. Use Beat 138 as the reference image.
 
 **Beat 140**
 [Script Segment Text]: "But every leap is practice. Every chase is training for the day a leopard comes. And up here, the danger comes from the sky."
@@ -1541,7 +1402,6 @@ Camera Angle: Close-range tracking shot, 70–200mm from a few meters away, fast
 Lighting: Clear high-altitude summer sun under a deep blue sky, crisp light with soft rim light on fur
 Mood: Head bumps
 Action: Kids rear up and bump heads
-Continuity: Scene "The nursery", shot 6 of 9. Continues directly from Beat 139: same season, lighting, location, and the same animals in the same condition. Use Beat 139 as the reference image.
 
 **Beat 141**
 [Script Segment Text]: "A golden eagle circles over the nursery, looking for a kid that has strayed too far from the rock."
@@ -1552,7 +1412,6 @@ Camera Angle: Telephoto shot looking up the cliff from below, 400mm, sky behind
 Lighting: Clear high-altitude summer sun under a deep blue sky, crisp light with soft rim light on fur
 Mood: From the sky
 Action: A golden eagle over the nursery
-Continuity: Scene "The nursery", shot 7 of 9. Continues directly from Beat 140: same season, lighting, location, and the same animals in the same condition. Use Beat 140 as the reference image.
 
 **Beat 142**
 [Script Segment Text]: "The moment its shadow crosses the cliff, the mothers whistle, and every kid presses itself against the stone. The eagle passes over."
@@ -1563,7 +1422,6 @@ Camera Angle: Long telephoto lens, 600mm, very shallow depth of field, camera at
 Lighting: Clear high-altitude summer sun under a deep blue sky, crisp light with soft rim light on fur
 Mood: The shadow
 Action: Kids press against the stone
-Continuity: Scene "The nursery", shot 8 of 9. Continues directly from Beat 141: same season, lighting, location, and the same animals in the same condition. Use Beat 141 as the reference image.
 
 **Beat 143**
 [Script Segment Text]: "And the game begins again. At the end of the summer, the kid takes its first trip down to the ground."
@@ -1574,7 +1432,6 @@ Camera Angle: Close-range tracking shot, 70–200mm from a few meters away, fast
 Lighting: Clear high-altitude summer sun under a deep blue sky, crisp light with soft rim light on fur
 Mood: The game again
 Action: Kids leap and play again
-Continuity: Scene "The nursery", shot 9 of 9. Continues directly from Beat 142: same season, lighting, location, and the same animals in the same condition. Use Beat 142 as the reference image.
 
 **Beat 144**
 [Script Segment Text]: "At dawn, it follows Dawa off the cliff and onto the slope of grass below, where it has never been before."
@@ -1585,7 +1442,6 @@ Camera Angle: Aerial shot from a quiet high-altitude drone, sweeping along the m
 Lighting: Pale gold summer dawn light on the peaks, the valley still in cool shadow, frost glinting on the grass
 Mood: First trip down
 Action: The kid follows Dawa off the cliff
-Continuity: Opens scene "The kid's first trip down" (Beats 144–147). Use this image as the reference for every beat in the scene.
 
 **Beat 145**
 [Script Segment Text]: "Flat, open ground, stretching away in every direction. It eats beside her, copying everything she does. Head down. Head up. Watching the boulders."
@@ -1596,7 +1452,6 @@ Camera Angle: Wide telephoto landscape shot, 300mm, compressed perspective stack
 Lighting: Pale gold summer dawn light on the peaks, the valley still in cool shadow, frost glinting on the grass
 Mood: Open ground
 Action: Flat ground stretching away
-Continuity: Scene "The kid's first trip down", shot 2 of 4. Continues directly from Beat 144: same season, lighting, location, and the same animals in the same condition. Use Beat 144 as the reference image.
 
 **Beat 146**
 [Script Segment Text]: "And when Dawa turns back toward the cliff, the kid does not need to be told. It follows her up the rock,"
@@ -1607,7 +1462,6 @@ Camera Angle: Long telephoto lens, 600mm, very shallow depth of field, camera at
 Lighting: Pale gold summer dawn light on the peaks, the valley still in cool shadow, frost glinting on the grass
 Mood: Back to the rock
 Action: Dawa turns toward the cliff
-Continuity: Scene "The kid's first trip down", shot 3 of 4. Continues directly from Beat 145: same season, lighting, location, and the same animals in the same condition. Use Beat 145 as the reference image.
 
 **Beat 147**
 [Script Segment Text]: "leaping from ledge to ledge, until the two of them are standing high above the valley again. This is the great ibex circle."
@@ -1618,7 +1472,6 @@ Camera Angle: Telephoto shot looking up the cliff from below, 400mm, sky behind
 Lighting: Pale gold summer dawn light on the peaks, the valley still in cool shadow, frost glinting on the grass
 Mood: Ledge to ledge
 Action: Climbing back up together
-Continuity: Scene "The kid's first trip down", shot 4 of 4. Continues directly from Beat 146: same season, lighting, location, and the same animals in the same condition. Use Beat 146 as the reference image.
 
 **Beat 148**
 [Script Segment Text]: "Every day, down to the ground for the things it needs. And every day, back up to the cliffs to live."
@@ -1629,7 +1482,6 @@ Camera Angle: Aerial shot from a quiet high-altitude drone, sweeping along the m
 Lighting: Clear high-altitude summer sun under a deep blue sky, crisp light with soft rim light on fur
 Mood: The ground feeds, the cliffs protect
 Action: The slope below and the cliff above
-Continuity: Opens scene "Ending" (Beats 148–155). Use this image as the reference for every beat in the scene.
 
 **Beat 149**
 [Script Segment Text]: "The ground feeds them. The cliffs keep them alive. Today, the Himalayan ibex still survives across the great mountain ranges of Central"
@@ -1640,7 +1492,6 @@ Camera Angle: Wide telephoto landscape shot, 300mm, compressed perspective stack
 Lighting: Clear high-altitude summer sun under a deep blue sky, crisp light with soft rim light on fur
 Mood: Still surviving
 Action: Ibex across the great ranges
-Continuity: Scene "Ending", shot 2 of 8. Continues directly from Beat 148: same season, lighting, location, and the same animals in the same condition. Use Beat 148 as the reference image.
 
 **Beat 150**
 [Script Segment Text]: "and South Asia. In parts of the Karakoram, local communities now protect the ibex, and the herds have been growing again."
@@ -1651,7 +1502,6 @@ Camera Angle: Aerial shot from a quiet high-altitude drone, sweeping along the m
 Lighting: Warm low late-afternoon summer sun, golden rim light on fur and horns, long shadows across the rock
 Mood: Protected
 Action: Herds growing again
-Continuity: Scene "Ending", shot 3 of 8. Continues directly from Beat 149: same season, lighting, location, and the same animals in the same condition. Use Beat 149 as the reference image.
 
 **Beat 151**
 [Script Segment Text]: "But the mountains are changing. The winters are warming, the snow line is climbing, and the green meadows are shifting higher every year."
@@ -1662,7 +1512,6 @@ Camera Angle: Wide telephoto landscape shot, 300mm, compressed perspective stack
 Lighting: Warm low late-afternoon summer sun, golden rim light on fur and horns, long shadows across the rock
 Mood: Changing mountains
 Action: A shrinking glacier
-Continuity: Scene "Ending", shot 4 of 8. Continues directly from Beat 150: same season, lighting, location, and the same animals in the same condition. Use Beat 150 as the reference image.
 
 **Beat 152**
 [Script Segment Text]: "The ibex, and the snow leopard that hunts it, are being squeezed into less and less of the mountain."
@@ -1673,7 +1522,6 @@ Camera Angle: Aerial shot from a quiet high-altitude drone, sweeping along the m
 Lighting: Warm low late-afternoon summer sun, golden rim light on fur and horns, long shadows across the rock
 Mood: Squeezed
 Action: Ibex and leopard on a narrowing band
-Continuity: Scene "Ending", shot 5 of 8. Continues directly from Beat 151: same season, lighting, location, and the same animals in the same condition. Use Beat 151 as the reference image.
 
 **Beat 153**
 [Script Segment Text]: "Perhaps the creator gave the ibex the cliffs, so that even the gentlest animal on the mountain would always have one place where nothing could follow."
@@ -1684,7 +1532,6 @@ Camera Angle: Wide telephoto landscape shot, 300mm, compressed perspective stack
 Lighting: Pale gold summer dawn light on the peaks, the valley still in cool shadow, frost glinting on the grass
 Mood: Where nothing can reach
 Action: High above the valley
-Continuity: Scene "Ending", shot 6 of 8. Continues directly from Beat 152: same season, lighting, location, and the same animals in the same condition. Use Beat 152 as the reference image.
 
 **Beat 154**
 [Script Segment Text]: "Tonight, somewhere in the Karakoram, a mother ibex lies on a ledge above the world, her kid asleep against her side."
@@ -1695,7 +1542,6 @@ Camera Angle: Long telephoto lens, 600mm, very shallow depth of field, camera at
 Lighting: Soft silver moonlight on the cliffs and snowfields, a faint cold rim light, stars above
 Mood: One place
 Action: Mother and kid asleep on a ledge
-Continuity: Scene "Ending", shot 7 of 8. Continues directly from Beat 153: same season, lighting, location, and the same animals in the same condition. Use Beat 153 as the reference image.
 
 **Beat 155**
 [Script Segment Text]: "Below them, in the dark, the snow leopard is walking the ground. And up here, they are exactly where they belong."
@@ -1706,4 +1552,3 @@ Camera Angle: Aerial shot from a quiet high-altitude drone, sweeping along the m
 Lighting: Soft silver moonlight on the cliffs and snowfields, a faint cold rim light, stars above
 Mood: Where they belong
 Action: The leopard below, the ibex above
-Continuity: Scene "Ending", shot 8 of 8. Continues directly from Beat 154: same season, lighting, location, and the same animals in the same condition. Use Beat 154 as the reference image.
