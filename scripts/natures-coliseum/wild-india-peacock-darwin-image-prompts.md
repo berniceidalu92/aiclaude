@@ -202,14 +202,14 @@ Continuity: Scene "Dawn", shot 9 of 9. Continues directly from Beat 17: same sea
 
 **Beat 19**
 [Script Segment Text]: "and the peacocks keep a low profile, feeding in small groups. But in June, the monsoon arrives. Thunder rolls across the hills."
-Description: Dark storm clouds roll over the hills. Where: Bandhavgarh forest, central India. Light: soft grey monsoon light. Shot: long range, slow push-in toward the storm.
-Image Prompt: Towering dark monsoon clouds rolling over rocky hills and forest, lightning flickering inside them, in Bandhavgarh National Park, central India. Long range: filmed from far away, the animals small within the wide landscape. Camera: Wide telephoto landscape shot, 300mm, compressed perspective. Lighting: soft grey diffused monsoon light under dark rain clouds, wet leaves glistening. Mood: the monsoon. Correct anatomy: every peafowl has two legs and two wings, and only males have the long eyespot train; the tiger has four legs and one tail; no extra, missing or merged limbs, no duplicated animals, no people. Visual style: photorealistic landmark wildlife documentary still, 16:9 widescreen, sal forest, meadows and rocky hills of central India, natural gently warm grade, very shallow depth of field with creamy bokeh, ultra-fine micro-detail on every feather barb and eyespot, neck scales, leg scales, rain droplets and dust. Real wildlife documentary footage, as filmed by a natural-history camera crew from hidden positions, mixing long-range telephoto, aerial and close-range remote cameras (or, for the Darwin study scenes, a quiet still-life of objects only): the animals are wild, unposed and unaware of the camera, behaving exactly as they would in nature, with true-to-life anatomy, proportions, feather and fur texture, true iridescent colour that shifts with the light, natural colors, subtle atmospheric haze over distance, fine natural film grain and the slight imperfections of real footage. No CGI, cartoon, fantasy or illustrated look, no exaggerated poses or expressions, no oversaturation. No people, villages or vehicles, no gore.
-Shot Range: Long range
-Camera Angle: Wide telephoto landscape shot, 300mm, compressed perspective
-Lighting: Soft grey diffused monsoon light under dark rain clouds, wet leaves glistening
+Description: Huge dark monsoon clouds building over rocky hills and green-brown forest. A landscape only, with no animals or birds in the frame. Where: Bandhavgarh forest, central India. Light: soft grey storm light. Shot: wide landscape, camera still.
+Image Prompt: A wide landscape of rocky hills and dry sal forest under towering dark grey monsoon clouds building on the horizon, a faint curtain of rain falling in the far distance, the forest still dry and brown in the foreground, in Bandhavgarh National Park, central India. Long range landscape with no animals or birds in the frame. Camera: wide telephoto landscape shot, 300mm, compressed perspective. Lighting: soft grey diffused storm light, a thin band of brighter sky at the horizon. Mood: the monsoon. Visual style: photorealistic landmark wildlife documentary still, 16:9 widescreen, natural colours, fine film grain, crisp detail; real footage look, no CGI, cartoon or fantasy look, no people, villages or vehicles.
+Shot Range: Long range (landscape, no animals)
+Camera Angle: Wide telephoto landscape shot, 300mm
+Lighting: Soft grey diffused storm light
 Mood: The monsoon
-Action: Dark storm clouds roll over the hills
-Continuity: Opens scene "The monsoon and the rival" (Beats 19–27). Use this image as the reference for every beat in the scene.
+Action: Storm clouds build over the hills
+Continuity: Opens scene "The monsoon and the rival" (Beats 19–27). Use this image as the reference for the weather and light in the scene.
 
 **Beat 20**
 [Script Segment Text]: "The rain pours down, and within days the forest turns green. And the peacocks change completely. Every morning,"
