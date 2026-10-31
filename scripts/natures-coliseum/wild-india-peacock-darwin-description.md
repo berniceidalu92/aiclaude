@@ -1,6 +1,6 @@
 # WILD INDIA (Peacock) — Description & Tags
 
-Planned length: about 16:45 at your voiceover pace (including 6 B-roll clips). Chapter times are estimates from the beat plan (±5–10 seconds); check them against the final edit before publishing.
+Final edit: 16:00. Chapter times are estimates scaled to the final length (±5 seconds); spot-check a few before publishing.
 
 ## Title
 WILD INDIA | The Bird That Made Darwin Sick
@@ -15,22 +15,22 @@ Follow one peacock through one monsoon in Bandhavgarh, central India, to find th
 
 ⏱️ CHAPTERS
 0:00 Darwin's Strange Confession
-0:31 The Bird That Shouldn't Exist
-1:02 Dawn in a Tiger Forest
-2:58 The Monsoon Arrives
-3:45 The Fight for the Display Ground
-4:59 The Dance
-5:44 Colours That Aren't There
-6:09 The Sound You Can't Hear
-7:03 What the Peahen Really Looks At
-7:48 The Peacock's Lie
-8:51 Darwin's Answer
-9:30 Why Choose Danger?
-10:45 The Tigress
-12:18 Is the Train Really a Burden?
-12:51 Chicks of a Champion
-14:19 He Lets It All Go
-15:08 What Darwin Learned
+0:29 The Bird That Shouldn't Exist
+0:59 Dawn in a Tiger Forest
+2:50 The Monsoon Arrives
+3:35 The Fight for the Display Ground
+4:45 The Dance
+5:28 Colours That Aren't There
+5:52 The Sound You Can't Hear
+6:44 What the Peahen Really Looks At
+7:27 The Peacock's Lie
+8:27 Darwin's Answer
+9:05 Why Choose Danger?
+10:16 The Tigress
+11:45 Is the Train Really a Burden?
+12:17 Chicks of a Champion
+13:41 He Lets It All Go
+14:28 What Darwin Learned
 
 🦚 Subscribe to Nature's Coliseum for more hidden stories from the wild.
 
