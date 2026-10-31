@@ -3,7 +3,7 @@
 Final edit: 16:00. Chapter times are estimates scaled to the final length (±5 seconds); spot-check a few before publishing.
 
 ## Title
-WILD INDIA | The Bird That Made Darwin Sick
+The Secret Life of the Peacock and Why Darwin Hated It
 
 ## Description (paste into YouTube)
 
