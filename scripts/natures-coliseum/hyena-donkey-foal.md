@@ -4,9 +4,9 @@ The grass explodes. Teeth and a bristling mane, straight for something two weeks
 
 A grey shape comes through the thorns like a landslide. Hooves hammering. The hunter never looks back.
 
-Jackals yipping in a ring. Left. Right. Left. A mother turning, and turning, and turning.
+Jackals in a ring. Then two spotted hyenas walk out of the dusk, and a mother charges straight into them.
 
-One gap. Just one. And the hunter takes it.
+One gap. Just one. And the first hunter takes it.
 
 A foal vanishes into the tall grass. A cry. Fainter. Then nothing.
 
@@ -52,7 +52,13 @@ And the ember runs. Not toward the mountain. Away from it.
 
 Every stride the wrong way. Every stride the gap gets wider.
 
+It cuts left. The jaws snap where it was a heartbeat ago.
+
+It cuts right. Its legs tangle. It stumbles, rolls, and is up again before the dust can settle.
+
 Twenty strides. Thirty.
+
+The ghost is close enough now to feel the heat coming off it. One more lunge.
 
 But a mountain has ears. Long ones.
 
@@ -68,7 +74,9 @@ The first kick lands on its shoulder and spins it sideways into the dust.
 
 The second misses by a whisker.
 
-The ghost does not wait for a third.
+She doesn't stop. She runs it down, teeth bared, and drives it across the open ground in a cloud of dust.
+
+The ghost does not wait for a third kick.
 
 It scrambles into the bush. Mane up. Tail down. Gone.
 
@@ -100,6 +108,16 @@ Another slips in from the right. She swings back.
 
 Left. Right. Left. A mountain can only face one way at once.
 
+One of them gets too bold. It snaps at the ember's tail.
+
+That is a mistake.
+
+The mountain spins and kicks, and the whisper flies through the air, tumbling end over end into the thorns.
+
+It limps away yelping. The others scatter like dust in a gust of wind.
+
+But dust always settles. And they always drift back.
+
 And in the bush, the ghost lifts its head.
 
 It has been waiting for exactly this.
@@ -114,13 +132,33 @@ The wall holds.
 
 But above them, the sky is filling. Wide wings. Bald heads. The undertakers of the sky, circling down, smelling a chance.
 
+And then the laughter changes.
+
+Not the thin yips of the whispers. Something deeper. Heavier. A giggle that makes every whisper on the plain flatten its ears.
+
+Two spotted hyenas walk out of the dusk. Twice the size of the ghost. Jaws that can crack an elephant's bones.
+
+The iron jaws have come to see what all the noise is about.
+
+Now there are hunters on every side. Whispers on the left. Iron jaws on the right. The ghost somewhere in the dark.
+
 Every guest at this table is hungry. And there is only one small dish.
 
-The mountain is tired now. Her breath comes hard. Her head swings slower.
+The iron jaws do not test. They walk straight in.
 
-One of the whispers lunges for her heel. She whirls, kicks, and catches only air.
+The mountain has a choice. Stand over the ember, or meet them head on.
 
-And in that one turn, she leaves a gap.
+She charges.
+
+She hits the first one at full speed, and it goes down in a spray of dust. The second lunges for her leg. She kicks it square in the chest.
+
+They fall back, snarling. Surprised. Not used to food that fights back.
+
+It is magnificent.
+
+And it is exactly what the ghost was waiting for.
+
+Because in that charge, she leaves a gap.
 
 Not three strides. Not ten. Just one.
 
@@ -138,7 +176,17 @@ The mountain turns. And the place beside her is empty.
 
 The maze swallows sound. It swallows sight. It swallows small things whole.
 
-She stands at its edge. Ears turning. Listening.
+Somewhere inside it, the ghost catches the ember by the leg.
+
+A scream. The ember kicks, twists, and tears free.
+
+It runs deeper. Blind. Bleeding. The grass whipping its face.
+
+The ghost catches it a second time.
+
+And this time, the scream is cut short.
+
+At the edge of the maze, the mountain stands with her ears turning. Listening.
 
 Nothing.
 
@@ -168,15 +216,31 @@ She rears up, higher than the grass, higher than the ghost, and comes down with 
 
 The ghost has bitten bones that would break a lion's teeth. It has never been hit like this.
 
-Hooves on its back. Hooves on its flank. Teeth on its mane.
+Hooves on its back. Hooves on its flank.
+
+It whips around and sinks its teeth into her leg.
+
+She does not even flinch.
+
+She grabs it by the mane, lifts it off the ground, and shakes it like a rag.
+
+She throws it down. Stamps. Stamps again. The grass flattens in a circle around them.
 
 Every blow carries the same message. Give it back.
 
-The ghost twists free. Rolls. Runs. And this time, it does not stop running.
+The ghost twists free. Rolls. Runs.
 
-At the edge of the grass, the whispers watch it go. They look at the mountain. And they decide this is not their night.
+She chases it out of the maze and across the open plain, all the way to the thorns, and only stops when it is a shadow on the horizon.
+
+At the edge of the grass, the whispers watch it go. The iron jaws watch it go.
+
+They look at the mountain. Bleeding from one leg. Breathing like a storm. And still coming.
+
+And every one of them decides this is not their night.
 
 Above them, the undertakers lift away into the dark.
+
+She turns back into the maze.
 
 And in the trampled hollow, something stirs.
 
@@ -194,7 +258,7 @@ But tonight, it learned the oldest lesson of the plains.
 
 Never hunt the small one without checking what is standing behind it.
 
-They walk out of the grass together. Slowly. Close enough to touch.
+They walk out of the grass together. Slowly. Close enough to touch. Both of them limping.
 
 There is no herd waiting for them. No shelter. No road.
 
@@ -204,7 +268,7 @@ And for a foal, that is all the shelter it needs.
 
 This is the dry thornbush of northern Kenya.
 
-And this is the donkey, the striped hyena, and the black-backed jackal.
+And this is the donkey, the striped hyena, the black-backed jackal and the spotted hyena.
 
 In our story, she was the mountain.
 
@@ -240,6 +304,14 @@ Older pups often stay on to help their parents raise the next litter.
 
 It eats almost anything, from insects and fruit to small antelope.
 
-Three animals. Three ways to survive the same dry night.
+In our story, they were the iron jaws.
+
+The spotted hyena is the largest hyena, and lives in clans led by females.
+
+Its bite is one of the strongest of any mammal, strong enough to crush thick bone.
+
+It is a skilled hunter, not just a scavenger, and kills most of what it eats.
+
+Four animals. Four ways to survive the same dry night.
 
 But only one of them was carrying something worth everything.
