@@ -1,6 +1,6 @@
 # STRIPED HYENA vs DONKEY FOAL — Description & Tags
 
-Planned length: about 19:20 (140 beats + 5 B-roll clips at 8 seconds each). Chapter times are estimates from the beat plan; check them against the final edit before publishing.
+Planned length: about 24:10 (140 beats + 5 B-roll clips at 10 seconds each). Chapter times are estimates from the beat plan; check them against the final edit before publishing.
 
 ## Title
 Striped Hyena Hunts a Donkey Foal, Unaware of What's Charging Behind Him
@@ -17,21 +17,21 @@ Stay to the end to meet the real animals behind the story, and why a donkey is f
 
 ⏱️ CHAPTERS
 0:00 Tonight on the Plains
-1:04 The Ghost Wakes
-1:36 A Mother and Her Foal
-2:24 The Stalk
-2:56 The Ambush
-4:00 The Mother Charges
-5:44 The Hunter Waits
-6:08 The Jackals Arrive
-8:08 The Spotted Hyenas
-9:28 One Gap
-10:08 Lost in the Grass
-11:20 Silence
-12:40 A Mother's Fury
-14:08 Not Their Night
-14:40 Still Alive
-16:08 Meet the Real Animals
+1:20 The Ghost Wakes
+2:00 A Mother and Her Foal
+3:00 The Stalk
+3:40 The Ambush
+5:00 The Mother Charges
+7:10 The Hunter Waits
+7:40 The Jackals Arrive
+10:10 The Spotted Hyenas
+11:50 One Gap
+12:40 Lost in the Grass
+14:10 Silence
+15:50 A Mother's Fury
+17:40 Not Their Night
+18:20 Still Alive
+20:10 Meet the Real Animals
 
 🐾 Subscribe to Nature's Coliseum for more battles from the wild.
 
