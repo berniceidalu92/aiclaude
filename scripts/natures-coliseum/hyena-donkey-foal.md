@@ -1,5 +1,19 @@
 # Striped Hyena Hunts a Donkey Foal, Unaware of What's Charging Behind Him
 
+The grass explodes. Teeth and a bristling mane, straight for something two weeks old.
+
+A grey shape comes through the thorns like a landslide. Hooves hammering. The hunter never looks back.
+
+Jackals yipping in a ring. Left. Right. Left. A mother turning, and turning, and turning.
+
+One gap. Just one. And the hunter takes it.
+
+A foal vanishes into the tall grass. A cry. Fainter. Then nothing.
+
+A mother rears up higher than the grass, and comes down with everything she has.
+
+Who walks out of the grass tonight? To find out, we go back to the moment the light began to fade.
+
 The heat has gone. The light is going. And something with a mane is walking out of the dark.
 
 Nobody heard it leave its cave. Nobody ever does. They call it the ghost.
