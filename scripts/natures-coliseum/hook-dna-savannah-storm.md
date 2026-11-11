@@ -61,3 +61,16 @@ The transcript was sent cut off at 14:19. It has about 9:45 of story, then a fas
 6. Emotional curve: playful, then chased, then saved, then pressured, then lost and silent, then fury, then reunion.
 7. Reveal the setting and species after the story ends, then hand off to a quick fact section that links each species to its story role.
 8. Keep the fact section punchy: one fact per line, about 5 seconds each. It is optional, and it is where retention may dip.
+
+## The title
+**"Striped Hyena Hunts a Donkey Foal, Unaware of What's Charging Behind Him"** (71 characters)
+
+Why it works:
+- **Plain, searchable names first:** "Striped Hyena", "Donkey Foal". The metaphors stay inside the video; the title is literal.
+- **A present-tense action:** "Hunts". Viewers feel they are watching it happen.
+- **Dramatic irony:** "Unaware of…". The viewer knows something the hunter doesn't, and wants to see it land.
+- **A hidden threat:** "What's Charging Behind Him" never says it's the mother. The click is to find out who.
+- **Who to root for:** the underdog (the foal) is in danger, and a protector is coming.
+
+The formula: **[Predator] [Hunts/Stalks/Traps] [Prey], Unaware of [Hidden Danger/Twist]**
+Variants: "…But Didn't Expect…", "…Then [Protector] Arrives", "…Until…".
