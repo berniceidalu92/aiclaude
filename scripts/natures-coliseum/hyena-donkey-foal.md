@@ -38,9 +38,7 @@ The ghost does not need ten strides. It needs only one mistake.
 
 It sinks into the grass. The mane flattens. The stripes melt into the stems.
 
-Closer.
-
-Closer.
+Closer. Closer.
 
 The ember lifts its head. It hears nothing. It sees nothing. It is far too young to know what stillness means.
 
@@ -84,11 +82,7 @@ The ember stops running. Turns. And sees the only safe place in the world, breat
 
 Three strides. Then none.
 
-Mountains are not supposed to run. This one did.
-
 But the night is long. And a ghost does not give up after one bruise.
-
-It only learns.
 
 It circles downwind. Lies flat. And watches the mountain feed.
 
@@ -99,8 +93,6 @@ Then a sound rolls across the plain. Yips. Yelps. A little laughing chatter.
 The whispers have arrived.
 
 They come in pairs. Small, quick, silver-backed. Never where you are looking.
-
-They do not want a fight. They want an opening.
 
 One darts in from the left. The mountain swings to meet it.
 
@@ -118,13 +110,7 @@ It limps away yelping. The others scatter like dust in a gust of wind.
 
 But dust always settles. And they always drift back.
 
-And in the bush, the ghost lifts its head.
-
-It has been waiting for exactly this.
-
 The mountain plants herself over the ember. Feet wide. Ears back. A wall of grey.
-
-She does not chase. She does not need to. She stands, and dares them.
 
 The whispers circle. Test. Retreat. Test again.
 
@@ -142,8 +128,6 @@ The iron jaws have come to see what all the noise is about.
 
 Now there are hunters on every side. Whispers on the left. Iron jaws on the right. The ghost somewhere in the dark.
 
-Every guest at this table is hungry. And there is only one small dish.
-
 The iron jaws do not test. They walk straight in.
 
 The mountain has a choice. Stand over the ember, or meet them head on.
@@ -153,8 +137,6 @@ She charges.
 She hits the first one at full speed, and it goes down in a spray of dust. The second lunges for her leg. She kicks it square in the chest.
 
 They fall back, snarling. Surprised. Not used to food that fights back.
-
-It is magnificent.
 
 And it is exactly what the ghost was waiting for.
 
@@ -174,8 +156,6 @@ And the grass closes behind them both.
 
 The mountain turns. And the place beside her is empty.
 
-The maze swallows sound. It swallows sight. It swallows small things whole.
-
 Somewhere inside it, the ghost catches the ember by the leg.
 
 A scream. The ember kicks, twists, and tears free.
@@ -194,13 +174,9 @@ Then a cry. Thin and high. Somewhere deep in the grass.
 
 The ember is still burning.
 
-And a mountain will walk through anything to reach that sound.
-
 She plunges into the maze. The grass parts like water around her.
 
-The cry comes again. Fainter now.
-
-Then it stops.
+The cry comes again. Fainter now. Then it stops.
 
 The worst silence in the world is the one where a voice should be.
 
@@ -238,10 +214,6 @@ They look at the mountain. Bleeding from one leg. Breathing like a bellows. And 
 
 And every one of them decides this is not their night.
 
-Above them, the undertakers lift away into the dark.
-
-She turns back into the maze.
-
 And in the trampled hollow, something stirs.
 
 Wet. Shaking. Scraped. But standing.
@@ -252,17 +224,13 @@ She lowers her head. And it presses its whole body against her leg.
 
 The gap is closed.
 
-The ghost will be hungry again tomorrow. Hunger always comes back.
-
-But tonight, it learned the oldest lesson of the plains.
+But tonight, the ghost learned the oldest lesson of the plains.
 
 Never hunt the small one without checking what is standing behind it.
 
 They walk out of the grass together. Slowly. Close enough to touch. Both of them limping.
 
-There is no herd waiting for them. No shelter. No road.
-
-Just the long night, and each other.
+No herd. No shelter. Just the long night, and each other.
 
 And for a foal, that is all the shelter it needs.
 
@@ -278,8 +246,6 @@ A donkey's bray can carry for kilometres, and a foal learns its mother's voice w
 
 A donkey foal can stand within about an hour of birth.
 
-A donkey mother carries her foal for around a year before it is born.
-
 When danger comes, a donkey is far more likely to stand and face it than to run.
 
 Its kick is fast, powerful and aimed. Predators that misjudge it can be badly hurt.
@@ -293,8 +259,6 @@ It is quiet for a hyena. It does not whoop like its spotted cousin.
 It is mostly a scavenger, and rarely takes large living prey.
 
 Its jaws can crack bones that other hunters leave behind.
-
-It often carries food back to its den, sometimes kilometres away.
 
 In our story, they were the whispers.
 
