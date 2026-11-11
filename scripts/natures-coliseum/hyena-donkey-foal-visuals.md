@@ -35,7 +35,7 @@ One night in the dry thornbush of northern Kenya: a mother donkey and her two-we
 - **No gore:** bites and kicks are shown at the moment of contact, with no blood in focus. The foal's injury is only scrapes and a limp.
 
 ## Character locks (repeat word for word in every prompt)
-- **The mother (the mountain):** a large adult donkey with a soft grey coat, a pale muzzle and belly, a dark stripe along her back and across her shoulders, long upright ears with dark tips, and a short upright mane.
+- **The mother (the mountain):** a large adult donkey with a soft grey coat, a pale muzzle and belly, a dark stripe along her back and across her shoulders, long upright ears with dark tips, a short upright mane, and an old pale scar across one shoulder.
 - **The foal (the ember):** a two-week-old donkey foal with a fluffy pale grey-brown coat, oversized long ears, big dark eyes and long wobbly legs.
 - **The striped hyena (the ghost):** a striped hyena with a pale grey-buff coat, black vertical stripes on its body and legs, a long dark mane along its back that bristles up when it attacks, pointed ears and dark eyes.
 - **The jackals (the whispers):** black-backed jackals with ginger-red legs and flanks, a saddle of silver-flecked black fur across the back, big pointed ears and bushy black-tipped tails.

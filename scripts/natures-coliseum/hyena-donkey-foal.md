@@ -14,159 +14,159 @@ A mother rears up higher than the grass, and comes down with everything she has.
 
 Who walks out of the grass tonight? To find out, we go back to the moment the light began to fade.
 
-The heat has gone. The light is going. And something with a mane is walking out of the dark.
+When the sun lets go of the plains, the night sends out its first hunter.
 
-Nobody heard it leave its cave. Nobody ever does. They call it the ghost.
+No sound. No shadow. The ghost never announces itself.
 
-The ghost does not chase. It drifts. Head low. Nose in the wind. And tonight, the wind brings it something small.
+It does not hunt with its legs. It hunts with the wind. And tonight, the wind has found something small.
 
-On the edge of the thornbush, a mother is grazing. Big. Grey. Slow. A mountain on four legs.
+Out by the thornbush, a mountain is grazing. Grey, slow, with an old scar across one shoulder. She has met hunters before.
 
-Beside her, something new to the world. Two weeks old. All legs and ears. An ember. Bright, and easy to put out.
+Beside her, an ember. Two weeks old, and still learning what the world is.
 
-Between the mountain and the ember there is a gap. Three strides. Easy. But the grass is sweet, and the mountain keeps walking. Five strides.
+On these plains, danger is measured in strides. Tonight there are three between them. Then five.
 
-The ember finds a beetle. Then a flower. Then a shadow worth chasing. Ten strides.
+Curiosity is how the young discover the world. It is also how the world discovers them.
 
-The ghost does not need ten strides. It needs only one mistake. It sinks into the grass. The mane flattens. The stripes melt into the stems.
+The ghost needs no speed. Only one moment when nobody is looking.
 
-Closer. Closer. The ember lifts its head. It hears nothing. It sees nothing. It is far too young to know what stillness means.
+Stillness is the hunter's oldest weapon. And the young have never met it.
 
-Then the grass explodes. The ghost comes out low and fast, all teeth and bristling mane, straight for the ember.
+Then the grass breaks open, and the night shows its teeth.
 
-And the ember runs. Not toward the mountain. Away from it. Every stride the wrong way. Every stride the gap gets wider.
+Fear has no map. It only runs. And it runs the wrong way.
 
-It cuts left. The jaws snap where it was a heartbeat ago.
+Left. The jaws close on nothing but dust.
 
-It cuts right. Its legs tangle. It stumbles, rolls, and is up again before the dust can settle.
+A stumble. A roll. Two weeks of life, scrambling to reach a third.
 
-Twenty strides. Thirty. The ghost is close enough now to feel the heat coming off it. One more lunge.
+Thirty strides from safety. One lunge from the end.
 
-But a mountain has ears. Long ones. And when a mountain moves, the ground knows about it.
+But mountains listen. And this one heard everything.
 
-She comes through the thorns like a landslide. Head down. Ears flat. Hooves hammering.
+Some things on the plains are slow. Until they are not.
 
-The ghost never looks back. It should have.
+A hunter staring at its prize never sees what is staring at it.
 
-The first kick lands on its shoulder and spins it sideways into the dust.
+The first lesson lands on the shoulder.
 
-The second misses by a whisker.
+The second misses by a breath. The ghost is quicker than its pride.
 
-She doesn't stop. She runs it down, teeth bared, and drives it across the open ground in a cloud of dust.
+Now the hunter learns what it feels like to be hunted.
 
-The ghost does not wait for a third kick.
+A hyena without its nerve is just a shadow with teeth.
 
-It scrambles into the bush. Mane up. Tail down. Gone.
+The ghost melts back into the thorns. Bruised. Not finished.
 
-The ember stops running. Turns. And sees the only safe place in the world, breathing hard, waiting. Three strides. Then none.
+The ember stops. She calls once. And it runs to that voice, the first sound it ever knew.
 
-But the night is long. And a ghost does not give up after one bruise.
+But the sun is gone. And the night has only just begun.
 
-It circles downwind. Lies flat. And watches the mountain feed.
+The ghost has changed its plan. It no longer charges. It waits.
 
-A mountain cannot graze and guard at the same time. Sooner or later, it has to choose.
+A mother can graze, or she can guard. Never both. Patience knows this.
 
-Then a sound rolls across the plain. Yips. Yelps. A little laughing chatter. The whispers have arrived.
+Then the plains begin to giggle. Small voices. Many of them.
 
-They come in pairs. Small, quick, silver-backed. Never where you are looking.
+The whispers never come from the front. Not once.
 
-One darts in from the left. The mountain swings to meet it. Another slips in from the right. She swings back.
+One tests her left. One tests her right.
 
-Left. Right. Left. A mountain can only face one way at once.
+A mountain is strong. But a mountain can only face one way.
 
-One of them gets too bold. It snaps at the ember's tail. That is a mistake.
+Boldness is a gamble. This one bets on the ember's tail.
 
-The mountain spins and kicks, and the whisper flies through the air, tumbling end over end into the thorns.
+And loses. Badly.
 
-It limps away yelping. The others scatter like dust in a gust of wind. But dust always settles. And they always drift back.
+They scatter. But scavengers are patient. They always drift back.
 
-The mountain plants herself over the ember. Feet wide. Ears back. A wall of grey. The whispers circle. Test. Retreat. Test again.
+She stops grazing and stands over the ember. Now she is not a mountain. She is a fortress.
 
-The wall holds. But above them, the sky is filling. Wide wings. Bald heads. The undertakers of the sky, circling down, smelling a chance.
+Overhead, the sky gathers its own guests. Patient wings. Bald heads.
 
-And then the laughter changes.
+Then even the whispers fall silent. Something is coming that frightens them too.
 
-Not the thin yips of the whispers. Something deeper. Heavier. A giggle that makes every whisper on the plain flatten its ears.
+The dark grows heavier. Two shapes, wide at the shoulder.
 
-Two spotted hyenas walk out of the dusk. Twice the size of the ghost. Jaws that can crack an elephant's bones.
+The iron jaws. They do not wait for leftovers. They make them.
 
-The iron jaws have come to see what all the noise is about.
+A bite that turns bone into gravel.
 
-Now there are hunters on every side. Whispers on the left. Iron jaws on the right. The ghost somewhere in the dark.
+Now every direction has teeth.
 
-The iron jaws do not test. They walk straight in.
+The iron jaws do not test. Testing is for the weak.
 
-The mountain has a choice. Stand over the ember, or meet them head on. She charges.
+Stand guard, or strike first. She strikes.
 
-She hits the first one at full speed and knocks it flat. The second lunges for her leg. She kicks it in the chest.
+One goes down. The other learns why a donkey is never an easy meal.
 
-They fall back, snarling. Surprised. Not used to food that fights back. And it is exactly what the ghost was waiting for.
+It is the bravest thing she will do tonight. And the ghost was counting on it.
 
-Because in that charge, she leaves a gap. Not three strides. Not ten. Just one.
+Every charge has a price. Hers is one empty stride.
 
-The ghost takes it. Out of the bush, low and fast. Straight past the whispers. Straight for the ember.
+One stride is all the ghost has ever needed.
 
-The ember bolts. Into the tall grass. Into the maze.
+The ember runs into the only place that can hide it. The same place that hides its hunter.
 
-The ghost follows it in. And the grass closes behind them both.
+The tall grass closes like a curtain. Whatever happens next, happens unseen.
 
-The mountain turns. And the place beside her is empty.
+She turns. And the space beside her answers with nothing.
 
-Somewhere inside it, the ghost catches the ember by the leg.
+In the grass, the ghost finds the ember. And holds on.
 
-A scream. The ember kicks, twists, and tears free.
+Small hooves. Huge desperation. It tears free.
 
-It runs deeper. Blind. Bleeding. The grass whipping its face. The ghost catches it a second time.
+Blind and bleeding, it runs deeper. The ghost is already there.
 
-And this time, the scream is cut short.
+And then the grass has nothing left to say.
 
-At the edge of the maze, the mountain stands with her ears turning. Listening. Nothing.
+She waits at the edge, ears turning, listening for the only sound that matters.
 
-Then a cry. Thin and high. Somewhere deep in the grass. The ember is still burning.
+A cry. Thin and broken. But alive.
 
-She plunges into the maze. The grass parts like water around her.
+She does not walk into the grass. She ploughs through it.
 
-The cry comes again. Fainter now. Then it stops. The worst silence in the world is the one where a voice should be.
+The cry stops. She calls, the voice it has known since the hour it was born.
 
-She does not slow down. She follows the only thing left to follow. Grass stems swaying where no wind is blowing.
+No answer. But the whispers answer for it, yipping and circling one patch of grass, waiting for scraps.
 
-And there, in a hollow of trampled grass, the ghost. Standing over something small.
+A hollow in the grass. The ghost. And beneath it, something small and still.
 
-What happens next is not a fight. It is a verdict.
+Some fights are about food. This one is about a debt.
 
-She rears up, higher than the grass, higher than the ghost, and comes down with everything a mountain has.
+She rises above the grass, and brings the whole sky down with her.
 
-The ghost has bitten bones that would break a lion's teeth. It has never been hit like this.
+The ghost has cracked bones that would break lesser jaws. It has never felt this.
 
-Hooves on its back. Hooves on its flank.
+Back. Flank. Back again. Each blow louder than the last.
 
-It whips around and sinks its teeth into her leg. She does not even flinch.
+It bites her leg. She does not even notice.
 
-She grabs it by the mane, lifts it off the ground, and shakes it like a rag.
+She lifts the hunter by its own mane and shakes it like a loose branch.
 
-She throws it down. Stamps. Stamps again. The grass flattens in a circle around them. Every blow carries the same message. Give it back.
+Every stamp says the same thing. You took the wrong one.
 
-The ghost twists free. Rolls. Runs.
+The ghost finds a gap of its own, and takes it.
 
-She chases it out of the maze and across the plain, and only stops when it is a shadow on the horizon.
+She chases it to the edge of the night, and lets the darkness keep it.
 
-At the edge of the grass, the whispers watch it go. The iron jaws watch it go.
+The ghost bursts out of the grass, straight into the one thing on these plains it fears more than her.
 
-They look at the mountain. Bleeding from one leg. Breathing like a bellows. And still coming.
+The iron jaws do not share their night with ghosts. Now the hunter runs for its life.
 
-And every one of them decides this is not their night. And in the trampled hollow, something stirs.
+All night it never saw what was charging behind it. It never saw what was waiting ahead. And deep in the hollow, the grass trembles.
 
-Wet. Shaking. Scraped. But standing. The ember is still burning.
+It tries to stand. Falls. Tries again. Falls. And on the third try, the ember is still burning.
 
-She lowers her head. And it presses its whole body against her leg. The gap is closed.
+It presses against her leg. And the gap is gone.
 
-But tonight, the ghost learned the oldest lesson of the plains. Never hunt the small one without checking what is standing behind it.
+A ghost limps into the dark with the oldest lesson of the plains. Never hunt the small one without checking who stands behind it.
 
-They walk out of the grass together. Slowly. Close enough to touch. Both of them limping.
+Two shadows walk out of the grass. Slower now. Closer than ever.
 
-No herd. No shelter. Just the long night, and each other.
+No herd. No road. No shelter but each other.
 
-And for a foal, that is all the shelter it needs.
+For a foal, a mother is the whole world. And tonight, the world held.
 
 This is the dry thornbush of northern Kenya. And this is the donkey, the striped hyena, the black-backed jackal and the spotted hyena.
 
