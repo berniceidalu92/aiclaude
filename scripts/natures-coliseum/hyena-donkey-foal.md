@@ -234,7 +234,7 @@ She chases it out of the maze and across the open plain, all the way to the thor
 
 At the edge of the grass, the whispers watch it go. The iron jaws watch it go.
 
-They look at the mountain. Bleeding from one leg. Breathing like a storm. And still coming.
+They look at the mountain. Bleeding from one leg. Breathing like a bellows. And still coming.
 
 And every one of them decides this is not their night.
 
