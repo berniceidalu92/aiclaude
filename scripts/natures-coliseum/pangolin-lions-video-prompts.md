@@ -469,8 +469,8 @@ Duration: 10 seconds
 
 **Beat 58**
 [Script Segment Text]: "She clamps down on the claw itself. The lion pulls away, shaking its paw."
-Video Prompt: Extreme close-up of a pangolin scale snapping down on a lion's claw, the lion yanking its paw back. Over 10 seconds, the scale snaps shut and the paw jerks back; sand bursts. Camera movement: 120 fps slow motion macro. Lighting: low-light night camera footage: grainy, desaturated, faint moonlight, eyeshine in the dark. Mood: clamped. Visual style: photorealistic wildlife documentary footage, as if filmed by a professional natural-history crew, 16:9 widescreen, red Kalahari sand and golden grass, natural grade, fine film grain, realistic animal anatomy and locomotion, natural physics for sand and dust, real footage look, no CGI, no text, no logos, no music, no human presence or vehicles, no gore.
-Camera Movement: 120 fps slow motion macro
+Video Prompt: Extreme close-up of a pangolin scale snapping down on a lion's claw, the lion yanking its paw back. Over 10 seconds, the scale snaps shut and the paw jerks back; sand bursts. Camera movement: Static macro shot, real speed. Lighting: low-light night camera footage: grainy, desaturated, faint moonlight, eyeshine in the dark. Mood: clamped. Visual style: photorealistic wildlife documentary footage, as if filmed by a professional natural-history crew, 16:9 widescreen, red Kalahari sand and golden grass, natural grade, fine film grain, realistic animal anatomy and locomotion, natural physics for sand and dust, real footage look, no CGI, no text, no logos, no music, no human presence or vehicles, no gore.
+Camera Movement: Static macro shot, real speed
 Subject Motion: The scale snaps shut and the paw jerks back
 Environment Motion: Sand bursts
 Duration: 10 seconds
