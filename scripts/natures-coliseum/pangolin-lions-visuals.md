@@ -1,6 +1,6 @@
 # LIONS TRIED TO EAT A PANGOLIN — Visual Analysis (State 7)
 
-One night in the Kalahari: a mother ground pangolin carrying her baby survives five hunters in a row, from ants to a lion pride. It should look like real wildlife footage from start to finish: telephoto from a hidden vehicle, low remote cameras, macro, slow motion, and thermal and low-light cameras after dark.
+One night in the Kalahari: a mother ground pangolin carrying her baby survives five hunters in a row, from ants to a lion pride. It should look like real wildlife footage from start to finish: telephoto from a hidden vehicle, low remote cameras, macro, slow motion, and cinematic moonlit footage after dark.
 
 ## Visual style profile (locked for all prompts)
 - **Style:** photorealistic wildlife documentary footage, as if filmed by a professional natural-history crew, 16:9 widescreen. Never CGI, cartoon or fantasy.
@@ -13,9 +13,7 @@ One night in the Kalahari: a mother ground pangolin carrying her baby survives f
   - **Fight 1, the ants:** late-afternoon sun, heat haze, long shadows.
   - **Fight 2, the leopard:** sunset, a burning orange sky, silhouettes.
   - **Fight 3, the jackals:** dusk and blue hour.
-  - **Fights 4–5, the hyenas and lions:** full night, shown two ways:
-    - **thermal**: animals glowing white against dark grey sand, the pangolin's cool ball darker,
-    - **low-light**: grainy, desaturated, faint moonlight, eyeshine.
+  - **Fights 4–5, the hyenas and lions:** full night, filmed as **cinematic moonlit footage**: deep blue moonlight on the sand, warm golden rim light on fur and scales, eyeshine, slight grain.
   - **The ending:** grey pre-dawn, then sunrise.
 - **Camera key** (as in the script):
   - **TELE:** a 400–800mm long lens from a hidden position, shallow focus, heat haze by day.
@@ -23,7 +21,7 @@ One night in the Kalahari: a mother ground pangolin carrying her baby survives f
   - **MACRO:** scales, claws, teeth, eyes, termites, the baby's face.
   - **SLOW:** 120 fps for every strike, bite, pounce and fall.
   - **DRONE:** wide shots at sunset, dusk, moonlight and sunrise only.
-  - **THERMAL / LOW-LIGHT:** all night scenes.
+  - **MOONLIT / LOW-LIGHT:** all night scenes (no thermal).
 - **Composition:**
   - **The ball:** always small and dark at the centre of the hunters.
   - **The hunters:** they crowd the frame around it.
@@ -31,7 +29,7 @@ One night in the Kalahari: a mother ground pangolin carrying her baby survives f
 - **Realism:**
   - natural film grain, slight haze, and imperfect focus in action shots,
   - sand spraying with real physics,
-  - in thermal shots, the hot predators glow and the armoured ball looks cooler.
+  - at night, keep the colour: moonlit blue with warm rim light, never black-and-white.
 - **No gore:** bites slide off and scales hold. The cracked scale is a hairline split, with no blood.
 
 ## Character locks (repeat word for word in every prompt)
@@ -56,5 +54,5 @@ One night in the Kalahari: a mother ground pangolin carrying her baby survives f
 - Every prompt stands alone, with the full character description, location and lighting.
 - No text, logos, people, vehicles, villages, fences or gore.
 - Correct anatomy: four legs per mammal, one tail, an exact number of animals per shot.
-- The rolled pangolin shows no head or legs. The baby only appears when she is uncurled, or as a small warm shape in thermal.
+- The rolled pangolin shows no head or legs. The baby only appears when she is uncurled, or as a tiny eye glinting through the cracked scale.
 - Image and video prompts use the Wild Ruaha style: script text, a full prompt, then camera, lighting, mood and action lines (video: camera movement, subject motion, environment motion, duration).

@@ -2,7 +2,7 @@
 
 Setting: the Kalahari, southern Africa. Hero: a female ground pangolin with her baby riding on her tail.
 Format: every beat is a SHOT (what the camera shows, real documentary style) followed by the NARRATION line. About 14–15 minutes.
-Camera key: TELE = long telephoto from a hidden position · GROUND = low remote camera at pangolin height · MACRO = extreme close-up · SLOW = 120 fps slow motion · DRONE = aerial · THERMAL = heat camera · LOW-LIGHT = night camera.
+Camera key: TELE = long telephoto from a hidden position · GROUND = low remote camera at pangolin height · MACRO = extreme close-up · SLOW = 120 fps slow motion · DRONE = aerial · MOONLIT = cinematic moonlit night footage · LOW-LIGHT = night camera.
 
 ---
 
@@ -11,7 +11,7 @@ Camera key: TELE = long telephoto from a hidden position · GROUND = low remote 
 SHOT: Black. Silence. MACRO, low-light: one dark eye opens between overlapping scales.
 NARRATION: She has no claws to fight with. No teeth. No speed.
 
-SHOT: Deep drum hit. THERMAL wide: seven glowing lion shapes closing around one small, cold ball.
+SHOT: Deep drum hit. MOONLIT wide: seven lions closing in a ring around one small armoured ball, eyes glinting.
 NARRATION: Tonight, seven lions want what is inside her.
 
 SHOT: Music builds. SLOW, LOW-LIGHT TELE: a lioness bites down; her teeth skid off the scales in a spray of sand.
@@ -23,10 +23,10 @@ NARRATION: …cannot get in.
 SHOT: Hard cuts on the beat — MACRO termites swarming her face / SLOW leopard leaping with the ball in its jaws / the ball dropping from a branch / a jackal recoiling, gagging.
 NARRATION: Ants. A leopard. Jackals.
 
-SHOT: Music swells. THERMAL: four hyenas tearing at the ball. SLOW MACRO: a scale cracks.
+SHOT: Music swells. MOONLIT: four hyenas tearing at the ball. SLOW MACRO: a scale cracks.
 NARRATION: Hyenas that crush bone. And for the first time, her armour breaks.
 
-SHOT: Total silence. THERMAL close-up: inside the curl, a tiny warm shape.
+SHOT: Total silence. MOONLIT MACRO: through a hairline crack in the scales, a tiny eye glints.
 NARRATION: Because she is not protecting herself.
 
 SHOT: Heartbeat sound. LOW-LIGHT TELE: a lion carries the ball in its mouth into the dark.
@@ -147,7 +147,7 @@ NARRATION: Hyenas.
 
 ## FIGHT 4 — THE HYENAS (early night)
 
-SHOT: THERMAL wide: four hyenas loping in, glowing white-hot against the cooling sand.
+SHOT: MOONLIT wide: four hyenas loping in across the silver plain, eyes glinting.
 NARRATION: Spotted hyenas. Their jaws can crack the bones of a giraffe.
 
 SHOT: LOW-LIGHT TELE: the first hyena reaches the ball and crunches down; jaw muscles bulge.
@@ -162,7 +162,7 @@ NARRATION: She is being shaken in a mouth that could break her spine. She stays 
 SHOT: MACRO, SLOW: under the hyena's teeth, the edge of one scale splits.
 NARRATION: And then, a crack.
 
-SHOT: THERMAL close-up: through the gap in the curl, the baby's small warm shape is visible.
+SHOT: MOONLIT MACRO: through the crack, the baby's tiny face and glinting eye are visible.
 NARRATION: For the first time tonight, there is a way in. And her baby is right behind it.
 
 SHOT: TELE: she contracts her whole body; the gap closes; the hyena's teeth slip off.
@@ -171,14 +171,14 @@ NARRATION: She pulls tighter than she has ever pulled. The gap closes.
 SHOT: GROUND: two hyenas start fighting each other over the ball, snapping and giggling.
 NARRATION: Now the hyenas fight each other for her.
 
-SHOT: THERMAL wide: the giggling rolls out into the dark. Far away, a ring of large heads lifts from the sand.
+SHOT: MOONLIT wide: the giggling rolls out into the dark. Far away, a ring of large heads lifts from the sand.
 NARRATION: And that noise is a dinner bell. For lions.
 
 ---
 
 ## FIGHT 5 — THE LION PRIDE (night) — THE FINAL BATTLE
 
-SHOT: THERMAL wide: the lions charge in; the hyenas scatter in every direction.
+SHOT: MOONLIT wide: the lions charge in; the hyenas scatter in every direction.
 NARRATION: Seven lions. The hyenas do not argue.
 
 SHOT: LOW-LIGHT TELE: a lioness reaches the ball first and pins it under one huge paw.
@@ -205,13 +205,13 @@ NARRATION: She clamps down on the claw itself. The lion pulls away, shaking its 
 SHOT: LOW-LIGHT TELE: the big male picks the ball up in his mouth and walks off with it, the pride following.
 NARRATION: The pride male takes her. He carries her through the dark, the way a cat carries a toy.
 
-SHOT: THERMAL wide: minutes pass; he drops her, licks her, rolls her, picks her up again.
+SHOT: MOONLIT wide: minutes pass; he drops her, licks her, rolls her, picks her up again.
 NARRATION: He licks her. He rolls her. He carries her again. Lions have been filmed doing this for hours.
 
 SHOT: GROUND: she lies still in the sand; lion paws everywhere around the lens.
 NARRATION: She does not move. She does not open. She just waits.
 
-SHOT: THERMAL wide: one by one, the lions lie down around the ball, losing interest.
+SHOT: MOONLIT wide: one by one, the lions lie down around the ball, losing interest.
 NARRATION: And slowly, the strongest hunters in Africa start to lose interest.
 
 SHOT: DRONE, moonlit: the pride asleep in a loose ring around the motionless ball.

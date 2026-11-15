@@ -12,9 +12,9 @@ Action: One eye opens between the scales
 
 **Beat 2 (COLD OPEN)**
 [Script Segment Text]: "Tonight, seven lions want what is inside her."
-Image Prompt: Thermal view of a lion pride of seven: four lionesses, two young males with short scruffy manes and a big male with a dark mane glowing white, closing in a ring around a ground pangolin curled into a tight armoured ball of overlapping olive-brown scales, about the size of a football, no head or legs visible, which shows as a small darker shape on flat Kalahari grassland with sparse bushes, in the Kalahari, southern Africa. Camera: Thermal imaging camera, wide. Lighting: thermal camera footage: warm animals glowing white against dark grey sand, cooler objects darker, grainy monochrome heat image. Mood: threat. Visual style: photorealistic wildlife documentary footage, as if filmed by a professional natural-history crew, 16:9 widescreen, red Kalahari sand and golden grass, natural grade, fine film grain, slight haze, ultra-fine micro-detail on scales, fur, teeth and sand, intense and dramatic mood, real footage look, no CGI, no people or vehicles, no gore.
-Camera Angle: Thermal imaging camera, wide
-Lighting: Thermal camera footage: warm animals glowing white against dark grey sand, cooler objects darker, grainy monochrome heat image
+Image Prompt: A lion pride of seven: four lionesses, two young males with short scruffy manes and a big male with a dark mane closing in a ring around a ground pangolin curled into a tight armoured ball of overlapping olive-brown scales, about the size of a football, no head or legs visible on moonlit red sand on flat Kalahari grassland with sparse bushes, in the Kalahari, southern Africa. Camera: Low-light night camera, wide telephoto. Lighting: cinematic moonlit night: deep blue moonlight over the sand, warm golden rim light on fur and scales, eyeshine glinting, slight film grain. Mood: threat. Visual style: photorealistic wildlife documentary footage, as if filmed by a professional natural-history crew, 16:9 widescreen, red Kalahari sand and golden grass, natural grade, fine film grain, slight haze, ultra-fine micro-detail on scales, fur, teeth and sand, intense and dramatic mood, real footage look, no CGI, no people or vehicles, no gore.
+Camera Angle: Low-light night camera, wide telephoto
+Lighting: Cinematic moonlit night: deep blue moonlight over the sand, warm golden rim light on fur and scales, eyeshine glinting, slight film grain
 Mood: Threat
 Action: Seven lions closing around a ball
 
@@ -47,20 +47,20 @@ Reuse: cut this from the clip(s) of Beat 16, 25, 31, 38 instead of generating a 
 
 **Beat 6 (COLD OPEN)**
 [Script Segment Text]: "Hyenas that crush bone. And for the first time, her armour breaks."
-Image Prompt: Thermal view of four spotted hyenas with sandy coats covered in dark spots, heavy shoulders, sloping backs and massive jaws glowing white, tearing at a ground pangolin curled into a tight armoured ball of overlapping olive-brown scales, about the size of a football, no head or legs visible on flat Kalahari grassland with sparse bushes, in the Kalahari, southern Africa. Camera: Thermal imaging camera, wide. Lighting: thermal camera footage: warm animals glowing white against dark grey sand, cooler objects darker, grainy monochrome heat image. Mood: the crack. Visual style: photorealistic wildlife documentary footage, as if filmed by a professional natural-history crew, 16:9 widescreen, red Kalahari sand and golden grass, natural grade, fine film grain, slight haze, ultra-fine micro-detail on scales, fur, teeth and sand, intense and dramatic mood, real footage look, no CGI, no people or vehicles, no gore.
-Camera Angle: Thermal imaging camera, wide
-Lighting: Thermal camera footage: warm animals glowing white against dark grey sand, cooler objects darker, grainy monochrome heat image
+Image Prompt: Four spotted hyenas with sandy coats covered in dark spots, heavy shoulders, sloping backs and massive jaws tearing at a ground pangolin curled into a tight armoured ball of overlapping olive-brown scales, about the size of a football, no head or legs visible in the moonlight on flat Kalahari grassland with sparse bushes, in the Kalahari, southern Africa. Camera: Low-light night camera, telephoto. Lighting: cinematic moonlit night: deep blue moonlight over the sand, warm golden rim light on fur and scales, eyeshine glinting, slight film grain. Mood: the crack. Visual style: photorealistic wildlife documentary footage, as if filmed by a professional natural-history crew, 16:9 widescreen, red Kalahari sand and golden grass, natural grade, fine film grain, slight haze, ultra-fine micro-detail on scales, fur, teeth and sand, intense and dramatic mood, real footage look, no CGI, no people or vehicles, no gore.
+Camera Angle: Low-light night camera, telephoto
+Lighting: Cinematic moonlit night: deep blue moonlight over the sand, warm golden rim light on fur and scales, eyeshine glinting, slight film grain
 Mood: The crack
 Action: Hyenas tear at the ball; a scale cracks
 Reuse: cut this from the clip(s) of Beat 44, 46 instead of generating a new one.
 
 **Beat 7 (COLD OPEN)**
 [Script Segment Text]: "Because she is not protecting herself."
-Image Prompt: Thermal close-up of a curled pangolin, a tiny glowing warm shape visible inside the curl on flat Kalahari grassland with sparse bushes, in the Kalahari, southern Africa. Camera: Thermal imaging camera, wide. Lighting: thermal camera footage: warm animals glowing white against dark grey sand, cooler objects darker, grainy monochrome heat image. Mood: the secret. Visual style: photorealistic wildlife documentary footage, as if filmed by a professional natural-history crew, 16:9 widescreen, red Kalahari sand and golden grass, natural grade, fine film grain, slight haze, ultra-fine micro-detail on scales, fur, teeth and sand, intense and dramatic mood, real footage look, no CGI, no people or vehicles, no gore.
-Camera Angle: Thermal imaging camera, wide
-Lighting: Thermal camera footage: warm animals glowing white against dark grey sand, cooler objects darker, grainy monochrome heat image
+Image Prompt: Extreme close-up through a hairline crack between pangolin scales, a tiny baby's eye glinting inside in the moonlight on flat Kalahari grassland with sparse bushes, in the Kalahari, southern Africa. Camera: Macro lens, extreme close-up. Lighting: cinematic moonlit night: deep blue moonlight over the sand, warm golden rim light on fur and scales, eyeshine glinting, slight film grain. Mood: the secret. Visual style: photorealistic wildlife documentary footage, as if filmed by a professional natural-history crew, 16:9 widescreen, red Kalahari sand and golden grass, natural grade, fine film grain, slight haze, ultra-fine micro-detail on scales, fur, teeth and sand, intense and dramatic mood, real footage look, no CGI, no people or vehicles, no gore.
+Camera Angle: Macro lens, extreme close-up
+Lighting: Cinematic moonlit night: deep blue moonlight over the sand, warm golden rim light on fur and scales, eyeshine glinting, slight film grain
 Mood: The secret
-Action: A tiny warm shape inside the curl
+Action: Through a crack in the scales, a tiny eye glints
 Reuse: cut this from the clip(s) of Beat 47 instead of generating a new one.
 
 **Beat 8 (COLD OPEN)**
@@ -341,11 +341,11 @@ Action: Four hyena heads turn toward the sound
 
 **Beat 42**
 [Script Segment Text]: "Spotted hyenas. Their jaws can crack the bones of a giraffe."
-Image Prompt: Thermal view of four spotted hyenas with sandy coats covered in dark spots, heavy shoulders, sloping backs and massive jaws loping across the plain, glowing white-hot on flat Kalahari grassland with sparse bushes, in the Kalahari, southern Africa. Camera: Thermal imaging camera, wide. Lighting: thermal camera footage: warm animals glowing white against dark grey sand, cooler objects darker, grainy monochrome heat image. Mood: the bone-crushers. Visual style: photorealistic wildlife documentary footage, as if filmed by a professional natural-history crew, 16:9 widescreen, red Kalahari sand and golden grass, natural grade, fine film grain, slight haze, ultra-fine micro-detail on scales, fur, teeth and sand, intense and dramatic mood, real footage look, no CGI, no people or vehicles, no gore.
-Camera Angle: Thermal imaging camera, wide
-Lighting: Thermal camera footage: warm animals glowing white against dark grey sand, cooler objects darker, grainy monochrome heat image
+Image Prompt: Four spotted hyenas with sandy coats covered in dark spots, heavy shoulders, sloping backs and massive jaws loping across the moonlit plain, eyes glinting on flat Kalahari grassland with sparse bushes, in the Kalahari, southern Africa. Camera: Low-light night camera, wide telephoto. Lighting: cinematic moonlit night: deep blue moonlight over the sand, warm golden rim light on fur and scales, eyeshine glinting, slight film grain. Mood: the bone-crushers. Visual style: photorealistic wildlife documentary footage, as if filmed by a professional natural-history crew, 16:9 widescreen, red Kalahari sand and golden grass, natural grade, fine film grain, slight haze, ultra-fine micro-detail on scales, fur, teeth and sand, intense and dramatic mood, real footage look, no CGI, no people or vehicles, no gore.
+Camera Angle: Low-light night camera, wide telephoto
+Lighting: Cinematic moonlit night: deep blue moonlight over the sand, warm golden rim light on fur and scales, eyeshine glinting, slight film grain
 Mood: The bone-crushers
-Action: Four hyenas loping in, glowing white
+Action: Four hyenas loping in under the moon
 
 **Beat 43**
 [Script Segment Text]: "No hunter on the plain bites harder."
@@ -381,11 +381,11 @@ Action: A scale edge splits under the teeth
 
 **Beat 47**
 [Script Segment Text]: "For the first time tonight, there is a way in. And her baby is right behind it."
-Image Prompt: Thermal close-up through a small gap in a curled pangolin, the baby's small warm shape glowing inside on flat Kalahari grassland with sparse bushes, in the Kalahari, southern Africa. Camera: Thermal imaging camera, wide. Lighting: thermal camera footage: warm animals glowing white against dark grey sand, cooler objects darker, grainy monochrome heat image. Mood: exposed. Visual style: photorealistic wildlife documentary footage, as if filmed by a professional natural-history crew, 16:9 widescreen, red Kalahari sand and golden grass, natural grade, fine film grain, slight haze, ultra-fine micro-detail on scales, fur, teeth and sand, intense and dramatic mood, real footage look, no CGI, no people or vehicles, no gore.
-Camera Angle: Thermal imaging camera, wide
-Lighting: Thermal camera footage: warm animals glowing white against dark grey sand, cooler objects darker, grainy monochrome heat image
+Image Prompt: Extreme close-up through a small gap in a curled pangolin's scales, the tiny face and glinting eye of the baby inside, a hyena's teeth blurred above on flat Kalahari grassland with sparse bushes, in the Kalahari, southern Africa. Camera: Macro lens, extreme close-up. Lighting: cinematic moonlit night: deep blue moonlight over the sand, warm golden rim light on fur and scales, eyeshine glinting, slight film grain. Mood: exposed. Visual style: photorealistic wildlife documentary footage, as if filmed by a professional natural-history crew, 16:9 widescreen, red Kalahari sand and golden grass, natural grade, fine film grain, slight haze, ultra-fine micro-detail on scales, fur, teeth and sand, intense and dramatic mood, real footage look, no CGI, no people or vehicles, no gore.
+Camera Angle: Macro lens, extreme close-up
+Lighting: Cinematic moonlit night: deep blue moonlight over the sand, warm golden rim light on fur and scales, eyeshine glinting, slight film grain
 Mood: Exposed
-Action: The baby's warm shape visible through the gap
+Action: Through the crack, the baby's eye
 
 **Beat 48**
 [Script Segment Text]: "She pulls tighter than she has ever pulled. The gap closes."
@@ -405,17 +405,17 @@ Action: Two hyenas fight each other over the ball
 
 **Beat 50**
 [Script Segment Text]: "And that noise is a dinner bell. For lions."
-Image Prompt: Thermal wide view of hyenas in the foreground, and far away a ring of large glowing lion heads lifting from the sand on flat Kalahari grassland with sparse bushes, in the Kalahari, southern Africa. Camera: Thermal imaging camera, wide. Lighting: thermal camera footage: warm animals glowing white against dark grey sand, cooler objects darker, grainy monochrome heat image. Mood: dinner bell. Visual style: photorealistic wildlife documentary footage, as if filmed by a professional natural-history crew, 16:9 widescreen, red Kalahari sand and golden grass, natural grade, fine film grain, slight haze, ultra-fine micro-detail on scales, fur, teeth and sand, intense and dramatic mood, real footage look, no CGI, no people or vehicles, no gore.
-Camera Angle: Thermal imaging camera, wide
-Lighting: Thermal camera footage: warm animals glowing white against dark grey sand, cooler objects darker, grainy monochrome heat image
+Image Prompt: Hyenas squabbling in the foreground, and far away on the moonlit plain a ring of lion heads lifting from the sand, eyes glinting on flat Kalahari grassland with sparse bushes, in the Kalahari, southern Africa. Camera: Low-light night camera, wide telephoto. Lighting: cinematic moonlit night: deep blue moonlight over the sand, warm golden rim light on fur and scales, eyeshine glinting, slight film grain. Mood: dinner bell. Visual style: photorealistic wildlife documentary footage, as if filmed by a professional natural-history crew, 16:9 widescreen, red Kalahari sand and golden grass, natural grade, fine film grain, slight haze, ultra-fine micro-detail on scales, fur, teeth and sand, intense and dramatic mood, real footage look, no CGI, no people or vehicles, no gore.
+Camera Angle: Low-light night camera, wide telephoto
+Lighting: Cinematic moonlit night: deep blue moonlight over the sand, warm golden rim light on fur and scales, eyeshine glinting, slight film grain
 Mood: Dinner bell
 Action: Far away, a ring of lion heads lifts
 
 **Beat 51**
 [Script Segment Text]: "Seven lions. The hyenas do not argue."
-Image Prompt: Thermal view of a lion pride of seven: four lionesses, two young males with short scruffy manes and a big male with a dark mane charging in as four spotted hyenas with sandy coats covered in dark spots, heavy shoulders, sloping backs and massive jaws scatter in every direction on flat Kalahari grassland with sparse bushes, in the Kalahari, southern Africa. Camera: Thermal imaging camera, wide. Lighting: thermal camera footage: warm animals glowing white against dark grey sand, cooler objects darker, grainy monochrome heat image. Mood: the charge. Visual style: photorealistic wildlife documentary footage, as if filmed by a professional natural-history crew, 16:9 widescreen, red Kalahari sand and golden grass, natural grade, fine film grain, slight haze, ultra-fine micro-detail on scales, fur, teeth and sand, intense and dramatic mood, real footage look, no CGI, no people or vehicles, no gore.
-Camera Angle: Thermal imaging camera, wide
-Lighting: Thermal camera footage: warm animals glowing white against dark grey sand, cooler objects darker, grainy monochrome heat image
+Image Prompt: A lion pride of seven: four lionesses, two young males with short scruffy manes and a big male with a dark mane charging in under the moon as four spotted hyenas with sandy coats covered in dark spots, heavy shoulders, sloping backs and massive jaws scatter in every direction on flat Kalahari grassland with sparse bushes, in the Kalahari, southern Africa. Camera: Low-light night camera, wide telephoto. Lighting: cinematic moonlit night: deep blue moonlight over the sand, warm golden rim light on fur and scales, eyeshine glinting, slight film grain. Mood: the charge. Visual style: photorealistic wildlife documentary footage, as if filmed by a professional natural-history crew, 16:9 widescreen, red Kalahari sand and golden grass, natural grade, fine film grain, slight haze, ultra-fine micro-detail on scales, fur, teeth and sand, intense and dramatic mood, real footage look, no CGI, no people or vehicles, no gore.
+Camera Angle: Low-light night camera, wide telephoto
+Lighting: Cinematic moonlit night: deep blue moonlight over the sand, warm golden rim light on fur and scales, eyeshine glinting, slight film grain
 Mood: The charge
 Action: The lions charge in; the hyenas scatter
 
@@ -485,9 +485,9 @@ Action: The big male carries the ball away
 
 **Beat 60**
 [Script Segment Text]: "He licks her. He rolls her. He carries her again. Lions have been filmed doing this for hours."
-Image Prompt: Thermal view of a big male lion with a dark mane dropping a ground pangolin curled into a tight armoured ball of overlapping olive-brown scales, about the size of a football, no head or legs visible, licking it, rolling it and picking it up again on flat Kalahari grassland with sparse bushes, in the Kalahari, southern Africa. Camera: Thermal imaging camera, wide. Lighting: thermal camera footage: warm animals glowing white against dark grey sand, cooler objects darker, grainy monochrome heat image. Mood: toy. Visual style: photorealistic wildlife documentary footage, as if filmed by a professional natural-history crew, 16:9 widescreen, red Kalahari sand and golden grass, natural grade, fine film grain, slight haze, ultra-fine micro-detail on scales, fur, teeth and sand, intense and dramatic mood, real footage look, no CGI, no people or vehicles, no gore.
-Camera Angle: Thermal imaging camera, wide
-Lighting: Thermal camera footage: warm animals glowing white against dark grey sand, cooler objects darker, grainy monochrome heat image
+Image Prompt: A big male lion with a dark mane dropping a ground pangolin curled into a tight armoured ball of overlapping olive-brown scales, about the size of a football, no head or legs visible, licking it, rolling it and picking it up again in the moonlight on flat Kalahari grassland with sparse bushes, in the Kalahari, southern Africa. Camera: Low-light night camera, wide telephoto. Lighting: cinematic moonlit night: deep blue moonlight over the sand, warm golden rim light on fur and scales, eyeshine glinting, slight film grain. Mood: toy. Visual style: photorealistic wildlife documentary footage, as if filmed by a professional natural-history crew, 16:9 widescreen, red Kalahari sand and golden grass, natural grade, fine film grain, slight haze, ultra-fine micro-detail on scales, fur, teeth and sand, intense and dramatic mood, real footage look, no CGI, no people or vehicles, no gore.
+Camera Angle: Low-light night camera, wide telephoto
+Lighting: Cinematic moonlit night: deep blue moonlight over the sand, warm golden rim light on fur and scales, eyeshine glinting, slight film grain
 Mood: Toy
 Action: He drops, licks, rolls and carries her again
 
@@ -501,9 +501,9 @@ Action: The ball lies still among lion paws
 
 **Beat 62**
 [Script Segment Text]: "And slowly, the strongest hunters in Africa start to lose interest."
-Image Prompt: Thermal view of a lion pride of seven: four lionesses, two young males with short scruffy manes and a big male with a dark mane lying down one by one around a ground pangolin curled into a tight armoured ball of overlapping olive-brown scales, about the size of a football, no head or legs visible on flat Kalahari grassland with sparse bushes, in the Kalahari, southern Africa. Camera: Thermal imaging camera, wide. Lighting: thermal camera footage: warm animals glowing white against dark grey sand, cooler objects darker, grainy monochrome heat image. Mood: losing interest. Visual style: photorealistic wildlife documentary footage, as if filmed by a professional natural-history crew, 16:9 widescreen, red Kalahari sand and golden grass, natural grade, fine film grain, slight haze, ultra-fine micro-detail on scales, fur, teeth and sand, intense and dramatic mood, real footage look, no CGI, no people or vehicles, no gore.
-Camera Angle: Thermal imaging camera, wide
-Lighting: Thermal camera footage: warm animals glowing white against dark grey sand, cooler objects darker, grainy monochrome heat image
+Image Prompt: A lion pride of seven: four lionesses, two young males with short scruffy manes and a big male with a dark mane lying down one by one around a ground pangolin curled into a tight armoured ball of overlapping olive-brown scales, about the size of a football, no head or legs visible under the moon on flat Kalahari grassland with sparse bushes, in the Kalahari, southern Africa. Camera: Low-light night camera, wide telephoto. Lighting: cinematic moonlit night: deep blue moonlight over the sand, warm golden rim light on fur and scales, eyeshine glinting, slight film grain. Mood: losing interest. Visual style: photorealistic wildlife documentary footage, as if filmed by a professional natural-history crew, 16:9 widescreen, red Kalahari sand and golden grass, natural grade, fine film grain, slight haze, ultra-fine micro-detail on scales, fur, teeth and sand, intense and dramatic mood, real footage look, no CGI, no people or vehicles, no gore.
+Camera Angle: Low-light night camera, wide telephoto
+Lighting: Cinematic moonlit night: deep blue moonlight over the sand, warm golden rim light on fur and scales, eyeshine glinting, slight film grain
 Mood: Losing interest
 Action: The lions lie down around the ball
 

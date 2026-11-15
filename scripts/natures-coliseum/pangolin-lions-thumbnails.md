@@ -38,8 +38,8 @@ In the video: ~3:30.
 Prompt: Photorealistic wildlife documentary frame, 16:9. A young African leopard with a golden rosetted coat crouches on a thick branch of a camelthorn acacia, holding a ground pangolin rolled into a tight ball of olive-brown scales in its jaws, the pangolin's tail wrapped around the ball. Behind them, a burning orange sunset sky and the silhouette of the tree, golden rim light on the leopard's fur and the scales. Telephoto, crisp detail, natural colours, high contrast, fine film grain. Negative space in the top-right corner for text. Exactly one leopard and one pangolin. No people, no vehicles, no text, no logos, no gore.
 
 **Thumbnail 6: What's Inside?**
-Visual Concept: A thermal image of the curled pangolin among glowing hyenas or lions, with a small bright shape visible inside the ball.
+Visual Concept: A moonlit macro through a hairline crack in the pangolin's scales, the baby's tiny eye glinting inside, a lion's blurred teeth above.
 Text Overlay: hook "WHAT'S INSIDE?" in huge white letters top-left.
 Emotion Trigger: Mystery. Best saved for a later A/B test, since it hints at the twist.
 In the video: ~6:40.
-Prompt: Thermal camera wildlife image, 16:9, monochrome heat palette. In the centre, a curled pangolin shows as a cooler dark-grey ball, and inside it a small bright glowing shape is visible through a gap. Around it, the bright white heat shapes of three large predators lean in. Grainy, realistic thermal documentary footage look. Negative space in the top-left corner for text. No people, no text, no logos.
+Prompt: Photorealistic macro wildlife photograph at night, 16:9. An extreme close-up of overlapping olive-brown pangolin scales with a hairline crack between two of them, and through the crack, a tiny baby pangolin's eye glinting in the moonlight. Above, the blurred open jaws of a lion. Deep blue moonlight with warm golden rim light on the scale edges, shallow depth of field, crisp detail, natural colours, slight grain. Negative space in the top-left corner for text. No people, no text, no logos, no gore.
