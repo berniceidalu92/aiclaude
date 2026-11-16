@@ -1,4 +1,4 @@
-# Lions Tried to Eat a Pangolin. It Didn't End How You Think
+# Mother Pangolin Hides Her Baby… Then 7 Lions Arrive
 
 Setting: the Kalahari, southern Africa. Hero: a female ground pangolin with her baby riding on her tail.
 Format: every beat is a SHOT (what the camera shows, real documentary style) followed by the NARRATION line. About 14–15 minutes.

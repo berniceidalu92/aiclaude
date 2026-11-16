@@ -3,7 +3,7 @@
 Planned length: about 10:45 (12 cold-open beats at 5 s, 58 beats at 10 s, 2 B-roll clips at 5 s). Chapter times are estimates from the beat plan; check them against the final edit before publishing.
 
 ## Title
-Lions Tried to Eat a Pangolin. It Didn't End How You Think
+Mother Pangolin Hides Her Baby… Then 7 Lions Arrive
 
 ## Description (paste into YouTube)
 

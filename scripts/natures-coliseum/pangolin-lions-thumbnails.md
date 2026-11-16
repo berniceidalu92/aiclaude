@@ -2,7 +2,14 @@
 
 Add all text in the editor, not in the generator. Use heavy rounded white extra-bold sans with a soft dark drop shadow, and keep the bottom-right corner clear for YouTube's timestamp. The thumbnail must match the opening (lions + pangolin) and make the pangolin recognisable: show its scaly tail wrapped around the ball and one small eye peeking out. Real wildlife documentary look, no CGI, no gore.
 
-**Thumbnail 1: Can't Bite Through (main)**
+**Thumbnail 0: Hidden Baby (new main, matches the title)**
+Visual Concept: Bright, soft daylight in the style of top story-driven wildlife channels. A mother pangolin half curled on a rock with her baby peeking from her tail, a lioness leaning in with her nose almost touching them, the pride watching behind. An emotional, calm-but-tense moment rather than a fight.
+Text Overlay: none. The image and the title tell the story.
+Emotion Trigger: A mother protecting her baby from lions, and something rare most viewers have never seen.
+In the video: the baby reveal (~0:25) and the dawn ending (~9:40).
+Prompt: Photorealistic wildlife documentary photograph, 16:9, bright, soft and warm, like a high-end nature film still. On a low flat rock in the Kalahari, a mother ground pangolin with glossy golden-bronze overlapping scales is half curled up protectively, her small pointed head turned toward the camera, and a tiny baby pangolin with soft pale scales clings to the base of her thick scaly tail, peeking out with one small dark eye. Very close beside them, a large tawny African lioness leans in, her nose almost touching the mother pangolin, curious and calm, one huge paw resting on the rock next to them. Behind them, two more lionesses and a big male lion with a golden mane stand on the rocks, watching. Bright soft late-morning sunlight, warm golden light on fur and scales, gentle shadows, no dark areas, pale golden grass and soft red sand, a clear light blue sky. Large, sharp, easy-to-read subjects in the centre, shallow depth of field, crisp detail on the scales, the baby and the lioness's face, natural colours, clean and bright, fine film grain. Exactly one mother pangolin, one baby pangolin, three lionesses and one male lion. No text, no logos, no people, no vehicles, no gore.
+
+**Thumbnail 1: Can't Bite Through (A/B test)**
 Visual Concept: A lioness's open jaws biting down on the armoured pangolin ball, sand spraying, the scaly tail wrapped around the ball and one tiny eye peeking out between the scales. Two more lions loom behind.
 Text Overlay: hook "CAN'T BITE THROUGH" in huge warm yellow letters along the top.
 Emotion Trigger: Power against armour. Who wins?

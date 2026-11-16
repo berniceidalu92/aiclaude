@@ -1,4 +1,4 @@
-# Lions Tried to Eat a Pangolin. It Didn't End How You Think
+# Mother Pangolin Hides Her Baby… Then 7 Lions Arrive
 
 She has no claws to fight with. No teeth. No speed.
 
