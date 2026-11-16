@@ -1,6 +1,6 @@
 # LIONS TRIED TO EAT A PANGOLIN — Description & Tags
 
-Planned length: about 10:45 (12 cold-open beats at 5 s, 58 beats at 10 s, 2 B-roll clips at 5 s). Chapter times are estimates from the beat plan; check them against the final edit before publishing.
+Final edit: 10:14. Chapter times are scaled to the final length (±5 seconds); spot-check a couple before publishing.
 
 ## Title
 Mother Pangolin Hides Her Baby… Then 7 Lions Arrive
@@ -18,11 +18,11 @@ She has no teeth to fight with and no speed to run. All she has is her armour, a
 ⏱️ CHAPTERS
 0:00 Seven Lions, One Mother
 1:00 The Ant Army
-2:30 The Leopard
-4:20 The Jackals
-5:45 The Hyenas
-7:25 Seven Lions
-9:40 Dawn
+2:25 The Leopard
+4:09 The Jackals
+5:30 The Hyenas
+7:05 Seven Lions
+9:12 Dawn
 
 🐾 Subscribe to Nature's Coliseum for more true-to-life stories from the wild.
 
