@@ -1,4 +1,4 @@
-# Mother Pangolin Hides Her Baby… Then 7 Lions Arrive
+# 7 Lions Catch a Mother Pangolin… But They Don’t Know What She’s Hiding
 
 She has no claws to fight with. No teeth. No speed.
 

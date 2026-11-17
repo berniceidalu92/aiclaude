@@ -1,4 +1,4 @@
-# Mother Pangolin Hides Her Baby… Then 7 Lions Arrive
+# 7 Lions Catch a Mother Pangolin… But They Don’t Know What She’s Hiding
 
 Setting: the Kalahari, southern Africa. Hero: a female ground pangolin with her baby riding on her tail.
 Format: every beat is a SHOT (what the camera shows, real documentary style) followed by the NARRATION line. About 14–15 minutes.

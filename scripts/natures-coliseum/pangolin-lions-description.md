@@ -3,7 +3,7 @@
 Final edit: 10:14. Chapter times are scaled to the final length (±5 seconds); spot-check a couple before publishing.
 
 ## Title
-Mother Pangolin Hides Her Baby… Then 7 Lions Arrive
+7 Lions Catch a Mother Pangolin… But They Don’t Know What She’s Hiding
 
 ## Description (paste into YouTube)
 

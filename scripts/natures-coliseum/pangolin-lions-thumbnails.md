@@ -2,7 +2,14 @@
 
 Add all text in the editor, not in the generator. Use heavy rounded white extra-bold sans with a soft dark drop shadow, and keep the bottom-right corner clear for YouTube's timestamp. The thumbnail must match the opening (lions + pangolin) and make the pangolin recognisable: show its scaly tail wrapped around the ball and one small eye peeking out. Real wildlife documentary look, no CGI, no gore.
 
-**Thumbnail 0: Hidden Baby (new main, matches the title)**
+**Thumbnail M: The Secret (main, matches the title)**
+Visual Concept: Seven lions in a close ring around a mother pangolin curled into a ball, staring down, confused. Only a tiny pale baby tail tip barely peeks out of the scales, a hint, never the answer. Bright, warm daylight.
+Text Overlay: optional "WHAT'S INSIDE?" in big yellow letters with a black outline, top-left. Works without text too.
+Emotion Trigger: Mystery. The viewer suspects the secret; the lions don't.
+In the video: the opening (~0:04) and the lion pride (~7:05).
+Prompt: Photorealistic wildlife documentary photograph, 16:9, bright, warm and vivid, like a high-end nature film still. In the centre foreground, a mother ground pangolin curled into a tight armoured ball of glossy golden-bronze overlapping scales, her thick scaly tail wrapped around the outside, sitting on soft red sand. From one small gap between her scales, the tiny pale tip of a second, much smaller tail just barely peeks out, a subtle hint that something is hidden inside. Surrounding her in a close ring, seven African lions lean in from every side: four lionesses, two young males with short scruffy manes, and a big male with a golden mane, all staring down at the ball, noses close, curious and confused, one lioness sniffing it with her nose almost touching the scales. Bright soft late-morning sunlight, warm golden light on every face and every scale, gentle shadows, no dark areas, pale golden grass behind, a clear light blue sky. Low camera at ground level so the ball is large and sharp in the centre and the lions tower around it. Crisp detail on the scales and the lions' faces, natural colours, high brightness, clean and punchy, fine film grain. Negative space in the top-left corner for optional text. Exactly one pangolin ball and seven lions. No text, no logos, no people, no vehicles, no gore.
+
+**Thumbnail 0: Hidden Baby (A/B test, reveals the baby)**
 Visual Concept: Bright, soft daylight in the style of top story-driven wildlife channels. A mother pangolin half curled on a rock with her baby peeking from her tail, a lioness leaning in with her nose almost touching them, the pride watching behind. An emotional, calm-but-tense moment rather than a fight.
 Text Overlay: none. The image and the title tell the story.
 Emotion Trigger: A mother protecting her baby from lions, and something rare most viewers have never seen.
