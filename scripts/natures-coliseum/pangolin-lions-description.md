@@ -9,11 +9,11 @@ Final edit: 10:14. Chapter times are scaled to the final length (±5 seconds); s
 
 #Pangolin #Lions #Wildlife
 
-A mother pangolin has one secret: her baby, hidden inside her armour. Then seven lions arrive.
+Seven lions catch a mother pangolin. They bite, claw and carry her through the night. What they don't know is what she's protecting inside.
 
-In the Kalahari, she carries her tiny baby on her tail through the most dangerous night of her life. An army of biting termites. A leopard that carries her up a tree. A family of jackals. Four bone-crushing hyenas. And finally, a pride of seven lions who will try everything to open her.
+In the Kalahari, she survives the most dangerous night of her life. An army of biting termites. A leopard that carries her up a tree. A family of jackals. Four bone-crushing hyenas. And finally, a pride of seven lions who will try everything to open her.
 
-She has no teeth to fight with and no speed to run. All she has is her armour, and a baby she will never let go of.
+She has no teeth to fight with and no speed to run. All she has is her armour, and a secret she will never let go of.
 
 ⏱️ CHAPTERS
 0:00 Seven Lions, One Mother
@@ -26,7 +26,7 @@ She has no teeth to fight with and no speed to run. All she has is her armour, a
 
 🐾 Subscribe to Nature's Coliseum for more true-to-life stories from the wild.
 
-#MotherAndBaby #AfricanWildlife #NatureDocumentary #Kalahari #NaturesColiseum
+#AfricanWildlife #NatureDocumentary #Kalahari #NaturesColiseum
 
 Note: This is a dramatised wildlife story. Scenes are AI-generated recreations based on real pangolin, lion, leopard, hyena and jackal behaviour. Lions really have been filmed spending hours trying to open pangolins. Pangolins are the most trafficked wild mammals on Earth.
 
