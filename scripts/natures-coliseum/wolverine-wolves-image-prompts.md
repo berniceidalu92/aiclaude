@@ -515,11 +515,11 @@ Action: The bear charges, the wolves scatter
 
 **Beat 64**
 [Script Segment Text]: "The moose belongs to the bear now. It weighs twenty times more than she does."
-Image Prompt: A huge brown grizzly bear, thin after winter, with a big shoulder hump, silver-tipped fur on its back and long pale claws standing over the frozen carcass of a bull moose, a dark shape lying in trampled snow, no blood, tearing at it, breath steaming, no blood in a clearing of trampled snow at the forest edge, beside one tall spruce, in the Yukon, Canada. Camera: Low remote camera at wolverine height, 24mm, snow in the foreground. Lighting: golden sunset, low sun behind the animals, backlit breath and snow, long blue shadows. Mood: new owner. Visual style: photorealistic wildlife documentary footage, as if filmed by a professional natural-history crew, 16:9 widescreen, bright white snow, dark spruce forest and a huge sky, natural bright grade, fine film grain, ultra-fine micro-detail on fur, frost, teeth, claws and snow, intense and dramatic mood, real footage look, no CGI, no people or vehicles, no gore.
+Image Prompt: A huge brown grizzly bear, thin after winter, with a big shoulder hump, silver-tipped fur on its back and long pale claws standing guard over a large dark mound half-buried in trampled snow, sniffing it and pawing at the snow, then lifting its head and looking around, breath steaming in a clearing of trampled snow at the forest edge, beside one tall spruce, in the Yukon, Canada. Camera: Low remote camera at wolverine height, 24mm, snow in the foreground. Lighting: golden sunset, low sun behind the animals, backlit breath and snow, long blue shadows. Mood: new owner. Visual style: photorealistic wildlife documentary footage, as if filmed by a professional natural-history crew, 16:9 widescreen, bright white snow, dark spruce forest and a huge sky, natural bright grade, fine film grain, ultra-fine micro-detail on fur, frost, teeth, claws and snow, intense and dramatic mood, real footage look, no CGI, no people or vehicles, no gore.
 Camera Angle: Low remote camera at wolverine height, 24mm, snow in the foreground
 Lighting: Golden sunset, low sun behind the animals, backlit breath and snow, long blue shadows
 Mood: New owner
-Action: The bear stands over the moose
+Action: The bear claims the spot
 
 **Beat 65**
 [Script Segment Text]: "And she climbs down from the tree."
