@@ -1,6 +1,6 @@
 # 5 WOLVES CORNER A WOLVERINE — Description & Tags
 
-Estimated length: 12:20 (79 beats + 2 B-roll clips). Chapter times are estimates. Send me the final edit length and I'll rescale them, then spot-check a couple before publishing.
+Final edit: 12:11. Chapter times are scaled to the final length (±5 seconds); spot-check a couple before publishing.
 
 ## Title
 5 Wolves Corner a Wolverine… They Have No Idea What She’s Fighting For
@@ -19,13 +19,13 @@ She has no pack and no size on her side. All she has is her jaws, her claws, and
 
 ⏱️ CHAPTERS
 0:00 Five Wolves, One Wolverine
-1:00 The Den
-2:00 The Lynx
-3:55 The Eagle
-5:25 The Moose
-6:25 The Wolf Pack
-9:05 The Grizzly
-11:20 Home
+0:59 The Den
+1:59 The Lynx
+3:52 The Eagle
+5:21 The Moose
+6:20 The Wolf Pack
+8:58 The Grizzly
+11:12 Home
 
 🐾 Subscribe to Nature's Coliseum for more true-to-life stories from the wild.
 
